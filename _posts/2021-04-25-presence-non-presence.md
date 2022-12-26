@@ -1,0 +1,21 @@
+---
+layout: post
+title: "le bruit"
+date: "2021-04-25"
+categories: 
+  - "poesie"
+---
+
+une multitude de pensées m’habitent  
+m’illuminent ou m’engourdissent  
+et m’empêchent de dormir tranquille
+
+à l'occasion, je les regarde dehors par la fenêtre  
+restant seul dans la maison  
+remplie de silence
+
+mais ayant quand même très hâte que le bruit revienne
+
+\- Tout comme mes enfants,  
+même si mes pensées me fatiguent,  
+elles m’inspirent et guident chacun de mes pas.

@@ -1,0 +1,24 @@
+---
+layout: post
+title: "gravure"
+date: "2013-07-20"
+categories: 
+  - "poemes-damour"
+  - "poesie"
+---
+
+j'ai gravé ton visage dans le creux de mes prunelles partout je le regarde et quand la lumière rentre un peu c'est ton sourire que je vois
+
+je suis occupé à faire des liens entre les traits de ton visage et les souvenirs derrière mon visage
+
+ton sourire ton nez ton front ton menton tout y est
+
+sauf encore une chose je suis présentement occupé à y graver ton œil
+
+et je me perds dedans tombé dans ton œil je me sens bien et je m'oublie un peu dedans
+
+c'est-là que je vois tout avec la lumière qui me rentre dedans et c'est-là que j'espère tout dans le silence entre ton œil et le mien
+
+cet espace entre nous immensément mondes cet espace tellement grand
+
+je me perds dedans dans mon voyage et j'en grave chaque instant

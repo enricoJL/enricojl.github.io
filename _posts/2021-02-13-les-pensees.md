@@ -1,0 +1,24 @@
+---
+layout: post
+title: "en voyage"
+date: "2021-02-13"
+categories: 
+  - "poesie"
+---
+
+les pensées dans le monde  
+provoquent le mouvement des choses
+
+même si les choses passent  
+les pensées restent  
+bien ancrées
+
+comme un véhicule en déplacement  
+dans lequel on se réfugie  
+alors que tout autour  
+c'est la métamorphose
+
+à l'intérieur de mes pensées  
+j'accumule tout un bagage  
+laissé-là par le mouvement des choses  
+dans leur voyage en passant chez moi
