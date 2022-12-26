@@ -1,6 +1,6 @@
 ---
 layout: page
-title: À propos de moi
+title: À propos
 #subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
