@@ -12,6 +12,8 @@
 
             {{ content }}
         </div>
+        </br>
+        <p style="text-align:center">&copy; Copyright {{ 'now' | date: "%Y" }}. {{site.author.fullname}}</p>
 
         {% include externals/scripting.html %}
         {% include externals/google_analytics.html %}
