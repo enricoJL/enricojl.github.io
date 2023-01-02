@@ -1,6 +1,6 @@
 ---
 layout: page
-title: À propos
+title: À propos de moi
 subtitle: j'aime voir le monde à travers le prisme de mes émotions
 permalink: /about/
 ---
