@@ -13,4 +13,3 @@ Je suis fasciné par le cœur humain. Depuis longtemps, j’ai utilisé mes poè
 
 C’est difficile de prévoir toutes les réactions que peut susciter un poème, mais j’écris souvent en pensant à toi, mon ami, que j’imagine semblable à moi. J’espère être capable de te livrer un peu de mon amour et de ma passion.
 
-Enrico Joseph Lévesque
