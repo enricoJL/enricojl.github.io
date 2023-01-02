@@ -1,7 +1,11 @@
+{% assign date_english = page.date | date: "%d %B %Y" %}
+{% include date-french.html %}
+
 <div class="about">
     <div class="about__devider">*****</div>
     <div class="about__text">
         Écrit par <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong>
-        le <strong>{{ page.date | date: "%d %B %Y" }}</strong>
+<!--        le <strong>{{ page.date | date: "%d %B %Y" }}</strong>  -->
+			le <strong>{{ date_french }}</strong>
     </div>
 </div>
