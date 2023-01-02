@@ -2,7 +2,7 @@
 # Site settings
 title: Enrico J. Lévesque
 description: >
-  poèmes, témoignages, réflexions
+  poèmes, témoignages, pensées
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://enricojl.github.io" # the base hostname & protocol for your site
@@ -11,6 +11,7 @@ author:
   fullname: Enrico J. Lévesque
   github: enricojl
   facebook: enrico.levesque.5
+  linkedin: enrico-lévesque-66977a13
   
 #  twitter: electrik_frog
   # disqus: your_disqus_forum_shortname
