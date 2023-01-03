@@ -3,7 +3,7 @@ layout: post
 title: "notre espace élastique"
 date: "2013-07-20"
 categories: 
-  - "poemes-damour"
+  - "amore"
 ---
 
 en ce moment même  

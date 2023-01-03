@@ -3,7 +3,7 @@ layout: post
 title: "vivre dehors"
 date: "2019-08-19"
 categories: 
-  - "poemes-damour"
+  - "amore"
 ---
 
 j'aimerais vivre dehors  

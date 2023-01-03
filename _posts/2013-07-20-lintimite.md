@@ -3,7 +3,7 @@ layout: post
 title: "l'intimité"
 date: "2013-07-20"
 categories: 
-  - "poemes-damour"
+  - "amore"
 ---
 
 à l'intimité  

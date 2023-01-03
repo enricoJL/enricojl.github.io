@@ -3,7 +3,7 @@ layout: post
 title: "métamorphose"
 date: "2020-05-29"
 categories: 
-  - "poemes-damour"
+  - "amore"
 ---
 
 au centre de nous deux  

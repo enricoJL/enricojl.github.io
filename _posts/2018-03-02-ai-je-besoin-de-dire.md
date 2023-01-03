@@ -3,7 +3,7 @@ layout: post
 title: "ai-je besoin de dire"
 date: "2018-03-02"
 categories: 
-  - "poemes-damour"
+  - "amore"
 ---
 
 j'ai dans le cœur un navire  

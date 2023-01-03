@@ -3,7 +3,7 @@ layout: post
 title: "dans une falaise"
 date: "2013-07-19"
 categories: 
-  - "poemes-damour"
+  - "amore"
 ---
 
 accepterais-tu de me suivre  
