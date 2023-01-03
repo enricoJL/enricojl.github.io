@@ -1,20 +1,30 @@
 ---
 layout: post
 title: "plongeon dans le ciel"
-date: "2023-01-02"
+date: "2023-01-03"
 categories: 
-  - "poesie"
-published: false
+  - "spirituel"
 ---
 
 
-vertige au milieu de la nuit  
-j'ai trébuché dans le vide  
+épris de vertige au milieu de la nuit  
+dans un plongeon vers les étoiles  
+j'ai eu peur de tomber dans le vide  
 
-cosmos en déséquilibre  
-dans la profondeur du ciel
+(la distance étant tellement grande entre nous et les étoiles)  
 
-les coudes bien enfoncés dans le sable  
-le poids du monde me plaquant contre lui
+en contraste avec ma propre petitesse  
+devant l'immensité de la nuit  
+j'avais le sentiment d'être si vulnérable  
 
-j'ai compris que ma place dans le cosmos était assurée
+cherchant appui dans ce tourbillon  
+les coudes bien enfoncés dans le sable sur la plage  
+le poids du monde me plaquant contre lui  
+j'ai vu ma place dans l'ordre du cosmos  
+
+rasséréné dans mes émotions  
+témoin d'une Intelligence supérieure à l’œuvre  
+avec l'évidence que tout tient bien en place  
+j'ai senti que je pouvais Lui faire confiance  
+
+
