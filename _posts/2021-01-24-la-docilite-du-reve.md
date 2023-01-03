@@ -3,7 +3,7 @@ layout: post
 title: "La docilité du rêve"
 date: "2021-01-24"
 categories: 
-  - "temoignage"
+  - "pensees"
 ---
 
 _Texte écrit en 2009, alors que j'étais en train de lutter contre l'invalidité._

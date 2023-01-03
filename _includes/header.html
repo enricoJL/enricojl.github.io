@@ -4,9 +4,14 @@
 
         <ul class="menu">
             <li class="menu__entry"><a href="{{ '/about' | prepend: site.baseurl }}">À propos</a></li>
-            <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">Recueil</a></li>
+            <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">Recueil complet</a></li>
             <li class="menu__entry"><a target="_blank" href="https://enricojl.github.io/bomt/">The Book of My Testimony</a></li>
         </ul>
+        <ul class="categories">
+        	{% for category in site.data.categories %}
+            <li class="categories__item"><a href="{{ '/categories/' | append: category.slug | prepend: site.baseurl }}">{{ category.name }}</a></li>
+        	{% endfor %}
+    	</ul>
     </div>
 
     <ul class="social-links">

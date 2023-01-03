@@ -3,7 +3,7 @@ layout: post
 title: "3 jours de jeûne dans la jungle sur l'Île de Vancouver"
 date: "2021-06-15"
 categories: 
-  - "temoignage"
+  - "spirituel"
 ---
 
 <center>
