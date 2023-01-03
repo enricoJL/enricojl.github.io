@@ -7,10 +7,10 @@ categories:
 published: true
 ---
 
-au travers du dernier mur
-comme au bord d'un précipice
-la crainte m'envahit 
+au travers du dernier mur  
+comme au bord d'un précipice  
+la crainte m'envahit  
 et le vertige me prend
 
-au travers du dernier mur
+au travers du dernier mur  
 le chemin s'étire jusqu'à demain
