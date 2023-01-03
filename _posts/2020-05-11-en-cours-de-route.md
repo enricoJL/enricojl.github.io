@@ -4,7 +4,6 @@ title: "en cours de route"
 date: "2020-05-11"
 categories: 
   - "poemes-damour"
-  - "poesie"
 ---
 
 en cours de route  
@@ -22,32 +21,30 @@ le cœur encore en stage
 et nos amours qui s'habituent  
 l'un à l'autre tout doucement  
 hésitants  
-(à qui le dis-tu!)
+(à qui le dis-tu ?)
 
-pour attendre après l'autre  
+attendre après l'autre  
 et nous dire encore :  
 je veux que tu m'aimes...  
-est-ce que tu m'aimes... encore ?
+est-ce que tu m'aimes encore ?
 
 en cours de route  
-des morceaux qui tombent  
-et nos substances qui s'effritent un peu  
-sur le chemin
-
+avec les morceaux qui tombent  
+et nos substances qui s'effritent un peu
+en chemin
 des fois peu  
 des fois trop  
-en chemin vers…  
+en chemin vers...  
 le bout du chemin
 
-nos deux yeux tournés  
-toujours dans la même direction  
-au beau milieu de nos deux rêves  
+nos deux yeux tournés toujours dans la même direction  
+au beau milieu de nos rêves  
 fixés sur un point fixe
 
 nos deux désirs  
 comme deux yeux sur la route  
 vers le bout d'un même chemin
 
-en cours de route vers...  
+en cours de route vers   
 mais invariablement vers  
 un seul et un même chemin

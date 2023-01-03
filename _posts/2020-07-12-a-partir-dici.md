@@ -17,7 +17,7 @@ lesquels laisser
 
 devant moi  
 face à l'inconnu  
-ma seule motivation  
+ma seule conviction  
 retourner dans la lumière
 
 tout est encore à construire  

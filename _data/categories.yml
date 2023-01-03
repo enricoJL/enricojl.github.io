@@ -1,8 +1,17 @@
 - slug: poesie
   name: Poésie
 
+- slug: poemes-damour
+  name: Poèmes d'amour
+
 - slug: pensees
   name: Pensées
 
 - slug: temoignage
   name: Témoignage
+
+- slug: spirituel
+  name: Spirituel
+  
+- slug: poemes-de-jeunesse
+  name: Poèmes de jeunesse

@@ -4,7 +4,6 @@ title: "si fragile"
 date: "2013-07-20"
 categories: 
   - "poemes-damour"
-  - "poesie"
 ---
 
 au milieu de notre présence  

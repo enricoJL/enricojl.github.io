@@ -4,7 +4,6 @@ title: "ici et maintenant"
 date: "2018-02-27"
 categories: 
   - "poemes-damour"
-  - "poesie"
 ---
 
 mes souvenirs mon futur dispersés disparus

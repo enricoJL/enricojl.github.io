@@ -4,7 +4,6 @@ title: "notre espace élastique"
 date: "2013-07-20"
 categories: 
   - "poemes-damour"
-  - "poesie"
 ---
 
 en ce moment même  

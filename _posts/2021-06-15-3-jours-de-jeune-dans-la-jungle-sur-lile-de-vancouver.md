@@ -3,17 +3,16 @@ layout: post
 title: "3 jours de jeûne dans la jungle sur l'Île de Vancouver"
 date: "2021-06-15"
 categories: 
-  - "spirituel"
   - "temoignage"
 ---
 
-[![](https://enricojl.files.wordpress.com/2021/06/amy-tran-8036osgel68-400-2.jpg?w=400)](https://enricojl.files.wordpress.com/2021/06/amy-tran-8036osgel68-400-2.jpg)
-
-Photo by [my Tran](https://unsplash.com/@minhanh258?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/vancouver-forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+<center>
+	<img src="{{site.baseurl}}/assets/figures/amy-tran-8036.png">
+</center>
 
 J’ai raconté à mes filles dernièrement un événement traumatisant que j’ai vécu étant enfant quand j’ai pleuré dans mon garde-robe après mon premier jour à l’école secondaire. Je m’étais fait bousculer dans les corridors ce jour-là et j’étais tombé dans les escaliers après m’avoir fait accrocher légèrement. Je suis rentré chez moi, j’ai lancé mon sac par terre et j’ai crié à ma mère que c’était une école de fou, que je ne voulais plus jamais y retourner. Je me suis assis dans le fond de mon garde-robe et j’ai pleuré. Puis j’ai demandé tout haut pourquoi j’étais handicapé ? Pourquoi moi ? Pourquoi je n’étais pas resté mort à l’accident ?
 
-– J’ai été frappé par une voiture à l’âge de 7 ans et je suis miraculeusement resté en vie. Je suis resté sévèrement handicapé à cause d’une parésie aux quatre membres. J’avais beaucoup de misère à marcher et à rester stable sur mes deux pieds. Les jeunes du secondaire faisaient moins attention à moi quand ils passaient rapidement dans les corridors et les escaliers –
+–- J’ai été frappé par une voiture à l’âge de 7 ans et je suis miraculeusement resté en vie. Je suis resté sévèrement handicapé à cause d’une parésie aux quatre membres. J’avais beaucoup de misère à marcher et à rester stable sur mes deux pieds. Les jeunes du secondaire faisaient moins attention à moi quand ils passaient rapidement dans les corridors et les escaliers –-
 
 J’étais donc assis dans le fond de mon garde-robe à pleurnicher sur mon sort. C’est alors que l’idée m’est venue à l’esprit que si je n’étais pas mort à l’accident, c’était parce que j’avais une mission à accomplir sur la terre. Un ange invisible m’a peut-être soufflé à l’esprit cette pensée pour me consoler. Je me suis accroché à cette idée et je suis monté tout-de-suite en-haut des escaliers pour dire à ma mère que je savais pourquoi j’étais resté en vie après l’accident : parce que j’avais une mission à accomplir.
 

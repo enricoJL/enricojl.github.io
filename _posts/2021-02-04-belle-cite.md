@@ -3,7 +3,6 @@ layout: post
 title: "Belle cité"
 date: "2021-02-04"
 categories: 
-  - "poesie"
   - "spirituel"
 ---
 

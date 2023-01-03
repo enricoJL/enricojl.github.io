@@ -44,5 +44,7 @@ mon monde
 ton monde  
 ma prison
 
-c'est bel et bien là qu'enfin  
-j'ai réussi à prendre pied
+c'est bel et bien là  
+qu'enfin j'ai réussi à prendre pied
+
+

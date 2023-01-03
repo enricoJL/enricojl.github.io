@@ -14,10 +14,10 @@ je recommence mon voyage
 de long en large  
 je revisite chacun de mes pas
 
-tout est étudié mesuré  
-tout est transposé remanié  
+tout est étudié, mesuré  
+tout est transposé, remanié  
 je cherche à resaisir chaque moment  
-à réguler assainir expliquer
+à réguler, assainir, expliquer
 
 inextricable beauté  
 tu me déstabilises

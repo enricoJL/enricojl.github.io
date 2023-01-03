@@ -1,18 +1,21 @@
 ---
 layout: post
-title: "L'arbrisseau"
+title: "l'arbrisseau"
 date: "2020-09-12"
 categories: 
-  - "poesie"
+  - "spirituel"
 ---
 
-[![](https://enricojl.files.wordpress.com/2021/01/plants_seedling_growth.png?w=640)](https://enricojl.files.wordpress.com/2021/01/plants_seedling_growth.png)
+<center>
+	<img src="{{site.baseurl}}/assets/figures/plants_seedling_growth.png">
+</center>
 
-L'arbrisseau recueilli dans ses branches  
-Soutient dans les airs un petit ciel
 
-Des images, des idées courent, vont et viennent  
-Avec la prière, la présence divine  
-L'espoir reverdit
+l'arbrisseau recueilli dans ses branches  
+soutient dans les airs un petit ciel
 
-Le chant d'une voix chaude vient se déposer dans son oreille
+des images, des idées courent, vont et viennent  
+avec la prière et la présence divine  
+l'espoir reverdit
+
+le chant d'une voix chaude vient se déposer dans son oreille

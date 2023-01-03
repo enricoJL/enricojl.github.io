@@ -4,7 +4,6 @@ title: "au travers du dernier mur"
 date: "2023-01-02"
 categories: 
   - "poesie"
-published: true
 ---
 
 au travers du dernier mur  

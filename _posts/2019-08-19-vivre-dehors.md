@@ -4,12 +4,11 @@ title: "vivre dehors"
 date: "2019-08-19"
 categories: 
   - "poemes-damour"
-  - "poesie"
 ---
 
 j'aimerais vivre dehors  
 libéré du passé  
-délivrée!
+délivré
 
 vivre dehors  
 sans le poids des tourments  

@@ -3,8 +3,7 @@ layout: post
 title: "Où sont mes rêves ?"
 date: "2021-03-08"
 categories: 
-  - "spirituel"
-  - "temoignage"
+  - "témoignage"
 ---
 
 J’ai perdu mes rêves,  
@@ -41,9 +40,9 @@ Il m’aime et je l’aime aussi :
 c’est tout ce qui compte.  
 Voilà toute notre histoire.
 
-Sur un nouveau sentier dans ses bras je suis transporté dans un pays que j’aime. Mon cœur se transforme, ma vie change, mes rêves changent ; ils deviennent plus simples, plus beaux, plus vrais.
+Sur un nouveau sentier dans ses bras je suis transporté dans un pays que j’aime.  
 
-La source de mon bonheur change, mes yeux changent, mes cheveux tombent, mon orgueil aussi, tranquillement.
+Mon cœur se transforme, ma vie change, mes rêves changent ; ils deviennent plus simples, plus beaux, plus vrais. La source de mon bonheur change, mes yeux changent, mes cheveux tombent, mon orgueil aussi, tranquillement.
 
 À l’intérieur,  
 me soumettre à Dieu,  

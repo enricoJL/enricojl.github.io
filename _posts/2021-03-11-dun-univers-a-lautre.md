@@ -6,6 +6,10 @@ categories:
   - "poesie"
 ---
 
+<center>
+	<img src="{{site.baseurl}}/assets/figures/BubbleNebula_NASA.png">
+</center>
+
 par delà les frontières  
 la beauté nous propulse  
 d'un univers à l'autre

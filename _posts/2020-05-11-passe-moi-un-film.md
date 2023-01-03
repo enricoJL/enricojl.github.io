@@ -4,12 +4,11 @@ title: "passe-moi un film"
 date: "2020-05-11"
 categories: 
   - "poemes-damour"
-  - "poesie"
 ---
 
 on est là sans barrière aucune  
-à s'observer penser l'un pour l'autre  
-(un peu quand même)
+à s'observer penser  
+l'un pour l'autre  
 
 devant nos yeux nos yeux s'observent  
 ils scrutent  
@@ -18,9 +17,9 @@ ils cherchent la raison des choses
 ils veulent reconstruire l'univers  
 et croire
 
-croire à ce filet d'émotions  
+croire à ce filet de tendresse  
 ce bouquet de sentiments  
-cet arrangement de nos sourires  
+à cet arrangement de nos sourires  
 et de nos beaux mots  
 ils nous emportent  
 (un peu quand même)
@@ -28,9 +27,9 @@ ils nous emportent
 toutes nos images réarrangées  
 pour pointer tout l'univers  
 vers ce lieu où nos yeux se plaisent  
-l'un pour l'autre  
-dans une histoire à raconter  
-encore et encore  
+l'un pour l'autre
+
+dans une histoire à raconter encore et encore  
 à revoir et revoir sans arrêt  
 continuellement
 

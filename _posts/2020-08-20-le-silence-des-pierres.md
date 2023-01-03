@@ -1,21 +1,22 @@
 ---
 layout: post
-title: "Le silence des pierres"
+title: "le silence des pierres"
 date: "2020-08-20"
 categories: 
-  - "poesie"
+  - "spirituel"
 ---
 
-Les pierres, fermes à travers les âges  
-Impassibles, absorbant le cri des plaintes  
-Elles se taisent  
-Depuis des années, des millénaires  
-Et leur silence nous crie aux oreilles.
+les pierres, fermes à travers les âges  
+impassibles, absorbant le cri des plaintes  
+elles se taisent  
+depuis des années, des millénaires  
+et leur silence nous crie aux oreilles
 
-Les pierres, essuyant le sang des massacres  
-Témoins du chaos, elles crient dans le silence :  
+les pierres, essuyant le sang des massacres  
+témoins du chaos, elles crient dans le silence :  
 Arrêtez !  
-Nous suppliant constamment  
-Depuis si longtemps.
+nous suppliant constamment  
+depuis si longtemps
 
-Mais la terre craquera et ses rochers se fendront.
+la Terre craquera
+ses rochers se fendent déjà

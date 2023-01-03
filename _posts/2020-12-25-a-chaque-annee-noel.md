@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "À chaque année Noël"
+title: "à chaque année Noël"
 date: "2020-12-25"
 categories: 
-  - "poesie"
+  - "spirituel"
 ---
 
-À chaque année Noël
+à chaque année Noël
 
-Les cœurs s'illuminent
+les cœurs s'illuminent
 
-À chaque année Noël
+à chaque année Noël
 
-Au milieu de la nuit
+au milieu de la nuit
 
-Une étoile est née
+une étoile est née

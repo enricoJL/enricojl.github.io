@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "La rose et son jardinier"
+title: "la rose et son jardinier"
 date: "2020-05-11"
 categories: 
   - "poesie"
 ---
 
-Le jardinier a pris la rose  
+le jardinier a pris la rose  
 et l’a gardée longtemps près de lui  
 très longtemps  
 avant de la laisser-là dehors  

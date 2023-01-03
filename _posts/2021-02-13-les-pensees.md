@@ -13,7 +13,7 @@ même si les choses passent
 les pensées restent  
 bien ancrées
 
-comme un véhicule en déplacement  
+comme un véhicule  
 dans lequel on se réfugie  
 alors que tout autour  
 c'est la métamorphose

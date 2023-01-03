@@ -13,14 +13,14 @@ au-travers des murs
 
 on les retrouvent partout  
 dans des endroits très inusités  
-et parfois dans des livres
+et même parfois dans des livres
 
 on les cherche  
 on les veut  
-on en redemande!  
+on en redemande !  
 même que des fois  
 on en a assez
 
-oh qu'ils sont nombreux les poèmes!  
+oh qu'ils sont nombreux les poèmes !  
 mais ce n'est pas tous qu'on a envie d'entendre  
 comme ce n'est pas tous qu'on a envie de dire

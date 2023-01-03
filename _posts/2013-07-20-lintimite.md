@@ -4,7 +4,6 @@ title: "l'intimité"
 date: "2013-07-20"
 categories: 
   - "poemes-damour"
-  - "poesie"
 ---
 
 à l'intimité  

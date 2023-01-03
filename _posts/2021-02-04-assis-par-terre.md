@@ -15,5 +15,5 @@ Essayant de mettre en place des idées fourbues
 Comme moi-même déjà... assis par-terre dans mes ambitions
 
 Des racines depuis mon enfance me donnent le désir de servir  
-Un héritage laissé par mes parents dans la foulé de mes ancêtres  
+Un héritage laissé par mes parents et la foule de mes ancêtres  
 Ce lègue précieux m'a sauvé du fond de l'amertume
