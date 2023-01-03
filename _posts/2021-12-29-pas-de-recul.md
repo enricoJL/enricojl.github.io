@@ -17,5 +17,5 @@ tout me semble trop lourd à porter
 
 sans être toujours confortables  
 mes désirs me ramènent auprès de mes amours  
-à l'intérieur de nos murs  
-où nous passons la plupart du temps
+à l'intérieur des murs  
+où je passe la plupart de mon temps
