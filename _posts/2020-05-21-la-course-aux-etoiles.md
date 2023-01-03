@@ -6,10 +6,43 @@ categories:
   - "poesie"
 ---
 
-je me trouvais sur une étoile en regardant paisiblement vers l'intérieur, quand tout à coup, je me suis fait attiré vers l'intérieur, à l'intérieur de l'étoile... et je me perdais dans toute sa grandeur.  sans même avoir le temps de profiter de cette splendeur, je ressortais aussitôt de l'autre côté : trou noir ou autre dimension ?  
+j'étais sur une étoile  
+et je regardais vers l'intérieur  
 
-et puis, je me suis retrouvé au-travers d'une autre étoile, puis une autre, et une autre... et ce fut une course, une course à en perdre les sens, vers des endroits jamais explorés. et ce fut une course entre les étoiles qui peuplent l'espace, ce fut une course à l'intérieur des étoiles.  je passais d'une étoile à l'autre, mais toujours sans en profiter, comme perdu dans le temps.    
+tout à coup j'y suis attiré 
+vers l'intérieur je m'y perds  
+et sans même pouvoir profiter de cet état de grandeur  
+je ressortais de l'autre côté  
+trou noir ou autre dimension ?  
 
-en cherchant mon chemin pour sortir de cet impasse, je n'ai trouvé finalement qu'une petite étoile, qu'une planète qui brûle, où j'ai enfin pu m'arrêter; et avant de comprendre complètement où j'en étais, je me suis retrouvé dans mon corps, dans ma chambre, et notre monde, à l'intérieur de notre maison.  
+et puis  
+je me suis trouvé au-travers d'une autre étoile  
+puis une autre  
+et une autre 
 
-c'est bel et bien là qu'enfin j'ai réussi à prendre pied.
+et ce fut une course  
+une course à en perdre le corps  
+vers des endroits jamais explorés  
+ce fut une course  
+entre les étoiles  
+ce fut une course  
+à l'intérieur des étoiles
+
+je passais d'une étoile à l'autre  
+mais toujours sans en profiter  
+comme perdu dans le temps
+je cherchais mon chemin  
+
+je n'ai trouvé finalement qu'une mini étoile  
+qu'une planète qui brûle  
+où je me suis arrêté
+
+et avant de pouvoir y voir clair  
+je me suis retrouvé dans mon corps
+ma chambre  
+mon monde  
+ton monde  
+ma prison
+
+c'est bel et bien là qu'enfin  
+j'ai réussi à prendre pied
