@@ -7,7 +7,7 @@ categories:
 ---
 
 <center>
-	<img src="{{site.baseurl}}/assets/figures/BubbleNebula_NASA.png" width="40%">
+	<img src="{{site.baseurl}}/assets/figures/BubbleNebula_NASA.png">
 </center>
 
 par delà les frontières  

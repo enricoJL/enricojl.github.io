@@ -7,7 +7,7 @@ categories:
 ---
 
 <center>
-	<img src="{{site.baseurl}}/assets/figures/amy-tran-8036.png" width="40%">
+	<img src="{{site.baseurl}}/assets/figures/amy-tran-8036.png" >
 </center>
 
 J’ai raconté à mes filles dernièrement un événement traumatisant que j’ai vécu étant enfant quand j’ai pleuré dans mon garde-robe après mon premier jour à l’école secondaire. Je m’étais fait bousculer dans les corridors ce jour-là et j’étais tombé dans les escaliers après m’avoir fait accrocher légèrement. Je suis rentré chez moi, j’ai lancé mon sac par terre et j’ai crié à ma mère que c’était une école de fou, que je ne voulais plus jamais y retourner. Je me suis assis dans le fond de mon garde-robe et j’ai pleuré. Puis j’ai demandé tout haut pourquoi j’étais handicapé ? Pourquoi moi ? Pourquoi je n’étais pas resté mort à l’accident ?

@@ -7,7 +7,7 @@ categories:
 ---
 
 <center>
-	<img src="{{site.baseurl}}/assets/figures/plants_seedling_growth.png" width="40%">
+	<img src="{{site.baseurl}}/assets/figures/plants_seedling_growth.png">
 </center>
 
 
