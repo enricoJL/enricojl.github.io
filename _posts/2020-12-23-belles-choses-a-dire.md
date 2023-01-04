@@ -48,4 +48,4 @@ Et bien, vous ne remarquez rien qui cloche ?
 Je vais vous le chuchoter :
 
 _il n'a pas de crâne  
-pour retenir son cerveau_
+pour retenir sa cervelle_
