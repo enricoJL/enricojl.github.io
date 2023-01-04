@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "De belles choses à dire"
+title: "de belles choses à dire"
 date: "2020-12-23"
 categories: 
   - "poesie"
