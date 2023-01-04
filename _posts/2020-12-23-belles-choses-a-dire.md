@@ -47,5 +47,4 @@ Ces cheveux noirs et lisses pour glisser entre les doigts.
 Et bien, vous ne remarquez rien qui cloche ?  
 Je vais vous le chuchoter :
 
-_il n'a pas de crâne  
-pour retenir sa cervelle_
+_il n'a pas de crâne pour retenir sa cervelle_
