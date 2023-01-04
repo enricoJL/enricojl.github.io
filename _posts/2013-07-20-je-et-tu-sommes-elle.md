@@ -10,7 +10,7 @@ ELLE
 c'est à dire notre présence quand nous sommes ensemble  
 est une troisième personne
 
-elle a préséance entre nous dans la vraie rencontre 
+elle a préséance entre nous dans la vraie rencontre  
 elle nous traverse et nous transforme
 
 en sa présence  
