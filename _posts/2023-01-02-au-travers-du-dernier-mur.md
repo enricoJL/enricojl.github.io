@@ -12,4 +12,4 @@ la crainte m'envahit
 et le vertige me prend
 
 au travers du dernier mur  
-le chemin s'étire jusqu'à demain
+le chemin est long jusqu'à demain
