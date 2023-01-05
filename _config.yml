@@ -2,7 +2,7 @@
 # Site settings
 title: Enrico J. Lévesque
 description: >
-  poèmes, récits et pensées
+  Poèmes, récits et pensées
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://enricojl.github.io" # the base hostname & protocol for your site
@@ -15,7 +15,7 @@ author:
   linkedin: enrico-lévesque-66977a13
   
 #  twitter: electrik_frog
-  # disqus: your_disqus_forum_shortname
+# disqus: your_disqus_forum_shortname
 
 google_analytics: 'G-0YTNC0F3VX'
 
