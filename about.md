@@ -1,7 +1,7 @@
 ---
 layout: page
 title: À propos de
-subtitle: ce recueil de poésie et de pensées
+subtitle: ce recueil de poésie
 permalink: /about/
 ---
 
