@@ -1,7 +1,7 @@
 ---
 layout: page
 title: À propos de
-subtitle: Qui suis-je ? Et pourquoi j'écris ?
+subtitle: Pourquoi j'écris ces lignes ?
 permalink: /about/
 ---
 
