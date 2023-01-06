@@ -2,7 +2,7 @@
 layout: page
 title: À propos de
 subtitle: ce recueil de poésie
-permalink: /about/
+permalink: /apropos/
 ---
 
 <center>
