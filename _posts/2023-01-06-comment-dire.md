@@ -29,7 +29,7 @@ te rendre heureuse par mille attentions
 te faire la cours entre des mots fous  
 t'aimer tout simplement te le dire souvent  
 te dire je t'aime de plus en plus vrai  
-pour que tu y crois et que mon coeur s'y habitue  
+pour que tu y crois et que mon cœur s'y habitue  
 
 en espérant bientôt ne plus le dire  
 comme un discours qu'on répète en coulisse  
