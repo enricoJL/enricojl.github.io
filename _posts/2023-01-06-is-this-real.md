@@ -9,7 +9,7 @@ categories:
 do you feel this substance  
 of something really there  
 really really good and really fine  
-it goes through me and you    
+as it goes through you and me    
 
 do you feel the love  
 do you know from whence it came  
