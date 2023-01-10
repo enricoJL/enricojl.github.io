@@ -15,7 +15,7 @@ do you know from whence it came
 
 I have been searching long for such a feeling  
 this is exactly what I was looking for  
-and I found it in between you and me  
+and I found it between you and me  
 
 can you feel the love  
 can you hear the sound  
@@ -27,8 +27,7 @@ or is this true
 do you know  
 
 right in between you and me  
-in the distance in between  
-your fears and my hesitations  
+in the distance between your fears and my hesitations  
 I found it there playing with my mind  
 and it showed me your smile  
 
