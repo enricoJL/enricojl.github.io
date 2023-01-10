@@ -6,6 +6,7 @@ categories:
   - "poesie"
 ---
 
+
 l'un après l'autre mes pas sont jetés  
 projetés dans le vide sur un fil invisible  
 juste devant  
@@ -28,3 +29,6 @@ et chaque fois j'arrive
 la montagne d'en-face  
 l'homme d'en-face en face de moi  
 c'est moi
+
+<img src="{{site.baseurl}}/assets/figures/montagne-moi-400.png">
+
