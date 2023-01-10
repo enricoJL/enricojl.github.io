@@ -8,18 +8,18 @@ categories:
 
 do you feel this substance  
 of something really there  
-really really good and really fine  
-as it goes through you and me    
+really really good and really fine    
 
 do you feel the love  
 do you know from whence it came  
+
 I have been searching long for such a feeling  
 this is exactly what I was looking for  
 and I found it in between you and me  
 
 can you feel the love  
 can you hear the sound  
-it makes in my heart and in my hopes  
+in my heart and in my hopes  
 can you possibly know what it is  
 
 is this real  
