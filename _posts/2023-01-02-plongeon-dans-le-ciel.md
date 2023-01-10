@@ -9,23 +9,21 @@ published: false
 
 
 épris de vertige au milieu de la nuit  
-dans un plongeon vers les étoiles  
+dans un plongeon vers les étoiles ---  
+la distance étant tellement grande  
+entre nous et les étoiles ---  
 j'ai eu peur de tomber dans le vide  
 
-(la distance étant tellement grande entre nous et les étoiles)  
-
-en contraste avec ma propre petitesse  
 devant l'immensité de la nuit  
 j'avais le sentiment d'être si vulnérable  
 
-cherchant appui dans ce tourbillon  
+cherchant appui dans l'immensité de l'espace  
 les coudes bien enfoncés dans le sable sur la plage  
-le poids du monde me plaquant contre lui  
-j'ai vu ma place dans l'ordre du cosmos  
+le poids du monde me plaquant contre le sol  
+j'ai compris que j'avais ma place dans l'ordre de l'univers  
 
-rasséréné dans mes émotions  
 témoin d'une Intelligence supérieure à l’œuvre  
-avec l'évidence que tout tient bien en place  
-j'ai senti que je pouvais Lui faire confiance  
+j'ai senti que pour tout le reste de ma vie  
+je pouvais Lui faire confiance  
 
 
