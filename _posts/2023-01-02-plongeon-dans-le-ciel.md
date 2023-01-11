@@ -13,7 +13,7 @@ la distance étant tellement grande
 entre nous et les étoiles ---  
 j'ai eu peur de tomber dans le vide  
 
-devant l'immensité de la nuit  
+devant la profondeur de la nuit  
 j'avais le sentiment d'être si vulnérable  
 
 cherchant appui dans l'immensité de l'espace  
