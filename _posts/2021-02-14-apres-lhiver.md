@@ -13,7 +13,7 @@ avec l'alchimie du soleil
 
 enracinés  
 dans cette terre de vérité  
-qu'ils habitent profondément
+où ils habitent profondément
 
 avec toi mon ami  
 au milieu des échanges  
