@@ -10,7 +10,7 @@ categories:
 épris de vertige au milieu de la nuit  
 la distance étant tellement grande  
 entre nous et les étoiles  
-faisant un plongeon dans le ciel  
+dans un plongeon dans le ciel  
 j'ai eu peur de tomber dans le vide  
 
 devant la profondeur de la nuit  
@@ -22,7 +22,7 @@ le poids du monde me plaquant contre le sol
 j'ai vu ma place dans l'ordre des choses  
 
 témoin d'une Intelligence Supérieure à l’œuvre  
-j'ai senti que pour le reste de ma vie  
+je sentais que pour le reste de ma vie  
 je pourrais Lui faire confiance  
 
 
