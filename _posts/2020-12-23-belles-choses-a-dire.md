@@ -12,7 +12,7 @@ categories:
 
 Qu'est-ce qui cloche ?  
 Pourquoi ce rire qui surgit ?  
-Qu'est-ce qui lui manque à ce clown pour mériter un tel rire ?
+Qu'est-ce qui lui manque à ce clown pour causer un tel rire ?
 
 Il a pourtant les oreilles pour l'entendre ce rire.  
 De belles grandes oreilles !  
