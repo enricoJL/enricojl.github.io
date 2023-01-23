@@ -17,7 +17,7 @@ témoins d'événements incrustés
 par un travail scrupuleux  
 ces fragments dégagés  
 on les place à la lumière  
-dévoilant la vérité  
+dévoilant leur vérité  
 
 souvenirs altérés  
 passage obligé  
