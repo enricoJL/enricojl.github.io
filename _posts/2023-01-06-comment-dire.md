@@ -6,7 +6,7 @@ categories:
   - "amore"
 ---
 
-quoi dire quoi faire comment le dire ?
+quoi dire quoi faire comment le dire ?
 
 je t'aime c'est quoi dire je t'aime  
 je te le dis c'est trop peu
@@ -38,6 +38,6 @@ qui revient qui revient chaque jour
 comme un souvenir de toi qui revient  
 chaque jour de plus en plus beau
 
-quoi dire quoi faire comment le dire ?  
+quoi dire quoi faire comment le dire ?  
 Je t'aime.
 

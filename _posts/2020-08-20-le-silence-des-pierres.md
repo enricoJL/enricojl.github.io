@@ -13,8 +13,8 @@ depuis des années, des millénaires
 et leur silence nous crie aux oreilles
 
 les pierres, essuyant le sang des massacres  
-témoins du chaos, elles crient dans le silence :  
-Arrêtez !  
+témoins du chaos, elles crient dans le silence :  
+Arrêtez !  
 nous suppliant constamment  
 depuis si longtemps
 

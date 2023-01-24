@@ -13,7 +13,7 @@ tout à coup j'y suis attiré
 vers l'intérieur je m'y perds  
 et sans même pouvoir profiter de cet état de grandeur  
 je ressortais de l'autre côté  
-trou noir ou autre dimension ?  
+trou noir ou autre dimension ?  
 
 et puis  
 je me suis trouvé au-travers d'une autre étoile  

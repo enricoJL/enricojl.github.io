@@ -10,7 +10,7 @@ chaque matin le soleil jette sur le monde
 un regard qui provient d'ailleurs
 
 assis dans sa maison  
-l'homme chrétien médite en silence :  
+l'homme chrétien médite en silence :  
 il prie
 
 ce qu'il a connu avant de connaître  

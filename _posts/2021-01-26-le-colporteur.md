@@ -33,8 +33,8 @@ on fait vibrer ma maison
 à l'entrée le colporteur  
 rempli de miel jusque dans ses yeux  
 il m'offre tout d'abord sa présence  
-le plus dur à prendre :  
-méfie-toi !
+le plus dur à prendre :  
+méfie-toi !
 
 et tu te réjouis d'avoir fermé la porte  
 avant que son pied n'atteigne  

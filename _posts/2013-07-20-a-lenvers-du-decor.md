@@ -17,14 +17,14 @@ le monde entier peut maintenant y être joué
 vraiment, je n'ai rien oublié  
 enfin, je pense bien  
 
-Que le spectacle commence !
+Que le spectacle commence !
 
 mais voilà que, malencontreusement  
 le jeu des acteurs ne correspond plus  
 j'avais tout organisé dans un sens  
 et rien ne va plus  
 
-C'est la comédie !  
+C'est la comédie !  
 
 le jeu se dégage du décor  
 tout ce travail de conception  
@@ -38,7 +38,7 @@ et te sabotent toute ta création
 
 la réalité que j'ai créée  
 ne colle plus tout à fait sur le décor  
-comment pouvait-il en être autrement ?  
+comment pouvait-il en être autrement ?  
 
 en réalité le monde n'est pas  
 tel qu'il est  

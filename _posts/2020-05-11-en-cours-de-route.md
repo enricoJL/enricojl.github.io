@@ -21,12 +21,12 @@ le cœur encore en stage
 et nos amours qui s'habituent  
 l'un à l'autre tout doucement  
 hésitants  
-(à qui le dis-tu ?)
+(à qui le dis-tu ?)
 
 attendre après l'autre  
 et nous dire encore :  
 je veux que tu m'aimes...  
-est-ce que tu m'aimes encore ?
+est-ce que tu m'aimes encore ?
 
 en cours de route  
 avec les morceaux qui tombent  

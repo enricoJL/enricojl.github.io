@@ -6,8 +6,8 @@ categories:
   - "amore"
 ---
 
-je me suis dit : le bonheur  
-existe-t-il vraiment ?  
+je me suis dit : le bonheur  
+existe-t-il vraiment ?  
 et tu m'as surpris dans mes yeux à le penser
 
 alors que le bonheur, vraiment  

@@ -18,10 +18,10 @@ le visage caché dans ses mains
 
 quand je vois l’homme que je suis  
 le visage perdu  
-je supplie !
+je supplie !
 
 et mon Père qui vit  
 rempli de miséricorde  
 remplit mon cœur
 
-Mon âme alors veut exploser jusqu’au soir !
+Mon âme alors veut exploser jusqu’au soir !

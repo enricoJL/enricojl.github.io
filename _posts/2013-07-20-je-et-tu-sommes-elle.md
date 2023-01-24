@@ -28,4 +28,4 @@ l'une et l'autre sommant la troisième
 
 JE et TU sommes ELLE
 
-(inspiré de « Je et Tu » de Martin Buber)
+(inspiré de « Je et Tu » de Martin Buber)

@@ -2,8 +2,7 @@
 layout: post
 title: "plongeon dans le ciel"
 date: "2023-01-03"
-categories: 
-  - "spirituel"
+categories: spirituel
 ---
 
 
