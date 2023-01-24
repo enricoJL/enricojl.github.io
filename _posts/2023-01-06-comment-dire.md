@@ -2,8 +2,7 @@
 layout: post
 title: "comment dire"
 date: "2023-01-06"
-categories: 
-  - "amore"
+categories: amore
 ---
 
 quoi dire quoi faire comment le dire ?
@@ -21,7 +20,7 @@ dans un plongeon enfin m'assoupir dans tes yeux
 du coup je perds encore la raison  
 perdu dans un firmament quelconque  
 entre ma main tes cheveux et ton parfum  
-mon coeur s'élance et je le retiens
+mon cœur s'élance et je le retiens
 
 raisonnable soyons raisonnable voyons je veux ton bonheur  
 te rendre heureuse par mille attentions  
