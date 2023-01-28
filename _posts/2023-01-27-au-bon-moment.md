@@ -9,7 +9,7 @@ published: true
 à côté de moi dans les airs  
 un aigle volait en faisant des ronds  
 
-mais non, il ne perdait pas son temps  
+non, il ne perdait pas son temps  
 
 je l'ai observé longtemps  
 dans une spirale interminable  
