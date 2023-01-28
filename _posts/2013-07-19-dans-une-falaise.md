@@ -22,4 +22,4 @@ où que j'aille dans ce jardin
 sur des chantiers abruptes
 
 comme une falaise enracinée sur un terrain vague  
-qui tombe au détour cursif vers l'amour
+qui tombe au détour cursif à l'amour
