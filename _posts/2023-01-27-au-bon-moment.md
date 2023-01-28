@@ -3,11 +3,11 @@ layout: post
 title: "au bon moment"
 date: "2023-01-27"
 categories: "poesie"
-published: false
+published: true
 ---
 
 à côté de moi dans les airs  
-un aigle volait en tournant en rond  
+un aigle volait en faisant des ronds  
 
 mais non, il ne perdait pas son temps  
 
@@ -25,6 +25,6 @@ sans effort, sans même un seul battement d'ailes
 à une vitesse vertigineuse  
 il s'est enfui hors de ma vue  
 
-profitant d'une puissance invisible  
-confiant de son existance en haute altitude  
+confiant d'une puissance invisible  
+quelque part en haute altitude  
 sa patience le projetait à l'autre extrémité du ciel  
