@@ -13,6 +13,6 @@ après ce long voyage immobile
 avec l'alchimie du soleil  
 la sève remonte au travers des branches  
 
-avec toi mon ami  
+avec toi, mon ami  
 au milieu des échanges et des idées  
 je redécouvre la vérité  
