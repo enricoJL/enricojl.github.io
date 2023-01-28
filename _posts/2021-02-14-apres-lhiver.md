@@ -6,7 +6,7 @@ categories: "poesie"
 ---
 
 enracinés dans cette terre de vérité  
-où ils habitent profondément
+où ils habitent profondément  
 les arbres doucement se réveillent  
 
 après ce long voyage immobile  
