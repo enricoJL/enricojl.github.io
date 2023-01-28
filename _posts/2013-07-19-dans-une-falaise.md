@@ -2,13 +2,12 @@
 layout: post
 title: "dans une falaise"
 date: "2013-07-19"
-categories: 
-  - "amore"
+categories: "amore"
 ---
 
 accepterais-tu de me suivre  
 dans une fissure d'Éden  
-entourés de rosiers sauvages
+entourée de rosiers sauvages
 
 si je marchais dans une clarté mauve  
 vers des éclipses encore vierges  
