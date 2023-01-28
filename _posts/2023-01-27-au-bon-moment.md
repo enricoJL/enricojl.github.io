@@ -7,7 +7,7 @@ published: true
 ---
 
 à côté de moi dans les airs  
-un aigle volait en faisant des ronds  
+volait un aigle en faisant des ronds  
 
 non, il ne perdait pas son temps  
 
