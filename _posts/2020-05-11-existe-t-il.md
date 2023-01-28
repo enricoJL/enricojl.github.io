@@ -7,8 +7,7 @@ categories: "poesie"
 
 je me suis dit : 
 le bonheur, existe-t-il vraiment ?  
-et tu m'as surpris dans les yeux  
-à le penser  
+et tu m'as surpris dans les yeux à le penser  
 
 alors que le bonheur, vraiment  
 il est bien là entre nous  
