@@ -6,11 +6,6 @@ categories:
   - "spirituel"
 ---
 
-<center>
-	<img src="{{site.baseurl}}/assets/figures/plants_seedling_growth.png">
-</center>
-
-
 l'arbrisseau recueilli dans ses branches  
 soutient dans les airs un petit ciel
 
