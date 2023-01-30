@@ -2,8 +2,7 @@
 layout: post
 title: "le soleil s'est levé"
 date: "2020-09-12"
-categories: 
-  - "spirituel"
+categories: "spirituel"
 ---
 
 ce matin, comme une première fois,  
