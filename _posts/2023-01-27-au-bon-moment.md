@@ -25,7 +25,5 @@ sans effort, sans même un seul battement d'ailes
 à une vitesse vertigineuse  
 il s'est enfui hors de ma vue  
 
-confiant d'une puissance invisible  
-quelque part en altitude  
-sa patience le projetait  
-à l'autre extrémité du ciel  
+confiant d'une puissance invisible quelque part en altitude  
+sa patience le projetait à l'autre extrémité du ciel  

@@ -2,12 +2,11 @@
 layout: post
 title: "je marche avec Lui"
 date: "2013-07-20"
-categories: 
-  - "spirituel"
+categories: "spirituel"
 ---
 
-je marche avec Lui  
-dans une fontaine au beau milieu d'un feu tendre
+je marche avec Lui dans une fontaine  
+au beau milieu d'un feu tendre
 
 pris d'altitude  
 le véritable sentiment jaillit  
