@@ -14,5 +14,4 @@ j'en ai besoin comme de l'air
 et les ramasser me semble  
 une tâche ardue
 
-incliné que je suis  
-à rêver
+incliné que je suis à rêver  
