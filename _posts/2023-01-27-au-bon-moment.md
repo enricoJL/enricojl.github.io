@@ -16,6 +16,7 @@ dans une spirale interminable
 prenant de l'altitude tout doucement  
 d'une circonvolution à l'autre  
 
+petit à petit  
 il s'élevait très haut dans le ciel  
 entre les grandes montagnes de l'Ouest  
 
