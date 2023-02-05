@@ -30,12 +30,12 @@ est-ce que tu m'aimes encore ?
 
 en cours de route  
 avec les morceaux qui tombent  
-et nos substances qui s'effritent un peu
-en chemin
+et nos substances qui s'effritent un peu  
+en chemin  
 des fois peu  
 des fois trop  
 en chemin vers...  
-le bout du chemin
+le bout du chemin  
 
 nos deux yeux tournés toujours dans la même direction  
 au beau milieu de nos rêves  
