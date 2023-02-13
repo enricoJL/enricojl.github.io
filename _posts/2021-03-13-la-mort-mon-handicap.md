@@ -2,8 +2,7 @@
 layout: post
 title: "la mort mon handicap"
 date: "2021-03-13"
-categories: 
-  - "poesie"
+categories: "pensees"
 ---
 
 ma maladie c'est la mort  
