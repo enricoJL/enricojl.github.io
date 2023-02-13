@@ -2,8 +2,7 @@
 layout: post
 title: "petit pas de recul"
 date: "2021-12-29"
-categories: 
-  - "poesie"
+categories: "pensees"
 ---
 
 doux moment de répit  
