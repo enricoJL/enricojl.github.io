@@ -2,8 +2,7 @@
 layout: post
 title: "je te suivrai"
 date: "2020-05-11"
-categories: 
-  - "spirituel"
+categories: "spirituel"
 ---
 
 oui, je te suivrai  

@@ -37,7 +37,8 @@ des fois trop
 en chemin vers...  
 le bout du chemin  
 
-nos deux yeux tournés toujours dans la même direction  
+nos deux yeux tournés  
+toujours dans la même direction  
 au beau milieu de nos rêves  
 fixés sur un point fixe
 
