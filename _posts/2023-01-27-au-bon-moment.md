@@ -20,7 +20,7 @@ petit à petit
 il s'élevait très haut dans le ciel  
 entre les grandes montagnes de l'Ouest  
 
-rendu au bon endroit, juste au bon moment  
+rendu au bon endroit, au bon moment  
 déployant très grand ses ailes  
 sans effort, sans même un seul battement d'ailes  
 à une vitesse vertigineuse  
