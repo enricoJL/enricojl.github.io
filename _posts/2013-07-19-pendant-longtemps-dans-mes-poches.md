@@ -21,7 +21,7 @@ et je cherche celui-là dans mes affaires constamment
 
 en fait, je les porte toujours  
 et vous ne les voyez pas  
-mes vieux rêves  
+mes vieux espoirs  
 car ils dorment dans la fibre de mes vêtements
 
 pendant longtemps dans mes poches  
