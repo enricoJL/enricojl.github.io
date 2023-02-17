@@ -2,8 +2,7 @@
 layout: post
 title: "le choc des titans"
 date: "2021-04-02"
-categories: 
-  - "pensees"
+categories: "pensees"
 ---
 
 quand on se voit, l'image que je vois devant moi diffère de celle que tu vois devant toi : forcément, puisque je suis moi et que tu es toi.
