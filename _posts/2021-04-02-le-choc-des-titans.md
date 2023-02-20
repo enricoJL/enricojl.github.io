@@ -40,4 +40,4 @@ inversement, celle que tu penses être toi
 n'est pas la titane que je vois  
 ou que je pense voir quand je te vois
 
--- c'est le choc des titans
+--- c'est le choc des titans
