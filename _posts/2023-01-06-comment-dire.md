@@ -34,7 +34,7 @@ mais comme une fleur qu'on peint frénétiquement
 dans les couleurs d'un beau tableau  
 qui revient, qui revient chaque jour  
 comme un souvenir de toi qui revient  
-chaque jour, de plus en plus beau
+chaque jour de plus en plus beau
 
 quoi dire, quoi faire, comment le dire ?  
 Je t'aime.
