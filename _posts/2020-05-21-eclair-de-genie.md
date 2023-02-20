@@ -9,4 +9,4 @@ coup de génie !
 
 tout est devenu si clair
 
-j'ai compris enfin que je ne comprenais rien
+j'ai enfin compris que je ne comprenais rien
