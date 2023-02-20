@@ -6,15 +6,13 @@ categories:
   - "amore"
 ---
 
-do you feel this substance  
-of something really there  
-really really good and really fine    
+do you feel this  
+substance of something really there  
+really really good and really fine  
 
 do you feel the love  
-do you know from whence it came  
-
+do you know from whence it come  
 I have been searching long for such a feeling  
-this is exactly what I was looking for  
 and I found it between you and me  
 
 can you feel the love  
@@ -27,8 +25,10 @@ or is this true
 do you know  
 
 right in between you and me  
-in the distance between your fears and my hesitations  
-I found it there playing with my mind  
+in the distance between  
+your fears and my hesitations  
+I found it there  
+playing with my mind  
 and it showed me your smile  
 
 that's it! I fell  
