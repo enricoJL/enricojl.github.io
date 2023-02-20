@@ -2,7 +2,7 @@
 layout: post
 title: "ici et maintenant"
 date: "2018-02-27"
-categories: 
+categories:
   - "amore"
 ---
 
@@ -16,8 +16,6 @@ je suis là je te vois
 
 tu es là bien là bien ici je suis ici
 
-je me vois je te vois plus rien ne nous sépare
-
-que de la joie que de la paix que du bonheur
+je te vois je me vois plus rien ne nous sépare
 
 toi et moi ici et maintenant
