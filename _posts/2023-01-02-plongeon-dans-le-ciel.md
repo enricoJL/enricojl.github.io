@@ -9,7 +9,7 @@ categories: spirituel
 épris de vertige au milieu de la nuit  
 la distance étant tellement grande  
 entre nous et les étoiles  
-dans un plongeon dans le ciel  
+dans un plongeon vers le ciel  
 j'ai eu peur de tomber dans le vide  
 
 devant la profondeur de la nuit  
@@ -22,6 +22,4 @@ j'ai vu ma place dans l'ordre des choses
 
 témoin d'une Intelligence Supérieure à l’œuvre  
 je sentais que pour le reste de ma vie  
-je pourrais Lui faire confiance  
-
-
+je pouvais Lui faire confiance  
