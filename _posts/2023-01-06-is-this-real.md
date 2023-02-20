@@ -2,7 +2,7 @@
 layout: post
 title: "is this real?"
 date: "2023-01-06"
-categories: 
+categories:
   - "amore"
 ---
 
@@ -34,12 +34,5 @@ and it showed me your smile
 that's it! I fell  
 knocked down with love  
 I've been in delight ever since  
- 
-do you know what's in those eyes  
-when I look very close to you  
-my face warmed up in another world  
-can you tell me what you see whithin  
 
 is this real love... or what?  
-
-
