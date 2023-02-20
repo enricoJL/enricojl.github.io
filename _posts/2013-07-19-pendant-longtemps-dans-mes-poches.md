@@ -6,7 +6,7 @@ categories: "poesie"
 ---
 
 pendant longtemps dans mes poches  
-mes anciens espoirs ont pris racines
+mes anciens vêtements ont pris racines
 
 je les ai portés si longtemps  
 ils ont habillé ma vie  
@@ -20,8 +20,8 @@ j'ai encore l'habitude de vouloir porter celui-ci
 et je cherche celui-là dans mes affaires constamment
 
 en fait, je les porte toujours  
-car ils dorment dans la fibre de mes vêtements
-et vous ne les voyez pas, mes vieux rêves  
+car ils dorment dans la fibre de mes vêtements  
+et vous ne les voyez pas, mes vieux espoirs  
 
 pendant longtemps dans mes poches  
-mes anciens espoirs ont pris racines
+mes anciens vêtements ont pris racines
