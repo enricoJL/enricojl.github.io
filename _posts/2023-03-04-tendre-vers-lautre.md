@@ -16,5 +16,3 @@ tendre vers l'autre
 en espérant que l'eau soit bonne  
 en espérant que la vie surgisse  
 et qu'elle nous surpasse  
-
-___
