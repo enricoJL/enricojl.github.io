@@ -51,6 +51,5 @@ situé-là
 dans la friction des choses  
 et la dynamique du jeu des acteurs
 
-le vrai monde est ce lieu commun 
-où l'on se croise  
+le vrai monde est ce lieu commun où l'on se croise  
 à l'envers du décors
