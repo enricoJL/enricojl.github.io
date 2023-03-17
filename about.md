@@ -14,4 +14,4 @@ J'aime ressentir le monde à travers le prisme de mes émotions. Je suis fascin�
 
 # The Book of My Testimony
 
-Il s'agit du livre de mon témoignage que je travaille de temps à autre avec l'intention de donner au monde un témoignage pur et vrai des sentiments et des expériences qui m'habitent à propos de Dieu et de ce qu'il fait pour moi dans ma vie.
+Il s'agit du livre de mon témoignage écrit en anglais que je travaille de temps à autre avec l'intention de donner au monde un témoignage pur et vrai des sentiments et des expériences qui m'habitent à propos de Dieu et de ce qu'il fait pour moi dans ma vie.
