@@ -3,7 +3,7 @@ layout: post
 title: "à partir d'ici"
 date: "2020-07-12"
 categories: 
-  - "poesie"
+  - "divers"
 ---
 
 devant moi  

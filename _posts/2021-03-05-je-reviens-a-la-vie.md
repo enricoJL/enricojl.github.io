@@ -2,7 +2,7 @@
 layout: post
 title: "je reviens à la vie"
 date: "2021-03-05"
-categories: "poesie"
+categories: "divers"
 ---
 
 depuis longtemps mort et disparu  

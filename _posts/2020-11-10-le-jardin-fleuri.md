@@ -3,7 +3,7 @@ layout: post
 title: "le jardin fleuri"
 date: "2020-11-10"
 categories: 
-  - "spirituel"
+  - "spirit"
 ---
 
 dans ce jardin fleuri  

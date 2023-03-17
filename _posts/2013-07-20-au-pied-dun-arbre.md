@@ -3,7 +3,7 @@ layout: post
 title: "au pied d'un arbre"
 date: "2013-07-20"
 categories: 
-  - "poesie"
+  - "divers"
 ---
 
 au pied d'un arbre dans un jardin  

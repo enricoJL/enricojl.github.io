@@ -3,7 +3,7 @@ layout: post
 title: "à chaque année Noël"
 date: "2020-12-25"
 categories: 
-  - "spirituel"
+  - "spirit"
 ---
 
 à chaque année Noël

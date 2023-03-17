@@ -3,7 +3,7 @@ layout: post
 title: "inextricable beauté"
 date: "2020-06-12"
 categories: 
-  - "poesie"
+  - "divers"
 ---
 
 la terre s'ébranle encore une fois  

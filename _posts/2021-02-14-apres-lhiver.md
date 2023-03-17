@@ -2,7 +2,7 @@
 layout: post
 title: "après l'hiver"
 date: "2021-02-14"
-categories: "poesie"
+categories: "divers"
 ---
 
 enracinés dans cette terre de vérité  

@@ -3,7 +3,7 @@ layout: post
 title: "Belle cité"
 date: "2021-02-04"
 categories: 
-  - "spirituel"
+  - "spirit"
 ---
 
 D'un soleil Je rêve d'un beau pays  

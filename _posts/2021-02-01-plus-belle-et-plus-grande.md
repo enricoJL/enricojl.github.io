@@ -3,7 +3,7 @@ layout: post
 title: "Plus belle et plus grande"
 date: "2021-02-01"
 categories: 
-  - "poesie"
+  - "divers"
 ---
 
 Dieu l'a mise dans un vase en cristal  

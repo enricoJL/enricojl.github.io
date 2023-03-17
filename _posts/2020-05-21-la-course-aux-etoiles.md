@@ -3,7 +3,7 @@ layout: post
 title: "la course aux étoiles"
 date: "2020-05-21"
 categories: 
-  - "poesie"
+  - "divers"
 ---
 
 j'étais sur une étoile  

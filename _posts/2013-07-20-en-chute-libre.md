@@ -3,7 +3,7 @@ layout: post
 title: "en chute libre"
 date: "2013-07-20"
 categories: 
-  - "poesie"
+  - "divers"
 ---
 
 le terrain de mes yeux s'effondre  

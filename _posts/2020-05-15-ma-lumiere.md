@@ -3,7 +3,7 @@ layout: post
 title: "Ma lumière"
 date: "2020-05-15"
 categories: 
-  - "spirituel"
+  - "spirit"
 ---
 
 Un soir, j'ai regardé des goélands voler dans le ciel jusqu'à ce qu'ils deviennent noirs dans le crépuscule, puis je suis rentrée chez nous pour me réchauffer. En passant à travers la ville, je me suis arrêtée pour prendre un déjeuner. J'avais dans la tête encore les échos des rues quand je suis rentrée et j'ai oublié de te saluer, mon ami.

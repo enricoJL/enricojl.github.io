@@ -2,7 +2,7 @@
 layout: post
 title: "tendre vers l'autre"
 date: "2023-03-04"
-categories: "poesie"
+categories: "divers"
 ---
 
 tendre la main  

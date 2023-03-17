@@ -3,7 +3,7 @@ layout: post
 title: "le colporteur"
 date: "2021-01-26"
 categories:
-  - "poesie"
+  - "divers"
 ---
 
 je vis dans une cage  

@@ -3,7 +3,7 @@ layout: post
 title: "le bout de ma vie"
 date: "2020-05-11"
 categories: 
-  - "poesie"
+  - "divers"
 ---
 
 tranquillement  

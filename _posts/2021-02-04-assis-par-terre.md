@@ -3,7 +3,7 @@ layout: post
 title: "Assis par-terre"
 date: "2021-02-04"
 categories: 
-  - "poesie"
+  - "divers"
 ---
 
 Assis par-terre dans un coin de la ville  

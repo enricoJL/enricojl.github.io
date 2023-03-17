@@ -3,7 +3,7 @@ layout: post
 title: "au-travers d'une cage"
 date: "2020-09-12"
 categories: 
-  - "spirituel"
+  - "spirit"
 ---
 
 un arbre pousse malgré tout au-travers d'une grille  

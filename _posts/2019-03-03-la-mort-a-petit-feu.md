@@ -3,7 +3,7 @@ layout: post
 title: "la mort à petit feu"
 date: "2019-03-03"
 categories: 
-  - "poesie"
+  - "divers"
 ---
 
 la mort à petit feu fait son nid  

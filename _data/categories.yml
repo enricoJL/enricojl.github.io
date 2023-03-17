@@ -1,12 +1,11 @@
-- slug: poesie
-  name: Poèmes divers
+- slug: divers
+  name: Divers
 
 - slug: amore
-  name: Poèmes d'amour
-  
+  name: Amour
+
 - slug: pensees
   name: Pensées
 
-- slug: spirituel
+- slug: spirit
   name: Spiritualité
-

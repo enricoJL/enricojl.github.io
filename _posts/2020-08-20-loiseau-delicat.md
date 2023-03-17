@@ -3,7 +3,7 @@ layout: post
 title: "l'oiseau délicat"
 date: "2020-08-20"
 categories: 
-  - "spirituel"
+  - "spirit"
 ---
 
 entends-tu, mon ami ?  

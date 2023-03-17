@@ -3,7 +3,7 @@ layout: post
 title: "Où sont mes rêves ?"
 date: "2021-03-08"
 categories: 
-  - "spirituel"
+  - "spirit"
 ---
 
 J’ai perdu mes rêves,  

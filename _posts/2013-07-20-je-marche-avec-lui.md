@@ -2,7 +2,7 @@
 layout: post
 title: "je marche avec Lui"
 date: "2013-07-20"
-categories: "spirituel"
+categories: "spirit"
 ---
 
 je marche avec Lui dans une fontaine  
