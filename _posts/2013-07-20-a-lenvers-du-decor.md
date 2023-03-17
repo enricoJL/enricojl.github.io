@@ -2,20 +2,20 @@
 layout: post
 title: "à l'envers du décor"
 date: "2013-07-20"
-categories: 
+categories:
   - "poesie"
 ---
 
 j'ai tout préparé  
 tout y est  
 j'ai tout décoré  
-les murs, les tableaux, les visages... 
+les murs, les tableaux, les visages...  
 tout a été remodelé exactement comme il faut  
 et rien n'a été laissé  
 
 le monde entier peut maintenant y être joué  
 vraiment, je n'ai rien oublié  
-enfin, je pense bien  
+enfin, je pense bien 
 
 Que le spectacle commence !
 
@@ -36,7 +36,7 @@ inutile
 si les acteurs n'en font qu'à leurs têtes  
 et te sabotent toute ta création
 
-la réalité que j'ai créée  
+la réalité que j'ai créée 
 ne colle plus tout à fait sur le décor  
 comment pouvait-il en être autrement ?  
 
@@ -52,6 +52,6 @@ situé-là
 dans la friction des choses  
 et la dynamique du jeu des acteurs
 
-le vrai monde est ce lieu commun  
+le vrai monde est ce lieu commun 
 où l'on se croise  
 à l'envers du décors
