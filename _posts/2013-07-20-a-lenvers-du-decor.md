@@ -2,50 +2,45 @@
 layout: post
 title: "à l'envers du décor"
 date: "2013-07-20"
-categories:
-  - "pensees"
+categories: "pensees"
 ---
 
-j'ai tout préparé  
-tout y est  
+j'ai tout préparé, tout y est  
 j'ai tout décoré  
-les murs, les tableaux, les visages...
+les murs, les tableaux, les visages
 
-tout a été remodelé exactement comme il faut  
-et rien n'a été laissé  
-le monde entier peut maintenant y être joué  
+tout a été remodelé 
+exactement comme il faut  
+rien n'a été laissé de côté  
+tout peut maintenant y être joué  
 vraiment, je n'ai rien oublié  
-
 enfin, je pense bien... 
 
-que le spectacle commence !
+Que le spectacle commence !
 
-mais voilà que  
-malencontreusement  
+mais voilà que, malencontreusement  
 le jeu des acteurs ne correspond plus  
-j'avais tout organisé dans un sens  
-et rien ne va plus  
-c'est la comédie !  
+j'avais tout organisé pour une tragédie  
+mais rien ne va plus  
+C'est la comédie !  
 
 le jeu se dégage du décor  
 tout ce travail de conception  
-inutile
+complètement inutile
 
-à quoi bon donner le sens aux choses  
-à m'épuiser à remodeler le monde  
+à quoi bon m'épuiser à remodeler le monde  
 si les acteurs n'en font qu'à leurs têtes  
 et te sabotent toute ta création
 
 la réalité que j'ai créée 
 ne colle plus sur le décor  
-
 et comment pouvait-il en être autrement ?  
 
 en réalité le monde n'est pas tel qu'il est  
 mais l'amalgame des mondes tels qu'on les voit
 
-ou plutôt, pour être plus juste  
-disons que le vrai monde se trouve au milieu  
+ou plutôt, disons que le vrai monde  
+se trouve au milieu  
 entre les choses que l'on voit  
 situé-là  
 dans la friction des choses  
