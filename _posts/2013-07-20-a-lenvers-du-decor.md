@@ -36,15 +36,13 @@ la réalité que j'ai créée 
 ne colle plus sur le décor  
 et comment pouvait-il en être autrement ?  
 
-en réalité le monde n'est pas tel qu'il est  
+en réalité le monde n'est pas tel qu'il est perçu  
 mais l'amalgame des mondes tels qu'on les voit
 
-ou plutôt, disons que le vrai monde  
-se trouve au milieu  
+le vrai monde se trouve au milieu  
 entre les choses que l'on voit  
-situé-là  
-dans la friction des choses  
+situé-là dans la friction des choses  
 et la dynamique du jeu des acteurs
 
 le vrai monde est ce lieu commun où l'on se croise  
-à l'envers du décors
+à l'envers du décor
