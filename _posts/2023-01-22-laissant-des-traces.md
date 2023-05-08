@@ -10,7 +10,7 @@ des bribes de vérité nous habitent
 et le temps qui souffle  
 les efface petit à petit  
 
-des étincelles restent sur le roc  
+des étincelles restent pourtant sur le roc  
 comme des cristaux du passé  
 témoins d'événements incrustés  
 
@@ -21,4 +21,3 @@ dévoilant leur vérité
 
 souvenirs altérés  
 passage obligé  
-
