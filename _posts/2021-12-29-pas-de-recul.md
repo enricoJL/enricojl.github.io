@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "petit pas de recul"
+title: "pas de recul"
 date: "2021-12-29"
 categories: "pensees"
 ---
