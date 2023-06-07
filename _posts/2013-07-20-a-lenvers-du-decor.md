@@ -9,7 +9,7 @@ j'ai tout préparé, tout y est
 j'ai tout décoré  
 les murs, les tableaux, les visages
 
-tout a été remodelé 
+tout a été remodelé  
 exactement comme il faut  
 rien n'a été laissé de côté  
 tout peut maintenant y être joué  
@@ -32,7 +32,7 @@ complètement inutile
 si les acteurs n'en font qu'à leurs têtes  
 et te sabotent toute ta création
 
-la réalité que j'ai créée 
+la réalité que j'ai créée  
 ne colle plus sur le décor  
 et comment pouvait-il en être autrement ?  
 
