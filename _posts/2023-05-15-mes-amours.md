@@ -8,7 +8,7 @@ published: true
 
 sans être toujours confortables  
 
-mes désirs me ramènent toujours  
+mes désirs m'y ramènent toujours  
 
 à l'intérieur  
 
