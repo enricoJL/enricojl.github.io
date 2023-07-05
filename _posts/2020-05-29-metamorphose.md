@@ -2,7 +2,7 @@
 layout: post
 title: "métamorphose"
 date: "2020-05-29"
-categories: 
+categories:
   - "amore"
 ---
 
@@ -13,4 +13,4 @@ sans jamais s’arrêter
 la métamorphose
 
 mondes innombrables  
-multitudes tendresses en formation
+multitudes en formation
