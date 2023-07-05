@@ -7,8 +7,6 @@ categories: "pensees"
 
 coup de génie !  
 
-tout est devenu si clair
+tout est devenu si clair tout à coup  
 
-j'ai enfin compris  
-
-que je ne comprenais rien
+j'ai enfin compris que je ne comprenais rien
