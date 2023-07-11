@@ -7,7 +7,7 @@ published: true
 ---
 
 agir en toute vérité  
-mordre dedans  
+y mordre à pleines dents  
 et déguster la joie de vivre  
 simplement  
 sans tromper personne  
