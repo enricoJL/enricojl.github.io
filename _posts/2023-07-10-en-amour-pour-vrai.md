@@ -3,7 +3,7 @@ layout: post
 title: "en amour pour vrai"
 date: "2023-07-10"
 categories: "amore"
-published: false
+published: true
 ---
 
 agir en toute vérité  
@@ -27,4 +27,5 @@ constant
 vrai pour soi-même  
 vrai pour autrui  
 vrai pour toujours  
+
 en amour avec toi  
