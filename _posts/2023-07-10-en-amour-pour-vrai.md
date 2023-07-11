@@ -8,8 +8,7 @@ published: true
 
 agir en toute vérité  
 mordre dedans  
-et déguster  
-la joie de vivre  
+et déguster la joie de vivre  
 simplement  
 sans tromper personne  
 
