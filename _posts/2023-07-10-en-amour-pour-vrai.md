@@ -8,11 +8,11 @@ published: true
 
 agir en toute vérité  
 simplement  
-sans tromper personne  
+sans tromper  
 
 croire  
 en toute gentillesse  
-sans chercher à faire du mal    
+sans faire de mal    
 
 être vrai dans le passé  
 comme dans l'avenir  
@@ -23,4 +23,5 @@ constant
 vrai pour soi-même  
 vrai pour autrui  
 vrai pour toujours  
+
 en amour avec toi  
