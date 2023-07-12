@@ -12,8 +12,7 @@ sans tromper personne
 
 croire  
 en toute gentillesse  
-sans faire de mal  
-à personne  
+sans chercher à faire du mal    
 
 être vrai dans le passé  
 comme dans l'avenir  
