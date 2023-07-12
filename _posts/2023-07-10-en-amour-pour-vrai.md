@@ -23,5 +23,4 @@ constant
 vrai pour soi-même  
 vrai pour autrui  
 vrai pour toujours  
-
 en amour avec toi  
