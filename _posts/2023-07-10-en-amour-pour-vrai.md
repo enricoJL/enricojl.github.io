@@ -8,11 +8,11 @@ published: true
 
 agir en toute vérité  
 simplement  
-sans tromper  
+sans tromper personne  
 
 croire  
 en toute gentillesse  
-sans faire de mal    
+sans faire de mal  
 
 être vrai dans le passé  
 comme dans l'avenir  
