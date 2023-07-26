@@ -33,7 +33,7 @@ profondément
 
 étendre le regard  
 loin  
-très loin même  
-espérer au-delà !  
+très loin même !  
+espérer au-delà  
 
 et reconstruire le vide  
