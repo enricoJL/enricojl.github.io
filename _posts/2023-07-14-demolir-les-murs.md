@@ -17,7 +17,6 @@ permettre à chacun d'agir
 défoncer  
 abolir  
 tout détruire  
-ne rien garder  
 tout jeter par terre  
 
 choisir  
@@ -35,6 +34,6 @@ profondément
 étendre le regard  
 loin  
 très loin même  
-espérer au-delà  
+et espérer au-delà  
 
-et reconstruire le vide  
+reconstruire le vide  
