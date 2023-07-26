@@ -34,6 +34,6 @@ profondément
 étendre le regard  
 loin  
 très loin même  
-et espérer au-delà  
+espérer au-delà  
 
 reconstruire le vide  
