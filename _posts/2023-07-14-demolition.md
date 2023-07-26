@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "démolir les murs"
+title: "démolition"
 date: "2023-07-25"
 categories: "divers"
 published: true
