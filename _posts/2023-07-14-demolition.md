@@ -25,9 +25,9 @@ deux pas
 et revenir en arrière  
 sans craindre les représailles  
 
-entrer dans la danse  
-libérer le plancher  
 faire de la place  
+libérer le plancher  
+entrer dans la danse  
 et quand tout est fini  
 respirer l'air qui passe  
 profondément  
