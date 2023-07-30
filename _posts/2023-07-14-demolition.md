@@ -28,6 +28,7 @@ sans craindre les représailles
 faire de la place  
 libérer le plancher  
 entrer dans la danse  
+
 et quand tout est fini  
 respirer l'air qui passe  
 profondément  
