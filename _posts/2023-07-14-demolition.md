@@ -28,7 +28,8 @@ sans craindre les représailles
 entrer dans la danse  
 libérer le plancher  
 faire de la place  
-et respirer l'air qui passe  
+et quand tout est fini  
+respirer l'air qui passe  
 profondément  
 
 étendre le regard  
