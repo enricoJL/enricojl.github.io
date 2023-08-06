@@ -8,8 +8,8 @@ published: true
 
 je vis à côté d'un grand tilleul  
 
-chaque printemps  
-il se dépêche de fleurir  
+à chaque printemps  
+il s'empresse de fleurir  
 sa sève en abondance  
 son énergie débordante  
 tout l'été  
@@ -17,7 +17,7 @@ des centaines d'oiseaux
 et des milliers d'insectes  
 y viennent pour se nourrir  
 
-quand je suis assis tranquille  
+quand je suis tranquille  
 à ses côtés je peux sentir  
 sa lumière se déverser  
 
