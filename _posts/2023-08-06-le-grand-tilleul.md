@@ -18,8 +18,8 @@ et des milliers d'insectes
 y viennent pour se nourrir  
 
 quand je suis tranquille  
-à ses côtés je peux sentir  
-sa lumière se déverser  
+à ses côtés je peux ressentir  
+son amour se déverser  
 
 sa vitalité et sa générosité  
-m'inspire à faire de même  
+m'inspirent à faire de même  
