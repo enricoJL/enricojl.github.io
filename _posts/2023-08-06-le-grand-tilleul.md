@@ -21,5 +21,6 @@ tout l'été
 tranquille à ses côtés  
 je peux ressentir sa lumière  
 sa vitalité et sa générosité  
+
 comme Dieu  
 il m'inspirent à faire de même  
