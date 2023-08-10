@@ -7,19 +7,18 @@ published: true
 ---
 
 je vis à côté d'un grand tilleul  
-
-à chaque printemps  
+dès le printemps  
 il s'empresse de fleurir  
-sa sève en abondance  
-son énergie débordante  
-tout l'été  
-des centaines d'oiseaux  
-et des milliers d'insectes  
+sa sève coule en abondance  
+son énergie toujours débordante  
+
+des milliers d'insectes  
+et des centaines d'oiseaux  
 y viennent pour se nourrir  
+tout l'été  
 
-quand je suis tranquille  
-à ses côtés je peux ressentir  
-son amour se déverser  
-
+tranquille à ses côtés  
+je peux ressentir sa lumière  
 sa vitalité et sa générosité  
-m'inspirent à faire de même  
+comme Dieu  
+il m'inspirent à faire de même  
