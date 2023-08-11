@@ -23,4 +23,4 @@ je peux ressentir sa lumière
 sa vitalité et sa générosité  
 
 comme Dieu  
-il m'inspirent à faire de même  
+il m'inspirent à faire pareil  
