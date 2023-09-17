@@ -32,6 +32,7 @@ entrer dans la danse
 et quand tout est fini  
 respirer l'air qui passe  
 profondément  
+
 étendre le regard  
 loin  
 très loin même !  
