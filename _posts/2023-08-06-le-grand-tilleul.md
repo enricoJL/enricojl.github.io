@@ -3,15 +3,15 @@ layout: post
 title: "le grand tilleul"
 date: "2023-08-06"
 categories: "divers"
-published: true
+published: false
 ---
 
-je vis à côté d'un grand tilleul  
-
 dès le printemps  
-il s'empresse de fleurir  
-sa sève coule en abondance  
-son énergie toujours débordante  
+ses fleurs bénéfiques nombreuses  
+procurent des huiles essentielles  
+
+sa sève coule à profusion  
+son énergie débordante
 
 des milliers d'insectes  
 et des centaines d'oiseaux  
