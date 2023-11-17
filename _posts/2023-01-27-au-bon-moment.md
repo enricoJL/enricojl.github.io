@@ -2,7 +2,7 @@
 layout: post
 title: "au bon moment"
 date: "2023-01-27"
-categories: "divers"
+categories: "spirit"
 published: true
 ---
 
