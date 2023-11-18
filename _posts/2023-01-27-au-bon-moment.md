@@ -23,4 +23,4 @@ sans effort, sans même un seul battement d'ailes
 il s'éloigna hors de ma vie  
 
 confiant d'une puissance invisible quelque part en altitude  
-sa patience le projetant à l'autre extrémité du ciel  
+sa patience le projeta à l'autre extrémité du ciel  
