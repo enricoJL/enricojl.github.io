@@ -6,25 +6,21 @@ categories: "spirit"
 published: true
 ---
 
-à côté de moi dans les airs  
+entre les grandes montagnes de l'Ouest  
+au-dessus de moi dans les airs  
 volait un aigle en faisant des ronds  
 
-non ! il ne perdait pas son temps  
-
-je l'ai observé longtemps  
+je l'observai longtemps  
 dans une spirale interminable  
 prenant de l'altitude tout doucement  
 d'une circonvolution à l'autre  
-
-petit à petit  
-il s'élevait très haut dans le ciel  
-entre les grandes montagnes de l'Ouest  
+et s'élevant très haut dans le ciel  
 
 rendu au bon endroit, au bon moment  
 déployant très grand ses ailes  
 sans effort, sans même un seul battement d'ailes  
 à une vitesse vertigineuse  
-il s'est enfui hors de ma vue  
+il s'éloigna hors de ma vie  
 
 confiant d'une puissance invisible quelque part en altitude  
-sa patience le projetait à l'autre extrémité du ciel  
+sa patience le projetant à l'autre extrémité du ciel  
