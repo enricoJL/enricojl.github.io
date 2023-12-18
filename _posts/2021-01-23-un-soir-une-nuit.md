@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "un soir, une nuit"
+title: "un soir"
 date: "2021-01-23"
 categories:
   - "amore"
