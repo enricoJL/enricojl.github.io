@@ -10,6 +10,4 @@ sans être toujours confortables
 
 mes désirs m'y ramènent toujours  
 
-à l'intérieur  
-
 auprès de mes amours  
