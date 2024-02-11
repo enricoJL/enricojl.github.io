@@ -15,10 +15,9 @@ as-tu vraiment l'intention de faire
 tout ce que tu fais  
 que cherches-tu ?  
 
-où as-tu placé mon cœur  
-te revient-il  
-ou me reviendra-t-il  
-pourquoi l'as-tu garroché si loin de toi  
-reviendra-t-il un jour ?
+où as-tu placé ton cœur  
+me revient-il  
+pourquoi l'as-tu garroché si loin de moi  
+va-t-il me revenir ?
 
 j'ose encore espéré que oui  
