@@ -19,7 +19,6 @@ ton œil avec le mien
 fixés tous les deux  
 dans la même direction  
 toujours ensemble  
-encore ensemble  
 
 mon amour  
 mon doux pétale fragile  
