@@ -9,7 +9,8 @@ published: true
 c'est quoi ton intention ?  
 dis moi  
 parce que je ne comprends pas  
-ce qui se passe n'a plus de sens  
+ce qui se passe  
+ça n'a plus de sens  
 
 as-tu vraiment envie de dire ce que tu dis  
 as-tu vraiment l'intention de faire  
