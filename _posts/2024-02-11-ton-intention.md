@@ -18,7 +18,7 @@ que cherches-tu ?
 
 où as-tu placé mon cœur  
 te revient-il  
-ou me reviendra-t-il ?  
+ou me reviendra-t-il  
 pourquoi l'as-tu garroché si loin de toi  
 reviendra-t-il un jour ?
 
