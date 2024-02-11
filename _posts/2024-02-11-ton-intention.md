@@ -8,21 +8,19 @@ published: true
 
 c'est quoi ton intention ?  
 dis moi  
-parce que je ne comprends pas  
+parce que je ne comprends plus  
 ce qui se passe  
-ça n'a plus de sens  
+ça n'a pas de sens  
 
 as-tu vraiment envie de dire ce que tu dis  
 as-tu vraiment l'intention de faire  
-tout ce que tu dis  
+tout ce que tu fais  
 que cherches-tu ?  
 
 où as-tu placé ton cœur  
 me revient-il  
 ou me reviendra-t-il ?  
-
-pourquoi l'as-tu garroché  
-si loin de moi  
+pourquoi l'as-tu garroché si loin de toi  
 reviendra-t-il un jour ?
 
 j'ose encore espéré que oui  
