@@ -20,7 +20,7 @@ que cherches-tu ?
 où as-tu placé ton cœur  
 me revient-il  
 ou me reviendra-t-il ?  
-pourquoi l'as-tu garroché si loin de toi  
+pourquoi l'as-tu garroché si loin de moi  
 reviendra-t-il un jour ?
 
 j'ose encore espéré que oui  
