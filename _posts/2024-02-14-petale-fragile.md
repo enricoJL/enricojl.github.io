@@ -9,7 +9,7 @@ published: true
 mon amour  
 mon doux pétale fragile  
 ma patience  
-ma douce espérance candide  
+ma tendre espérance candide  
 
 j'attends l'inexplicable  
 je sais  
