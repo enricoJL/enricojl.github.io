@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "quelle intention ?"
+title: "intention"
 date: "2024-02-11"
 categories: "amore"
 published: true
