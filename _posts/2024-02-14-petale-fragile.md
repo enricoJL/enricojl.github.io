@@ -12,6 +12,7 @@ ma patience
 ma tendre espérance candide  
 
 en attendant l'inexplicable  
+malgré nos différents  
 je sais  
 
 je vois  
