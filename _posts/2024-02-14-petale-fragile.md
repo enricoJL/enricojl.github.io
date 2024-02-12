@@ -11,14 +11,15 @@ mon doux pétale fragile
 ma patience  
 ma tendre espérance candide  
 
-j'attends l'inexplicable  
+en attendant l'inexplicable  
+j'accepte nos différents  
 je sais  
+
 je vois  
 ton œil avec le mien  
-
 fixés tous les deux  
-dans la même direction  
-toujours ensemble  
+dans la même direction
+encore et toujours ensemble  
 
 mon amour  
 mon doux pétale fragile  
