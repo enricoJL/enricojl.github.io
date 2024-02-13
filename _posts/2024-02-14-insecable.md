@@ -20,7 +20,7 @@ en attendant l'insécable
 nos expériences enlacées  
 comme les pétales d'une rose  
 en toute patience  
-qui embaume  
+embaument  
 une tendre espérance candide  
 
 mon amour  
