@@ -21,7 +21,7 @@ nos expériences enlacées
 comme les pétales d'une rose  
 en toute patience  
 embaument  
-ma tendre espérance candide  
+une tendre espérance candide  
 
 mon amour  
 mon doux pétale fragile  
