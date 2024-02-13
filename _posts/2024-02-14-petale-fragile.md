@@ -8,18 +8,20 @@ published: false
 
 mon amour  
 mon doux pétale fragile  
-ma patience  
-ma tendre espérance candide  
 
-en attendant l'inexplicable  
 malgré nos différents  
-je sais  
-
 je vois  
 ton œil avec le mien  
 fixés tous les deux  
 dans la même direction
 toujours ensemble  
+
+en attendant l'insécable  
+nos expériences enlacées  
+comme les pétales d'une rose  
+en toute patience  
+embaument  
+ma tendre espérance candide  
 
 mon amour  
 mon doux pétale fragile  
