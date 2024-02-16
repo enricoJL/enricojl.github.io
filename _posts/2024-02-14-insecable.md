@@ -13,7 +13,7 @@ dans la même direction
 
 en attendant l'insécable  
 nos espérances enlacées  
-comme les pétales d'une rose  
+sur les pétales d'une rose  
 en toute patience  
 
 mon amour  
