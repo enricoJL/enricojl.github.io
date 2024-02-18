@@ -16,7 +16,7 @@ en toute patience
 en attendant l'insécable  
 
 malgré nos différents  
-nos tendres espérances candides
+nos tendres espérances candides  
 enlacées dans la chambre d'une rose  
 
 mon amour  
