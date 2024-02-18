@@ -38,4 +38,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      category_name: "none"
