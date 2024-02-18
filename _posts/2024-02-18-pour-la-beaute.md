@@ -24,7 +24,6 @@ dans le creux du monde
 dans le souffle et les aspirations  
 entre les battements des amours  
 et sur les lèvres  
-
 que mes paroles s'élèvent  
 au gré du vent  
 qu'elles aspirent tout  
@@ -34,4 +33,4 @@ et m'amener jusqu'à lui
 pour qu'elle puisse s'y blottir  
 pour que la beauté du monde y croisse  
 par la grâce  
-sur le chemin du poète  
+sur le chemin de la poésie  
