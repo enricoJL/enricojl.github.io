@@ -9,10 +9,10 @@ layout: default
 </div>
 
 {% if page.previous %}
-  <a href="{{ page.previous.url }}" class="post-nav prev"><span class="arrow">&larr;</span> {{ page.previous.title }}</a>
+  <a href="{{ page.previous.url }}" class="post-nav prev"><span class="fa fa-angle-lefg">&larr;</span> {{ page.previous.title }}</a>
 {% endif %}
 {% if page.next %}
-  <a href="{{ page.next.url }}" class="post-nav next">{{ page.next.title }} <span class="arrow">&rarr;</span></a>
+  <a href="{{ page.next.url }}" class="post-nav next">{{ page.next.title }} <span class="fa fa-angle-right">&rarr;</span></a>
 {% endif %}
 
 {% include post/about.html %}
