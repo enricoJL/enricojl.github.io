@@ -10,10 +10,10 @@ mon amour
 mon doux pétale fragile  
 
 en attendant l'insécable  
+en toute patience  
 mon œil se couche avec le tien  
 toujours ensemble  
 dans la même direction  
-en toute patience  
 
 malgré nos différents  
 nos tendres espérances candides  
