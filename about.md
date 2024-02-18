@@ -10,6 +10,8 @@ permalink: /apropos/
 
 J'aime ressentir le monde à travers le prisme de mes émotions. Je suis fasciné par le cœur humain et j'utilise mes sentiments comme une tour d'observation.
 
-Dans ce laboratoire expérimental où je tente de capturer mes observations en utilisant des mots, des images et des concepts qui se fracassent, se combinent ou s'enchevêtrent, j'explore les différentes émotions, pensées et sentiments qui m'habitent ; et je les démêle et les arrange de manière à ce que ce soit beau.
+Avec ce recueil de poésie, dans ce laboratoire expérimental, je tente de capturer mes observations en utilisant des mots, des images et des concepts qui se fracassent, se combinent ou s'enchevêtrent, j'explore les différentes émotions, pensées et sentiments qui m'habitent ; et je les démêle et les arrange de manière à ce que ce soit beau.
 
-**The Book of My Testimony** est un livre en cours de rédaction en anglais que je travaille de temps à autre, avec l'intention de l'offrir en témoignage des sentiments qui m'habitent à propos de Dieu et de ce qu'il fait pour moi dans ma vie.
+------
+
+**The Book of My Testimony** est un livre en cours de rédaction que je travaille de temps à autre, avec l'intention de l'offrir comme un témoignage des sentiments qui m'habitent à propos de Dieu et de ce qu'il fait pour moi dans ma vie.
