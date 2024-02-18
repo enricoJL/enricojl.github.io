@@ -11,12 +11,14 @@ layout: default
 
 {% include post/about.html %}
 
-{% if page.previous %}
-  <a href="{{ page.previous.url }}" class="post-nav prev"><span class="fa fa-angle-left">&nbsp;</span> {{ page.previous.title }}</a>
-{% endif %}
-&nbsp;—&nbsp;
-{% if page.next %}
-  <a href="{{ page.next.url }}" class="post-nav next">{{ page.next.title }} <span class="fa fa-angle-right">&nbsp;</span></a>
-{% endif %}
+<dif class="about">
+  {% if page.previous %}
+    <a href="{{ page.previous.url }}" class="post-nav prev"><span class="fa fa-angle-left">&nbsp;</span> {{ page.previous.title }}</a>
+  {% endif %}
+  |
+  {% if page.next %}
+    <a href="{{ page.next.url }}" class="post-nav next">{{ page.next.title }} <span class="fa fa-angle-right">&nbsp;</span></a>
+  {% endif %}
+</div>
 
 {% include externals/disqus.html %}
