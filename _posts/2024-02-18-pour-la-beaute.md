@@ -1,0 +1,37 @@
+---
+layout: post
+title: "pour la beauté du monde"
+date: "2024-02-18"
+categories: "divers"
+published: true
+---
+
+qu'ils la prennent ma poésie  
+que les gens se l'arrachent  
+qu'ils en volent les mots  
+et qu'ils s'approprient mes paroles  
+sans dérangement aucun  
+
+que mes paroles s'envolent  
+qu'elles se retrouvent dans les livres  
+qu'elles voyagent dans les conversations  
+qu'elles se propulsent aux bouts des doigts  
+pour atteindre le monde  
+et traverser les écrans  
+
+au cœur du monde  
+dans le creux du monde  
+dans le souffle et les aspirations  
+entre les battements des amours  
+sur les lèvres des amants  
+
+que mes paroles s'élèvent  
+au gré du vent  
+qu'elles aspirent tout  
+pour s'élever jusqu'à toi  
+et m'amener jusqu'à lui  
+
+pour qu'elle puisse s'y blottir  
+pour que la beauté du monde y croisse  
+dans la poésie  
+sur le chemin de la grâce  
