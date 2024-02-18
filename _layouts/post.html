@@ -8,6 +8,12 @@ layout: default
     {{ content }}
 </div>
 
+{% if page.previous %}
+  <a href="{{ page.previous.url }}" class="post-nav prev"><span class="arrow">&larr;</span> {{ page.previous.title }}</a>
+{% endif %}
+{% if page.next %}
+  <a href="{{ page.next.url }}" class="post-nav next">{{ page.next.title }} <span class="arrow">&rarr;</span></a>
+{% endif %}
 
 {% include post/about.html %}
 
