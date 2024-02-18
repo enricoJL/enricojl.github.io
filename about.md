@@ -14,4 +14,4 @@ Avec ce recueil de poésie, dans ce laboratoire expérimental, je tente de captu
 
 ------
 
-**The Book of My Testimony** est un livre en cours de rédaction que je travaille de temps à autre, avec l'intention de l'offrir comme témoignage des sentiments qui m'habitent à propos de Dieu et de ce qu'il fait pour moi dans ma vie.
+[The Book of My Testimony](https://enricojl.github.io/bomt/) est un livre en cours de rédaction que je travaille de temps à autre, avec l'intention de l'offrir comme témoignage des sentiments qui m'habitent à propos de Dieu et de ce qu'il fait pour moi dans ma vie.
