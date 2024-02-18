@@ -10,7 +10,7 @@ mon amour
 mon doux pétale fragile  
 
 en attendant l'insécable  
-ton œil se couche avec le mien  
+mon œil se couche avec le tien  
 toujours ensemble  
 dans la même direction  
 en toute patience  
