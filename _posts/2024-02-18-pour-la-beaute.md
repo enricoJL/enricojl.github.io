@@ -23,7 +23,7 @@ au cœur du monde
 dans le creux du monde  
 dans le souffle et les aspirations  
 entre les battements des amours  
-sur les lèvres des amants  
+et sur les lèvres des amants  
 
 que mes paroles s'élèvent  
 au gré du vent  
