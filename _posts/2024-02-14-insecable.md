@@ -6,15 +6,18 @@ categories: "amore"
 published: true
 ---
 
-malgré nos différents  
-ton œil avec le mien  
+mon amour  
+mon doux pétale fragile  
+
+ton œil couche avec le mien  
 toujours ensemble  
 dans la même direction  
-
-en attendant l'insécable  
-nos espérances enlacées  
-dans les pétales d'une rose  
 en toute patience  
+en attendant l'insécable  
+
+malgré nos différents  
+nos tendres espérances candides
+enlacées dans la chambre d'une rose  
 
 mon amour  
 mon doux pétale fragile  
