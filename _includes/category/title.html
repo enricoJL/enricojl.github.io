@@ -1,6 +1,7 @@
 {% for category in site.data.categories %}
   {% if category.slug == page.category %}
     {% assign category_name =  category.name %}
+    {% site.category_name = category.name %}
   {% endif %}
 {% endfor %}
 
