@@ -21,6 +21,8 @@ layout: default
   {% endif %}
 </div>
 
-{{ nav_category }}
+{% if nav_category %}
+  {{ page.categories.first }}
+{% endif %}
 
 {% include externals/disqus.html %}
