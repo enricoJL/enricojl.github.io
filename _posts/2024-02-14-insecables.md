@@ -9,16 +9,17 @@ published: true
 mon amour  
 mon doux pétale fragile  
 
-ton œil couche avec le mien  
+en attendant l'insécable  
+ton œil se couche avec le mien  
 toujours ensemble  
 dans la même direction  
 en toute patience  
-en attendant l'insécable  
 
 malgré nos différents  
 nos tendres espérances candides  
 demeurent enlacées  
-bien ancrées dans la chambre d'une rose  
+bien ancrées  
+dans la chambre d'une rose  
 
 mon amour  
 mon doux pétale fragile  
