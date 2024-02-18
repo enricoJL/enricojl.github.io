@@ -7,7 +7,7 @@ layout: default
     {% assign empty_category = true %}
     {% for post in site.posts %}
     	{% assign date_english = post.date | date: "%d %B %Y" %}
-		{% include date-french.html %}
+		  {% include date-french.html %}
         {% if post.categories contains page.category %}
             <li class="post-teaser">
                 <a href="{{ post.url | prepend: site.baseurl }}">
@@ -17,6 +17,7 @@ layout: default
                 </a>
             </li>
             {% assign empty_category = false %}
+            {% assign nav_category = true %}
         {% endif %}
     {% endfor %}
 

@@ -10,10 +10,12 @@ sitemap:
 	<img src="{{site.baseurl}}/assets/transparent.png" width="40%">
 </center>-->
 
+{% assign nav_category = false %}
+
 <ul class="list-posts">
     {% for post in site.posts %}
     	{% assign date_english = post.date | date: "%d %B %Y" %}
-		{% include date-french.html %}    
+		  {% include date-french.html %}
         <li class="post-teaser">
             <a href="{{ post.url | prepend: site.baseurl }}">
                 <span class="post-teaser__title">{{ post.title }}</span>
