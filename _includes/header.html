@@ -45,15 +45,4 @@
             </a>
         {% endif %}
     </ul>
-    
-    <!-- navigate -->
-    {% if page.previous %}
-        <link rel="prev" href="{{site.baseurl}}{{page.previous.url}}" />
-    {% else %}
-        <link rel="prev" href="{{site.baseurl}}/" />
-    {% endif %}
-
-    {% if page.next %}
-        <link rel="next" href="{{site.baseurl}}{{page.next.url}}" />
-    {% endif %}
 </header>
