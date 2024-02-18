@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "insécable"
+title: "insécables"
 date: "2024-02-14"
 categories: "amore"
 published: true
