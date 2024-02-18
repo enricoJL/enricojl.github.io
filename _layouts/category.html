@@ -10,7 +10,7 @@ layout: default
 		  {% include date-french.html %}
         {% if post.categories contains page.category %}
             <li class="post-teaser">
-                <a href="{{ post.url | prepend: site.baseurl }}?category={{ page.category }}">
+                <a href="{{ post.url | prepend: site.baseurl }}?param1={{ page.category }}">
                     <span class="post-teaser__title">{{ post.title }}</span>
                     <!--<span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>-->
                     <span class="post-teaser__date">{{ date_french }}</span>
