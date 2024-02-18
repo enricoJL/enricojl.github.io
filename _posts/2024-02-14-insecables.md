@@ -17,8 +17,8 @@ en attendant l'insécable
 
 malgré nos différents  
 nos tendres espérances candides  
-demeurent  
-enlacées dans la chambre d'une rose  
+demeurent enlacées  
+bien ancrées dans la chambre d'une rose  
 
 mon amour  
 mon doux pétale fragile  
