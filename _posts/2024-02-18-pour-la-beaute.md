@@ -16,14 +16,14 @@ que mes paroles s'envolent
 qu'elles se retrouvent dans les livres  
 qu'elles voyagent dans les conversations  
 qu'elles se propulsent aux bouts des doigts  
-pour atteindre le monde  
+pour atteindre les mondes  
 et traverser les écrans  
 
 au cœur du monde  
 dans le creux du monde  
 dans le souffle et les aspirations  
 entre les battements des amours  
-et sur les lèvres des amants  
+et sur les lèvres  
 
 que mes paroles s'élèvent  
 au gré du vent  
@@ -33,5 +33,5 @@ et m'amener jusqu'à lui
 
 pour qu'elle puisse s'y blottir  
 pour que la beauté du monde y croisse  
-dans la poésie  
-sur le chemin de la grâce  
+par la grâce  
+sur le chemin du poète  
