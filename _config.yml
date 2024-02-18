@@ -31,10 +31,3 @@ exclude: ["README.md", "README.html"]
 # Build settings
 #highlighter: null
 #markdown: kramdown
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
