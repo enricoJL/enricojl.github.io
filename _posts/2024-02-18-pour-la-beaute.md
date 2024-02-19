@@ -9,7 +9,8 @@ published: true
 qu'ils la prennent ma poésie  
 que les gens se l'arrachent  
 qu'ils en volent les mots  
-et qu'ils s'approprient mes paroles   
+et qu'ils s'approprient mes paroles  
+
 que mes paroles s'envolent  
 qu'elles se retrouvent dans les livres  
 qu'elles voyagent dans les conversations  
