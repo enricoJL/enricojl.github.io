@@ -31,5 +31,4 @@ et m'amener jusqu'à lui
 
 pour qu'elle puisse s'y blottir  
 pour que la beauté du monde y croisse  
-par la grâce  
-sur le chemin de la poésie  
+sur l'allée de la poésie  
