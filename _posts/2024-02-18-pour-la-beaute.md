@@ -27,8 +27,8 @@ que mes paroles s'élèvent
 au gré du vent  
 qu'elles aspirent tout  
 pour s'élever jusqu'à toi  
-et m'amener jusqu'à lui  
+et l'amener jusqu'à lui  
 
 pour qu'elle puisse s'y blottir  
-pour que la beauté du monde y croisse  
+et que la beauté du monde y croisse  
 sur l'allée de la poésie  
