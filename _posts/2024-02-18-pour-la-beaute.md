@@ -6,16 +6,16 @@ categories: "divers"
 published: true
 ---
 
-qu'ils la prennent ma poésie  
+qu'ils la prennent la poésie  
 que les gens se l'arrachent  
-qu'ils en volent les mots  
-et s'approprient mes paroles  
+qu'ils partent avec les mots  
+et s'approprient ses paroles  
 
-que mes paroles s'envolent  
-qu'elles se retrouvent dans les livres  
-qu'elles voyagent dans les conversations  
-qu'elles se propulsent aux bouts des doigts  
-pour atteindre les mondes  
+qu'elle s'envole  
+qu'elle voyage  
+dans les conversations  
+qu'elle se propulse  
+pour atteindre le monde  
 et traverser les écrans  
 
 au cœur du monde  
@@ -23,7 +23,7 @@ dans le creux du monde
 dans le souffle et les aspirations  
 entre les battements des amours  
 et sur les lèvres  
-que mes paroles s'élèvent  
+que ses paroles s'élèvent  
 au gré du vent  
 qu'elles aspirent tout  
 pour s'élever jusqu'à toi  
