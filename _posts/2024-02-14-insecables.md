@@ -11,7 +11,7 @@ mon doux pétale fragile
 
 en attendant l'insécable  
 en toute patience  
-ton œil s'ouvre avec le mien  
+mon œil s'ouvre avec le tien  
 toujours ensemble  
 dans la même direction  
 
