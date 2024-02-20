@@ -25,10 +25,9 @@ entre les battements des amours
 et sur les lèvres  
 que ses paroles s'élèvent  
 au gré du vent  
-qu'elles aspirent tout  
+qu'elle aspire tout  
 pour s'élever jusqu'à toi  
 et l'amener jusqu'à lui  
 
 pour qu'elle puisse s'y blottir  
 et que la beauté du monde y croisse  
-sur l'allée de la poésie  
