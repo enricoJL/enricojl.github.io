@@ -14,13 +14,11 @@ et qu'ils s'approprient ses paroles
 qu'elle s'envole  
 qu'elle voyage  
 qu'elle se propulse  
-pour atteindre les mondes  
-et traverser les écrans  
+dans le souffle et les aspirations  
+
+pour atteindre le cœur  
 au cœur du monde  
 dans le creux du monde  
-
-dans le souffle et les aspirations  
-que ses paroles s'élèvent  
 qu'elle aspire tout  
 pour s'élever jusqu'à toi  
 et l'amener jusqu'à lui  
