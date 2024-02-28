@@ -6,28 +6,25 @@ categories: "divers"
 published: true
 ---
 
-qu'ils la prennent la poésie  
+qu'ils la prennent  
 que les gens se l'arrachent  
-qu'ils partent avec les mots  
-et s'approprient ses paroles  
+qu'ils partent avec ses mots  
+et qu'ils s'approprient ses paroles  
 
 qu'elle s'envole  
 qu'elle voyage  
-dans les conversations  
 qu'elle se propulse  
-pour atteindre le monde  
+pour atteindre les mondes  
 et traverser les écrans  
-
 au cœur du monde  
 dans le creux du monde  
+
 dans le souffle et les aspirations  
-entre les battements des amours  
-et sur les lèvres  
 que ses paroles s'élèvent  
-au gré du vent  
 qu'elle aspire tout  
 pour s'élever jusqu'à toi  
 et l'amener jusqu'à lui  
 
 pour qu'elle puisse s'y blottir  
 et que la beauté du monde y croisse  
+dans la poésie  
