@@ -19,5 +19,5 @@ pour s'élever jusqu'à toi
 et t'amener jusqu'à lui  
 
 pour qu'elle puisse s'y blottir  
-que la beauté y croisse  
+que la beauté du monde y croisse  
 dans la poésie  
