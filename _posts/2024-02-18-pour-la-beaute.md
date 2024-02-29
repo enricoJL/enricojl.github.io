@@ -13,9 +13,7 @@ qu'ils s'approprient mes paroles
 qu'elle s'envole  
 qu'elle voyage  
 qu'elle se propulse  
-pour atteindre le monde  
 au cœur du monde  
-dans le creux du monde  
 qu'elle aspire tout  
 pour s'élever jusqu'à toi  
 et t'amener jusqu'à lui  
