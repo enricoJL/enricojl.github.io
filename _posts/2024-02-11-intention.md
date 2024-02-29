@@ -14,8 +14,8 @@ as-tu vraiment l'intention de faire
 tout ce que tu fais  
 que cherches-tu ?  
 
-où as-tu placé mon cœur  
-pourquoi l'as-tu garroché si loin de toi  
+où l'as-tu placé mon cœur  
+pourquoi l'as-tu garroché si loin  
 va-t-il nous revenir un jour ?
 
 j'ose encore espérer que oui  
