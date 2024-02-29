@@ -18,7 +18,7 @@ dans la même direction
 malgré nos différents  
 nos tendres espérances candides  
 demeurent enlacées  
-tout emmitouflées  
+tout enracinées  
 dans la chambre d'une rose  
 
 mon amour  
