@@ -8,7 +8,6 @@ published: true
 
 qu'ils la prennent ma poésie  
 que les gens se l'arrachent  
-qu'ils partent avec mes mots  
 et qu'ils s'approprient mes paroles  
 
 qu'elle s'envole  
