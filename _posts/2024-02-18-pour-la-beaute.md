@@ -8,7 +8,7 @@ published: true
 
 qu'ils la prennent ma poésie  
 que les gens se l'arrachent  
-qu'ils s'approprient mes paroles  
+et qu'ils s'approprient mes paroles  
 
 qu'elle s'envole  
 qu'elle voyage  
@@ -19,5 +19,5 @@ pour s'élever jusqu'à toi
 et t'amener jusqu'à lui  
 
 pour qu'elle puisse s'y blottir  
-que la beauté du monde y croisse  
-avec la poésie  
+et que la beauté du monde y croisse  
+dans la poésie  
