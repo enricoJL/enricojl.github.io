@@ -20,4 +20,4 @@ et t'amener jusqu'à lui
 
 pour qu'elle puisse s'y blottir  
 que la beauté du monde y croisse  
-dans la poésie  
+avec la poésie  
