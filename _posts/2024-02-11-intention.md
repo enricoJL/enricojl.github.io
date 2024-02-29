@@ -16,6 +16,7 @@ que cherches-tu ?
 
 où l'as-tu placé mon cœur  
 pourquoi l'as-tu garroché si loin  
+si loin  
 va-t-il nous revenir un jour ?
 
 j'ose encore espérer que oui  
