@@ -16,7 +16,7 @@ qu'elle se propulse
 au cœur du monde  
 qu'elle aspire tout  
 pour s'élever jusqu'à toi  
-et t'amener jusqu'à lui  
+et t'amener jusqu'à elle  
 
 pour qu'elle puisse s'y blottir  
 et que la beauté du monde y croisse  
