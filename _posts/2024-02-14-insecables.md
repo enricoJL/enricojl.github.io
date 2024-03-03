@@ -19,7 +19,7 @@ malgré nos différents
 nos tendres espérances candides  
 demeurent enlacées  
 tout enracinées  
-dans la chambre d'une rose  
+dans la vulnérabilité d'une rose  
 
 mon amour  
 mon doux pétale fragile  
