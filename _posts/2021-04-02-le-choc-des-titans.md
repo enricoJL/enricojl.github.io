@@ -34,9 +34,9 @@ d'autres fois, le titan qui t'accompagne
 quand tu penses à moi  
 il se tient là entre toi et moi  
 et ce n'est pas moi, pas du tout même  
-en tous cas, pas celui que je pensais être moi
+en tous cas, pas celui que je pensais être  
 
-inversement, celle que tu penses être toi  
+inversement, celle que tu penses être  
 n'est pas la titane que je vois  
 ou que je pense voir quand je te vois
 
