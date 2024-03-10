@@ -27,6 +27,7 @@ l'intimité bien étrange
 et qui nous échappe  
 
 ce sentiment si familier, si infini, si divin  
+
 comment te garder prêt de moi dans mon cœur  
 dans mes os tous les jours à toutes les heures  
 comment te connaître profondément pour toujours  
