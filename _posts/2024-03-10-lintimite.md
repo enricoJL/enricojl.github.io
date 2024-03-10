@@ -9,8 +9,7 @@ categories:
 toi que je ne vois pas  
 que je n'entends même pas  
 que mes sens n'atteignent pas toujours  
-comme si j'avais peur  
-en silence  
+comme si j'avais peur en silence  
 
 et pourtant c'est bien là dans le silence de nous deux  
 que l'intimité tout-à-coup devient monde  
