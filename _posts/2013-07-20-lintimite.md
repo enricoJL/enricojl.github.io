@@ -1,15 +1,18 @@
 ---
 layout: post
 title: "l'intimité"
-date: "2004-05-25"
+date: "2024-03-10"
 categories:
   - "amore"
 ---
 
 toi que je ne vois pas  
-que mes yeux n'atteignent pas toujours  
-comme si j'avais peur d'exister en silence  
-et pourtant c'est bien là dans le silence  
+que je n'entends même pas  
+que mes sens n'atteignent pas toujours  
+comme si j'avais peur  
+en silence  
+
+et pourtant c'est bien là dans le silence de nous deux  
 que l'intimité tout-à-coup devient monde  
 
 et je le vois ce monde immense qui se rapproche  
