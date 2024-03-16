@@ -19,6 +19,4 @@ Comparons les paroles du poète à un puits. Lorsque vous êtes en train de creu
 
 Avec ce recueil de poésie, dans ce laboratoire expérimental, je tente de capturer mes observations en utilisant des mots, des images et des concepts qui se fracassent, se combinent ou s'enchevêtrent. J'explore les différentes émotions, pensées et sentiments qui m'habitent et je les démêle et les arrange du mieux que je peux de manière à ce que ce soit beau.
 
---------
-
 <h3 style="text-align: center;">Enrico J. Lévesque</h3>
