@@ -26,7 +26,7 @@ au bout du chemin
 au plus haut du très haut :
 
 le temps qui se crée sous nos mains  
-à volonté –  
+à volonté ---  
 
 dans le bonheur d'être deux  
 jusqu'au bout  
