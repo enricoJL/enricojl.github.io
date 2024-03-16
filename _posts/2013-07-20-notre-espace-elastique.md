@@ -20,7 +20,7 @@ ou qui se crée sous nos mains
 à volonté
 
 voilà ce qu'il nous restera à la fin  
-un bout de chemin  
+au bout du chemin  
 à l'extrémité du ciel  
 à la fin du fin  
 au plus haut du très haut :
