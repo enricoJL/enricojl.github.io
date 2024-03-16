@@ -12,8 +12,7 @@ notre vie qui ne finit plus de s'étirer
 
 cet espace élastique qui s'agrandit entre nous  
 et qui nous accapare à chaque instant  
-j'aimerais pouvoir te l'offrir  
-comme un bouquet de roses
+j'aimerais te l'offrir  
 
 le temps disparu qui n'existe plus  
 ou qui se crée sous nos mains  
