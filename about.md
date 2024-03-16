@@ -21,4 +21,4 @@ Avec ce recueil de poésie, dans ce laboratoire expérimental, je tente de captu
 
 --------
 
-<center>Enrico J. Lévesque</center>
+<p><center><b>Enrico J. Lévesque</b></center></p>
