@@ -28,7 +28,6 @@ au plus haut du très haut :
 le temps qui se crée sous nos mains  
 à volonté –  
 
-rempli de joie et d'amour  
 dans le bonheur d'être deux  
 jusqu'au bout  
 
