@@ -20,7 +20,7 @@ rendu au bon endroit, au bon moment
 déployant très grand ses ailes  
 sans effort, sans même un seul battement d'ailes  
 à une vitesse vertigineuse  
-il s'éloigna hors de ma vie  
+il s'éloigna hors de ma vue  
 
 confiant d'une puissance invisible quelque part en altitude  
 sa patience le projeta à l'autre extrémité du ciel  
