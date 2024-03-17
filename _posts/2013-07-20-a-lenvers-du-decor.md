@@ -10,7 +10,7 @@ j'ai tout décoré
 les murs, les tableaux, les visages
 
 tout a été remodelé  
-exactement comme il faut  
+exactement comme il le faut  
 rien n'a été laissé de côté  
 tout peut maintenant y être joué  
 vraiment, je n'ai rien oublié  
