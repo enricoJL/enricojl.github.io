@@ -10,6 +10,7 @@ un étrange sentiment
 
 un lion penché sur sa proie  
 cherchant à remplir le vide  
+
 la mort de l'un  
 nourrissant la vie de l'autre
 
