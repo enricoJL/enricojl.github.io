@@ -17,7 +17,7 @@ au-travers d'un songe
 et je me retrouve  
 au bout de mes limites
 
-étranglé de sombres idées  
+étranglé de sombres prétentions  
 dans l'invivable  
 je fuis sans relâche  
 dans ma propre présence  
@@ -33,7 +33,7 @@ on fait vibrer ma maison
 
 à l'entrée le colporteur  
 rempli de miel jusque dans ses yeux  
-il m'offre tout d'abord sa présence  
+il m'offre d'abord sa présence  
 le plus dur à prendre :  
 méfie-toi !
 
