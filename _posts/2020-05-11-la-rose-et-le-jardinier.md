@@ -38,5 +38,5 @@ qu’on voudrait croquer
 
 et le jardinier fier de son œuvre  
 avec toute son admiration lui a dit :  
-« Vois comme tu belle  
+« Vois comme tu es belle  
 des milliers d’étoiles sont sorties de toi. »
