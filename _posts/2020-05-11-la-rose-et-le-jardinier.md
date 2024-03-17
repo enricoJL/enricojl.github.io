@@ -2,7 +2,7 @@
 layout: post
 title: "la rose et son jardinier"
 date: "2020-05-11"
-categories: 
+categories:
   - "divers"
 ---
 
@@ -38,5 +38,5 @@ qu’on voudrait croquer
 
 et le jardinier fier de son œuvre  
 avec toute son admiration lui a dit :  
-Vois comme tu belle  
-des milliers d’étoiles sont sorties de toi.
+« Vois comme tu belle  
+des milliers d’étoiles sont sorties de toi. »
