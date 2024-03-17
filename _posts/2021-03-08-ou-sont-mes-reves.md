@@ -2,7 +2,7 @@
 layout: post
 title: "Où sont mes rêves ?"
 date: "2021-03-08"
-categories: 
+categories:
   - "spirit"
 ---
 
@@ -38,7 +38,7 @@ je suis vraiment perdu.
 
 Il m’aime et je l’aime aussi :  
 c’est tout ce qui compte.  
-Voilà toute notre histoire.
+Voilà notre histoire.
 
 Sur un nouveau sentier dans ses bras je suis transporté dans un pays que j’aime.  
 
