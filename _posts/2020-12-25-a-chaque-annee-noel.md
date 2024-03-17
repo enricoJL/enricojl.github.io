@@ -2,7 +2,7 @@
 layout: post
 title: "à chaque année Noël"
 date: "2020-12-25"
-categories: 
+categories:
   - "spirit"
 ---
 
@@ -14,4 +14,4 @@ les cœurs s'illuminent
 
 au milieu de la nuit
 
-une étoile est née
+une Étoile est née
