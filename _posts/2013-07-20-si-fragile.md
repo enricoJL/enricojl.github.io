@@ -2,7 +2,7 @@
 layout: post
 title: "si fragile"
 date: "2013-07-20"
-categories: 
+categories:
   - "amore"
 ---
 
