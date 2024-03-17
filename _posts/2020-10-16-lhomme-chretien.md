@@ -2,7 +2,7 @@
 layout: post
 title: "l'homme chrétien"
 date: "2020-10-16"
-categories: 
+categories:
   - "spirit"
 ---
 
@@ -29,6 +29,6 @@ il voit des traits familiers, des frères, des sœurs
 
 des images d'auparavant  
 à l'image de l'inconnu remontent
-mais la mémoire lui manque  
+mais la mémoire lui manque...  
 
-un oubli général s'est déposé sur le monde
+car un oubli général s'est déposé sur le monde
