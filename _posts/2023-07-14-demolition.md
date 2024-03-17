@@ -19,7 +19,6 @@ abolir
 tout détruire  
 tout jeter par terre  
 
-choisir  
 faire un pas  
 deux pas  
 et revenir en arrière  
