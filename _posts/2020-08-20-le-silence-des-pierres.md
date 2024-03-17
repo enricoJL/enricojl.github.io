@@ -14,7 +14,7 @@ et leur silence nous crie aux oreilles
 
 les pierres, essuyant le sang des massacres  
 témoins du chaos, elles crient dans le silence :  
-Arrêtez !  
+« Arrêtez ! »  
 nous suppliant constamment  
 depuis si longtemps  
 
