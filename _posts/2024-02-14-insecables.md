@@ -18,7 +18,7 @@ dans la même direction
 malgré nos différents  
 nos tendres espérances candides  
 demeurent enlacées  
-tout emmitouflées  
+tout amalgamées  
 dans la vulnérabilité d'une rose  
 
 mon amour  
