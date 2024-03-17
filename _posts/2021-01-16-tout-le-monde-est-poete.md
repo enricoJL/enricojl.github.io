@@ -2,7 +2,7 @@
 layout: post
 title: "tout le monde est poète"
 date: "2021-01-16"
-categories: 
+categories:
   - "divers"
 ---
 
@@ -21,6 +21,6 @@ on en redemande !
 même que des fois  
 on en a assez
 
-oh qu'ils sont nombreux les poèmes !  
+oh ! qu'ils sont nombreux les poèmes !  
 mais ce n'est pas tous qu'on a envie d'entendre  
 comme ce n'est pas tous qu'on a envie de dire
