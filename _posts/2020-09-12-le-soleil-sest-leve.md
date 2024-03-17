@@ -5,13 +5,13 @@ date: "2020-09-12"
 categories: "spirit"
 ---
 
-ce matin, comme une première fois,  
+ce matin, comme la première fois,  
 en paix, je rentre dans le repos ;  
 mes espérances enfin trouvent la voie promise ;  
 la clémence est venue recouvrir mes esprits  
 
 le bon Seigneur a pris mon cœur entre ses mains,  
-l'a élevé mon cœur sur le dos des anges  
+l'a élevé mon cœur sur le dos d'un ange  
 et mon âme, mon être en entier demeure  
 transformé, renouvelé des pieds à la tête  
 
