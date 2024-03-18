@@ -15,7 +15,7 @@ tout ce que tu fais
 que cherches-tu ?  
 
 où l'as-tu placé mon cœur  
-pourquoi l'as-tu garroché si loin de toi  
+pourquoi l'as-tu lancé si loin  
 si loin  
 va-t-il nous revenir un jour ?
 
