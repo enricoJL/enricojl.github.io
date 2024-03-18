@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "question d'inquiétude"
+title: "inquiétude"
 date: "2023-07-04"
 categories: "divers"
 published: true
