@@ -32,7 +32,7 @@ Il a de grandes joues,
 de belles bajoues pendantes  
 pour tante Fernande.  
 Il a de grands sourcils  
-pour couvrir les veux  
+pour couvrir les yeux  
 lorsque la pluie tombe trop dru.  
 Il a un grand front  
 pour emmagasiner dans sa mémoire  
@@ -45,7 +45,7 @@ et elles se rendent d’elles-mêmes.
 Il a un petit menton,  
 c'est pour permettre à ses idées de passer  
 au-dessus des objets ;  
-c'est lourd ! un menton.  
+c'est lourd un menton !  
 Il a même un grain de beauté  
 pour montrer la beauté qui couvre son cœur.  
 Il a aussi de beaux cils  
