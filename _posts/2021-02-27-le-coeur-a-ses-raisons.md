@@ -9,8 +9,8 @@ categories:
 le cœur a ses raisons  
 tout y est  
 rien n'y paraît  
-une boîte fermée  
 
+une boîte fermée  
 un œuf  
 bien vivant à l'intérieur  
 
