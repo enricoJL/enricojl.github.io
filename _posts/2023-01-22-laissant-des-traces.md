@@ -7,8 +7,8 @@ published: true
 ---
 
 des bribes de vérité nous habitent  
-et le temps qui souffle  
-les efface petit à petit  
+et le temps qui souffle les efface  
+petit à petit  
 
 des étincelles de vérité  
 comme des cristaux du passé  
