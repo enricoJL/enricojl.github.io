@@ -3,14 +3,13 @@ layout: post
 title: "inspiration"
 date: "2024-03-24"
 categories: "spirit"
-published: false
+published: true
 ---
 
 « Avec la prière, je peux racheter le temps. »
 
 le temps s’écoule  
 la vérité avance à chaque pas  
-
 vers demain la vie nous prend  
 et nous enlève  
 
