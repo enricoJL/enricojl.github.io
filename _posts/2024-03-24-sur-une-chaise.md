@@ -8,7 +8,7 @@ published: true
 
 debout sur une chaise berçante dans le monde  
 les bras ballants  
-embrassant l’air la mer et l’éther  
+embrassant la mer l’air et l’éther  
 je crie ma joie de grandir à l’envers  
 
 dans les revers de la vie  
