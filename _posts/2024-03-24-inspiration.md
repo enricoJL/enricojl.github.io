@@ -10,9 +10,9 @@ published: true
 
 le temps s’écoule  
 la vérité s’avance à chaque pas  
-vers demain  
+vers demain la vie  
 
-la vie nous prend et nous enlève  
+le monde nous prend et nous enlève  
 
 la prière nous libère  
 nous arrête en chemin  
