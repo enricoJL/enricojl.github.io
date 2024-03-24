@@ -29,7 +29,7 @@ libérer le plancher
 entrer dans la danse  
 
 et quand tout est fini  
-la poussière retombée retirée  
+la poussière toute retombée, retirée  
 enfin respirer l'air qui passe  
 profondément  
 
