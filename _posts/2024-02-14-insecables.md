@@ -17,8 +17,8 @@ dans la même direction
 
 malgré nos différents  
 nos tendres espérances candides  
-demeurent enlacées  
-amalgamées  
+s'accrochent  
+enlacées amalgamées  
 dans la vulnérabilité d'une rose  
 
 mon amour  
