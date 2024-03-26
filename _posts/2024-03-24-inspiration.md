@@ -8,15 +8,16 @@ published: false
 
 « Avec la prière, je peux racheter le temps. »
 
-le temps s’écoule  
-la vérité avance à chaque pas  
-vers demain la vie nous prend  
-et nous enlève  
-
-la prière nous libère  
-nous arrête en chemin  
+le temps qui s’écoule  
+à chaque pas  
+la vérité qui avance  
+vers demain  
+la vie qui nous prend  
+et qui nous enlève  
 à la merci du temps  
-la grâce nous soutient  
+
+la prière nous arrête  
+en chemin vers la grâce  
 la paix nous éveille  
 
-et l’amour regagne tout  
+et l’amour qui regagne tout  
