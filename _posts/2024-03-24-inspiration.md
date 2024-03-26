@@ -10,8 +10,9 @@ published: false
 
 la vérité à chaque pas qui nous rattrape  
 le regret qui nous prend et nous enlève  
-à la merci du temps qui s'écoule sans arrêt  
+à la merci du temps qui s'écoule continuellement  
 
-la prière en chemin vers la grâce  
+la prière enfin qui nous arrête  
+en chemin vers la grâce  
 le pardon qui efface tout  
 et l'amour qui remplace tout  
