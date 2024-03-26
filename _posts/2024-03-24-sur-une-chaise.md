@@ -7,7 +7,6 @@ published: true
 ---
 
 debout sur une chaise berçante dans le monde  
-les bras devant  
 je crie ma joie de grandir à l’envers  
 
 à l'envers du monde  
@@ -20,8 +19,5 @@ le froid
 la glace  
 et le vent  
 
-malgré tout  
-debout  
-
-sur une chaise berçante dans le monde  
+malgré tout debout  
 je crie ma joie de grandir à l’envers  
