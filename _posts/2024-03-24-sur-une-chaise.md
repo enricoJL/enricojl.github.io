@@ -7,18 +7,16 @@ published: false
 ---
 
 debout sur une chaise berçante dans le monde  
-les bras ballants  
-embrassant la mer l’air la terre et l’éther  
+les bras devant  
 je crie ma joie de grandir à l’envers  
 
+à l'envers du monde  
 dans les revers de la vie  
 en dégringolade vers l’intérieur  
-
 dans le vide inconnu  
 le froid  
 la glace  
 et le vent  
-
 malgré tout  
 debout  
 
