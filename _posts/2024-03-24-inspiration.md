@@ -9,7 +9,7 @@ published: true
 « Avec la prière, je peux racheter le temps. »
 
 le temps qui s’écoule à chaque pas  
-la vérité qui nous rattrape après demain  
+la vérité qui nous rattrape  
 le regret qui nous prend et nous enlève  
 à la merci du temps  
 
