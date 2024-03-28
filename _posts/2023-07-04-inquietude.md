@@ -20,6 +20,6 @@ et qu'elle te demande :
 j'ai peur !  
 
 est-ce raisonnable d'y penser  
-est-ce trop te demander :  
+est-ce trop te demander  
 
 « As-tu peur toi aussi ? »  
