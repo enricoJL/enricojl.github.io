@@ -9,10 +9,11 @@ enracinés dans cette terre de vérité
 où ils habitent profondément  
 les arbres doucement se réveillent  
 
-après un long voyage immobile  
+après ce long voyage immobile  
 avec l'alchimie du soleil  
-la sève remonte au travers des branches  
+la sève vigoureuse remonte  
+au travers des branches  
 
 avec toi, mon ami  
-au milieu des échanges et de nos idées  
-je redécouvre la vérité  
+au milieu des échanges de nos idées  
+la vérité me redécouvre  
