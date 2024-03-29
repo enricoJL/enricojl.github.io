@@ -19,7 +19,7 @@ et le vent
 hésitant  
 ballottant  
 chambranlant  
-dans la désillusion  
+dans la désillusion totale  
 
 la tête remplie de vérités  
-malgré tout debout  
+je me tiens debout  
