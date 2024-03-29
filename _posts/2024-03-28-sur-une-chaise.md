@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "debout sur une chaise"
+title: "sur une chaise berçante"
 date: "2024-03-28"
 categories: "divers"
 published: true
@@ -22,4 +22,5 @@ chambranlant
 
 dans la désillusion totale  
 la tête remplie de vérités  
+
 je me tiens debout  
