@@ -8,7 +8,7 @@ published: true
 
 et si tous se ralliaient  
 y travaillant tout le jour  
-en chantant « We are the world »<sub>*</sub>
+en chantant « We are the world »<sub>*</sub>  
 toute la nuit  
 
 pour enrayer l'inimitié  
