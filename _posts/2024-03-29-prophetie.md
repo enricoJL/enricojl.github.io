@@ -7,7 +7,7 @@ published: true
 ---
 
 et si tous se ralliaient  
-tout le jour  
+y travaillant tout le jour  
 en chantant « We are the world »<sub>*</sub>
 toute la nuit  
 
