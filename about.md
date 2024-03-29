@@ -8,7 +8,7 @@ permalink: /apropos/
 	<img src="{{site.baseurl}}/assets/transparent.png" width="40%">
 </center>
 
-J'ai espéré autrefois devenir poète. Je l'espère toujours, mais je n'ai pas beaucoup de temps pour écrire. Disons que je suis un poète à temps partiel. Mais un poète peut-il être poète seulement par moments ? Je ne le crois pas. Alors, acceptons, si vous le voulez bien, que je sois un poète mais qui n'écrit que des parcelles de poésie de temps à autre formant une tapisserie de bribes éparpillées dans le temps.
+J'ai beaucoup espéré autrefois devenir poète. Je l'espère toujours, mais je n'ai pas tout le temps que je voudrais pour écrire. Disons que je suis un poète à temps partiel. Mais un poète peut-il être poète seulement par moments ? Je ne le crois pas. Alors, acceptons, si vous le voulez bien, que je sois un poète mais qui n'écrit que des parcelles de poésie de temps à autre formant une tapisserie de bribes éparpillées dans le temps.
 
 Quel genre d'homme est un poète ? Eh bien, je ne le sais pas vraiment. Il pourrait être n'importe quoi. Quand quelqu'un est capable d'écrire quelque chose qui vous transporte ailleurs et vous fait ressentir une étincelle quelque part, alors je pense que vous avez rencontré un poète. Ou ce pourrait être aussi lorsqu'il dit des choses dont personne ne parle habituellement, des expériences que nous vivons mais pour lesquelles nous avons du mal à trouver les mots.
 
