@@ -3,7 +3,7 @@ layout: post
 title: "debout sur une chaise"
 date: "2024-03-28"
 categories: "divers"
-published: false
+published: true
 ---
 
 debout sur une chaise berçante dans le monde  
