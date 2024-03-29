@@ -22,7 +22,7 @@ hésitant
 ballottant  
 chambranlant  
 dans la désillusion  
-la tête remplie de vérités  
 
+la tête remplie de vérités  
 malgré tout debout  
 je crie ma joie de grandir à l’envers  
