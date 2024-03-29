@@ -8,7 +8,7 @@ published: true
 
 et si tous se ralliaient  
 y travaillant tout le jour  
-en chantant « We are the world »<sub>*</sub>  
+en chantant « We are the world »<sup>*</sup>  
 toute la nuit  
 
 pour enrayer l'inimitié  
@@ -24,5 +24,5 @@ en s'abreuvant continuellement dans la beauté du monde
 
 
 ___
-<sub>* *chanson populaire des années 80* <br/>
-de Michael Jackson et Lionel Ritchie</sub>
+<sup>* *chanson populaire des années 80* <br/>
+de Michael Jackson et Lionel Ritchie</sup>
