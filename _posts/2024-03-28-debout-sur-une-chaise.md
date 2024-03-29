@@ -6,9 +6,7 @@ categories: "divers"
 published: true
 ---
 
-debout sur une chaise berçante dans le monde  
-je crie ma joie de grandir à l’envers  
-
+debout sur une chaise berçante  
 à l'envers du monde  
 dans les revers de la vie  
 vers l’inconnu  
@@ -25,4 +23,3 @@ dans la désillusion
 
 la tête remplie de vérités  
 malgré tout debout  
-je crie ma joie de grandir à l’envers  
