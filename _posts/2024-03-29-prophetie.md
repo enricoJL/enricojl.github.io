@@ -28,4 +28,4 @@ en s'abreuvant continuellement dans la beauté du monde
 
 
 ___
-<sup>* *chanson populaire des années 80 de Michael Jackson et Lionel Ritchie*</sup>
+<sup>* *chanson populaire des années 80*</sup>
