@@ -27,6 +27,12 @@ Ma maladie me ronge et je refuse d'en souffrir, et pourtant la douleur envahit t
 
 Ma maladie, c'est la mort. Mon handicap, c'est de refuser d'y croire.
 
+<br/>
+<br/>
+<br/>
+
+___
+
 **Références**
 
 [^1]: Émile Nelligan, Le Vaisseau d'Or  
