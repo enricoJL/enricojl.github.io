@@ -16,7 +16,6 @@ partager ses richesses
 et cultiver l'intelligence  
 
 fortifier les familles  
-faire disparaître la pauvreté  
 lutter contre la maladie  
 abandonner tout désir d'injustice  
 
