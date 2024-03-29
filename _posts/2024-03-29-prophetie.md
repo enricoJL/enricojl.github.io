@@ -6,7 +6,7 @@ categories: "spirit"
 published: true
 ---
 
-si les hommes se ralliaient  
+et si les hommes se ralliaient  
 s'ils s'y affairaient tout le jour  
 en chantant « We are the world »<sub>*</sub>
 toute la nuit  
