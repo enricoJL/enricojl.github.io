@@ -21,7 +21,8 @@ sûrement pas
 ces images qu'on a en tête l'un de l'autre  
 prennent toute la place entre toi et moi  
 et malheureusement des fois  
-il n'y a plus d'espace pour exister autrement
+il n'y a plus d'espace pour exister  
+autrement  
 
 la plupart du temps, bien sûr, on s'ajuste  
 je mesure l'image que je garde de toi  
