@@ -9,7 +9,6 @@ published: true
 debout sur une chaise berçante  
 à l'envers du monde  
 dans les revers de la vie  
-vers l’inconnu  
 
 dans le vide  
 le froid  
