@@ -10,15 +10,10 @@ mon amour
 mon doux pétale fragile  
 
 en attendant l'insécable  
-en toute patience  
 ton œil s'ouvre avec le mien  
-toujours ensemble  
-dans la même direction  
-
+dans la même direction toujours  
 malgré nos différents  
-nos tendres espérances candides  
-s'accrochent  
-enlacées amalgamées  
+nos tendres espérances enlacées  
 dans la vulnérabilité d'une rose  
 
 mon amour  
