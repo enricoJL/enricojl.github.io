@@ -19,7 +19,6 @@ hésitant
 ballottant  
 chambranlant  
 
-dans la désillusion totale  
-
 la tête remplie de vérités  
+dans la désillusion totale  
 je me tiens debout  
