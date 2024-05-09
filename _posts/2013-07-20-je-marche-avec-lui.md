@@ -16,7 +16,7 @@ tous mes espoirs d'avenir balancés
 comme un câble dans un puits  
 chercher l'eau profonde et fraîche
 
-le regard enfoui dans les profondeurs  
+le regard enfoui dans le ciel  
 ma conscience s'élève et se déplace  
 par-dessus les nuages
 
