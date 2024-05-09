@@ -47,7 +47,7 @@ L’Amérindien par la suite à déclarer aux autres qu’il savait par expérie
 
 Un an plus tard, j’ai joint l’Église de Jésus-Christ des Saints des Derniers Jours, ayant foi que cette église était organisée par un prophète de Dieu, faisant pleinement confiance à Jésus-Christ qu’il a tracé une voie pour nous apprendre à vivre heureux.
 
-J’ai raconté cette histoire à mes filles quand elles avaient 4 et 6 ans (en moins de mots bien sûr), en leur disant que ma mission est de rendre leur mère heureuse et aussi mes filles (mon fils n’était pas encore né). Elles ont vraiment aimé cette histoire.
+Mes filles avaient 4 et 5 ans quand je leur ai raconté cette histoire (en moins de mots bien sûr), en leur disant que ma mission est de rendre leur mère heureuse et aussi mes enfants. Elles ont vraiment aimé cette histoire.
 
 Un matin, ma plus jeune insistait pour jouer à mon ordinateur même si je lui avais déjà dit « non » à plusieurs reprises. J’étais en train de remplir le lave-vaisselles et j’ai fini par crier « NON ! » très fort. Ma fille s’est sauvée dans sa chambre en pleurant.
 
