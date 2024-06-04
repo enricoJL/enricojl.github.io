@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "ce qu'on connaît de l'autre ou pas"
+title: "ce qu'on connaît de l'autre"
 date: "2024-06-04"
 categories: "divers"
 published: true
 ---
 
 
-quand on s'adresse à l'autre  
+quand on s'adresse à l'autre malheureusement  
 ce qu'on pense connaître prend toute la place  
-et l'autre disparaît petit à petit dans les décombres  
+et l'autre disparaît dans les décombres  
 
 il est si loin l'autre derrière les choses  
 qu'on ne connaît que partiellement  
@@ -19,7 +19,7 @@ elle s'immisce devant ce qui existe vraiment
 et cache la plus grande part de ce qu'on ne sait pas  
 
 et pourtant  
-comme une voile tendue dans le vent  
+comme un voile tendu dans le vent  
 ce qu'on sait propulsé par ce qu'on ne pense pas  
 si l'esprit reste ouvert assez longtemps  
 lui permettra de traverser la mer  
