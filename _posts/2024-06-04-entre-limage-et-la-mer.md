@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ce qu'on connaît de l'autre"
+title: "entre l'image et la mer"
 date: "2024-06-04"
 categories: "divers"
 published: true
