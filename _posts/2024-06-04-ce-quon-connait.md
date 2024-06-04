@@ -31,5 +31,5 @@ un nouveau son
 une nouvelle forme à connaître vraiment  
 qui attend là-bas au point de rencontre  
 
-derrière l'image de ce qu'on connaît peu  
-devant la mer de ce qu'on ne connaît pas  
+entre l'image de ce qu'on connaît peu  
+et la mer de ce qu'on ne connaît pas  
