@@ -1,0 +1,35 @@
+---
+layout: post
+title: "ce qu'on connaît de l'autre ou pas"
+date: "2024-06-04"
+categories: "divers"
+published: true
+---
+
+
+quand on s'adresse à l'autre  
+ce qu'on pense connaître prend toute la place  
+et l'autre disparaît petit à petit dans les décombres  
+
+il est si loin l'autre derrière les choses  
+qu'on ne connaît que partiellement  
+
+l'image de ce qu'on pense savoir encombre tout  
+elle s'immisce devant ce qui existe vraiment  
+et cache la plus grande part de ce qu'on ne sait pas  
+
+et pourtant  
+comme une voile tendue dans le vent  
+ce qu'on sait propulsé par ce qu'on ne pense pas  
+si l'esprit reste ouvert assez longtemps  
+lui permettra de traverser la mer  
+et d'atteindre le rivage de l'autre  
+
+au rivage de l'autre les coquillages  
+chacun est un nouveau vent  
+un nouveau son  
+une nouvelle forme à connaître vraiment  
+qui attend là-bas au point de rencontre  
+
+derrière l'image de ce qu'on connaît peu  
+devant la mer de ce qu'on ne connaît pas  
