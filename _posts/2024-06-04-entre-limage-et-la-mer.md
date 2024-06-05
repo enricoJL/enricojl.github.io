@@ -29,7 +29,7 @@ au rivage de l'autre, les coquillages
 chacun est un nouveau vent  
 un nouveau souffle  
 une nouvelle forme à reconnaître  
-qui attend là-bas au point de rencontre  
+qui attend là-bas, au point de rencontre  
 
 entre l'image de ce qu'on connaît peu  
 et la mer de ce qu'on ne connaît pas  
