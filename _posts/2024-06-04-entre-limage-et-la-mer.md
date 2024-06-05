@@ -7,7 +7,7 @@ published: true
 ---
 
 
-quand on s'adresse à l'autre malheureusement  
+quand on s'adresse à l'autre, malheureusement  
 ce qu'on pense connaître prend toute la place  
 et l'autre disparaît dans les décombres  
 
@@ -25,7 +25,7 @@ si l'esprit reste ouvert assez longtemps
 lui permettra de traverser la mer  
 et d'atteindre le rivage de l'autre  
 
-au rivage de l'autre les coquillages  
+au rivage de l'autre, les coquillages  
 chacun est un nouveau vent  
 un nouveau souffle  
 une nouvelle forme à connaître vraiment  
