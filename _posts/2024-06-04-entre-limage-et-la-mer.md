@@ -11,7 +11,7 @@ quand on s'adresse à l'autre, malheureusement
 ce qu'on pense connaître prend toute la place  
 et l'autre disparaît dans les décombres  
 
-il est si loin l'autre derrière les choses  
+il est si loin l'autre, caché derrière les choses  
 qu'on ne connaît que partiellement  
 
 l'image de ce qu'on pense savoir encombre tout  
@@ -28,7 +28,7 @@ et d'atteindre le rivage de l'autre
 au rivage de l'autre, les coquillages  
 chacun est un nouveau vent  
 un nouveau souffle  
-une nouvelle forme à connaître vraiment  
+une nouvelle forme à reconnaître  
 qui attend là-bas au point de rencontre  
 
 entre l'image de ce qu'on connaît peu  
