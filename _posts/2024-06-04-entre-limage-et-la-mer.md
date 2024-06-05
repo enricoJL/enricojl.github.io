@@ -20,7 +20,7 @@ et cache la plus grande part de ce qu'on ne sait pas
 
 et pourtant  
 comme un voile tendu dans le vent  
-ce qu'on sait propulsé par ce qu'on ne pense pas  
+ce qu'on sait, propulsé par ce qu'on ne pense pas  
 si l'esprit reste ouvert assez longtemps  
 lui permettra de traverser la mer  
 et d'atteindre le rivage de l'autre  
