@@ -27,7 +27,7 @@ et d'atteindre le rivage de l'autre
 
 au rivage de l'autre les coquillages  
 chacun est un nouveau vent  
-un nouveau son  
+un nouveau souffle  
 une nouvelle forme à connaître vraiment  
 qui attend là-bas au point de rencontre  
 
