@@ -11,15 +11,14 @@ quand on s'adresse à l'autre, malheureusement
 ce qu'on pense connaître prend toute la place  
 et l'autre disparaît dans les décombres  
 
-(il est si loin l'autre, caché derrière les choses  
-qu'on ne connaît que partiellement)  
+il est si loin l'autre, caché derrière  
+(derrière les choses qu'on ne connaît que partiellement)  
 
 l'image de ce qu'on pense savoir encombre tout  
 elle s'immisce devant ce qui existe vraiment  
 et cache la plus grande part de ce qu'on ne sait pas  
 
-et pourtant  
-comme un voile tendu dans le vent  
+et pourtant, comme un voile tendu dans le vent  
 ce qu'on sait, propulsé par ce qu'on ne pense pas  
 si l'esprit restait ouvert assez longtemps  
 lui permettrait de traverser la mer  
