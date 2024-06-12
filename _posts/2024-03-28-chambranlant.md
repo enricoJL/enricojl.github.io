@@ -18,7 +18,6 @@ hésitant
 ballottant  
 chambranlant  
 
-la tête remplie de vérités  
 sur une chaise berçante  
 dans la désillusion totale  
 je me tiens debout  
