@@ -6,7 +6,7 @@ categories: "divers"
 published: true
 ---
 
-debout sur une chaise berçante  
+sur une chaise berçante  
 à l'envers du monde  
 dans les revers de la vie  
 
@@ -20,5 +20,5 @@ ballottant
 chambranlant  
 
 la tête remplie de vérités  
-dans la désillusion totale  
+dans la désillusion  
 je me tiens debout  

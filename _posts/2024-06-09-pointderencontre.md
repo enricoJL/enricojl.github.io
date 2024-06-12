@@ -2,7 +2,7 @@
 layout: post
 title: "point de rencontre"
 date: "2024-06-09"
-categories: "spirit"
+categories: "divers"
 published: false
 ---
 
@@ -16,7 +16,8 @@ devient une occasion de me façonner
 
 de nous refaire à l'image de l'autre  
 de nous reconnaître sans image  
-sans barrière sans la carapace  
+sans barrière  
+sans la carapace  
 en toute légèreté  
 dans la profondeur du vide  
 et des échanges partagés  
