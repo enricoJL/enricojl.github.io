@@ -13,7 +13,6 @@ petit à petit
 des étincelles de vérité  
 comme des cristaux du passé  
 incrustés dans le roc  
-
 par un travail scrupuleux  
 ces fragments dégagés  
 on les place à la lumière  
