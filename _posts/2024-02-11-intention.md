@@ -2,7 +2,7 @@
 layout: post
 title: "intention"
 date: "2024-02-11"
-categories: "amore"
+categories: "divers"
 published: true
 ---
 

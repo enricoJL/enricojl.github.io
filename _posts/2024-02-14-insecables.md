@@ -9,7 +9,6 @@ published: true
 en attendant l'insécable  
 ton œil s'ouvre avec le mien  
 dans la même direction toujours  
-
 nos tendres espérances enlacées  
 dans la vulnérabilité d'une rose  
 

@@ -17,7 +17,7 @@ et le vent
 hésitant  
 ballottant  
 chambranlant  
-
 sur une chaise berçante  
 dans la désillusion totale  
+
 je me tiens debout  
