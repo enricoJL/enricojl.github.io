@@ -10,7 +10,7 @@ des bribes de vérité nous habitent
 et le temps qui souffle les efface  
 petit à petit  
 
-des étincelles de vérité  
+ces étincelles de vérité  
 comme des cristaux du passé  
 incrustés dans le roc  
 par un travail scrupuleux  
