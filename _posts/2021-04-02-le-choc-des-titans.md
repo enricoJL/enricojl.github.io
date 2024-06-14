@@ -8,8 +8,7 @@ categories: "pensees"
 quand on se voit  
 l'image que je vois devant moi  
 diffère de celle que tu vois devant toi  
-forcément,  
-puisque je suis moi  
+forcément, puisque je suis moi  
 et que tu es toi
 
 je te vois devant moi  
@@ -24,23 +23,23 @@ sûrement pas
 ces images qu'on a en tête l'un de l'autre  
 prennent toute la place entre toi et moi  
 et malheureusement des fois  
-il n'y a plus d'espace pour exister  
+il n'y a plus d'espace autrement  
 
 la plupart du temps, bien sûr, on s'ajuste  
 je mesure l'image que je garde de toi  
 à celle que j'observe quand tu es là  
 je modifie doucement ton image  
-et tu modifies mon image  
+et tu modifies la mienne  
 chacun sans trop s'en rendre compte
 
 d'autres fois, le titan qui t'accompagne  
 quand tu penses à moi  
 il se tient là, entre toi et moi  
-et ce n'est pas moi, pas du tout même !  
+et ce n'est pas moi --- pas du tout même !  
 en tous cas, pas celui que je pensais être moi  
 
 inversement, celle que tu penses être toi  
-n'est pas la titane que je vois  
+n'est pas la titane que je vois,  
 ou que je pense voir quand je te vois
 
 --- c'est le choc des titans
