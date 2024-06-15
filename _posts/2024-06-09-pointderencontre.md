@@ -17,7 +17,7 @@ en toute légèreté
 dans la profondeur du vide    
 et le partage du vide  
 
-avec mes vœux qui t'ont rejoint quelque part  
+avec mes désirs qui t'ont rejoint quelque part  
 dans l'intimité du silence de ma vie  
 j'ai aimé la pensée de ton sourire  
 jusqu'au lendemain  
