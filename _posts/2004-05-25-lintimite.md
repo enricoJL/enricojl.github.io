@@ -9,12 +9,9 @@ categories:
 toi que je n'atteins pas toujours  
 que je ne vois pas  
 que je n'entends même pas  
-comme si j'avais peur en silence  
 
-et pourtant  
 c'est bien là dans le silence de nous deux  
 que l'intimité tout-à-coup devient monde  
-
 et je le vois ce monde immense qui se rapproche  
 tout doucement comme si le ciel nous enveloppait  
 
