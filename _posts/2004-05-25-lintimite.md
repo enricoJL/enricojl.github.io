@@ -6,16 +6,19 @@ categories:
   - "amore"
 ---
 
-toi que je n'atteins pas  
-que je ne vois pas toujours  
+toi que je n'atteins pas toujours  
+que je ne vois pas  
 que je n'entends même pas  
 comme si j'avais peur en silence  
-et pourtant c'est bien là dans le silence de nous deux  
+
+et pourtant  
+c'est bien là dans le silence de nous deux  
 que l'intimité tout-à-coup devient monde  
+
 et je le vois ce monde immense qui se rapproche  
 tout doucement comme si le ciel nous enveloppait  
 
-l'intimité comme une fontaine ou une source  
+l'intimité comme une fontaine  
 sortant d'on ne sait où exactement et qui va  
 on ne sait où précisément  
 et qui nous emporte  
@@ -24,6 +27,7 @@ l'intimité bien étrange
 à la fois si proche  
 à la fois si lointaine  
 et qui nous échappe  
+trop souvent  
 
 ce sentiment si familier, si infini  
 
