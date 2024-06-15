@@ -10,13 +10,13 @@ je me tiens debout
 sur une chaise berçante  
 à l'envers du monde  
 
+hésitant  
+ballottant  
+chambranlant  
+
 dans le vide  
 le froid  
 la glace  
 et le vent  
 
-hésitant  
-ballottant  
-chambranlant  
-
-dans une désillusion totale  
+et la désillusion reste totale  
