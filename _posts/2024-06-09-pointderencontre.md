@@ -26,3 +26,5 @@ jusqu'au lendemain
 ce lendemain qui n'est jamais venu  
 cet espoir né dans la vie de ton souvenir  
 que j'ai perdu  
+
+au point de rencontre  
