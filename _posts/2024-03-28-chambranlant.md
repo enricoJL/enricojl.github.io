@@ -3,11 +3,12 @@ layout: post
 title: "chambranlant"
 date: "2024-03-28"
 categories: "divers"
-published: true
+published: false
 ---
 
+je me tiens debout  
+sur une chaise berçante  
 à l'envers du monde  
-dans les revers de la vie  
 
 dans le vide  
 le froid  
@@ -17,7 +18,5 @@ et le vent
 hésitant  
 ballottant  
 chambranlant  
-sur une chaise berçante  
-dans la désillusion totale  
 
-je me tiens debout  
+dans une désillusion totale  
