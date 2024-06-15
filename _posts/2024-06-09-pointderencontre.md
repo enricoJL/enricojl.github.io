@@ -6,7 +6,7 @@ categories: "divers"
 published: true
 ---
 
-je m'y suis rendue  
+je m'y suis rendu  
 au point de rencontre  
 avec ce désir de renaître  
 
