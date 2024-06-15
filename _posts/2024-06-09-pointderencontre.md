@@ -6,7 +6,7 @@ categories: "divers"
 published: true
 ---
 
-je me suis rendu  
+je m'y suis rendu  
 au point de rencontre  
 avec ce désir de renaître  
 
@@ -17,13 +17,13 @@ en toute légèreté
 dans la profondeur du vide    
 et le partage du vide  
 
-j'ai trouvé mes vœux qui te rejoignaient quelque part  
+avec mes vœux qui t'ont rejoint quelque part  
 dans l'intimité du silence de ma vie  
-et j'ai aimé la pensée de ton sourire  
+j'ai aimé la pensée de ton sourire  
 jusqu'au lendemain  
 
 ce lendemain qui n'est jamais venu  
-cet espoir né dans la vie de ton souvenir  
+cet espoir né dans le vide de ton souvenir  
 que j'ai perdu  
 
 au point de rencontre  
