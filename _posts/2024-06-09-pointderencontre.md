@@ -9,17 +9,17 @@ published: true
 je me suis rendu  
 au point de rencontre  
 avec ce désir de renaître  
-
 sans image  
 sans barrière  
 sans carapace  
-
 en toute légèreté  
+
 dans la profondeur du vide    
 et le partage du vide  
 
 j'ai trouvé mes vœux qui te rejoignaient quelque part  
 dans l'intimité du silence de ma vie  
+
 et j'ai aimé la pensée de ton sourire  
 jusqu'au lendemain  
 
