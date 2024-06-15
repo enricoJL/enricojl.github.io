@@ -2,28 +2,27 @@
 layout: post
 title: "point de rencontre"
 date: "2024-06-09"
-categories: "pensees"
-published: false
+categories: "divers"
+published: true
 ---
 
-dans le quotidien de mes reconnaissances  
-quand la vérité devient une habitude  
-à ce point de rencontre  
+je me suis rendu  
+au point de rencontre  
+avec ce désir de renaître  
 
-quand mon image disparaît  
-le temps passer ensemble  
-devient une occasion de me façonner  
-
-de nous refaire à l'image de l'autre  
-de nous reconnaître sans image  
+sans image  
 sans barrière  
-sans la carapace  
-en toute légèreté  
-dans la profondeur du vide  
-et des échanges partagés  
-dans le partage du vide  
-et la reconnaissance  
-et dans le yeux  
+sans carapace  
 
-nos deux esprits qui se rejoignent  
-avec les paroles de nos images  
+en toute légèreté  
+dans la profondeur du vide    
+et le partage du vide  
+
+j'ai trouvé nos vœux qui se rejoignaient quelque part  
+dans l'intimité du silence de nos deux vies  
+et j'ai aimé la pensée de ton sourire  
+jusqu'au lendemain  
+
+ce lendemain qui n'est jamais venu  
+cet espoir né dans le vide de ton souvenir  
+que j'ai perdu au point de rencontre  
