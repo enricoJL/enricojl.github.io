@@ -3,7 +3,7 @@ layout: post
 title: "point de rencontre"
 date: "2024-06-09"
 categories: "divers"
-published: true
+published: false
 ---
 
 je m'y suis rendu  
@@ -14,14 +14,11 @@ sans barrière
 sans carapace  
 en toute légèreté  
 
-dans la profondeur du vide    
-et le partage du vide  
-
-avec mes désirs qui t'ont rejoint quelque part  
-dans l'intimité du silence de ma vie  
+avec mes désirs quelque part  
+dans l'intimité du silence  
 j'ai aimé la pensée de ton sourire  
 jusqu'au lendemain  
 
 ce lendemain qui n'est jamais venu  
-cet espoir né dans le vide de ton souvenir  
+cet espoir né dans le vide du souvenir  
 que j'ai perdu  
