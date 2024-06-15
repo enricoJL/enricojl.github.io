@@ -18,13 +18,11 @@ en toute légèreté
 dans la profondeur du vide    
 et le partage du vide  
 
-j'ai trouvé nos vœux qui se rejoignaient quelque part  
-dans l'intimité du silence de nos deux vies  
+j'ai trouvé mes vœux qui te rejoignaient quelque part  
+dans l'intimité du silence de ma vie  
 et j'ai aimé la pensée de ton sourire  
 jusqu'au lendemain  
 
 ce lendemain qui n'est jamais venu  
 cet espoir né dans le vide de ton souvenir  
 que j'ai perdu  
-
-au point de rencontre  
