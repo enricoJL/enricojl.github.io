@@ -24,7 +24,6 @@ l'intimité bien étrange
 à la fois si proche  
 à la fois si lointaine  
 et qui nous échappe  
-trop souvent  
 
 ce sentiment si familier, si infini  
 
