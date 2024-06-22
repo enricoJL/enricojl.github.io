@@ -6,19 +6,19 @@ categories: "divers"
 published: false
 ---
 
-je m'y suis rendu  
+j'y suis allé depuis longtemps  
 au point de rencontre  
-avec ce désir de renaître  
 
 sans barrière  
-sans carapace  
-en toute légèreté  
+sans carapace aucune  
 
-avec mes désirs quelque part  
+avec le désir de renaître  
 dans l'intimité du silence  
-j'ai aimé la pensée de ton sourire  
+
+j'y ai aimé la pensée de ton sourire  
 jusqu'au lendemain  
 
 ce lendemain qui n'est jamais venu  
-cet espoir né dans le vide du souvenir  
+
+cet espoir né dans le vide de ton souvenir  
 que j'ai perdu  
