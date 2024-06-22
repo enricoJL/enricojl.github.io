@@ -21,6 +21,3 @@ j'y ai aimé la pensée de ton sourire
 jusqu'au lendemain  
 
 ce lendemain qui n'est jamais venu  
-
-cet espoir né dans le vide de ton souvenir  
-que j'ai perdu  
