@@ -6,8 +6,8 @@ categories: "divers"
 published: false
 ---
 
-je me tiens debout  
 sur une chaise berçante  
+je me tiens debout  
 à l'envers du monde  
 
 hésitant  
@@ -19,4 +19,4 @@ le froid
 la glace  
 et le vent  
 
-et la désillusion reste totale  
+et la désillusion totale  
