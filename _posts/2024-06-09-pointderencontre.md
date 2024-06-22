@@ -3,14 +3,16 @@ layout: post
 title: "point de rencontre"
 date: "2024-06-09"
 categories: "divers"
-published: false
+published: true
 ---
 
-j'y suis allé depuis longtemps  
+j'y suis allé longtemps  
 au point de rencontre  
 
 sans barrière  
-sans carapace aucune  
+sans carapace  
+
+très longtemps
 
 avec le désir de renaître  
 dans l'intimité du silence  
