@@ -21,5 +21,5 @@ le poids du monde me plaquant contre le sol
 j'ai vu ma place dans l'ordre des choses  
 
 témoin d'une Intelligence supérieure à l’œuvre  
-je sentais que pour le reste de ma vie  
+j'ai senti que pour le reste de ma vie  
 je pouvais Lui faire confiance  
