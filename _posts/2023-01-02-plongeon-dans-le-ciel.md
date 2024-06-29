@@ -15,7 +15,7 @@ j'ai eu peur de tomber dans le vide
 devant la profondeur de la nuit  
 j'avais le sentiment d'être si vulnérable  
 
-cherchant appui dans l'immensité de l'espace  
+cherchant appui devant l'immensité de l'espace  
 les coudes bien enfoncés dans le sable sur la plage  
 le poids du monde me plaquant contre le sol  
 j'ai vu ma place dans l'ordre des choses  
