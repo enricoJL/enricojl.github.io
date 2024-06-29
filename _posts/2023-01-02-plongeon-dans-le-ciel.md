@@ -7,19 +7,22 @@ categories: spirit
 
 
 épris de vertige au milieu de la nuit  
-la distance étant tellement grande  
-entre nous et les étoiles  
 dans un plongeon vers le ciel  
 j'ai eu peur de tomber dans le vide  
 
-devant la profondeur de la nuit  
+la distance étant tellement grande  
+entre nous et les étoiles   
 j'avais le sentiment d'être si vulnérable  
 
-cherchant appui face à l'immensité de l'espace  
 les coudes bien enfoncés dans le sable sur la plage  
 le poids du monde me plaquant contre le sol  
-j'ai vu ma place dans l'ordre des choses  
+j'ai compris ma place dans l'ordre des étoiles<sup>*</sup>  
 
-témoin d'une Intelligence supérieure à l’œuvre  
-j'ai senti que pour le reste de ma vie  
-je pouvais Lui faire confiance  
+
+<br/>
+<br/>
+<br/>
+___
+<sup>Témoin d'une Intelligence supérieure à l’œuvre,  
+j'ai senti que pour le reste de ma vie,  
+je pouvais Lui faire confiance.  </sup>
