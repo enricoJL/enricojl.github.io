@@ -23,6 +23,7 @@ j'ai compris ma place dans l'ordre des étoiles<sup>*</sup>
 <br/>
 <br/>
 ___
+
 <sup>Témoin d'une Intelligence supérieure à l’œuvre,  
 j'ai senti que pour le reste de ma vie,  
 je pouvais Lui faire confiance.  </sup>
