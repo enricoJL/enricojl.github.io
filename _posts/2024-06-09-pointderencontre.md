@@ -2,7 +2,7 @@
 layout: post
 title: "point de rencontre"
 date: "2024-06-09"
-categories: "divers"
+categories: "amore"
 published: true
 ---
 
