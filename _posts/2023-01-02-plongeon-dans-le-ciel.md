@@ -16,7 +16,7 @@ j'avais le sentiment d'être si vulnérable
 
 les coudes bien enfoncés dans le sable sur la plage  
 le poids du monde me plaquant contre le sol  
-j'ai compris ma place dans l'ordre des étoiles<sup>*</sup>  
+j'ai compris ma place dans l'ordre des étoiles  
 
 témoin d'une Intelligence supérieure à l’œuvre  
 j'ai senti que pour le reste de ma vie  
