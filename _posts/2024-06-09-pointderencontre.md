@@ -12,7 +12,7 @@ au point de rencontre
 sans barrière  
 sans carapace  
 
-très longtemps
+pendant très longtemps  
 
 avec le désir de renaître  
 dans l'intimité du silence  
