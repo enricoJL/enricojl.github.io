@@ -11,7 +11,6 @@ au point de rencontre
 
 sans barrière  
 sans carapace  
-avec le désir de renaître  
 
 j'y ai aimé la pensée de ton sourire  
 jusqu'au lendemain  
