@@ -6,13 +6,13 @@ categories: "amore"
 published: true
 ---
 
-j'y suis allé  
+j'y suis allé longtemps  
 au point de rencontre  
+
 sans barrière  
 sans carapace  
-pendant très longtemps  
-
 avec le désir de renaître  
+
 j'y ai aimé la pensée de ton sourire  
 jusqu'au lendemain  
 
