@@ -6,9 +6,7 @@ categories: "divers"
 published: true
 ---
 
-sur une chaise berçante  
-je me tiens debout  
-à l'envers du monde  
+sur une chaise berçante dans le monde  
 
 hésitant  
 ballottant  
@@ -19,4 +17,6 @@ le froid
 la glace  
 et le vent  
 
-et la désillusion totale  
+et la désillusion totale,  
+
+je me tiens debout
