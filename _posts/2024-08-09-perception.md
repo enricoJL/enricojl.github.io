@@ -6,6 +6,10 @@ categories: "pensees"
 published: true
 ---
 
+<center>
+	<img src="{{site.baseurl}}/assets/figures/perception.jpeg">
+</center>
+
 Le point central de l'univers que je connais se situe au cœur de mes perceptions, accessibles à travers mon corps physique, avec ma pensée, ou la pensée de mon univers, en son centre. Les relations que j'entretiens avec les corps qui vivent sur Terre, qu'ils soient animés ou inanimés, comme les choses minérales par exemple, enrichissent et définissent les connaissances que je possède.
 
 Mon univers personnel, façonné par la dynamique des choses qui m'entourent et constitué par l'ensemble des pensées qui m'habitent, interagit avec un autre univers au travers des sens que me procure mon corps. Cet autre univers, composé de ce qui existe indépendamment de moi, entre en relation constante avec le mien : ils se confrontent, se marient et parfois même s'expulsent l'un l'autre, probablement plus souvent que je ne m'en rends compte.
