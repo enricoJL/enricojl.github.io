@@ -9,10 +9,8 @@ published: true
 
 quand on s'adresse à l'autre, malheureusement  
 ce qu'on pense connaître prend toute la place  
-et l'autre disparaît dans les décombres  
 
 il est si loin l'autre, caché derrière  
-(derrière les choses qu'on ne connaît que partiellement)  
 
 l'image de ce qu'on pense savoir encombre tout  
 elle s'immisce devant ce qui existe vraiment  
