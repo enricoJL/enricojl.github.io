@@ -7,7 +7,7 @@ categories:
 ---
 
 dès les premières lueurs du matin  
-quand je me sens comme un enfant  
+comme un enfant  
 égaré dans sa douleur  
 le visage caché dans ses mains  
 
@@ -17,6 +17,6 @@ je supplie !
 
 et mon Père qui vit  
 rempli de miséricorde  
-remplit mon cœur  
+remplit mon cœur :  
 
-Mon cœur dans âme veut exploser jusqu’au soir !
+mon cœur dans âme veut exploser jusqu’au soir !

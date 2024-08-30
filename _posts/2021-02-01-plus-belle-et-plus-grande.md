@@ -19,5 +19,5 @@ Ce n'est pas à elle de sortir d'elle-même
 Mais à nous d'entrer en nous-mêmes
 
 Elle n'est ni un ange ni une fée  
-Mais une fille de Dieu en train de devenir
-Plus belle et plus grande
+Mais une fille aimée de Dieu  
+En train de devenir plus belle et plus grande
