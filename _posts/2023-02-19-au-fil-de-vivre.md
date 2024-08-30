@@ -8,7 +8,7 @@ published: true
 
 dans mon idée la vie  
 
-en fermant les yeux  
+en me fermant les yeux  
 
 comme un arbre en moi  
 

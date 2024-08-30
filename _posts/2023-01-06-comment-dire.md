@@ -21,12 +21,13 @@ perdu dans un firmament quelconque
 entre ma main, tes cheveux et ton parfum  
 mon cœur s'élance et je le retiens
 
-raisonnable, soyons raisonnable, voyons, je veux ton bonheur  
+raisonnable, soyons raisonnable, voyons  
+je veux ton bonheur  
 te rendre heureuse par mille attentions  
 te faire la cours entre des mots fous  
 t'aimer tout simplement, te le dire souvent  
-te dire je t'aime, de plus en plus vrai  
-pour que tu y crois, et que mon cœur s'y habitue  
+te dire je t'aime de plus en plus vrai  
+pour que tu y crois et que mon cœur s'y habitue  
 
 en espérant bientôt ne plus le dire  
 comme un discours qu'on répète en coulisse  
@@ -38,4 +39,4 @@ chaque jour de plus en plus beau
 
 quoi dire, quoi faire, comment dire ?  
 
--- je t'aime
+--- je t'aime

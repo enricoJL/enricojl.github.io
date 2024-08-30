@@ -8,6 +8,7 @@ categories: "pensees"
 quand on se voit  
 l'image que je vois devant moi  
 diffère de celle que tu vois devant toi  
+
 forcément, puisque je suis moi  
 et que tu es toi
 

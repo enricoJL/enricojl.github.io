@@ -14,6 +14,6 @@ avec l'alchimie du soleil
 la sève vigoureuse remonte  
 au travers des branches  
 
-avec toi, mon ami  
-au milieu des échanges de nos idées  
-la vérité me redécouvre  
+--- avec toi, mon ami  
+au milieu des échanges et des idées  
+la vérité nous redécouvre  

@@ -10,7 +10,7 @@ démolir les murs
 tout défaire  
 ouvrir l'espace  
 
-dessiner les contours s'il le faut  
+dessiner les contours (s'il le faut)  
 mais ne jamais ériger de barrières  
 permettre à chacun d'agir  
 
