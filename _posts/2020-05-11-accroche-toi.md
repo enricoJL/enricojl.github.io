@@ -9,15 +9,16 @@ categories:
 accroche-toi  
 même si l'essoufflement nous gagne  
 même si le cœur nous échappe  
-même si notre espace se rétrécit
+même si notre espace se rétrécit  
 
 mes idées courent  
 mais elles reviennent toujours  
-entre nous
+entre nous  
+
 dans cet espace  
 où nous pouvons nous réfugier  
 avec le rituel de nos habitudes  
-et les conventions de nos coutumes
+et les conventions de nos coutumes  
 
 dans mes différences et mes contraires  
-j'y reviens toujours
+j'y reviens toujours  

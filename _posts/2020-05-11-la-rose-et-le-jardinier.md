@@ -9,7 +9,7 @@ categories:
 le jardinier a pris la rose  
 et l’a gardée longtemps près de lui  
 très longtemps  
-avant de la laisser-là dehors  
+avant de la laisser dehors  
 dans son jardin
 
 il l’a arrosée  
@@ -32,7 +32,6 @@ puis un jour elle a fleuri
 et des petits amours sont sortis d’elle  
 entre les ronces et les épines  
 des milliers de petites fleurs
-
 des petits soleils parfumés  
 qu’on voudrait croquer
 

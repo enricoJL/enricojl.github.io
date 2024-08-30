@@ -21,7 +21,7 @@ croire à ce filet de tendresse
 ce bouquet de sentiments  
 à cet arrangement de nos sourires  
 et de nos beaux mots  
-ils nous emportent  
+ils nous emportent dans les émotions  
 (un peu quand même)
 
 toutes nos images réarrangées  
@@ -37,4 +37,4 @@ passe-moi un film
 une histoire d'amour, un mélodrame ou une comédie  
 peu importe
 
-pourvu qu'on soit beaux dedans
+pourvu qu'on se voit beaux dedans

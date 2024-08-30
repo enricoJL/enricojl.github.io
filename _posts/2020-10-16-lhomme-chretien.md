@@ -22,6 +22,7 @@ comme un solide rempart
 
 sa conscience élargie s'élance  
 comme une semence enfoncée dans la terre
+rejoint le ciel  
 
 un rayon de lumière s'infiltre  
 il voit plus en avant dans les visages  

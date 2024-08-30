@@ -9,12 +9,11 @@ categories:
 ce qui nous arrive  
 dans un premier temps  
 nous traverse instantanément  
-
 après coup, quand ça nous arrive  
 on y réfléchit  
 
 habituellement, ça nous prend par surprise  
-et si ça nous dérange, ça nous arrange  
+même si ça nous dérange, ça nous arrange  
 de penser qu'on y est pour rien  
 
 les choses qui nous arrivent  

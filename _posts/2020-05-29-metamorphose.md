@@ -10,7 +10,7 @@ au centre de nous deux
 dans un tourbillon  
 continuellement   
 sans jamais s’arrêter  
-la métamorphose
+c'est la métamorphose
 
-mondes innombrables  
-multitudes en formation
+des mondes innombrables  
+des multitudes en formation

@@ -9,6 +9,7 @@ categories:
 l'un après l'autre  
 mes pas sont jetés  
 projetés dans le vide  
+
 juste devant  
 vers la falaise d'en-face  
 la montagne d'en-face en face de moi

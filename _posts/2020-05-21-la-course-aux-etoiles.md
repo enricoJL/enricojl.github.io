@@ -9,10 +9,10 @@ categories:
 j'étais sur une étoile  
 et je regardais vers l'intérieur  
 
-tout à coup j'y suis attiré  
-vers l'intérieur je m'y perds  
-et sans même pouvoir en profiter  
-je ressortais de l'autre côté ;  
+tout à coup, j'y suis attiré  
+vers l'intérieur, je m'y perds  
+et sans même savoir en profiter  
+je ressortais de l'autre côté :  
 trou noir ou autre dimension ?  
 
 et puis, je me suis retrouvé  
@@ -42,7 +42,7 @@ et avant de pouvoir y voir clair
 je me suis retrouvé dans mon corps  
 ma chambre  
 mon monde  
-ton monde ;  
+ton monde  
 ma prison
 
 mais c'est bel et bien là  

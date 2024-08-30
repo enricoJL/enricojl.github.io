@@ -20,8 +20,9 @@ la tête en étau
 le cœur encore en stage  
 et nos amours qui s'habituent  
 l'un à l'autre tout doucement  
-quand même hésitants  
-(à qui le dis-tu ?)
+
+quand même hésitants !  
+à qui le dis-tu ?
 
 attendre après l'autre  
 et nous dire encore :  

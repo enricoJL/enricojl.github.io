@@ -13,10 +13,11 @@ depuis des années, des millénaires
 et leur silence nous crie aux oreilles  
 
 les pierres, essuyant le sang des massacres  
-témoins du chaos, elles crient dans le silence :  
+témoins du chaos, crient dans le silence :  
 « Arrêtez ! »  
 nous suppliant constamment  
 depuis si longtemps  
 
 la Terre craquera  
+éclatera !  
 ses rochers se fendent déjà  

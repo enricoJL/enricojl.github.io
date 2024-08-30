@@ -10,7 +10,8 @@ je me suis dit :
 et tu m'as surpris dans les yeux à le penser  
 
 alors que le bonheur, vraiment  
-il est bien là entre nous  
+il est bien là  
+entre nous  
 
 ainsi de nous deux  
 c'est à savoir qui fait le bonheur de l'autre  
