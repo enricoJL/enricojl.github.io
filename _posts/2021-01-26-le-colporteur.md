@@ -17,7 +17,7 @@ et je me retrouve au bout des limites
 étranglé de sombres prétentions  
 
 dans l'invivable, je fuis sans relâche  
-ma propre présence cinique  
+ma propre présence malhonnête  
 ma vie n'est qu'un long souvenir infecte  
 
 mais voilà que je frappe à ta porte  
