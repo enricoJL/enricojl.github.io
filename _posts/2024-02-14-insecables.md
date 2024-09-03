@@ -7,11 +7,9 @@ published: true
 ---
 
 en attendant l'insécable  
-ton œil s'ouvre avec le mien  
 dans la même direction toujours  
+ton œil s'ouvre avec le mien  
 
-nos tendres espérances enlacées  
-dans la vulnérabilité d'une rose  
-
-mon amour  
-mon doux pétale fragile  
+nos tendres espérances  
+comme des pétales enlacées  
+dans la fragilité d'une rose  
