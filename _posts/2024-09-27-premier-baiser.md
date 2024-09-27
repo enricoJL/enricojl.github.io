@@ -38,7 +38,7 @@ Pourquoi j'ai eu peur de m'emporter
 
 C'est que  
 Tu étais tellement belle  
-si belle  
+Si belle !  
 Te regarder, t'avoir dans mes bras  
 me suffisait amplement  
 Aussi réservé que j'ai pu l'être   
