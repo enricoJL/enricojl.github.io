@@ -100,7 +100,6 @@ Car de toujours te voir
 sans te toucher ni te demander  
 s'imprégnait en moi  
 comme un songe que l'on repousse lascivement  
-1992-12-01
 J'essayais de comprendre pourquoi  
 Pourquoi ai-je fait encore l'ignorant  
 
