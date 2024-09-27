@@ -100,7 +100,7 @@ Car de toujours te voir
 sans te toucher ni te demander  
 s'imprégnait en moi  
 comme un songe que l'on repousse lascivement  
-
+1992-12-01
 J'essayais de comprendre pourquoi  
 Pourquoi ai-je fait encore l'ignorant  
 
@@ -111,12 +111,13 @@ Niais
 Je baisais ta bouche sans trop y mettre d'ardeur  
 Ne croyant pas  
 cherchant encore en moi la force d'agir vitement  
-J'étais pendu à tes lèvres niais  
+J'étais pendu à tes lèvres  
+niais  
 comme un enfant qui embrasse pour la première fois  
-Peur dans l'âme et joie dans le cœur  
+peur dans l'âme et joie dans le cœur  
 qui embrasse et se laisse bercer  
 par le goûter d'un doux mirage  
-
 Un beau rêve en image devant soi  
+
 Une femme belle que l'on sent depuis longtemps  
 vivre en soi comme dans le monde au printemps  
