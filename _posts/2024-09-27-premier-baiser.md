@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Premier baiser"
-date: "1992"
+date: "1992-12-01"
 categories: "amore"
 published: true
 ---
