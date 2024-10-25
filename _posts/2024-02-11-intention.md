@@ -17,7 +17,7 @@ que cherches-tu ?
 
 où l'as-tu placé ?  
 mon cœur  
-pourquoi l'as-tu lancé si loin ?  
+pourquoi l'as-tu lancé si loin de toi ?  
 
 si loin  
 va-t-il me revenir un jour ?
