@@ -12,12 +12,13 @@ Nous nous désirions
 Nous nous laissions  
 
 Dans l'entrave de ta porte  
-Tu te tenais là belle comme un mirage  
-Tu me regardais lasser mes bottes  
-et tu me souriais de ton visage  
+Tu te tenais là  
+belle comme un mirage  
+Tu me regardais  
+et tu me souriais  
 
 Un mirage car encore  
-encore je n'ose encore croire  
+je n'ose encore croire  
 Que tu m'as ouvert tes bras  
 Que tu m'as offert ta bouche  
 
@@ -52,8 +53,7 @@ J'ai fait un pas craintif
 J'ai avancé ma bouche pour te baiser  
 Dans un geste gauche et chancelant  
 j'ai baisé tes deux joues  
-Désirs retenus  
-J'ai risqué ta bouche fraîche et ferme  
+J'ai risqué ta bouche fraîche  
 contre mes lèvres brûlantes  
 
 Et  
@@ -72,7 +72,7 @@ Je ne saisissais pas encore ce qui m'arrivait
 Ce qui nous arrivait  
 Ce qui me dépassait  
 
-Je me trouvais là, devant toi devant moi  
+Je me trouvais là  
 Et je t'embrassais (toujours aussi réservé)  
 Je ne comprenais pas pourquoi j'hésitais  
 J'avais peur  
@@ -88,7 +88,6 @@ Je ne comprenais pas non
 Je ne comprenais pas pourquoi  
 Pourquoi ai-je resté si chancelant  
 Si hésitant  
-Si insignifiant  
 
 Dans tes bras  
 Sur ma bouche  
@@ -98,10 +97,9 @@ Mais je restais toujours aussi chancelant
 aussi résistant  
 Car de toujours te voir  
 sans te toucher ni te demander  
-s'imprégnait en moi  
-comme un songe que l'on repousse lascivement  
+s'imprégnait en moi comme un songe  
 J'essayais de comprendre pourquoi  
-Pourquoi ai-je fait encore l'ignorant  
+Pourquoi ai-je fait encore l'insignifiant  
 
 Je restais là  
 pendu à tes lèvres  
@@ -109,7 +107,7 @@ Niais
 
 Je baisais ta bouche sans trop y mettre d'ardeur  
 Ne croyant pas  
-cherchant encore en moi la force d'agir vitement  
+Cherchant encore en moi la force d'agir vitement  
 J'étais pendu à tes lèvres  
 niais  
 comme un enfant qui embrasse pour la première fois  
