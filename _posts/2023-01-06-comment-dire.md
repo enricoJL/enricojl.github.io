@@ -24,7 +24,7 @@ mon cœur s'élance et je le retiens
 raisonnable, soyons raisonnable, voyons  
 je veux ton bonheur  
 te rendre heureuse par mille attentions  
-te faire la cours entre des mots fous  
+te faire la cour entre des mots fous  
 t'aimer tout simplement, te le dire souvent  
 te dire je t'aime de plus en plus vrai  
 pour que tu y crois et que mon cœur s'y habitue  
@@ -33,7 +33,7 @@ en espérant bientôt ne plus le dire
 comme un discours qu'on répète en coulisse  
 mais comme une fleur qu'on peint frénétiquement  
 dans les couleurs d'un beau tableau  
-qui revient, qui revient chaque jour  
+qui revient qui revient chaque jour  
 comme un souvenir de toi qui revient  
 chaque jour de plus en plus beau
 
