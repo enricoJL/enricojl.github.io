@@ -10,6 +10,7 @@ published: true
 peser sur l'autre  
 et souffrir en silence  
 sans le réaliser  
+
 sentir le poids  
 cogner sur l'enclume  
 à répétition  
