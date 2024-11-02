@@ -2,7 +2,7 @@
 layout: post
 title: "Premier baiser"
 date: "2024-09-27"
-categories: "jeunesse"
+categories: "amore"
 published: true
 ---
 
