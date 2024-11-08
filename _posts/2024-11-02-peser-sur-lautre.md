@@ -16,7 +16,7 @@ cogner sur l'enclume
 
 voir l'autre s'enliser  
 sans issue  
-submergés d'inquiétude  
-et sombrer  
+submergée d'inquiétude  
 
+et sombrer avec elle  
 sans pouvoir rien y faire  
