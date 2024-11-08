@@ -9,20 +9,14 @@ published: true
 
 peser sur l'autre  
 et souffrir en silence  
-sans le réaliser  
 
-sentir le poids  
+sentir le poids du marteau  
 cogner sur l'enclume  
 à répétition  
 
-forgé dans la douleur  
 voir l'autre s'enliser  
-dans la détresse  
-sans pouvoir rien y faire  
-
 sans issue  
-la regarder sombrer  
-submergée d'inquiétude  
-avec intensité  
+submergés d'inquiétude  
+et sombrer  
 
 sans pouvoir rien y faire  
