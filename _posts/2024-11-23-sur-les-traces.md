@@ -32,7 +32,7 @@ et rien
 rien à trouver, rien à voir  
 rien à prendre, rien à s'accrocher  
 mais continuer à chercher  
-pour enfin percevoir la vérité chez l'autre  
+pour enfin percevoir l'authenticité chez l'autre  
 et revoir le visage du jour qui se lève  
 
 mais bientôt le soir revient déjà  
@@ -58,7 +58,7 @@ de ce qui vient grâce à toi
 qui revient pour nourrir  
 qui nous enveloppe et nous prend  
 qui nous élève et nous transporte  
-à la recherche de cette lumière cachée  
+à la recherche de cette vérité cachée  
 que l'on reconnaît en soi   
 et qui nous manque  
 
