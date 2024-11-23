@@ -11,7 +11,7 @@ et suivre ces traces jusqu'à revenir à soi
 et quand on pense être rendu  
 perdre le visage de l'autre  
 
-se sentir perdu et chercher l'autre  
+se sentir perdu et rechercher l'autre  
 chercher malgré la peur  
 chercher le jour  
 chercher la main tendue  
