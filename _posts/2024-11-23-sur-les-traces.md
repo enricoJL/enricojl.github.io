@@ -36,7 +36,7 @@ pour enfin percevoir l'authenticité chez l'autre
 et revoir le visage du jour qui se lève  
 
 mais bientôt le soir revient déjà  
-et la nuit se couche  
+et la nuit se couche tout au long  
 de soi vers l'autre  
 et de l'autre à soi  
 
