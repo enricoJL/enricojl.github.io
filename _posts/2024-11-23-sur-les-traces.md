@@ -76,4 +76,4 @@ ce qu'on ressens au travers
 
 de soi vers l'autre  
 et de l'autre à soi  
-il y a de la lumière aux deux bouts  
+il y a de la lueur aux deux bouts  
