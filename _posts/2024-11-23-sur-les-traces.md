@@ -27,15 +27,15 @@ chercher constamment
 
 perdre son chemin  
 perdre le sens des choses  
-perdre, tout perdre
+perdre, tout perdre  
 et rien  
 rien à trouver, rien à voir  
 rien à prendre, rien à s'accrocher  
 mais continuer à chercher  
-pour enfin percevoir l'authenticité chez l'autre  
-et voir dans le noir le visage du jour qui se lève  
+pour enfin percevoir la vérité chez l'autre  
+et revoir le visage du jour qui se relève  
 
-mais le soir revient déjà  
+bientôt le soir revient déjà  
 et la nuit se recouche  
 de soi vers l'autre  
 et de l'autre à soi  
@@ -46,11 +46,11 @@ tous ces échanges au fil du temps
 près de moi toujours je te revois  
 je suis là  
 malgré la peur et les ténèbres  
-à espérer la lumière qui viendra un jour  
+à espérer la lumière qui reviendra un jour  
 
 au rivage de l'autre  
 à la recherche d'un trésor qui fait du bien  
-à la recherche des choses qui se créent  
+des choses qui se créent  
 des choses qui n'existaient pas avant  
 de ce qui vient grâce à toi  
 
@@ -62,9 +62,9 @@ qui nous élève et nous transporte
 que l'on reconnaît en soi   
 et qui nous manque  
 
-qui nous traverse  
-qui nous enflamme  
-qui nous agrandit  
+nous traverse  
+nous enflamme  
+nous agrandit  
 
 à la recherche de ce coffre enfoui   
 dans la terre au milieu du désert  
