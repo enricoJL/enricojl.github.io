@@ -29,4 +29,5 @@ au rivage de l'autre
 
 de soi vers l'autre et de l'autre à soi  
 à la recherche de la vérité  
-comme un trésor enfoui qui apparaît au travers des échanges  
+comme un trésor enfoui qui apparaît soudain  
+au travers des échanges  
