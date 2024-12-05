@@ -30,5 +30,5 @@ au rivage de l'autre
 
 de soi vers l'autre et de l'autre à soi  
 à la recherche d'une chose véritable  
-comme un trésor espéré  
+comme un trésor tant espéré  
 qui apparaît au travers des échanges  
