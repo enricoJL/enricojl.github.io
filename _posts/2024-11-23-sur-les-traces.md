@@ -6,17 +6,15 @@ categories: "divers"
 published: true
 ---
 
-pendant longtemps  
-rechercher malgré tout la main tendue  
+pendant longtemps rechercher  
+la main tendue  
 
 chercher le cœur  
 chercher la tête  
 chercher le courage  
 
-toujours perdu  
 chercher sans arrêt  
-malgré la peur et les ténèbres  
+malgré la peur  
 
-toujours rester là  
+toujours rester là sur le rivage de l'autre  
 à espérer la lumière qui viendra un jour  
-sur le rivage de l'autre  
