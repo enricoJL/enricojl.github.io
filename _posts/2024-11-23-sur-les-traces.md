@@ -2,7 +2,7 @@
 layout: post
 title: "sur les traces de l'autre"
 date: "2024-11-23"
-categories: "divers"
+categories: "amore"
 published: true
 ---
 
