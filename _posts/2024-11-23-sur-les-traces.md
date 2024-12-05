@@ -13,7 +13,7 @@ chercher la tête
 chercher le réconfort  
 
 chercher toujours  
-perdu dans le noir  
+perdu dans la pénombre  
 chercher constamment  
 chercher sans arrêt  
 
@@ -37,7 +37,7 @@ que l'on reconnaît dans l'autre
 
 ce trésor enfoui  
 à travers nos échanges  
-ce qu'on ressens au travers  
+(ce qu'on ressens au travers)  
 
 de soi vers l'autre  
 et de l'autre à soi  
