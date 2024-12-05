@@ -7,26 +7,16 @@ published: true
 ---
 
 pendant longtemps  
-rechercher malgré tout  
-la main tendue  
+rechercher malgré tout la main tendue  
 
 chercher le cœur  
 chercher la tête  
 chercher le courage  
 
-chercher toujours  
-perdu  
+toujours perdu  
 chercher sans arrêt  
-
-mais rien à trouver  
-rien à prendre  
-rien à s'accrocher  
-
 malgré la peur et les ténèbres  
+
 toujours rester là  
 à espérer la lumière qui viendra un jour  
-au rivage de l'autre  
-
-de soi vers l'autre et de l'autre à soi  
-à la recherche d'un trésor enfoui  
-qui apparaît soudain au travers des échanges  
+sur le rivage de l'autre  
