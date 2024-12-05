@@ -16,8 +16,7 @@ chercher le réconfort
 
 chercher toujours  
 perdu  
-chercher constamment  
-sans arrêt  
+chercher sans arrêt  
 
 mais rien à trouver  
 rien à prendre  
