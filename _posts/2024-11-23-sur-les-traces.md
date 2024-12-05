@@ -3,7 +3,7 @@ layout: post
 title: "sur les traces de la lumière"
 date: "2024-11-23"
 categories: "spirit"
-published: true
+published: false
 ---
 
 découvrir chez l'autre des traces de vérité  
@@ -11,15 +11,14 @@ et suivre ces traces jusqu'à revenir à soi
 et quand on pense être rendu  
 perdre le visage de l'autre  
 
-se sentir perdu et rechercher l'autre  
-chercher malgré la peur  
-chercher le jour  
+rechercher l'autre  
+malgré la peur  
 chercher la main tendue  
 perdu  
 chercher le cœur  
 chercher la tête  
 chercher le réconfort  
-chercher chercher toujours  
+chercher toujours  
 perdu dans le noir  
 l'autre personne perdue  
 chercher sans arrêt  
@@ -35,7 +34,7 @@ mais continuer à chercher
 pour enfin percevoir l'authenticité chez l'autre  
 et revoir le visage du jour qui se lève  
 
-mais bientôt le soir revient déjà  
+bientôt le soir revient déjà  
 et la nuit se couche tout au long  
 de soi vers l'autre  
 et de l'autre à soi  
