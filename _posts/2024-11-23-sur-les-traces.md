@@ -8,11 +8,11 @@ published: true
 
 pendant longtemps  
 rechercher malgré tout  
-la main tendue  
+cette main tendue  
 
 chercher le cœur  
 chercher la tête  
-chercher le réconfort  
+chercher le courage  
 
 chercher toujours  
 perdu  
@@ -30,5 +30,5 @@ au rivage de l'autre
 
 de soi vers l'autre et de l'autre à soi  
 à la recherche d'une chose véritable  
-comme un trésor tant espéré  
+comme un trésor enfoui  
 qui apparaît au travers des échanges  
