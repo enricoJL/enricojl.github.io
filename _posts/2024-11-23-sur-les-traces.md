@@ -24,8 +24,7 @@ rien à s'accrocher
 
 malgré la peur et les ténèbres  
 toujours rester là  
-à espérer la lumière qui viendra  
-un jour  
+à espérer la lumière qui viendra un jour  
 au rivage de l'autre  
 
 de soi vers l'autre et de l'autre à soi  
