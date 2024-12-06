@@ -12,4 +12,4 @@ toujours rester là sur le rivage de l'autre
 
 de soi vers l'autre et de l'autre à soi  
 au travers des échanges  
-la lueur provient des deux rives  
+la lueur provient des deux rivages  
