@@ -7,9 +7,9 @@ published: false
 ---
 
 pendant longtemps malgré la peur  
-rester là sur le rivage de l'autre  
+rester là sur le rivage  
 à espérer la lumière qui viendra un jour  
 
 de soi vers l'autre et de l'autre à soi  
-au travers des échanges  
+sur le navire des émotions au travers des échanges  
 la lueur provient des deux rivages  
