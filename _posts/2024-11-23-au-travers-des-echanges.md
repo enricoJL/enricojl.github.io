@@ -12,5 +12,5 @@ rester là sur la rive
 
 de soi vers l'autre et de l'autre à soi  
 au travers des échanges  
-sur le navire des émotions  
+dans la tempête des émotions  
 la lueur provient des deux rivages  
