@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sur les traces de l'autre"
+title: "au travers des échanges"
 date: "2024-11-23"
 categories: "amore"
 published: false
@@ -11,5 +11,6 @@ rester là sur le rivage
 à espérer la lumière qui viendra un jour  
 
 de soi vers l'autre et de l'autre à soi  
-sur le navire des émotions au travers des échanges  
+au travers des échanges  
+sur le navire des émotions  
 la lueur provient des deux rivages  
