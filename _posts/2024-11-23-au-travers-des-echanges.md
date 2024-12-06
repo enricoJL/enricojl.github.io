@@ -7,10 +7,9 @@ published: true
 ---
 
 pendant longtemps malgré la peur  
-rester là sur la rive  
+rester sur la rive des émotions  
 à espérer la lumière qui viendra un jour  
 
 de soi vers l'autre et de l'autre à soi  
-au travers des échanges  
-dans la tempête des émotions  
+dans la tempête au travers des échanges  
 la lueur provient des deux rivages  
