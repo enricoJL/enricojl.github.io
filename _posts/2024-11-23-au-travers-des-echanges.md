@@ -3,11 +3,11 @@ layout: post
 title: "au travers des échanges"
 date: "2024-11-23"
 categories: "amore"
-published: false
+published: true
 ---
 
 pendant longtemps malgré la peur  
-rester là sur le rivage  
+rester là sur la rive  
 à espérer la lumière qui viendra un jour  
 
 de soi vers l'autre et de l'autre à soi  
