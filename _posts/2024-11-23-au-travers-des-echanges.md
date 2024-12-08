@@ -7,7 +7,7 @@ published: true
 ---
 
 pendant longtemps malgré la peur  
-rester sur la rive des émotions  
+rester là sur la rive des émotions  
 à espérer la lumière qui viendra un jour  
 
 de soi vers l'autre et de l'autre à soi  
