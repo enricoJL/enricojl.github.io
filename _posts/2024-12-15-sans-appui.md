@@ -6,39 +6,6 @@ categories: "divers"
 published: false
 ---
 
-===============
-
-au rivage de l'autre  
-à la recherche de choses qui se créent  
-qui n'existaient pas avant  
-de ce qui vient grâce à toi  
-
-à la recherche de cette main tendue  
-qui revient de temps en temps  
-qui nous enveloppe et nous prend  
-qui nous élève et nous transporte  
-
-qui nous traverse  
-qui nous enflamme  
-qui nous agrandit  
-
-à la recherche de cette vérité cachée  
-que l'on reconnaît en soi   
-et qui nous manque  
-
-à la recherche de ce coffre enfoui   
-comme un trésor qui fait du bien  
-à travers nos habitudes  
-à travers ce qu'on fait  
-ce qu'on ressens au travers  
-
-<!-- de soi vers l'autre  
-et de l'autre à soi  
-la lueur provient des deux rivages   -->
-
-
-
-===================
 
 chercher partout  
 chercher malgré la peur  
@@ -59,8 +26,3 @@ et rien
 rien à trouver  
 rien à percevoir  
 rien à s'accrocher  
-
-=================
-
-
-=================
