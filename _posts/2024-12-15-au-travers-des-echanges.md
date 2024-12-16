@@ -17,31 +17,17 @@ la lueur provient des deux rivages
 
 au rivage de l'autre longtemps  
 rester là malgré la peur  
-à attendre ce sentiment  
-qui n'existait pas avant  
-et qui vient grâce à toi  
+à attendre ce sentiment qui n'existait pas avant  
+et qui viendra grâce à lui  
 
 à la recherche de cette main tendue  
 qui revient de temps en temps  
 qui nous enveloppe et nous prend  
 qui nous élève et nous transporte  
-qui traverse tout  
-qui nous enflamme  
-et qui nous agrandit  
+qui renverse tout et qui nous agrandit  
 
 ce quelque chose que l'on reconnaît en soi   
-et qui nous manque tellement  
-enfoui dans un trésor qui fait du bien  
-il nous prend soudain par surprise  
-pour nous emporter dans la mer  
-
-en travers de nos habitudes  
-ce dérangement sublime  
-contient tout  
-accapare tout  
-et nous empêche de réfléchir  
-
-tout est clair pourtant  
-si on arrête de lutter contre la vague  
-et que l'on s'y laisse glisser avec confiance  
-pour atteindre le ciel  
+ce dérangement sublime qui accapare tout  
+qui nous manque tellement chez l'autre  
+ça nous prend soudain par surprise  
+au milieu des échanges au loin du rivage  
