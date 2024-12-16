@@ -25,6 +25,7 @@ ce quelque chose que l'on reconnaît en soi
 ce dérangement sublime qui accapare tout  
 ça nous prend par surprise quelquefois  
 
-au travers des échanges dans la tempête des émotions  
+au travers des échanges  
+dans la tempête des émotions  
 de soi vers l'autre et de l'autre à soi  
 la lueur provient des deux rivages  
