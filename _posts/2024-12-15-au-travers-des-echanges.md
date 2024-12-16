@@ -17,7 +17,7 @@ la lueur provient des deux rivages
 
 au rivage de l'autre longtemps  
 rester là malgré la peur  
-à la recherche du sentiment  
+à attendre ce sentiment  
 qui n'existait pas avant  
 et qui vient grâce à toi  
 
@@ -25,16 +25,23 @@ et qui vient grâce à toi
 qui revient de temps en temps  
 qui nous enveloppe et nous prend  
 qui nous élève et nous transporte  
-qui nous traverse  
+qui traverse tout  
 qui nous enflamme  
 et qui nous agrandit  
 
-cette vérité authentique  
-que l'on reconnaît en soi   
+ce quelque chose que l'on reconnaît en soi   
 et qui nous manque tellement  
-
 enfoui dans un trésor qui fait du bien  
-à travers nos habitudes  
-la vague peut nous prendre par surprise  
-et faire des ravages  
-ou nous transporter vers le ciel  
+il nous prend soudain par surprise  
+pour nous emporter dans la mer  
+
+en travers de nos habitudes  
+ce dérangement sublime  
+contient tout  
+accapare tout  
+et nous empêche de réfléchir  
+
+tout est clair pourtant  
+si on arrête de lutter contre la vague  
+et que l'on s'y laisse glisser avec confiance  
+pour atteindre le ciel  
