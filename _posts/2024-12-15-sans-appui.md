@@ -7,7 +7,6 @@ published: true
 ---
 
 chercher partout  
-malgré la peur  
 chercher la main tendue  
 perdu  
 
