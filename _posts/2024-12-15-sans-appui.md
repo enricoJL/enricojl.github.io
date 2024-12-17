@@ -6,23 +6,24 @@ categories: "divers"
 published: false
 ---
 
-
 chercher partout  
-chercher malgré la peur  
+malgré la peur  
 chercher la main tendue  
 perdu  
+
 chercher le cœur  
 chercher la tête  
-rechercher le réconfort  
-
-chercher chercher toujours  
-perdu  
+chercher le réconfort  
+chercher  
+chercher toujours  
+sans appui  
 chercher sans arrêt  
 
 perdre le sens des choses  
 perdre son chemin  
-perdre, tout perdre  
+perdre tout perdre  
 et rien  
+
 rien à trouver  
 rien à percevoir  
 rien à s'accrocher  
