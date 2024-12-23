@@ -15,12 +15,12 @@ chercher la tête
 chercher le réconfort  
 
 chercher toujours  
-sans appui  
 chercher sans arrêt  
+sans appui  
 
 perdre le sens des choses  
 perdre son chemin  
-perdre tout perdre  
+tout perdre  
 et rien  
 
 rien à trouver  
