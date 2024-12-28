@@ -8,7 +8,7 @@ published: trrue
 
 pendant longtemps malgré la peur  
 rester là sur le rivage de l'autre  
-à espérer le miracle qui viendra un jour  
+à espérer la lumière qui viendra un jour  
 
 de soi vers l'autre et de l'autre à soi  
 dans la tempête au travers des échanges  
