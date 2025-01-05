@@ -9,5 +9,5 @@ published: true
 l'intelligence de faire  
 c'est le pouvoir  
 
-et l'intelligence de faire faire  
+l'intelligence de faire faire  
 c'est la puissance  
