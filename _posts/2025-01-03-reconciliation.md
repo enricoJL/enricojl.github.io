@@ -11,4 +11,4 @@ contre toute évidence
 les retrouvailles nous attendent  
 
 sur le chemin des attentes  
-je prends ta main  
+je reprends ta main  
