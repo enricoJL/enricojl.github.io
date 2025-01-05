@@ -16,7 +16,7 @@ les occasions ratées
 
 les services rendus  
 sans compter  
-sans même savoir que s'en était  
+sans même savoir que s'en étaient  
 
 si peu l'amour  
 il faut que ce soit  
