@@ -12,7 +12,7 @@ published: true
 
 La pensée de l'univers que je connais se situe au cœur de mes perceptions, accessibles à travers mon corps physique. Les relations que j'entretiens avec les autres corps autour de moi, qu'ils soient animés ou inanimés, enrichissent et définissent les connaissances que je possède.
 
-Mon univers personnel, façonné par la dynamique des choses qui m'entourent et constitué par l'ensemble des pensées qui m'habitent, interagit avec un autre univers au travers des sens que me procure mon corps. Cet autre univers, composé de ce qui existe indépendamment de moi, entre en relation constante avec le mien : ils se confrontent, se marient et parfois même s'expulsent l'un l'autre, probablement plus souvent que je ne m'en rends compte.
+Mon univers personnel, façonné par la dynamique des choses qui m'entourent et constitué par l'ensemble des pensées qui m'habitent, interagit avec un autre univers au travers des sens que me procure mon corps. Cet autre univers, composé de ce qui existe indépendamment de moi, entre en relation constante avec le mien : ils se confrontent, se marient et parfois même s'expulsent l'un l'autre --- probablement plus souvent que je ne m'en rends compte.
 
 Ainsi, mon univers personnel dépend de l'acuité de mes sens, eux-mêmes déterminés par la nature de mon corps : un corps spirituel perçoit des réalités spirituelles, un corps céleste des réalités célestes, et un corps terrestre des réalités terrestres. Mon corps, étant l'hôte de mes pensées, en délimite nécessairement les contours.
 
