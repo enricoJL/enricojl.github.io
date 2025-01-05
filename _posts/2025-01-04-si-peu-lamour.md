@@ -18,7 +18,7 @@ les services rendus
 sans compter  
 sans même savoir que s'en était  
 
-de l'amour à donner  
+si peu l'amour  
 il faut que ce soit  
 exclusivement donné  
 l'amour  
