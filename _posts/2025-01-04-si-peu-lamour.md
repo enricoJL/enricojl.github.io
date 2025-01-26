@@ -11,8 +11,8 @@ sens du service
 et mise à l'épreuve  
 
 tous les manquements  
-les attentes perdues  
-les occasions ratées  
+les attentes  
+et les occasions  
 
 les services rendus  
 sans compter  
