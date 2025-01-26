@@ -21,4 +21,4 @@ sans même savoir
 si peu l'amour  
 exclusivement donné  
 
-c'est là que ça compte vraiment  
+c'est là que ça compte  
