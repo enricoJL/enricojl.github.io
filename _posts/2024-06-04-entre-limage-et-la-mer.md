@@ -9,6 +9,7 @@ published: true
 
 quand on s'adresse à l'autre, malheureusement  
 ce qu'on pense connaître prend toute la place  
+
 l'image de ce qu'on pense savoir encombre tout  
 elle s'immisce devant ce qui existe vraiment  
 et cache la plus grande part de ce qu'on ne sait pas  
