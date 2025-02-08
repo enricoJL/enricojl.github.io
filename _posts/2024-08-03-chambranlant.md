@@ -7,6 +7,7 @@ published: true
 ---
 
 debout sur une chaise berçante dans le monde  
+je crie ma joie de grandir à l'envers  
 
 en attendant le réveil  
 
@@ -15,5 +16,3 @@ ballottant
 chambranlant  
 
 dans la désillusion totale  
-
-je crie ma joie de grandir à l'envers  
