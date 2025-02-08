@@ -10,7 +10,7 @@ j'y suis allé longtemps
 au point de rencontre  
 
 sans barrière  
-sans carapace  
+sans carapace aucune  
 
 j'y ai aimé la pensée de ton sourire  
 jusqu'au lendemain  
