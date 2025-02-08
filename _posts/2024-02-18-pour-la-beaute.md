@@ -6,7 +6,7 @@ categories: "divers"
 published: true
 ---
 
-qu'ils la prennent ma poésie  
+qu'ils la prennent ma beauté  
 que les gens se l'arrachent  
 et qu'ils se l'approprient  
 

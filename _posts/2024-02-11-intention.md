@@ -10,16 +10,16 @@ c'est quoi ton intention ?
 parce que je ne comprends pas  
 
 as-tu vraiment envie de dire  
-ce que tu dis  
-as-tu vraiment l'intention  
-de faire tout ce que tu fais  
+ce que tu dis ?  
+as-tu vraiment l'intention de faire  
+tout ce que tu fais  
 que cherches-tu ?  
 
 où l'as-tu placé ?  
 mon cœur  
-pourquoi l'as-tu lancé si loin de toi ?  
+comment l'as-tu perdu ?  
 
 si loin  
 va-t-il me revenir un jour ?
 
-j'ose encore espérer que oui  
+j'ose encore croire que oui  

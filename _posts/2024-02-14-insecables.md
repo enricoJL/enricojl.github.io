@@ -10,6 +10,6 @@ en attendant l'insécable
 dans la même direction toujours  
 ton œil s'ouvre avec le mien  
 
+dans la fragilité d'une rose  
 nos tendres espérances  
 comme des pétales enlacées  
-dans la fragilité d'une rose  
