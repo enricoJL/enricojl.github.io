@@ -14,5 +14,5 @@ sans s'inquiéter d'en perdre ou d'en gaspiller
 
 tendre vers l'autre  
 en espérant que l'eau soit bonne  
-en espérant que la lumière surgisse  
+en espérant que la joie surgisse  
 et que la vie nous surpasse  

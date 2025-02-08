@@ -8,6 +8,6 @@ published: true
 
 sans être toujours confortables  
 
-mes désirs m'y ramènent toujours  
-
 auprès de mes amours  
+
+mes désirs m'y ramènent toujours  

@@ -8,7 +8,7 @@ published: true
 
 à chaque instant  
 
-sans me soucier de rien  
+sans se soucier de rien  
 
 vivre avec toi  
 
