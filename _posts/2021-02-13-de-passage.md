@@ -8,4 +8,4 @@ categories: "pensees"
 à l'intérieur de mes pensées  
 j'accumule tout un bagage  
 laissé-là par le mouvement des choses  
-dans leur voyage en passant chez moi
+dans leur voyage en passant chez moi  

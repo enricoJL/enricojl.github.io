@@ -6,7 +6,7 @@ categories: "divers"
 ---
 
 enracinés dans cette terre de vérité  
-où ils habitent profondément  
+profondément  
 les arbres doucement se réveillent  
 
 après ce long voyage immobile  
@@ -16,4 +16,4 @@ au travers des branches
 
 --- avec toi, mon ami  
 au milieu des échanges et des idées  
-la vérité nous redécouvre  
+la vérité nous revisite  

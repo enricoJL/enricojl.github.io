@@ -9,6 +9,6 @@ depuis longtemps mort et disparu
 je reviens aujourd'hui à la vie  
 
 avec ce sentiment d'urgence  
-et mes anciennes raisons de vivre
+et mes anciennes raisons de vivre  
 
-depuis si longtemps mort et disparu
+--- depuis si longtemps mort et disparu  

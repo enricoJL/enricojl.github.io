@@ -16,6 +16,6 @@ bien vivant à l'intérieur
 
 une planète en fusion  
 avec à sa surface  
-un espace où vivre
+un espace où vivre  
 
-toute forme de vie en dépend
+toute forme de vie en dépend  
