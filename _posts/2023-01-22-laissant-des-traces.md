@@ -16,7 +16,7 @@ incrustés dans le roc
 
 par un travail scrupuleux  
 ces fragments dégagés  
-je les place à la lumière  
+l'artisan les place à la lumière  
 
 souvenirs altérés  
 passage obligé  

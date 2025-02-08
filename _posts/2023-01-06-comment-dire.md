@@ -13,7 +13,7 @@ passion, passionnément, à la folie, à devenir fou
 je suis insensé, c'est la folie qui s'empare de tout  
 ce que je dis, de sens, n'a plus de sens  
 je ne réfléchis plus qu'à moitié  
-penser à toi me rend malade de toi  
+penser à toi me rend malade  
 
 dans un plongeon, enfin m'assoupir dans tes yeux  
 du coup, j'en perds encore la raison  
@@ -22,7 +22,7 @@ entre ma main, tes cheveux et ton parfum
 mon cœur s'élance et je le retiens
 
 raisonnable, soyons raisonnable, voyons  
-je veux ton bonheur  
+je veux ton bonheur !  
 te rendre heureuse par mille attentions  
 te faire la cour entre des mots fous  
 t'aimer tout simplement, te le dire souvent  

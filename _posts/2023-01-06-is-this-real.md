@@ -11,7 +11,7 @@ substance of something really there
 really really good and really fine  
 
 do you feel the love  
-do you know from whence it come  
+do you know from whence it came  
 I have been searching long for such a feeling  
 and I found it between you and me  
 
