@@ -12,15 +12,15 @@ Nous nous désirions
 Nous nous laissions  
 
 Dans l'entrave de ta porte  
-Tu te tenais là  
+tu te tenais là  
 belle comme un mirage  
 Tu me regardais  
 et tu me souriais  
 
 Un mirage car encore  
 je n'ose encore croire  
-Que tu m'as ouvert tes bras  
-Que tu m'as offert ta bouche  
+que tu m'as ouvert tes bras  
+que tu m'as offert ta bouche  
 
 Je t'ai prise sur ma poitrine  
 Tu m'as pris plutôt  
@@ -38,12 +38,12 @@ Pourquoi je n'ai pu répondre ardemment
 Pourquoi j'ai eu peur de m'emporter  
 
 C'est que  
-Tu étais tellement belle  
+tu étais tellement belle  
 Si belle !  
 Te regarder, t'avoir dans mes bras  
 me suffisait amplement  
 Aussi réservé que j'ai pu l'être   
-J'étais comblé  
+j'étais comblé  
 Je ne cherchais rien de plus  
 Je n'en demandais pas tant  
 Dans tes bras, je me trouvais  
@@ -57,7 +57,7 @@ J'ai risqué ta bouche fraîche
 contre mes lèvres brûlantes  
 
 Et  
-Tu m'as répondu  
+tu m'as répondu  
 
 J'embrassais mon mirage, mon rêve en image devant moi  
 Devant mes yeux  
@@ -73,11 +73,11 @@ Ce qui nous arrivait
 Ce qui me dépassait  
 
 Je me trouvais là  
-Et je t'embrassais (toujours aussi réservé)  
+et je t'embrassais (toujours aussi réservé)  
 Je ne comprenais pas pourquoi j'hésitais  
 J'avais peur  
-Peur de te voir s'éteindre  
-De voir s'effacer mon mirage  
+peur de te voir s'éteindre  
+de voir s'effacer mon mirage  
 mon rêve en image dans mes bras  
 sur ma bouche  
 contre tout mon corps  
