@@ -13,7 +13,7 @@ j'invente
 
 je m'enfuis dans les rues de la ville  
 au-travers d'un songe  
-et je me retrouve au bout des limites
+et je me retrouve au bout de mes limites
 étranglé de sombres prétentions  
 
 dans l'invivable, je fuis sans relâche  
@@ -25,17 +25,17 @@ j'arrive au balcon
 à cheval jusqu'à ta porte  
 je fais vibrer ta maison  
 
-à l'entrée je me présente colporteur  
+à l'entrée je me présente  
 rempli de miel jusque dans les yeux  
 je t'offre d'abord ma présence  
 (le plus dur à prendre)  
 
---- méfie-toi !
+--- méfie-toi !  
 
 et tu te réjouis d'avoir fermé la porte  
 avant que mon pied n'atteigne l'intérieur    
 
----
+----
 
 à l'entrée le colporteur  
 une autre fois encore  
