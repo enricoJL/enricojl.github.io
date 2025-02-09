@@ -12,3 +12,4 @@ sans même savoir
 
 si peu l'amour  
 exclusivement donné  
+ça compte vraiment  
