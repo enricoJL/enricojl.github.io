@@ -16,6 +16,7 @@ devenus trop vieux, déchirés, désuets
 voilà qu'il est temps de m'en débarrasser  
 ils m'ont bien servi jusqu'à maintenant  
 et c'est difficile de les laisser  
+
 j'ai encore l'habitude de vouloir porter celui-ci  
 et je cherche celui-là dans mes affaires constamment  
 
