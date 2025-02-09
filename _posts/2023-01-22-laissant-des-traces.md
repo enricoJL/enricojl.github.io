@@ -14,9 +14,6 @@ ces étincelles de vérité
 comme des cristaux du passé  
 incrustés dans le roc  
 
-par un travail scrupuleux  
 ces fragments dégagés  
+par un travail scrupuleux  
 l'artisan les place à la lumière  
-
-souvenirs altérés  
-passage obligé  

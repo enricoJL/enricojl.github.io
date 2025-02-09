@@ -5,23 +5,24 @@ date: "2023-01-03"
 categories: spirit
 ---
 
+étendu à demi sur le dos sur la plage  
 
 les coudes bien enfoncés dans le sable  
-sur la plage le regard plongé dans le ciel  
+le regard plongé dans le ciel  
 au plus sombre de la nuit  
 
-les dimensions semblaient tellement grandes  
+la distance semblait tellement grande  
 entre nous et les étoiles  
 que le vertige s'est emparé de moi  
 
-j'ai senti dans le vide mon véhicule  
-la Terre se déplacer dans son orbite  
-entre les bras de notre galaxie  
+j'ai senti dans le vide mon véhicule déraper  
+et la Terre se déplacer dans son orbite  
+entre les immenses bras de la galaxie  
 
-et j'ai compris que j'avais ma place  
-en sécurité dans l'ordre des mondes  
 le poids du monde me plaquant contre lui  
+j'ai compris que j'avais ma place  
+en sécurité dans l'ordre du cosmos  
 
 témoin d'une Intelligence supérieure à l’œuvre  
-j'ai su que je pouvais Lui faire confiance  
-pour tout le reste de ma vie  
+j'ai su que pour tout le reste de ma vie  
+je pouvais Lui faire confiance  

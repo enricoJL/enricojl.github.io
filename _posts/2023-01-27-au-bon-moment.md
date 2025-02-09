@@ -17,7 +17,8 @@ il s'élevait doucement dans le ciel
 
 Rendu au bon endroit, au bon moment  
 déployant très grand ses ailes  
-sans effort, sans même un seul battement d'ailes  
+sans effort  
+sans même un seul battement d'ailes  
 à une vitesse vertigineuse  
 il s'éloigna hors de ma vue  
 
