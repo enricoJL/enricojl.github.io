@@ -6,7 +6,8 @@ categories:
   - "amore"
 ---
 
-il ne me reste plus rien qui m'attache  
+il ne me reste plus rien  
+qui m'attache  
 au loin, loin d'ici  
 plus rien qui m'empêche  
 plus rien qui m'arrête  

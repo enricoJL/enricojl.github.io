@@ -6,22 +6,24 @@ categories:
   - "amore"
 ---
 
-au milieu de notre présence  
-entre deux sourires discrets  
+au milieu de nous deux  
+entre nos sourires discrets  
 soudain s'est levé le soleil  
 et toute la lumière avec lui  
-et rien entre nous qui nous sépare  
+
+rien entre nous qui nous sépare  
 autre que l'espace entre nous  
 rempli d'intimité  
 
-entre nous cette intimité  
+entre nous  
 ce lieu commun  
 ce château fort  
 qui nous isole du reste du monde  
+
 et pourtant  
 un rien pourrait l'anéantir  
 
-il suffirait d'un geste las  
+il suffit d'un geste las  
 d'une parole irréfléchie  
 ou d'un regard trop flou  
 pour étendre la nuit  
