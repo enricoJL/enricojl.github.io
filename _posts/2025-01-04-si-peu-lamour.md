@@ -6,10 +6,10 @@ categories: "amore"
 published: true
 ---
 
-les services rendus  
-sans compter  
+les services rendus sans compter  
 sans même savoir  
 
 si peu l'amour  
 exclusivement donné  
-ça compte vraiment  
+
+c'est là que ça compte vraiment  
