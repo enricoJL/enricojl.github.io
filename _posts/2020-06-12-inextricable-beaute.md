@@ -2,12 +2,12 @@
 layout: post
 title: "inextricable beauté"
 date: "2020-06-12"
-categories: 
+categories:
   - "divers"
 ---
 
 la terre s'ébranle encore une fois  
-mes souvenirs se balancent en vrac
+et mes souvenirs se balancent en vrac
 
 ma vie comme point de départ  
 je recommence mon voyage  

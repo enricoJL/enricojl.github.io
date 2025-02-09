@@ -19,6 +19,5 @@ nous suppliant constamment
 depuis si longtemps  
 
 la Terre craquera  
-et éclatera !  
-
+elle éclatera !  
 les rochers se fendent déjà  
