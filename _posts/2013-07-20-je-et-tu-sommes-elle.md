@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JE et TU sommes ELLE"
+title: "ELLE"
 date: "2013-07-20"
 categories:
   - "pensees"
