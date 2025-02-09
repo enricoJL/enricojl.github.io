@@ -8,14 +8,14 @@ categories:
 
 le cœur a ses raisons  
 tout y est  
-rien n'y paraît  
+et rien n'y paraît  
 
 une boîte fermée  
-un œuf  
+comme un œuf  
 bien vivant à l'intérieur  
 
 une planète en fusion  
 avec à sa surface  
 un espace où vivre  
 
-toute forme de vie en dépend  
+--- toute forme de vie en dépend  
