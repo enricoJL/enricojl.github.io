@@ -6,8 +6,7 @@ categories:
   - "amore"
 ---
 
-l'intimité  
-que je n'atteins pas toujours  
+l'intimité que je n'atteins pas toujours  
 que je ne vois pas  
 et que je n'entends même pas  
 
@@ -28,7 +27,8 @@ l'intimité bien étrange
 et qui nous échappe  
 si souvent  
 
-ce sentiment si familier, si infini...  
+ce sentiment si familier  
+si infini...  
 
 comment te garder prêt de moi dans mon cœur  
 dans mes os tous les jours à toutes les heures  
