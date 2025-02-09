@@ -13,7 +13,7 @@ j'invente
 
 je m'enfuis dans les rues de la ville  
 au-travers d'un songe  
-et je me retrouve au bout de mes limites
+et je me retrouve au bout de mes limites  
 étranglé de sombres prétentions  
 
 dans l'invivable, je fuis sans relâche  

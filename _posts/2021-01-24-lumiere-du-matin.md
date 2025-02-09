@@ -17,6 +17,6 @@ je supplie !
 
 et mon Père qui vit  
 rempli de miséricorde  
-remplit mon cœur :  
+remplit mon cœur ---  
 
 mon cœur dans âme veut exploser jusqu’au soir !
