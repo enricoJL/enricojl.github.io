@@ -26,7 +26,7 @@ quand même hésitants !
 
 attendre après l'autre  
 et nous dire encore :  
-« je veux que tu m'aimes...  
+« Je veux que tu m'aimes...  
 est-ce que tu m'aimes encore ? »  
 
 en cours de route  
@@ -35,7 +35,8 @@ et nos substances qui s'effritent un peu
 en chemin  
 des fois peu  
 des fois trop  
-en chemin vers le bout du chemin  
+en chemin vers  
+le bout du chemin  
 
 nos deux yeux tournés  
 toujours dans la même direction  

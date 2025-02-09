@@ -5,8 +5,8 @@ date: "2020-05-11"
 categories: "divers"
 ---
 
-je me suis dit :
-« le bonheur, existe-t-il vraiment ? »  
+je me suis dit :  
+« Le bonheur, existe-t-il vraiment ? »  
 et tu m'as surpris dans les yeux à le penser  
 
 alors que le bonheur, vraiment  
