@@ -33,7 +33,8 @@ je t'offre d'abord ma présence
 --- méfie-toi !  
 
 et tu te réjouis d'avoir fermé la porte  
-avant que mon pied n'atteigne l'intérieur    
+avant que mon pied n'atteigne l'intérieur  
+de ta maison  
 
 ----
 
@@ -45,7 +46,6 @@ avec du miel
 séduite  
 tu l'invites dans ta maison  
 et son pied se pose à l'intérieur  
-de ta maison  
 
 et tu sens venir son corps entier  
 comme une structure qui entre  
