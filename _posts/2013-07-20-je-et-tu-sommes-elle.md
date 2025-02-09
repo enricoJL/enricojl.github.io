@@ -26,7 +26,7 @@ tout à fait
 
 ELLE  
 agit et pense différemment de chacun de nous  
-elle est l'ensemble de nos deux personnes  
+ELLE est l'ensemble de nos deux personnes  
 l'un et l'autre sommant la troisième  
 
 JE et TU sommes ELLE<sup>*</sup>  
