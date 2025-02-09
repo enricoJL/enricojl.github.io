@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "les retrouvailles"
+title: "retrouvailles"
 date: "2025-01-03"
 categories: "divers"
 published: true

@@ -6,10 +6,22 @@ categories: "spirit"
 published: true
 ---
 
-Entre les grandes montagnes de l'Ouest, au-dessus de moi dans les airs, volait un aigle en faisant des ronds.
+Entre les grandes montagnes de l'Ouest  
+au-dessus de moi dans les airs  
+volait un aigle en faisant des ronds  
 
-Je l'observai longtemps dans une spirale interminable, prenant de l'altitude d'une circonvolution à l'autre, en s'élevant doucement très haut dans le ciel.
+Longtemps je l'observai  
+prenant de l'altitude  
+d'une circonvolution à l'autre  
+il s'élevait doucement dans le ciel  
 
-Rendu au bon endroit, au bon moment, déployant très grand ses ailes, sans effort, sans même un seul battement d'ailes, à une vitesse vertigineuse, il s'éloigna hors de ma vue.  
+Rendu au bon endroit, au bon moment  
+déployant très grand ses ailes  
+sans effort, sans même un seul battement d'ailes  
+à une vitesse vertigineuse  
+il s'éloigna hors de ma vue  
 
-Confiant d'une puissance invisible quelque part en altitude, sa patience le projeta à l'autre extrémité du ciel.  
+Confiant d'une puissance invisible  
+quelque part en altitude  
+sa patience le projeta  
+à l'autre extrémité du ciel  

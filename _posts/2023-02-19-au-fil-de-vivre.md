@@ -8,11 +8,11 @@ published: true
 
 dans mon idée la vie  
 
-en me fermant les yeux  
+en fermant les yeux  
 
 comme un arbre en moi  
 
-très fort avec la lumière  
+très fort  
 
 me pousse au-dessus du vide  
 

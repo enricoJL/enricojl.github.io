@@ -9,10 +9,9 @@ published: true
 debout sur une chaise berçante dans le monde  
 je crie ma joie de grandir à l'envers  
 
-en attendant le réveil  
-
 hésitant  
 ballottant  
 chambranlant  
 
 dans la désillusion totale  
+en attendant le réveil  
