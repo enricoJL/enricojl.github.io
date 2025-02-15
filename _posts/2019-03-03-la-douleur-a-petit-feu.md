@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "la mort à petit feu"
+title: "la douleur à petit feu"
 date: "2019-03-03"
 categories:
   - "divers"
