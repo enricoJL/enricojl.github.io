@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "la douleur à petit feu"
+title: "la mort à petit feu"
 date: "2019-03-03"
 categories:
   - "divers"
 ---
 
-la douleur à petit feu fait son nid  
+la mort à petit feu fait son nid  
 et je dors à ses côtés  
 
 mais quand elle se réveille  
