@@ -13,5 +13,5 @@ hésitant
 ballottant  
 chambranlant  
 
-dans la désillusion totale  
 en attendant le réveil  
+dans la désillusion totale  
