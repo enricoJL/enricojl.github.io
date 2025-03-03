@@ -9,6 +9,8 @@ categories: "spirit"
 	<img src="{{site.baseurl}}/assets/figures/amy-tran-8036.png" >
 </center>
 
+test 
+
 J’ai raconté à mes filles, dernièrement, un événement malheureux que j’ai vécu enfant, lorsque j’ai pleuré dans mon garde-robe après mon premier jour à l’école secondaire. Ce jour-là, on m’avait bousculé dans les corridors, et j’étais tombé dans les escaliers après avoir été légèrement accroché. En rentrant chez moi, j’ai lancé mon sac par terre et crié à ma mère que c’était une école de fous, que je ne voulais plus jamais y retourner. Je me suis assis au fond de mon garde-robe et j’ai pleuré. Puis, à haute voix, j’ai demandé : pourquoi suis-je handicapé ? Pourquoi moi ? Pourquoi ne suis-je pas resté mort après l’accident ?
 
 --- J’ai été frappé par une voiture à l’âge de 7 ans et j’ai miraculeusement survécu. Cependant, je suis resté sévèrement handicapé en raison d’une parésie aux quatre membres. J’avais beaucoup de mal à marcher et à rester stable sur mes deux pieds. Au secondaire, les autres élèves ne faisaient pas attention à moi lorsqu’ils se précipitaient dans les corridors et les escaliers. ---
