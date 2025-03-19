@@ -7,15 +7,15 @@ published: true
 ---
 
 chercher partout  
-chercher la main tendue  
+la main tendue  
 perdu  
 
 chercher le cœur  
 chercher la tête  
-chercher le réconfort  
+et le réconfort  
 
 chercher toujours  
-chercher sans arrêt  
+sans arrêt  
 sans appui  
 
 perdre le sens des choses  
