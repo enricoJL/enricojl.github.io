@@ -6,7 +6,7 @@ categories: "amore"
 published: true
 ---
 
-j'y suis allé longtemps  
+j'y suis allé souvent  
 au point de rencontre  
 
 sans barrière  
