@@ -17,8 +17,8 @@ tout vacille et m'essouffle
 les dogmes s’effondrent  
 mes certitudes s'enfuient comme un mirage  
 perdu dans le vent  
-et mes doutes me soulèvent ---  
-vastes ailes d'ombre  
+mes doutes me soulèvent  
+comme de vastes ailes d'ombre  
 dans l'impossible réalité du temps  
 
 hésitant  
