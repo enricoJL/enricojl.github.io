@@ -12,4 +12,4 @@ rester là sur le rivage de l'autre
 
 de soi vers l'autre et de l'autre à soi  
 dans la tempête au travers des échanges  
-la lueur provient des deux rivages  
+la lueur peut provenir des deux rivages  
