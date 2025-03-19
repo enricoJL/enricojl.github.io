@@ -8,7 +8,7 @@ published: true
 
 contre toute évidence  
 à l'envers des coincidences  
-je réapprends les retrouvailles  
+les retrouvailles nous surprennent  
 
 sur le chemin des attentes  
 je reprends ta main  
