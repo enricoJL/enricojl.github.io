@@ -12,10 +12,10 @@ je crie ma joie de grandir à l'envers
 dans la désillusion totale  
 à l'inverse des conventions  
 mes certitudes s'effondrent  
-comme un mirage  
+comme un mirage perdu dans le vent  
 
-perdu dans le vent  
 mes doutes me transportent  
+sur de vastes ailes d'ombre  
 dans l'impossible réalité du temps  
 
 hésitant  
