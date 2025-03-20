@@ -13,8 +13,9 @@ dans la désillusion totale
 à l'inverse des conventions  
 mes certitudes s'effondrent  
 comme un mirage  
+
 perdu dans le vent  
-mes doutes me soulèvent  
+mes doutes me transportent  
 dans l'impossible réalité du temps  
 
 hésitant  
