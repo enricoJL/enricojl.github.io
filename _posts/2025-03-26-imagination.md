@@ -23,5 +23,5 @@ qui respire l’air du printemps.
 L’hiver a été trop dur.  
 
 Je suis fleur qui éclot,  
-oranger qui se réveille—  
+oranger qui se réveille —  
 dans *mon* imagination.  
