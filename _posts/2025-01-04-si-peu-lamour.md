@@ -11,5 +11,12 @@ sans même savoir
 
 si peu l'amour  
 exclusivement donné  
+ça compte tellement  
 
-c'est là que ça compte vraiment  
+dans un monde où tout se pèse  
+où l'on additionne  
+où l'on réclame  
+
+ici, rien ne se calcule  
+rien ne se demande  
+et tout se donne  
