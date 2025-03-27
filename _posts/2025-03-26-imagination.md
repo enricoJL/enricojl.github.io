@@ -19,8 +19,8 @@ Si tu cherchais à me piétiner,
 tu t’enliserais.  
 
 Je suis un souffle vaporeux  
-qui respire l’air du printemps.  
-L’hiver a été trop dur.  
+qui respire l’air du printemps  
+après un hiver trop dur.  
 
 Je suis fleur qui éclot,  
 oranger qui se réveille —  
