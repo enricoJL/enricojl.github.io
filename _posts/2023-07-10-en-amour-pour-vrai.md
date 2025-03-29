@@ -6,22 +6,23 @@ categories: "amore"
 published: true
 ---
 
-agir en toute vérité  
-simplement  
-sans tromper personne  
+Agir en toute vérité,  
+simplement,  
+sans tromper personne.  
 
-croire  
-en toute gentillesse  
-sans faire de mal  
+Croire,  
+en toute gentillesse,  
+sans faire de mal.  
 
-être vrai dans le passé  
-comme dans l'avenir  
-en étant là présent  
-de la même manière toujours  
-constant  
+Être vrai dans le passé  
+comme dans l’avenir,  
+en étant là, présent,  
+de la même manière, toujours —  
+constant.  
 
-vrai pour soi-même  
-vrai pour autrui  
-vrai pour toujours  
+Vrai pour soi-même,  
+vrai pour autrui,  
+vrai pour toujours.  
 
-en amour avec toi  
+En amour  
+avec toi.  
