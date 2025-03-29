@@ -12,4 +12,5 @@ je reste sans appui
 à chercher dans le ciel  
 l'espoir divin  
 la source pour apaiser  
-la fontaine salvatrice pour aimer  
+la fontaine salvatrice  
+pour aimer  
