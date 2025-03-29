@@ -8,7 +8,7 @@ published: true
 
 Je suis là, devant le monde  
 et j’imagine tout le reste.  
-Derrière-moi : le passé,
+Derrière-moi : le passé,  
 devant-moi : l’avenir,  
 en moi : le présent.  
 
