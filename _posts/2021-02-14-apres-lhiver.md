@@ -1,17 +1,23 @@
 ---
 layout: post
-title: "après l'hiver"
+title: "Après l'hiver"
 date: "2021-02-14"
 categories: "divers"
 ---
 
-enracinés dans cette terre de vérité  
-les arbres doucement se réveillent  
+Enracinés dans cette terre de vérité,  
+les arbres doucement se réveillaient.  
 
-après ce long voyage immobile  
-avec l'alchimie du soleil  
-la sève remonte dans les branches  
+Avec l’alchimie du soleil,  
+après ce long voyage immobile,  
+la sève remontait dans les branches.  
 
---- avec toi, mon ami  
-au milieu des échanges et des idées  
-la vérité nous éveille  
+— Avec toi, mon ami,
+au milieu des échanges et des idées,
+la vérité encore et encore  
+nous éveillait.
+
+Et dans ce silence,  
+aujourd'hui chargé de lumière,  
+je t’entends murmurer  
+le langage des racines.  
