@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "la mort mon handicap"
+title: "La mort, mon handicap"
 date: "2021-03-13"
 categories: "pensees"
 ---
 
-ma maladie c'est la mort  
-mon handicap c'est de refuser d'y croire
+Ma maladie,  
+c’est la mort.  
+
+Mon handicap,  
+c’est de refuser d’y croire.  

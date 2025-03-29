@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "d’un univers à l’autre"
+title: "D’un univers à l’autre"
 date: "2021-03-11"
-categories: 
+categories:
   - "divers"
 ---
 
-par delà les frontières  
+Par-delà les frontières,  
 la beauté nous propulse  
-d'un univers à l'autre
+d’un univers à l’autre.  
