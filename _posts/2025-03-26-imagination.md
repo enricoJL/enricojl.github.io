@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "imagination"
+title: "Imagination"
 date: "2025-03-26"
 categories: "divers"
 published: true
