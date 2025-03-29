@@ -23,7 +23,7 @@ Tous s’imaginent que je sois.
 
 Moi-même, je m’imagine que je sois.  
 D’une certaine manière, je suis imaginé,  
-et tout autrement chez toi.  
+tout autrement chez toi.  
 
 Dans ton imagination débordante,  
 je suis comment, chez toi ?  
