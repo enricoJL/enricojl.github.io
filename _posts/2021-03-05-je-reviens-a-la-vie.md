@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "je reviens à la vie"
+title: "Je reviens à la vie"
 date: "2021-03-05"
 categories: "divers"
 ---
 
-depuis longtemps mort et disparu  
-je reviens aujourd'hui à la vie  
-avec ce sentiment d'urgence  
-et mes anciennes raisons de vivre  
+Depuis longtemps,  
+mort et disparu,  
+je reviens aujourd'hui à la vie —  
 
---- depuis si longtemps mort et disparu  
+avec ce sentiment d’urgence,  
+et mes anciennes raisons de vivre.  
+
+— Depuis si longtemps  
+mort et disparu.  
