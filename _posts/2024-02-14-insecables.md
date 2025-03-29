@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "insécables"
+title: "Insécables"
 date: "2024-02-14"
 categories: "amore"
 published: true
 ---
 
-en attendant l'insécable  
-dans la même direction toujours  
-ton œil s'ouvre avec le mien  
+En attendant l’insécable,  
+dans la même direction, toujours,  
+ton œil s’ouvre avec le mien  
+dans un souffle de promesse.  
 
-dans la fragilité d'une rose  
-nos tendres espérances  
-comme des pétales enlacées  
+Avec la fragilité d’une rose,  
+nos tendres espérances enlacées  
+se serrent comme des pétales,  
+les uns contre les autres.  
