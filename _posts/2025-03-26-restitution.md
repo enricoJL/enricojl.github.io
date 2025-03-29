@@ -6,10 +6,11 @@ categories: "divers"
 published: true
 ---
 
-Je suis là, présent devant le monde  
+Je suis là, devant le monde  
 et j’imagine tout le reste.  
-Dans ma pensée : le passé, l’avenir,  
-devant moi : le présent.  
+Derrière-moi : le passé,
+devant-moi : l’avenir,  
+en moi : le présent.  
 
 Dans mon corps,  
 dans mon souffle,  
@@ -28,8 +29,8 @@ Dans ton imagination débordante,
 je suis comment, chez toi ?  
 Je suis qui ?  
 
-La probabilité que je sois là  
-sur cette place  
+La probabilité que je sois là,  
+sur cette place,  
 tel que je me suis imaginé,  
 est infime.  
 
