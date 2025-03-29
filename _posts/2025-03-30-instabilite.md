@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "instabilité"
-date: "2025-03-30"
+date: "2025-03-29"
 categories: "spirit"
 published: true
 ---
