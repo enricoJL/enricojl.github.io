@@ -1,12 +1,15 @@
 ---
-layout: post  
-title: "instabilité salvatrice"
+layout: post
+title: "instabilité"
 date: "2025-03-30"
-categories: "spirit"
+categories: "divers"
 published: true
 ---
 
-instabilité --- grâce à toi  
+
+instabilité ---  
+grâce à toi  
+
 je reste à chercher appui dans le ciel  
 la source pour apaiser  
 la fontaine salvatrice pour aimer  
