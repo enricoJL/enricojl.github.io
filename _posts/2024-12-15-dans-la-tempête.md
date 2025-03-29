@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "dans la tempête"
+title: "Dans la tempête"
 date: "2024-12-15"
 categories: "divers"
 published: true
 ---
 
-pendant longtemps malgré la peur  
-rester là sur le rivage de l'autre  
-à espérer la lumière qui viendra un jour  
+Pendant longtemps, malgré la peur,  
+rester là, sur le rivage de l'autre,  
+à espérer la lumière — qui viendra un jour.  
 
-de soi vers l'autre et de l'autre à soi  
-dans la tempête au travers des échanges  
-la lueur peut provenir des deux rivages  
+De soi vers l'autre, et de l'autre à soi,  
+dans la tempête, au travers des échanges,  
+la lueur peut provenir des deux rivages.  
