@@ -6,11 +6,7 @@ categories: "spirit"
 published: true
 ---
 
-instabilité  
-grâce à toi  
-je reste sans appui  
-à chercher dans le ciel  
-l'espoir divin  
+instabilité --- grâce à toi  
+je reste à chercher appui dans le ciel  
 la source pour apaiser  
-la fontaine salvatrice  
-pour aimer  
+la fontaine salvatrice pour aimer  
