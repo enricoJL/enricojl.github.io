@@ -1,19 +1,24 @@
 ---
 layout: post
-title: "laissant des traces"
+title: "Laissant des traces"
 date: "2023-01-22"
 categories: pensees
 published: true
 ---
 
-des bribes de vérité nous habitent  
-et le temps qui souffle les efface  
-petit à petit  
+Des bribes de vérité nous habitent,  
+et le temps qui souffle les efface,  
+petit à petit.  
 
-ces étincelles de vérité  
+Pourtant,  
+ces étincelles anciennes,  
 comme des cristaux du passé  
-incrustés dans le roc  
+incrustés dans le roc,  
+demeurent.  
 
-ces fragments dégagés  
-par un travail scrupuleux  
-l'artisan les place à la lumière  
+Et parfois,  
+dégagés par un travail scrupuleux,  
+ces fragments réapparaissent —  
+et l’artisan qui les place à la lumière,  
+laisse des traces
+pour ceux qui observent.
