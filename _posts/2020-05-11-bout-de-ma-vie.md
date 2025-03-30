@@ -1,27 +1,27 @@
 ---
 layout: post
-title: "le bout de ma vie"
+title: "Le bout de ma vie"
 date: "2020-05-11"
 categories:
   - "divers"
 ---
 
-tranquillement  
+Tranquillement,  
 j'ai commencé mon voyage  
-jusqu'au bout de ma vie
+jusqu'au bout de ma vie.  
 
-mais encore je décide d'y revenir  
-aux pieds de mes premiers rêves  
-où chaque espoir attend toujours de vieillir
+Mais encore, je décide d'y revenir,  
+aux pieds de mes premiers rêves,  
+où chaque espoir attend toujours de vieillir.  
 
-ma vie placée sur un pivot  
-d'un côté comme de l'autre  
-mes rêves discutent avec l'avenir
+Ma vie, placée sur un pivot —  
+d’un côté comme de l’autre,  
+mes rêves discutent avec l’avenir.  
 
-mais le véritable habite beaucoup plus loin  
-sur une terre encore bien plus vaste  
+Mais le véritable habite beaucoup plus loin,  
+sur une terre encore bien plus vaste,  
 au-delà de mon imaginaire  
-et par-dessus tout ce que je connais
+et par-dessus tout ce que je connais.  
 
-non mes rêves ne sont pas assez puissants  
-pour atteindre le bout de ma vie
+Non, mes rêves ne sont pas assez puissants  
+pour atteindre le bout de ma vie.  
