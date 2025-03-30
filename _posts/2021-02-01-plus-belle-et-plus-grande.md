@@ -7,7 +7,7 @@ categories:
 ---
 
 Dieu l’a soufflée dans un vase de cristal.  
-Pour l’approcher, il faut s’y plonger,  
+Pour l’approcher, il faut y plonger,  
 comme dans un puits, au creux du cœur.  
 
 Ses yeux sont d’immenses planètes.  
