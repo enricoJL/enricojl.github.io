@@ -3,21 +3,24 @@ layout: post
 title: "Plus belle et plus grande"
 date: "2021-02-01"
 categories:
-  - "divers"
+  - "spirit"
 ---
 
-Dieu l'a mise dans un vase en cristal  
-Pour mieux la connaître il faut y plonger  
-Comme dans un puits dans le creux du cœur  
+Dieu l’a soufflée dans un vase de cristal.  
+Pour l’approcher, il faut s’y plonger,  
+comme dans un puits, au creux du cœur.  
 
-Ses yeux sont d'immenses planètes  
-Quiconque y dépose son retard est envahi de visions  
-Quiconque voit dans son âme, voit par-dessus les étoiles  
+Ses yeux sont d’immenses planètes.  
+Quiconque y dépose son silence  
+est envahi de visions.  
+Quiconque regarde dans son âme  
+voit au-delà des étoiles.  
 
-Elle vit au creux du cœur  
-Ce n'est pas à elle de sortir d'elle-même  
-Mais à nous d'entrer en nous-mêmes  
+Elle demeure au creux du cœur.  
+Ce n’est pas à elle de venir vers nous,  
+mais à nous de descendre en nous-mêmes.  
 
-Elle n'est ni un ange ni une fée  
-Mais une fille bien aimée de Dieu  
-En train de devenir plus belle et plus grande  
+Elle n’est ni ange ni chimère,  
+mais une parole bien-aimée,  
+en train de devenir  
+plus belle et plus grande.  
