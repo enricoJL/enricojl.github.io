@@ -1,17 +1,14 @@
 ---
 layout: post
-title: "à chaque année Noël"
+title: "À chaque année Noël"
 date: "2020-12-25"
 categories:
   - "spirit"
 ---
 
-à chaque année Noël
+À chaque année Noël,  
+les cœurs s’illuminent.  
 
-les cœurs s'illuminent
-
-à chaque année Noël
-
-au milieu de la nuit
-
-une Étoile est née
+À chaque année Noël,  
+au milieu de la nuit,  
+une Étoile est née.  

@@ -1,24 +1,24 @@
 ---
 layout: post
-title: "un soir"
+title: "Un soir"
 date: "2021-01-23"
 categories:
   - "amore"
 ---
 
-un soir  
-deux soirs  
-trois soirs  
-quatre soirs
+Un soir.  
+Deux soirs.  
+Trois soirs.  
+Quatre soirs.  
 
-une nuit  
-deux nuits  
-trois nuits  
-quatre nuits
+Une nuit.  
+Deux nuits.  
+Trois nuits.  
+Quatre nuits.  
 
-un jour  
-deux jours  
-trois jours  
+Un jour.  
+Deux jours.  
+Trois jours…  
 
-mon amour  
-mon seul amour
+Mon amour.  
+Mon seul amour.  
