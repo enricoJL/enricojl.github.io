@@ -1,16 +1,12 @@
 ---
 layout: post
-title: "éclair de génie"
+title: "Éclair de génie"
 date: "2020-05-21"
 categories: "pensees"
 ---
 
-coup de génie !  
+Coup de génie !
+Tout est devenu si clair…
 
-tout est devenu si clair  
-
-tout à coup  
-
-j'ai enfin compris  
-
-que je ne comprenais rien
+J’ai enfin compris
+que je ne comprenais rien.

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: "à partir d'ici"
+title: "À partir d'ici"
 date: "2020-07-12"
-categories: 
+categories:
   - "divers"
 ---
 
-devant moi  
-tout est encore à construire  
-tout est en train de devenir  
-tout est à partir d'ici
+Devant moi,  
+tout est encore à construire.  
+Tout est en train de devenir.  
+Tout est… à partir d’ici.  
 
-des tas de matériaux à saisir  
-lesquels choisir  
-lesquels laisser
+Des tas de matériaux à saisir —  
+lesquels choisir ?  
+Lesquels laisser ?  
 
-devant moi  
-face à l'inconnu  
-ma seule conviction  
-retourner dans la lumière
+Devant moi,  
+face à l’inconnu,  
+ma seule conviction :  
+retourner dans la lumière.  
 
-tout est encore à construire  
-tout est en train de devenir  
-tout est à partir d'ici
+Tout est encore à construire.  
+Tout est en train de devenir.  
+Tout est à partir d’ici.  

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "métamorphose"
+title: "Métamorphose"
 date: "2020-05-29"
 categories:
   - "amore"
 ---
 
-au centre de nous deux  
-dans un tourbillon  
-continuellement   
-sans jamais s’arrêter  
-c'est la métamorphose
+Au centre de nous deux,
+dans un tourbillon —
+continuellement,
+sans jamais s’arrêter —
+c’est la métamorphose.
 
-des mondes innombrables  
-des multitudes en formation
+Des mondes innombrables,
+des multitudes en formation.
