@@ -21,8 +21,7 @@ La paix réside en lui,
 comme un solide rempart.  
 
 Sa conscience élargie s’élance,  
-comme une semence enfoncée dans la terre :  
-il y rejoint le ciel.  
+comme une semence enfoncée dans la terre.  
 
 Dans un rayon de lumière qui s’infiltre,  
 il voit plus en avant dans les visages :  
