@@ -1,54 +1,54 @@
 ---
 layout: post
-title: "le colporteur"
+title: "Le colporteur"
 date: "2021-01-26"
 categories:
   - "divers"
 ---
 
-je vis dans une cage  
-je n'ai personne en qui croire  
-je fais semblant comme au théâtre  
-j'invente
+Je vis dans une cage.  
+Je n’ai personne en qui croire.  
+Je fais semblant, comme au théâtre :  
+J’invente.  
 
-je m'enfuis dans les rues de la ville  
-au-travers d'un songe  
-et je me retrouve au bout de mes limites  
-étranglé de sombres prétentions  
+Je m’enfuis dans les rues,  
+au-travers d’un songe,  
+et je me retrouve au bout de mes limites,  
+étranglé de sombres prétentions.  
 
-dans l'invivable, je fuis sans relâche  
-ma propre présence malhonnête  
-ma vie n'est qu'un long souvenir infecte  
+Dans l’invivable, je fuis sans relâche  
+ma propre présence infecte.  
+Ma vie n’est qu’un long souvenir  
+compliqué.  
 
-mais voilà que je frappe à ta porte  
-j'arrive au balcon  
-à cheval jusqu'à ta porte  
-je fais vibrer ta maison  
+— Mais voilà qu'on frappe à ma porte.  
 
-à l'entrée je me présente  
-rempli de miel jusque dans les yeux  
-je t'offre d'abord ma présence  
-(le plus dur à prendre)  
+On arrive au balcon,  
+à cheval jusqu’à ma porte —  
+on fait vibrer ma maison.  
 
---- méfie-toi !  
+À l’entrée, le colporteur se présente,  
+rempli de miel jusque dans les yeux.  
+Il offre d’abord sa présence  
+(le plus dur à prendre).  
 
-et tu te réjouis d'avoir fermé la porte  
-avant que mon pied n'atteigne l'intérieur  
-de ta maison  
+— Méfie-toi !  
 
-----
+Et tu te réjouis d’avoir fermé la porte  
+avant que son pied n’atteigne l’intérieur  
+de ta maison.  
 
-à l'entrée le colporteur  
-une autre fois encore  
-avec sa présence toujours  
-avec du miel  
+À l’entrée : le colporteur.  
+Une autre fois encore,  
+avec sa présence toujours,  
+avec du miel.  
 
-séduite  
-tu l'invites dans ta maison  
-et son pied se pose à l'intérieur  
+Séduite,
+tu l’invites dans ta maison,
+et son pied se pose à l’intérieur.
 
-et tu sens venir son corps entier  
-comme une structure qui entre  
-entre les yeux et le pied  
+Et tu sens venir son corps entier,
+comme une structure qui entre
+entre les yeux et le pied…
 
-et tu te réjouis  
+Et tu te réjouis.
