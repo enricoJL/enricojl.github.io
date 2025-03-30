@@ -59,7 +59,7 @@ Mon orgueil aussi,
 tranquillement.  
 
 À l’intérieur,  
-me soumettre à Dieu,  
+me soumettre au Seigneur,  
 vivre de sa volonté,  
 comme vivre de l’air —  
 tel est mon idéal.  
