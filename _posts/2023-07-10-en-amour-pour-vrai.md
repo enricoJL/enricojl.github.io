@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "en amour pour vrai"
+title: "En amour pour vrai"
 date: "2023-07-10"
 categories: "amore"
 published: true
