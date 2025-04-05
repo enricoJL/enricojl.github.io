@@ -13,7 +13,7 @@ dans les ténèbres de la terre.
 Planté, avec l'espoir  
 de grandir un jour,  
 et d'atteindre le ciel,  
-dans la joie et la patience.  
+en toute patience.  
 
 Croire à la gentillesse.  
 Servir autrui sans compter.  
