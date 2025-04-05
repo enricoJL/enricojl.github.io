@@ -8,12 +8,13 @@ published: true
 
 
 Instabilité —  
-Grâce à elle,  
+grâce à elle,  
 je reste là,  
 à chercher appui dans le ciel.  
 
 La source pour apaiser,  
-la fontaine salvatrice pour aimer  
+la fontaine salvatrice —  
+pour aimer,  
 et aider à soulager la souffrance,  
 
 sans jamais cesser  
