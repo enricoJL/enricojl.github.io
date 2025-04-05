@@ -3,15 +3,18 @@ layout: post
 title: "Instabilité"
 date: "2025-03-29"
 categories: "spirit"
-published: false
+published: true
 ---
 
 
-instabilité ---  
-grâce à toi  
+Instabilité —  
+Grâce à elle,  
+je reste là,  
+à chercher appui dans le ciel.  
 
-je reste à chercher appui dans le ciel  
-l'espoir divin  
-la source pour apaiser  
+La source pour apaiser,  
 la fontaine salvatrice pour aimer  
-et aider à soulager la souffrance  
+et aider à soulager la souffrance,  
+
+sans jamais cesser  
+de m’élever vers elle.  
