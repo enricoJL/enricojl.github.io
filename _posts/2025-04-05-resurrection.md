@@ -23,6 +23,6 @@ pour arroser la souffrance des hommes.
 
 Et mourir  
 pour ressusciter un jour  
-dans la gloire,  
+avec Lui dans la gloire,  
 la joie, la lumière et la vie —  
 éternelle.  
