@@ -17,9 +17,9 @@ Si je t'appelais par une brise dérobée,
 au creux enrobé d'un doux parfum,  
 frais comme du sel indigène ;  
 
-Accepterais-tu de me suivre  
+Accepterais-tu de me suivre,  
 où que j'aille dans ce jardin,  
 sur des chantiers abrupts,  
 
 comme une falaise enracinée sur un terrain vague  
-qui tombe au détour cursif à l'amour ?  
+qui tombe au détour cursif vers l'amour ?  

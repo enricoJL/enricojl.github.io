@@ -15,7 +15,7 @@ il voit plus clair, de tout son cœur.
 
 Une puissance s'est déposée sur ses épaules ;  
 il porte des peines qu'il ne connaissait pas,  
-des souffrances dont il ne savait pas lui appartenir.  
+des souffrances qu'il ne pensait pas lui appartenir.  
 
 Rendu au bout tout à fait du voyage,  
 son âme s'est éclatée.  
