@@ -15,8 +15,8 @@ dans le ciel.
 
 La source pour apaiser,  
 la fontaine salvatrice —  
-pour aimer,  
-et aider à soulager la souffrance,  
+pour aimer, et aider  
+à soulager la souffrance,  
 
 sans jamais cesser  
 de m’élever vers elle.  
