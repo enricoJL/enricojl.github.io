@@ -10,7 +10,8 @@ published: true
 Instabilité —  
 grâce à elle,  
 je reste là,  
-à chercher appui dans le ciel.  
+à chercher appui  
+dans le ciel.  
 
 La source pour apaiser,  
 la fontaine salvatrice —  
