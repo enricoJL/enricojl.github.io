@@ -8,7 +8,7 @@ categories: "spirit"
 Enfouis dans la douleur,  
 la misère et les pleurs,  
 comme des semences  
-dans l'humilité de la terre.  
+dans l'humilité.  
 
 Plantés avec l’espoir  
 de grandir un jour  
@@ -21,7 +21,7 @@ nourrir le monde,
 avec les mains tendues,  
 pour arroser le feu.  
 
-Et mourir,  
+Et mourir dans la terre,  
 pour ressusciter un jour,  
 avec Lui, dans sa gloire,  
 dans la joie, la lumière  
