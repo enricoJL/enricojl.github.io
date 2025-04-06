@@ -21,7 +21,7 @@ nourrir le monde,
 avec les mains tendues  
 pour arroser le feu.  
 
-Et mourir dans la terre,  
+Et mourir dans la terre  
 pour ressusciter un jour,  
 avec Lui, dans sa gloire,  
 dans la joie, la lumière  
