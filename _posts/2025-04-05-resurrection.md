@@ -7,18 +7,18 @@ categories: "spirit"
 
 Enfouis dans la douleur,  
 la misère et les pleurs,  
-comme des semences  
-dans l'humilité.  
+comme des semences,  
+en toute humilité.  
 
 Plantés avec l’espoir  
 de grandir un jour  
 et d’atteindre le ciel.  
 
-En toute patience :  
+Avec patience :  
 croire à la gentillesse,  
 servir autrui,  
 nourrir le monde,  
-avec les mains tendues  
+les mains tendues,  
 pour arroser le feu.  
 
 Et mourir dans la terre  
