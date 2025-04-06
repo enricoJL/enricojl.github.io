@@ -18,7 +18,7 @@ et pourtant,
 Dans un monde  
 où tout se pèse,  
 où l’on additionne,  
-où l’on réclame …  
+où l’on réclame…  
 
 Ici, rien ne se calcule,  
 rien ne se demande,  
