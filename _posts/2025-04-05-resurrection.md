@@ -18,7 +18,7 @@ En toute patience :
 croire à la gentillesse,  
 servir autrui,  
 nourrir le monde,  
-avec les mains tendues,  
+avec les mains tendues  
 pour arroser le feu.  
 
 Et mourir dans la terre,  
