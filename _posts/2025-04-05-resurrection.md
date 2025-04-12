@@ -10,7 +10,7 @@ la misère et les pleurs,
 comme des semences,  
 en toute humilité.  
 
-Plantés avec l’espoir  
+Plantés, avec l’espoir  
 de grandir un jour  
 et d’atteindre le ciel.  
 
@@ -19,7 +19,7 @@ croire à la gentillesse,
 servir autrui,  
 nourrir le monde,  
 les mains tendues,  
-pour arroser le feu.  
+pour apaiser le feu.  
 
 Et mourir dans la terre  
 pour ressusciter un jour,  
