@@ -36,6 +36,6 @@ de mon cœur.
 Avec le temps,  
 la clarté s’installe.  
 Je deviens plus ferme  
-dans mon vouloir.  
+dans mon  << vouloir >>.  
 
 Et l’univers conspire à le réaliser.  
