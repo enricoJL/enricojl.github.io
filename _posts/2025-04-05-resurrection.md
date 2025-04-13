@@ -5,12 +5,12 @@ date: "2025-04-05"
 categories: "spirit"
 ---
 
-Enfouis dans la douleur,  
+Enseveli dans la douleur,  
 la misère et les pleurs,  
-comme des semences,  
-en toute humilité.  
+en toute humilité,  
+comme une semence.  
 
-Plantés, avec l’espoir  
+Planté, avec l’espoir  
 de grandir un jour  
 et d’atteindre le ciel.  
 

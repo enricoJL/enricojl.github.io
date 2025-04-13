@@ -5,8 +5,7 @@ date: "2025-04-12"
 categories: "divers"
 ---
 
-Les ailes de la bienveillance  
-me poussent dans les yeux  
+Des ailes me poussent dans les yeux  
 quand je te regarde,  
 assise, tranquille,  
 au début de ta vie —  
@@ -27,9 +26,9 @@ trop fragile.
 
 Le temps passe vite.  
 
-Vas-tu enfin les déployer ?  
+Vas-tu déjà déployer tes ailes ?  
 En comprends-tu assez  
-pour voler de tes propres ailes ?  
+pour t'envoler ?  
 
 Dis-moi...  
 
@@ -38,7 +37,8 @@ en moi ?
 
 En toi ?  
 
-Le suis-je assez pour toi,
-bienveillant ?
-L’es-tu assez pour toi,
+Bienveillant,
+l'ai-je été suffisamment ?  
+L’es-tu assez  
+pour toi,  
 bienveillante ?

@@ -5,14 +5,14 @@ date: "2025-04-12"
 categories: "amore"
 ---
 
-En pleine confiance,  
-je te suis  
+Je te suis  
 sur le sentier du retour,  
-à travers les montagnes,  
+à travers les montagnes  
 dans le creux du jour.  
 
-Dans la fatigue du soir,  
-enfin à la maison,  
+En toute confiance,  
+dans la fatigue du soir,  
+arrivés enfin à la maison,  
 on accroche nos maux,  
 on se couvre de confidences,  
 pour résister à la nuit  
@@ -28,5 +28,4 @@ couché dans ta main —
 toujours.  
 
 Je t’accompagne  
-jusqu’au matin,  
-qui revient toujours.  
+jusqu’au matin.  
