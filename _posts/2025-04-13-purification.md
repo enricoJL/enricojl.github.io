@@ -24,4 +24,4 @@ de l’autre côté.
 Quand nous descendrons du ciel,  
 ensemble...
 
-Et que Sa parole purifie la terre !  
+Que Sa parole purifie la terre !  
