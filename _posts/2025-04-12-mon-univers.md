@@ -9,8 +9,8 @@ Ce soir,
 la tempête se lève  
 au carrefour de mes désirs.  
 
-Mes volontés s’entrechoquent,  
-des mains multiples  
+Mes volontés s’entrechoquent.  
+Des mains multiples  
 s'arrachent le volant  
 de mon destin.  
 
@@ -22,8 +22,8 @@ vraiment.
 Au-devant de ma route,  
 l’amalgame de mes envies  
 se morcelle,  
-se condense,  
-se resserre.  
+se condense  
+et se resserre.  
 
 Un entonnoir —  
 où s’engouffrent mes rêves.  
