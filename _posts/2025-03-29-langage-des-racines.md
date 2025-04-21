@@ -12,9 +12,9 @@ quand nous parlions de Dieu.
 
 Ton silence me parvient  
 comme une pousse fragile  
-au creux des mots sans dire.  
+au creux des mots.  
 
-La terre me connaît désormais,  
-je suis devenu  
+La terre me connaît  
+désormais, je suis devenu  
 le murmure qui fait trembler  
 les feuilles au printemps.  
