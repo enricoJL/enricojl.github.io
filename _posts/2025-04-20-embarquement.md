@@ -11,14 +11,15 @@ avec un air bizarre...
 Et tu t’inquiètes :  
 va-t-il vraiment tenir ?  
 Va-t-il nous ramener à bon port ?  
-va-t-il se rendre jusqu’au bout ?  
+Va-t-il se rendre jusqu’au bout ?  
 
 Tu t’inquiètes…  
-et moi, je suis bien occupé  
+et moi, je suis occupé  
+toute la journée  
 à essayer de te rassurer.  
 
 Y crois-tu, à ce fleuve tranquille,  
-qui coulerait doucement  
+qui coule doucement  
 jusqu’au centre de nous deux ?  
 
 Sur ce radeau de fortune,  
@@ -27,7 +28,7 @@ de te convaincre
 d’y rester.  
 
 Me fais-tu assez confiance  
-pour y rester assez longtemps —  
+pour y rester —  
 assez longtemps pour  
 que nos voies se croisent,  
 pour qu’elles se mélangent,  
@@ -50,13 +51,12 @@ avec plus rien à croire.
 
 Il est où, le trésor  
 qu’on nous avait raconté ?  
-
 J’espérais tant le retrouver,  
-au bout du fleuve…  
+au bout du fleuve...  
 mais je t’ai laissée derrière,  
 sans vraiment m’en rendre compte.  
 
-Je pensais seulement…  
+Je pensais seulement...  
 J’ai oublié ton histoire  
 dans mon histoire...  
 J’ai trop supposé.  
@@ -68,7 +68,7 @@ sur la rive de ton pays —
 étranger  
 dans une terre inconnue.  
 
-J’ai réussi  
+J’ai réussi tant bien que mal  
 à reconstruire un radeau,  
 avec les morceaux de l’épave  
 de nos rêves d’antan.  
