@@ -17,7 +17,7 @@ J'aime ressentir le monde à travers le prisme de mes émotions. Je suis fascin�
 
 Comparons les paroles du poète à un puits. Lorsque vous êtes en train de creuser le puits, l'eau qui en sort n'est pas très bonne. Il peut y avoir toutes sortes de particules qui viennent la troubler. Mais si vous le laissez reposer un moment, et s'il est vraiment profond dans la terre, et si vous atteignez une source vive, alors il vous donnera de l'eau fraîche et, selon la source, il pourrait fournir de l'eau pendant très longtemps. C'est pourquoi je dis que je suis poète même si mon eau parfois peut paraître trouble.-->
 
-Avec ce recueil de poésie, dans ce laboratoire expérimental, je tente de capturer mes observations en utilisant des mots, des images et des concepts qui se fracassent, se combinent ou s'enchevêtrent. J'explore les différentes émotions, les pensées et les sentiments qui m'habitent et je les démêle et les arrange du mieux que je peux de manière à ce que ce soit beau.
+Avec ce recueil, dans ce laboratoire expérimental, je tente de capturer mes observations en utilisant des mots, des images et des concepts qui se fracassent, se combinent ou s'enchevêtrent. J'explore les différentes émotions, les pensées et les sentiments qui m'habitent et je les démêle et les arrange du mieux que je peux de manière à ce que ce soit beau.
 
 <br/>
 <br/>
