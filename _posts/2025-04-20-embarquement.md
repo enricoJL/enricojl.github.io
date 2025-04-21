@@ -58,7 +58,7 @@ sans vraiment m’en rendre compte.
 
 Je pensais seulement…  
 J’ai oublié ton histoire  
-dans mon histoire.  
+dans mon histoire...  
 J’ai trop supposé.  
 
 Je t’ai perdue  
