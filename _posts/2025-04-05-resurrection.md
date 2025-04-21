@@ -7,11 +7,12 @@ categories: "spirit"
 
 Enseveli dans la douleur,  
 la misère et les pleurs,  
-en toute humilité,  
-comme une semence.  
+en toute humilité.  
 
-Planté, avec l’espoir  
-de grandir un jour  
+Comme une semence,  
+planté,  
+avec l’espoir de grandir  
+un jour  
 et d’atteindre le ciel.  
 
 Avec patience :  
@@ -22,7 +23,9 @@ les mains tendues,
 pour apaiser le feu.  
 
 Et mourir dans la terre  
-pour ressusciter un jour,  
-avec Lui, dans sa gloire,  
-dans la joie, la lumière  
-et la vie — éternelle.  
+pour ressusciter  
+un jour, avec Lui,  
+dans sa gloire,  
+dans la joie,  
+la lumière et la vie —  
+éternelle.  
