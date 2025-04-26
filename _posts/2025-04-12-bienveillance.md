@@ -9,32 +9,22 @@ Des ailes me poussent dans les yeux
 quand je te regarde,  
 assise, tranquille,  
 au début de ta vie —  
-
 à regarder le ciel,  
 à douter des humains...  
-
-Veillant le temps  
-sur nos visages surpris.  
 
 Que s’est-il passé ?  
 Tu as grandi.  
 Tellement !  
-
 Trop vite.  
 Peut-être même  
 trop fragile.  
 
-Le temps passe vite.  
-
 Vas-tu déjà déployer tes ailes ?  
-En comprends-tu assez  
-pour t'envoler ?  
+En comprends-tu assez pour t'envoler ?  
 
 Dis-moi...  
-
 As-tu confiance  
 en moi ?  
-
 En toi ?  
 
 Bienveillant,
