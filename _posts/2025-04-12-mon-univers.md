@@ -11,15 +11,13 @@ au carrefour de mes désirs.
 
 Mes volontés s’entrechoquent.  
 Des mains multiples  
-s'arrachent le volant  
-de mon destin.  
+s'arrachent le volant de mon destin.  
 
-Tout vouloir —  
-c’est risquer  
-de ne rien atteindre  
+À tout vouloir,  
+on risque de ne rien atteindre  
 vraiment.  
 
-Au-devant de ma route,  
+Au-devant de moi,  
 l’amalgame de mes envies  
 se morcelle,  
 se condense  
