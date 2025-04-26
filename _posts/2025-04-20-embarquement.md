@@ -13,22 +13,19 @@ va-t-il vraiment tenir ?
 Va-t-il nous ramener à bon port ?  
 Va-t-il se rendre jusqu’au bout ?  
 
-Tu t’inquiètes…  
-et moi, je suis occupé  
-toute la journée  
+Moi, je suis occupé  
+constamment  
 à essayer de te rassurer.  
 
-Y crois-tu, à ce fleuve tranquille,  
+Crois-tu à ce fleuve tranquille  
 qui coule doucement  
 jusqu’au centre de nous deux ?  
 
 Sur ce radeau de fortune,  
-j’essaie toujours  
-de te convaincre  
+j’essaie toujours de te convaincre  
 d’y rester.  
 
 Me fais-tu assez confiance  
-pour y rester —  
 assez longtemps pour  
 que nos voies se croisent,  
 pour qu’elles se mélangent,  
