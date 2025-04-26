@@ -10,6 +10,7 @@ published: true
 Dans ton imagination,  
 je déborde de tous côtés,  
 je ne tiens pas dans ton carcan.  
+
 Les barricades cèdent,  
 je suis mouvant,  
 insaisissable.  
