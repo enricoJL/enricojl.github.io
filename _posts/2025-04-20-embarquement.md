@@ -27,16 +27,11 @@ d’y rester.
 
 Me fais-tu assez confiance  
 assez longtemps pour  
-que nos voies se croisent,  
-pour qu’elles se mélangent,  
+que nos mains se croisent,  
+pour que nos pas se mélangent,  
 et ne fassent plus qu’un :  
 nos deux eaux qui s’écoulent  
 dans un même pays ?  
-
-Me ressemble-t-il assez, ton idéal ?  
-Est-ce que j’en fais partie ?  
-M’imagines-tu à tes côtés ?  
-Assez longtemps pour t'emporter ?  
 
 Vas-tu résister  
 quand elle reviendra ?  
@@ -48,18 +43,13 @@ avec plus rien à croire.
 
 Il est où, le trésor  
 qu’on nous avait raconté ?  
-J’espérais tant le retrouver,  
-au bout du fleuve...  
-mais je t’ai laissée derrière,  
-sans vraiment m’en rendre compte.  
 
-Je pensais seulement...  
-J’ai oublié ton histoire  
-dans mon histoire...  
-J’ai trop supposé.  
+J’ai oublié ton histoire...  
+Dans mon histoire...  
+j’ai trop supposé.  
 
 Je t’ai perdue  
-dans mon propre récit de conquête,  
+dans mon propre récit,  
 et j’ai échoué mon navire imaginaire  
 sur la rive de ton pays —  
 étranger  
@@ -68,7 +58,7 @@ dans une terre inconnue.
 J’ai réussi tant bien que mal  
 à reconstruire un radeau,  
 avec les morceaux de l’épave  
-de nos rêves d’antan.  
+de nos rêves épuisés.  
 
 Me fais-tu assez confiance  
 pour embarquer avec moi ?  
