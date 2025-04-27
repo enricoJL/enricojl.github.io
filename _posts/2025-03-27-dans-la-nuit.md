@@ -30,9 +30,8 @@ La nuit, réparatrice.
 Le matin, révélateur.  
 Le jour, porteur.  
 
-La vie tranquille...  
-avec mes béquilles,  
-mon quadriporteur,  
+La vie tranquille,  
+avec mes béquilles...  
 les enfants, le mariage,  
 le travail.  
 
