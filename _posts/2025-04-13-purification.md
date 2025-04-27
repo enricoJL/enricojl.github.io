@@ -5,11 +5,12 @@ date: "2025-04-13"
 categories: "spirit"
 ---
 
-Laisse-la venir,  
+Laisse-la venir  
 poser un baume sur ta méchanceté,  
-prononcer une bénédiction sur ta colère,  
+prononcer une bénédiction  
+sur ta colère,  
 te serrer dans les bras —  
-et tout pardonner.  
+pour tout pardonner.  
 
 Laisse la Parole te sanctifier,  
 te ramener au premier souffle.  
@@ -17,11 +18,12 @@ Là où tout était bien.
 
 Reviens  
 au premier jour.  
-Traverse le dernier,  
+Traverse le dernier souffle,  
 et retrouve tout —  
 de l’autre côté.  
 
 Quand nous descendrons du ciel,  
-ensemble...
+ensemble, avec Sion ---  
+tous ceux qui ont le cœur pur.
 
-Que Sa parole purifie la terre !  
+Que Sa parole sanctifie la terre !  
