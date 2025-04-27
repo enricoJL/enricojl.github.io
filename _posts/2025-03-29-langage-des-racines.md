@@ -14,7 +14,6 @@ Ton silence me parvient
 comme une pousse fragile  
 au creux des mots.  
 
-La terre me connaît  
-désormais, je suis devenu  
-le murmure qui fait trembler  
+Désormais, je suis devenu  
+le murmure qui fait frétiller  
 les feuilles au printemps.  
