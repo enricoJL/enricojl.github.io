@@ -8,19 +8,17 @@ published: true
 
 
 Attendre, la nuit,  
-avec son souffle,  
 sous les couvertures,  
 le jour qui se lève.  
 
 Sans penser,  
 sans se soucier,  
 faire le vide,  
-dans la nuit,  
-tout doucement.  
+tout doucement,  
+avec son souffle.  
 
 Les amertumes du jour,  
-au lit.  
-Les inquiétudes du soir,  
+les inquiétudes du soir,  
 endormies.  
 
 Veiller sur l'oreiller,  
@@ -32,10 +30,11 @@ La nuit, réparatrice.
 Le matin, révélateur.  
 Le jour, porteur.  
 
-La vie, quand même tranquille,  
+La vie tranquille...  
 avec mes béquilles,  
 mon quadriporteur,  
-les enfants, le mariage, le travail.  
+les enfants, le mariage,  
+le travail.  
 
 Malgré les conflits —  
 à la maison,  
