@@ -15,14 +15,14 @@ avec l’espoir de grandir
 un jour  
 et d’atteindre le ciel.  
 
-Avec patience :  
+Avec foi et patience :  
 croire à la gentillesse,  
 servir autrui,  
 nourrir le monde,  
 les mains tendues,  
 pour apaiser le feu.  
 
-Et mourir dans la terre  
+Et mourir sur la terre  
 pour ressusciter  
 un jour, avec Lui,  
 dans sa gloire,  
