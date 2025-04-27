@@ -19,16 +19,15 @@ Trop vite.
 Peut-être même  
 trop fragile.  
 
-Vas-tu déjà déployer tes ailes ?  
+Vas-tu enfin déployer tes ailes ?  
 En comprends-tu assez pour t'envoler ?  
 
 Dis-moi...  
-As-tu confiance  
+As-tu assez confiance  
 en moi ?  
 En toi ?  
 
-Bienveillant,
-l'ai-je été suffisamment ?  
-L’es-tu assez  
-pour toi,  
+L'ai-je été suffisamment,  
+bienveillant ?  
+L’es-tu assez pour toi,  
 bienveillante ?
