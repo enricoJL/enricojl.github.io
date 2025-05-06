@@ -5,7 +5,8 @@ date: "2025-04-12"
 categories: "divers"
 ---
 
-Des ailes me poussent dans les yeux  
+Des ailes poussent  
+dans mes yeux  
 quand je te regarde,  
 assise, tranquille,  
 au début de ta vie —  
@@ -16,8 +17,8 @@ Que s’est-il passé ?
 Tu as grandi.  
 Tellement !  
 Trop vite.  
-Peut-être même  
-trop fragile.  
+Peut-être même trop  
+fragile.  
 
 Vas-tu enfin déployer tes ailes ?  
 En comprends-tu assez pour t'envoler ?  
