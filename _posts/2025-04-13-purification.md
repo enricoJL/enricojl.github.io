@@ -7,23 +7,24 @@ categories: "spirit"
 
 Laisse-la venir  
 poser un baume sur ta méchanceté,  
-prononcer une bénédiction  
-sur ta colère,  
-te serrer dans les bras —  
+prononcer une bénédiction sur ta colère  
+et te serrer dans les bras —  
 pour te pardonner.  
 
 Laisse la Parole te sanctifier,  
-te ramener au premier souffle.  
-Là où tout était bon.  
+te rapiécer jusqu'au dernier souffle.  
 
-Reviens  
-au premier jour.  
-Traverse le dernier souffle,  
-et retrouve tout —  
+Reviens ---  
+là où tout était bon.  
+
+Traverse  
+le dernier jour ---  
+et retrouve tout  
 de l’autre côté.  
 
-Quand nous descendrons du ciel,  
-ensemble, avec Sion ---  
-tous ceux qui ont le cœur pur.
+Quand nous descendrons,  
+tous ensemble,  
+avec Sion :  
+tous ceux qui ont le cœur pur.  
 
-Que Sa parole sanctifie la terre !  
+Et que Sa parole purifiera la terre !  
