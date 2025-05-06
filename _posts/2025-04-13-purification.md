@@ -10,11 +10,11 @@ poser un baume sur ta méchanceté,
 prononcer une bénédiction  
 sur ta colère,  
 te serrer dans les bras —  
-pour tout pardonner.  
+pour te pardonner.  
 
 Laisse la Parole te sanctifier,  
 te ramener au premier souffle.  
-Là où tout était bien.  
+Là où tout était bon.  
 
 Reviens  
 au premier jour.  

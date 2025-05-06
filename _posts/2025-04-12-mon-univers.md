@@ -27,9 +27,7 @@ Un entonnoir —
 où s’engouffrent mes rêves.  
 Et n'en ressort vainqueur  
 que le plus vibrant,  
-le plus tenace,  
-le plus proche  
-de mon cœur.  
+le plus tenace.  
 
 Avec le temps,  
 la clarté s’installe.  
