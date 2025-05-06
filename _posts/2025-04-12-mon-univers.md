@@ -5,33 +5,22 @@ date: "2025-04-12"
 categories: "divers"
 ---
 
-Ce soir,  
-la tempête se lève  
-au carrefour de mes désirs.  
-
-Mes volontés s’entrechoquent.  
-Des mains multiples  
-s'arrachent le volant de mon destin.  
+Au volant de mon destin,  
+de multiples avenues possibles  
+se croisent entre mes mains.  
 
 À tout vouloir,  
-on risque de ne rien atteindre  
-vraiment.  
+le risque de ne rien atteindre  
+nous guette en chemin.  
 
 Au-devant de moi,  
-l’amalgame de mes envies  
-se morcelle,  
-se condense  
-et se resserre.  
+mes envies se morcellent,  
+se condensent et se resserrent  
+dans un entonnoir —  
+où s’engouffrent tous mes rêves.  
 
-Un entonnoir —  
-où s’engouffrent mes rêves.  
-Et n'en ressort vainqueur  
-que le plus vibrant,  
-le plus tenace.  
+Avec le temps s'égouttent mes peurs.  
+La clarté s’installe enfin ;  
+je deviens plus ferme dans ma volonté.  
 
-Avec le temps,  
-la clarté s’installe.  
-Je deviens plus ferme  
-dans mon  << vouloir >>.  
-
-Et l’univers conspire à le réaliser.  
+Et l’univers conspire à me réaliser.  
