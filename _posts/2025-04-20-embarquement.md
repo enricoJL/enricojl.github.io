@@ -48,8 +48,7 @@ dans une terre inconnue.
 J’ai réussi  
 à reconstruire un radeau,  
 avec les morceaux  
-de l’épave de nos rêves  
-trop fatigués.  
+de l’épave de nos rêves.
 
 Me fais-tu assez confiance  
 pour embarquer avec moi ?  
