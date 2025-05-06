@@ -27,4 +27,4 @@ tous ensemble,
 avec Sion :  
 tous ceux qui ont le cœur pur.  
 
-Et que Sa parole purifiera la terre !  
+Que Sa parole purifie la terre !  
