@@ -6,8 +6,10 @@ categories: "amore"
 published: true
 ---
 
-Tu me regardes sur ce radeau,  
+Tu me regardes  
+sur mon radeau,  
 avec un air bizarre...  
+
 Et tu t’inquiètes :  
 << Va-t-il vraiment tenir ?  
 Va-t-il nous ramener à bon port ?  
@@ -17,6 +19,7 @@ Et moi, je te dis :
 Y crois-tu, à ce fleuve  
 qui accourt  
 jusqu’au centre de nous deux ?  
+
 Et j’essaie toujours  
 de te convaincre de rester.  
 
