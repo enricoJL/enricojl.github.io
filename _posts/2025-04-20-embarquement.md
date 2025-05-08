@@ -24,11 +24,11 @@ Me fais-tu assez confiance
 assez longtemps  
 pour qu'on ne fasse plus qu’un :  
 nos deux eaux qui s’écoulent  
-dans un même pays ?  
+dans le même océan ?  
 
 Vas-tu résister  
 quand elle reviendra,  
-cette tempête de sentiments,  
+la tempête,  
 dans laquelle on se perd —  
 naufragés sur une île déserte,  
 avec plus rien à croire ?  
@@ -37,7 +37,7 @@ Il est où, le trésor
 qu’on nous avait raconté ?  
 
 J’ai échoué  
-mon navire imaginaire  
+mon navire  
 sur la rive de ton pays —  
 étranger  
 dans une terre inconnue.  
