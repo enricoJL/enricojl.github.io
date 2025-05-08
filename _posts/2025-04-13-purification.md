@@ -6,13 +6,16 @@ categories: "spirit"
 ---
 
 Laisse-la venir  
-poser un baume sur ta méchanceté,  
-prononcer une bénédiction sur ta colère  
+poser un baume  
+sur ta méchanceté,  
+prononcer une bénédiction  
+sur ta colère  
 et te serrer dans les bras —  
 pour te pardonner.  
 
 Laisse la Parole te sanctifier,  
-te rapiécer jusqu'au dernier souffle.  
+te rapiécer  
+jusqu'au dernier souffle.  
 
 Reviens ---  
 là où tout était bon.  
