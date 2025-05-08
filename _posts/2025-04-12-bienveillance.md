@@ -17,18 +17,22 @@ Que s’est-il passé ?
 Tu as grandi.  
 Tellement !  
 Trop vite.  
-Peut-être même trop  
-fragile.  
+Et encore fragile.  
 
-Vas-tu enfin déployer tes ailes ?  
-En comprends-tu assez pour t'envoler ?  
+Vas-tu enfin  
+déployer tes ailes ?  
+En comprends-tu assez  
+pour t'envoler ?  
 
 Dis-moi...  
-As-tu assez confiance  
+As-tu assez  
+confiance  
 en moi ?  
 En toi ?  
 
-L'ai-je été suffisamment,  
+L'ai-je été  
+suffisamment,  
 bienveillant ?  
-L’es-tu assez pour toi,  
+L’es-tu assez  
+pour toi,  
 bienveillante ?
