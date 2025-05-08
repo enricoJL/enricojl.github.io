@@ -8,10 +8,10 @@ categories: "amore"
 Sur le sentier du retour,  
 à travers les montagnes,  
 dans la fatigue du soir,  
-jusqu'au creux du jour...  
+jusqu'au creux du jour,  
 
-On accroche nos manteaux.  
-On se couvre de confidences,  
+on accroche nos manteaux,  
+on se couvre de confidences,  
 pour résister à la nuit  
 qui vient toujours.  
 
