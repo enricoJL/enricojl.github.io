@@ -15,12 +15,16 @@ nous guette en chemin.
 
 Au-devant de moi,  
 mes envies se morcellent,  
-se condensent et se resserrent  
+se condensent  
+et se resserrent  
 dans un entonnoir —  
 où s’engouffrent tous mes rêves.  
 
-Avec le temps s'égouttent mes peurs.  
+Avec le temps  
+s'égouttent mes peurs.  
 La clarté s’installe enfin ;  
-je deviens plus ferme dans ma volonté.  
+je deviens plus ferme  
+dans ma volonté.  
 
-Et l’univers conspire à me réaliser.  
+Et l’univers conspire  
+à me réaliser.  
