@@ -14,6 +14,6 @@ Ton silence me parvient
 comme une pousse fragile  
 au creux des mots.  
 
-Désormais, je es devenu  
+Désormais, je suis devenu  
 le murmure qui fait frétiller  
 les feuilles au printemps.  
