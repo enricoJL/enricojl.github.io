@@ -5,11 +5,12 @@ date: "2025-04-12"
 categories: "amore"
 ---
 
-Sur le sentier du retour,  
-à travers les montagnes,  
-dans la fatigue du soir,  
+À travers les montagnes,  
+sur le sentier du retour,  
 on accroche nos manteaux,  
-on se couvre de confidences,  
+dans la fatigue du soir.  
+
+On se couvre de confidences,  
 pour résister à la nuit  
 qui vient toujours.  
 
