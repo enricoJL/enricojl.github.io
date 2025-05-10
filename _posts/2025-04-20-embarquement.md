@@ -13,13 +13,13 @@ avec un air bizarre...
 Et tu t’inquiètes :  
 << Va-t-il vraiment tenir ?  
 Va-t-il nous ramener à bon port ?  
-Va-t-il se rendre jusqu’au bout ? >>  
+Va-t-il se rendre jusqu’au bout,  
+sur son radeau ?  >>  
 
 Et moi, je te dis :  
 Y crois-tu, à ce fleuve  
-qui accourt  
+qui court  
 jusqu’au centre de nous deux ?  
-
 Et j’essaie toujours  
 de te convaincre de rester.  
 
@@ -33,7 +33,7 @@ Vas-tu résister
 quand elle reviendra,  
 la tempête,  
 dans laquelle on se perd —  
-naufragés sur une île déserte,  
+naufragés sur une île,  
 avec plus rien à croire ?  
 
 Il est où, le trésor  
