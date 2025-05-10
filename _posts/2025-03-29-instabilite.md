@@ -13,10 +13,12 @@ je reste là,
 à chercher appui  
 dans le ciel.  
 
-La source pour apaiser,  
+À chercher  
+la source pour apaiser,  
 la fontaine salvatrice —  
-pour aimer, et aider  
-à soulager la souffrance,  
+pour continuer d'aimer,  
+et aider  
+à soulager la souffrance.  
 
-sans jamais cesser  
+Sans jamais cesser  
 de m’élever vers elle.  
