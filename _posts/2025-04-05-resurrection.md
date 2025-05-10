@@ -5,27 +5,36 @@ date: "2025-04-05"
 categories: "spirit"
 ---
 
-Ensevelis dans la douleur,  
+Dans la douleur,  
 la misère et les pleurs,  
-en toute humilité.  
+comme des semences  
+éparpillés sur la terre,  
+nous nous retrouvons,  
+tous ensevelis —  
 
-Comme une semence,  
-plantés,  
 avec l’espoir de grandir  
-un jour  
+un jour,  
 et d’atteindre le ciel.  
 
 Avec foi et patience :  
-croire à la gentillesse,  
-servir autrui,  
+croire  
+à la gentillesse.  
+
+Servir autrui,  
 nourrir le monde,  
 les mains tendues,  
-pour apaiser le feu.  
+tout le temps,  
+prêtes à apaiser  
+le feu.  
 
-Et mourir sur la terre  
+Et mourir  
+un jour,  
 pour ressusciter  
-un jour, avec Lui,  
-dans sa gloire,  
+avec Lui —  
+
+dans la gloire,  
 dans la joie,  
-la lumière et la vie —  
+la lumière  
+et la vie —  
+
 éternelle.  
