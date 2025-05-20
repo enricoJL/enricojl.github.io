@@ -5,19 +5,17 @@ date: "2025-04-12"
 categories: "divers"
 ---
 
-Des ailes poussent  
-dans mes yeux  
-quand je te regarde,  
+Je te regarde,  
 assise, tranquille,  
 au début de ta vie —  
-à regarder le ciel,  
+à observer le ciel,  
 à douter des humains...  
 
 Que s’est-il passé ?  
 Tu as grandi.  
 Tellement !  
 Trop vite.  
-Et encore fragile.  
+Encore fragile.  
 
 Vas-tu enfin  
 déployer tes ailes ?  
