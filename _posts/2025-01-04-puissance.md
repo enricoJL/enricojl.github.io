@@ -10,4 +10,4 @@ L'intelligence de faire,
 c'est le pouvoir.  
 
 L'intelligence de faire faire,  
-c'est la puissance.  
+c'est l'influence.  
