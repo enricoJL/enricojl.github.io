@@ -10,15 +10,14 @@ published: true
 Instabilité —  
 grâce à elle,  
 je reste là,  
-à chercher appui  
-dans le ciel.  
+à chercher appui.  
 
 À chercher  
 la source pour apaiser,  
 la fontaine salvatrice —  
 pour continuer d'aimer,  
 et aider  
-à soulager la souffrance.  
+à soulager les souffrances.  
 
 Sans jamais cesser  
 de m’élever vers elle.  
