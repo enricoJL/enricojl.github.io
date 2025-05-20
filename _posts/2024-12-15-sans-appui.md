@@ -12,7 +12,7 @@ perdu.
 
 Chercher le cœur,  
 chercher la tête,  
-et le réconfort.  
+chercher réconfort.  
 
 Chercher toujours,  
 sans arrêt,  
