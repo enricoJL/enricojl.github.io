@@ -15,23 +15,25 @@ Sans penser,
 sans se soucier,  
 faire le vide,  
 tout doucement,  
-avec son souffle.  
+dans un souffle.  
 
 Les amertumes du jour,  
 les inquiétudes du soir,  
-endormies.  
+évadées.  
 
 Veiller sur l'oreiller,  
 sans penser à rien.  
-Faire le vide, encore une fois,  
-et basculer dans le rêve.  
+Faire le vide,  
+encore une fois,  
+et basculer.  
 
 La nuit, réparatrice.  
 Le matin, révélateur.  
 Le jour, porteur.  
 
 La vie tranquille...  
-les enfants, le mariage,  
+les enfants,  
+le mariage,  
 le travail.  
 
 Malgré les conflits —  
@@ -39,7 +41,8 @@ Malgré les conflits —
 au travail,  
 dans le pays.  
 
-Il y en a, des conflits.  
+Il y en a,  
+des conflits.  
 À la maison,  
 au travail,  
 dans le pays.  
