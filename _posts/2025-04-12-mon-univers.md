@@ -10,21 +10,21 @@ de multiples avenues possibles
 se croisent entre mes mains.  
 
 À tout vouloir,  
-le risque de ne rien atteindre  
-nous guette en chemin.  
+je risque de ne rien atteindre  
+sur mon chemin.  
 
 Au-devant de moi,  
 mes envies se morcellent,  
 se condensent  
 et se resserrent  
 dans un entonnoir —  
-où s’engouffrent tous mes rêves.  
+où s’engouffrent  
+tous mes rêves.  
 
-Avec le temps  
+Avec le temps, par contre,  
 s'égouttent mes peurs.  
 La clarté s’installe enfin ;  
 je deviens plus ferme  
-dans ma volonté.  
+dans mon << vouloir >>.  
 
-Et l’univers conspire  
-à me réaliser.  
+Et l’univers conspire à le réaliser.  
