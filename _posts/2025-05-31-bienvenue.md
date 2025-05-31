@@ -10,7 +10,7 @@ published: true
 En remontant le cours de l'eau,  
 à bord de la navette fluviale,  
 entre Boucherville et Montréal,  
-dans le calme,  
+dans le calme, ce matin,  
 avant de rejoindre  
 le cirque de la ville,  
 j'observe...
