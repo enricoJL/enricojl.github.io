@@ -24,10 +24,12 @@ qui transfèrent la marchandise :
 MSC, MAERSK, VITERRA, PSL, COSCO  
 (compagnies maritimes).  
 
-Je vois des volées d'oiseaux plonger  
-avec frénésie à la surface de l'eau,  
-et j'imagine qu'il y en a plus encore ---  
-de l'activité sous l'eau.  
+Je vois des volées d'oiseaux  
+plonger avec frénésie  
+à la surface de l'eau,  
+et j'imagine  
+qu'il y en a encore plus
+d'activité sous l'eau.  
 
 Il y a de l'action.  
 
