@@ -22,7 +22,7 @@ les paquebots
 qui transfèrent la marchandise :  
 
 MSC, MAERSK, VITERRA, PSL, COSCO  
-(compagnies maritimes).  
+(des compagnies maritimes).  
 
 Je vois des volées d'oiseaux  
 plonger avec frénésie  
