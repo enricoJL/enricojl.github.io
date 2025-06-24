@@ -7,25 +7,21 @@ published: true
 ---
 
 Au clair de lune,  
-il m'attend  
-à la fenêtre.  
-Chaque nuit,  
-il me réveille.  
+il m'attend à la fenêtre.  
+Chaque nuit, il me réveille.  
 
 Quand je pense à lui,  
 et que je le vois ---  
 toujours là,  
-dans sa chambre :  
-ses jouets,  
-ses souliers  
-et ce sourire d'enfant...  
-son dernier sourire.
+dans sa chambre,  
+avec ses jouets,  
+ses petits souliers  
+et son sourire d'enfant...  
 
 Je l'entends encore.  
 Il me parle doucement  
 d'une voix claire,  
-résiliant  
-jusqu'à la mort.  
+résiliant jusqu'à la mort.  
 
 Alors,  
 je laisse la fenêtre ouverte,  
