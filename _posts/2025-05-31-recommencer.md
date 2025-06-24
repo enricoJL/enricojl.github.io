@@ -14,7 +14,6 @@ Refaire.
 Baisser la tête,  
 se mettre à genoux  
 et supplier ---  
-
 pour demander pardon.  
 
 Et recommencer encore.  
