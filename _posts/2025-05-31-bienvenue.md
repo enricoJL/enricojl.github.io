@@ -28,9 +28,8 @@ Je vois des volées d'oiseaux
 plonger avec frénésie  
 à la surface de l'eau,  
 et j'imagine  
-qu'il y en a encore plus  
-d'activité sous l'eau.  
-
-Il y a de l'action.  
+qu'il y en a encore plus,  
+de l'activité,  
+sous l'eau.  
 
 Bienvenue au port de Montréal.  
