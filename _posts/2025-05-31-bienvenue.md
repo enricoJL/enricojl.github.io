@@ -31,5 +31,3 @@ et j'imagine
 qu'il y en a encore plus,  
 de l'activité,  
 sous l'eau.  
-
-Bienvenue au port de Montréal.  
