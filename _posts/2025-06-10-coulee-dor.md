@@ -12,5 +12,5 @@ sur les sols de fertilité
 couvre nos baisés éthérés (pures) ---  
 
 Avec l'étreinte de nos mains  
-qui restent  
+qui se resserrent,  
 en vigie sur la vie.  
