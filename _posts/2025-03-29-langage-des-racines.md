@@ -15,5 +15,5 @@ comme une pousse fragile
 au creux des mots.  
 
 Désormais, je suis devenu  
-le murmure qui fait frétiller  
-les feuilles au printemps.  
+le murmure qui fait germer  
+les fleurs au printemps.  
