@@ -6,24 +6,21 @@ categories: "divers"
 published: true
 ---
 
-Debout sur une chaise berçante, dans le monde,  
+Debout sur une chaise berçante dans le monde,  
 je crie ma joie de grandir à l’envers.  
 
 À l’inverse des conventions,  
 dans la désillusion totale,  
-tout s’efface avant même d’exister.  
+tout vacille,  
+tout m’essouffle.  
 
-Tout vacille, tout m’essouffle.  
 Les dogmes s’effondrent,  
-mes certitudes s’enfuient,  
-mirages perdus dans le vent.  
-
-Mes doutes me soulèvent —  
-vastes ailes d’ombre  
+mes certitudes s’effritent.  
+Mes doutes me soulèvent  
 dans l’impossible réalité du temps.  
 
 Hésitant,  
 ballottant,  
-chambranlant...  
+chambranlant ---  
 
 *Mais toujours debout.*
