@@ -23,6 +23,7 @@ et m’apaiser.
 Je veux te connaître,  
 comme Dieu te connaît,  
 et t’embrasser,  
-comme un enfant, t’enlacer —  
+comme un enfant,  
+plusieurs fois t’enlacer —  
 et, à nous deux,  
 reconstruire le monde.  
