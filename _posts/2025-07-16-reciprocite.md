@@ -6,10 +6,9 @@ categories: "amore"
 published: true
 ---
 
-Je veux continuer  
-de rêver plus fort,  
-pour te connaître  
-encore mieux,  
+Je veux continuer d'espérer  
+plus fort,  
+pour te connaître encore mieux,  
 et te reconnaître enfin.
 
 Je veux m’enfuir loin  
