@@ -3,21 +3,18 @@ layout: post
 title: "Réciprocité"
 date: "2025-07-16"
 categories: "amore"
-published: false
+published: true
 ---
 
-Je veux continuer d'espérer plus fort  
-pour te connaître encore mieux.
+Je veux continuer d'espérer  
+pour te connaître encore plus fort.  
+
 Je veux m’enfuir loin  
 dans la réciprocité de nos amours.  
 
-Je veux ne plus savoir te perdre,  
-et me coucher dans ton regard,  
-et m’apaiser.  
+Je veux ne plus savoir te perdre.  
 
-Je veux te reconnaître —  
-encore t’embrasser  
-comme un amant  
-t’enlacer souvent —  
-et, à nous deux,  
-remodeler le monde.  
+Je veux encore t’embrasser  
+comme un amant t’enlacer souvent —  
+
+Et, à nous deux, remodeler le monde.  
