@@ -20,4 +20,4 @@ Toujours
 
 ___
 
-<sup>*</sup> Clin d'oeil à Gilles Vigneault, *Si les bateaux*
+<sup>* Clin d'oeil à Gilles Vigneault, *Si les bateaux*</sup>
