@@ -6,11 +6,7 @@ categories: "divers"
 published: true
 ---
 
-Nous allons l'avoir,  
-notre pays ---  
-nous l'avons déjà.  
+Notre pays --- nous l'avons déjà.  
 
-Il s'endort  
-dans la langue de nos aïeux,  
-et s'éveille  
-dans le rêve de nos enfants.  
+Il s'endort dans la langue de nos aïeux,  
+et se réveille dans le rêve de nos enfants.  
