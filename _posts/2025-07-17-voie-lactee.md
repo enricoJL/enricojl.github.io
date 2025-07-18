@@ -13,7 +13,7 @@ pour s'en émouvoir*
 
 <sup>(Virginie Savard, *Les deuils transparents*, p. 105)</sup>  
 
-</br>  
+<br/>  
 
 Oui, sa lumière brillera sur nous,  
 qui sommes aveugles aux étoiles ---  

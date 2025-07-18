@@ -11,7 +11,7 @@ que je n'ai pas pris la peine de nommer*
 
 <sup>(Virginie Savard, *Les deuils transparents*, p. 96)</sup>  
 
-</br>  
+<br/>  
 
 un ruisseau qui ne cesse de couler  
 depuis toujours que je me souvienne  
