@@ -7,7 +7,7 @@ published: true
 ---
 
 Dans mon souvenir  
-*Loin comme l'Angletterre*  
+*Loin comme l'Angleterre*  
 Tout au long du voyage  
 
 *Je t'aimerai*<sup>*</sup>  
