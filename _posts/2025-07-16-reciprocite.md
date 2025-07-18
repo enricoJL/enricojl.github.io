@@ -6,13 +6,14 @@ categories: "amore"
 published: true
 ---
 
-Je veux continuer d'espérer  
-pour te connaître encore plus fort.  
+Je veux continuer d'espérer,  
+te connaître encore plus fort.  
 
 Je veux m’enfuir loin  
 dans la réciprocité de nos amours.  
 
-Je veux ne plus savoir te perdre.  
+Je veux ne plus savoir  
+te perdre.  
 
 Je veux encore t’embrasser  
 comme un amant t’enlacer souvent —  
