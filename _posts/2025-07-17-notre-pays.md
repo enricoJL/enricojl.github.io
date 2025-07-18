@@ -6,7 +6,7 @@ categories: "divers"
 published: true
 ---
 
-Notre pays --- nous l'avons déjà.  
+Notre pays --- Nous l'avons déjà.  
 
 Il s'endort dans la langue de nos aïeux,  
 et se réveille dans le rêve de nos enfants.  
