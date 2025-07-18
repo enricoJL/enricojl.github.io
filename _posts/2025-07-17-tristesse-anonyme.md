@@ -35,4 +35,4 @@ des vagues anonymes
 
 ___  
 
-<sup>*</sup> Extrait de *Les deuils transparents* (Virginie Savard, p. 96)
+<sup>* Extrait de *Les deuils transparents* (Virginie Savard, p. 96)</sup>
