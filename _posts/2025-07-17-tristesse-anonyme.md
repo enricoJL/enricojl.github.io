@@ -8,12 +8,8 @@ published: true
 
 *j'habite une tristesse  
 que je n'ai pas pris la peine de nommer*  
+
 <sup>(Virginie Savard, *Les deuils transparents*, p. 96)</sup>  
-
-[que je ne sais même pas pleurer  
-
-mes larmes sèchent d'être tristes  
-faute d'avoir pu en trouver la source]  
 
 ---  
 
