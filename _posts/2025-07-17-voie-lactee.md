@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Voie Lactée"
+title: "la Voie Lactée"
 date: "2025-07-17"
 categories: "divers"
 published: true
@@ -15,7 +15,8 @@ pour s'en émouvoir*
 
 <br/>  
 
-Oui, sa lumière brillera sur nous,  
-qui sommes aveugles aux étoiles ---  
-mais tout de même participants  
-dans chacun de leurs mouvements.  
+sa lumière brillera sur nous  
+aveugles aux étoiles  
+
+participants  
+dans chacun de leurs mouvements  
