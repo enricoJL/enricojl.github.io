@@ -18,18 +18,19 @@ aussi longtemps que je me souvienne
 arrose mes pas dans la maison  
 
 quand vient le temps de dormir le soir  
-je me laisse entretenir  
-par le bruit de vagues anonymes  
+je me couche dans un lit de larmes  
+me laisse entretenir  
+par le bruit des vagues anonymes  
 
-elles me suivent partout  
-je peux les sentir  
-incrustées  
+elle me suit partout  
+je peux la sentir  
+incrustée  
 
 d'une génération à l'autre  
 dans le parfum de nos coutumes  
-elles dérangent mes amours  
+elle dérange mes amours  
 
-cette cassure  
+cette fracture  
 s'écoule  
 le long du chemin  
 elle draine ma maison  
@@ -50,5 +51,5 @@ ressurgit
 au bout d'un temps  
 
 mes larmes sèchent d'être triste  
-faute de n'avoir jamais su remonter  
-jusqu'à la source  
+faute de n'avoir jamais su  
+remonter jusqu'à la source  
