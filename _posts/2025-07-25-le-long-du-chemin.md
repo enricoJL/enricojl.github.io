@@ -50,5 +50,5 @@ ressurgit
 au bout d'un temps  
 
 mes larmes sèchent d'être triste  
-faute de n'avoir jamais su  
-remonter jusqu'à la source  
+faute de n'avoir jamais su remonter  
+jusqu'à la source  
