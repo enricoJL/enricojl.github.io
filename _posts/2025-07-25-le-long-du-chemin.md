@@ -51,4 +51,4 @@ au bout d'un temps
 
 mes larmes sèchent d'être triste  
 faute de n'avoir jamais su  
-en trouver la source  
+remonter jusqu'à la source  
