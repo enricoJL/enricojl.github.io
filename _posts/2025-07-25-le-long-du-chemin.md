@@ -19,12 +19,12 @@ dense comme une blessure qui suinte
 aussi longtemps que je me souvienne  
 arrose nos pas dans la maison  
 
-je peux le sentir  
-incrusté  
+je peux sentir son essence  
+incrustée  
 dans le parfum de nos coutumes  
 depuis des générations  
 
-il dérange nos amours  
+elle dérange nos amours  
 
 cette fracture  
 s'écoule  
