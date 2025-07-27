@@ -6,9 +6,9 @@ categories: "divers"
 published: true
 ---
 
-<div style="text-align: right;">
-  *j'habite une tristesse  <br/>
-  que je n'ai pas pris la peine de nommer*<br/>
+<div style="text-align: right; font-style: italic;">
+  j'habite une tristesse<br/>
+  que je n'ai pas pris la peine de nommer<br/>
   <sup>(Virginie Savard, *Les deuils transparents*, p. 96)</sup>  
 </div>
 <br/>  
