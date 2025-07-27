@@ -23,18 +23,18 @@ je me couche dans un lit de larmes
 me laisse entretenir  
 par le bruit des vagues anonymes~~  
 
-elle me suit partout  
-je peux la sentir  
-incrustée  
+~~il me suit partout~~  
+je peux le sentir  
+incrusté  
 dans le parfum de nos coutumes  
 d'une génération à l'autre  
 
-elle dérange mes amours  
+il dérange mes amours  
 
 cette fracture  
 s'écoule  
 le long du chemin  
-elle draine ma maison  
+draine ma maison  
 jusqu'à la marre  
 
 invisible  
@@ -49,7 +49,7 @@ pompé dans le cœur
 au travers des âges  
 
 ressurgit  
-au bout d'un temps  
+au bout du temps  
 
 mes larmes sèchent d'être triste  
 faute de n'avoir jamais su  
