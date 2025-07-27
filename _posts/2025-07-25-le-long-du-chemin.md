@@ -18,12 +18,6 @@ dense comme une blessure qui suinte
 aussi longtemps que je me souvienne  
 arrose mes pas dans la maison  
 
-~~quand vient le temps de dormir le soir  
-je me couche dans un lit de larmes  
-me laisse entretenir  
-par le bruit des vagues anonymes~~  
-
-~~il me suit partout~~  
 je peux le sentir  
 incrusté  
 dans le parfum de nos coutumes  
@@ -45,9 +39,7 @@ cette peine ne se nomme pas
 
 ce ressenti intemporel  
 pompé dans le cœur  
-~~inconsciemment~~  
 au travers des âges  
-
 ressurgit  
 au bout du temps  
 
