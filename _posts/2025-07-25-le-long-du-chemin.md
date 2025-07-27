@@ -10,7 +10,7 @@ published: true
   j'habite une tristesse<br/>
   que je n'ai pas pris la peine de nommer<br/>
   <br/>
-  <sup style="font-style: normal;">(Virginie Savard, Les deuils transparents, p. 96)</sup>  
+  <sup style="font-style: normal;">(Virginie Savard, Les deuils transparents)</sup>  
 </div>
 <br/>  
 
