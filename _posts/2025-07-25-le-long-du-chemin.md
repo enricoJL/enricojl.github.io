@@ -17,14 +17,14 @@ published: true
 ce ruisseau qui ne cesse de couler  
 dense comme une blessure qui suinte  
 aussi longtemps que je me souvienne  
-arrose mes pas dans la maison  
+arrose nos pas dans la maison  
 
 je peux le sentir  
 incrusté  
 dans le parfum de nos coutumes  
-d'une génération à l'autre  
+depuis des générations  
 
-il dérange mes amours  
+il dérange nos amours  
 
 cette fracture  
 s'écoule  
