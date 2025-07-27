@@ -29,7 +29,7 @@ il dérange nos amours
 cette fracture  
 s'écoule  
 le long du chemin  
-draine ma maison  
+draine notre maison  
 jusqu'à la marre  
 
 invisible  
