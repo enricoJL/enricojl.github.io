@@ -13,21 +13,22 @@ que je n'ai pas pris la peine de nommer*
 
 <br/>  
 
-ce torrent qui ne cesse de couler  
+ce ruisseau qui ne cesse de couler  
+dense comme une blessure qui suinte  
 aussi longtemps que je me souvienne  
 arrose mes pas dans la maison  
 
-quand vient le temps de dormir le soir  
+~~quand vient le temps de dormir le soir  
 je me couche dans un lit de larmes  
 me laisse entretenir  
-par le bruit des vagues anonymes  
+par le bruit des vagues anonymes~~  
 
 elle me suit partout  
 je peux la sentir  
 incrustée  
-
-d'une génération à l'autre  
 dans le parfum de nos coutumes  
+d'une génération à l'autre  
+
 elle dérange mes amours  
 
 cette fracture  
@@ -44,7 +45,7 @@ cette peine ne se nomme pas
 
 ce ressenti intemporel  
 pompé dans le cœur  
-inconsciemment  
+~~inconsciemment~~  
 au travers des âges  
 
 ressurgit  
