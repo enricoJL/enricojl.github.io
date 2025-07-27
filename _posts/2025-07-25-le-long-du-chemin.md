@@ -6,12 +6,11 @@ categories: "divers"
 published: true
 ---
 
-<p style="text-align: right;">  
-*j'habite une tristesse  
-que je n'ai pas pris la peine de nommer*  
-
-<sup>(Virginie Savard, *Les deuils transparents*, p. 96)</sup>  
-</p>
+<div style="text-align: right;">
+  *j'habite une tristesse  <br/>
+  que je n'ai pas pris la peine de nommer*<br/>
+  <sup>(Virginie Savard, *Les deuils transparents*, p. 96)</sup>  
+</div>
 <br/>  
 
 ce ruisseau qui ne cesse de couler  
