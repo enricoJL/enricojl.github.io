@@ -7,10 +7,8 @@ published: true
 ---
 
 il m'attend à la fenêtre  
-chaque nuit me réveille  
 
 quand je pense à lui  
-toujours là  
 dans sa chambre  
 avec ses jouets  
 ses petits souliers  
@@ -22,8 +20,7 @@ de sa voix claire
 résiliente jusqu'à la mort  
 
 alors, je laisse la fenêtre ouverte  
-chaque nuit  
-
+à chaque nuit  
 afin qu’il puisse  
 aller  
 et venir  
