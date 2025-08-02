@@ -1,33 +1,28 @@
 ---
 layout: post
-title: "Bienvenue en ville"
+title: "bienvenue en ville"
 date: "2025-05-31"
 categories: "divers"
 published: true
 ---
 
 
-En remontant le cours de l'eau,  
-à bord de la navette fluviale,  
-entre Boucherville et Montréal,  
-dans le calme, ce matin,  
-avant de rejoindre  
-le cirque de la ville,  
-j'observe...
+en remontant le fleuve  
+à bord du bateau  
+dans le calme ce matin  
 
-les couleurs du printemps,  
-les gens courtois,  
-les animaux marins,  
+les couleurs du printemps  
+les gens courtois  
+les animaux marins  
 les paquebots  
-qui transfèrent la marchandise :  
+les transferts de marchandise  
 
-MSC, MAERSK, VITERRA, PSL, COSCO  
-(des compagnies maritimes).  
+je vois des volées d'oiseaux  
+avec frénésie plonger  
+à la surface de l'eau  
 
-Je vois des volées d'oiseaux  
-plonger avec frénésie  
-à la surface de l'eau,  
-et j'imagine  
-qu'il y en a encore plus,  
-de l'activité,  
-sous l'eau.  
+j'imagine encore plus d'activité  
+sous l'eau  
+devant le cirque de la ville  
+
+bienvenue à Montréal  
