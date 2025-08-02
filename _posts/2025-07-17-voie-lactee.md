@@ -11,7 +11,7 @@ se couchera sur montréal
 et personne ne sera là  
 pour s'en émouvoir*
 
-<sup>(Virginie Savard, *Les deuils transparents*)</sup>  
+<sup>(Virginie Savard, Les deuils transparents)</sup>  
 
 <br/>  
 
