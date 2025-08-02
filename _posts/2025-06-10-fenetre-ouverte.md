@@ -6,8 +6,6 @@ categories: "divers"
 published: true
 ---
 
-il m'attend à la fenêtre  
-
 quand je pense à lui  
 dans sa chambre  
 avec ses jouets  
@@ -19,7 +17,7 @@ qui me parle doucement
 de sa voix claire  
 résiliente jusqu'à la mort  
 
-alors, je laisse la fenêtre ouverte  
+je laisse la fenêtre ouverte  
 à chaque nuit  
 afin qu’il puisse  
 aller  
