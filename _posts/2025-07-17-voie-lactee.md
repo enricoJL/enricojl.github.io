@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "la Voie Lactée"
+title: "voie lactée"
 date: "2025-07-17"
 categories: "divers"
 published: true
@@ -11,14 +11,11 @@ se couchera sur montréal
 et personne ne sera là  
 pour s'en émouvoir*
 
-<sup>(Virginie Savard, *Les deuils transparents*, p. 105)</sup>  
+<sup>(Virginie Savard, *Les deuils transparents*)</sup>  
 
 <br/>  
 
 sa lumière brillera sur nous  
-
 aveugles aux étoiles  
-
 participants  
-
-dans chacun de ses mouvements  
+dans tous ses mouvements  
