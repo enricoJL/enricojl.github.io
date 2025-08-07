@@ -6,11 +6,11 @@ categories: "amore"
 published: true
 ---
 
-je veux continuer  
-espérer te connaître  
+je veux espérer  
+te connaître  
 encore plus fort  
 
-je veux m’enfuir    
+je veux m’enfuir loin    
 dans la réciprocité  
 de nos amours  
 
