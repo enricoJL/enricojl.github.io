@@ -20,11 +20,12 @@ Et moi, je te dis :
 Y crois-tu, à ce fleuve  
 qui court  
 jusqu’au centre de nous deux ?  
+
 Et j’essaie toujours  
 de te convaincre de rester.  
 
-Me fais-tu assez confiance  
-assez longtemps  
+Me fais-tu assez confiance,  
+assez longtemps,  
 pour qu'on ne fasse plus qu’un :  
 nos deux eaux qui s’écoulent  
 dans le même océan ?  
@@ -39,19 +40,19 @@ avec plus rien à croire ?
 Il est où, le trésor  
 qu’on nous avait raconté ?  
 
-J’ai échoué  
-mon navire  
+J’ai échoué mon navire  
 sur la rive de ton pays —  
 étranger  
 dans une terre inconnue.  
 
 Mais j’ai réussi  
 à reconstruire un radeau,  
-avec les morceaux de l’épave  
-de nos rêves d'antan.
+avec les morceaux  
+de l’épave de nos rêves.  
 
 Me fais-tu assez confiance  
 maintenant  
 pour embarquer avec moi ?  
+Sur mon radeau...  
 
 Veux-tu encore naviguer ?  

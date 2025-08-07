@@ -17,5 +17,5 @@ pour s'en émouvoir*
 
 sa lumière brillera sur nous  
 aveugles aux étoiles  
-participants  
+mais participants  
 dans tous ses mouvements  

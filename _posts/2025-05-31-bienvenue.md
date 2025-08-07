@@ -9,7 +9,8 @@ published: true
 
 en remontant le fleuve  
 à bord du bateau  
-dans le calme ce matin  
+le calme nous accueille  
+ce matin  
 
 les couleurs du printemps  
 les gens courtois  
@@ -21,8 +22,10 @@ je vois des volées d'oiseaux
 avec frénésie plonger  
 à la surface de l'eau  
 
-j'imagine encore plus d'activité  
+j'imagine  
+encore plus  
+d'activité  
 sous l'eau  
-devant le cirque de la ville  
 
+devant le cirque de la ville  
 bienvenue à Montréal  
