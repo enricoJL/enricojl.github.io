@@ -3,23 +3,23 @@ layout: post
 title: "funambule"
 date: "2025-08-09"
 categories: "divers"
-published: false
+published: true
 ---
 
-je marche aller-retour  
+je marche sur un fil  
+au-dessus du vide  
 perché haut dans ma conscience    
-à rebours sur ma ligne de vie  
-j'essaie de garder l'équilibre  
-sur un fil au-dessus du vide  
+en équilibre  
+sur ma ligne de vie  
 
 j'hésite un pas en avant  
 un pas en arrière  
-je sautille  
+je glisse  
 je titube  
 
 si je tombe  
 je risque de me fracasser  
-à la réalité du passé  
+sur la réalité  
 
 puis la foule  
 qui m'observe attentivement  
