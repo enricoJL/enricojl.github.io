@@ -1,40 +1,39 @@
 ---
 layout: post
-title: "Résurrection"
+title: "résurrection"
 date: "2025-04-05"
 categories: "spirit"
 ---
 
-Dans la douleur,  
-la misère et les pleurs,  
+dans la douleur  
+la misère et les pleurs  
 comme des semences  
-éparpillés sur la terre,  
-nous nous retrouvons,  
+éparpillés sur la terre  
+nous nous retrouvons  
 tous ensevelis —  
 
 avec l’espoir de grandir  
-un jour,  
-et d’atteindre le ciel.  
+un jour  
+et d’atteindre le ciel  
 
-Avec foi et patience :  
+avec foi et patience :  
 croire  
-à la gentillesse.  
+à la gentillesse  
 
-Servir autrui,  
-nourrir le monde,  
-les mains tendues,  
-tout le temps,  
+servir autrui  
+nourrir le monde  
+les mains tendues  
 prêtes à apaiser  
-le feu.  
+le feu  
 
-Et mourir  
-un jour,  
+et mourir  
+un jour  
 pour ressusciter  
 avec Lui —  
 
-dans la gloire,  
-dans la joie,  
+dans la gloire  
+dans la joie  
 la lumière  
 et la vie —  
 
-éternelle.  
+éternelle  

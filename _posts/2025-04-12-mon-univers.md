@@ -1,30 +1,28 @@
 ---
 layout: post
-title: "Mon univers"
+title: "notre univers"
 date: "2025-04-12"
 categories: "divers"
 ---
 
-Au volant de mon destin,  
+~à tout vouloir  
+on risque de ne jamais rien atteindre~  
+
 de multiples avenues possibles  
-se croisent entre mes mains.  
+se croisent entre nos mains  
 
-À tout vouloir,  
-je risque de ne jamais rien  
-atteindre sur mon chemin.  
-
-Au-devant de moi,  
-mes envies se morcellent,  
-se condensent  
-et se resserrent  
-dans un entonnoir —  
+sur le chemin  
+nos envies se morcellent  
+se resserrent  
+dans un entonnoir  
 où s’engouffrent  
-tous mes rêves.  
+tous mes rêves  
 
-Avec le temps,  
-s'égouttent mes peurs.  
-La clarté s’installe enfin ;  
-je deviens plus ferme  
-dans mon << vouloir >>.  
+avec le temps  
+s'égouttent nos peurs  
+la clarté s’installe enfin  
 
-Et l’univers conspire à le réaliser.  
+nous devenons plus fermes  
+dans notre << vouloir >>  
+
+et l’univers conspire à le réaliser  

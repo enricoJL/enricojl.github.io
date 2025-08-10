@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Langage des racines"
+title: "langage des racines"
 date: "2025-03-29"
 categories: "divers"
 ---
 
-Je n’ai rien emporté avec moi,  
+je n’ai rien emporté  
 sinon cette lumière  
 qui perlait sur les branches  
-quand nous parlions de Dieu.  
+quand nous parlions de Dieu  
 
-Ton silence me parvient  
+ton silence me parvient  
 comme une pousse fragile  
-au creux des mots.  
+au creux des mots  
 
-Désormais, je suis devenu  
+je suis devenu désormais  
 le murmure qui fait germer  
-les fleurs au printemps.  
+les bourgeons après l'hiver  

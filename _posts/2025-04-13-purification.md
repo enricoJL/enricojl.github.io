@@ -1,33 +1,32 @@
 ---
 layout: post
-title: "Purification"
+title: "purification"
 date: "2025-04-13"
 categories: "spirit"
 ---
 
-Laisse-la venir  
-poser un baume  
-sur ta méchanceté,  
-prononcer une bénédiction  
-sur ta colère  
-et te serrer dans les bras —  
-pour te pardonner.  
+laisse-la venir ---  
+pose un baume  
+sur ta méchanceté
 
-Laisse la Parole te sanctifier,  
+prononce une bénédiction  
+sur ta colère ---  
+serre le pardon dans tes bras  
+
+laisse la Parole te sanctifier  
 te rapiécer  
-jusqu'au dernier souffle.  
+jusqu'au dernier souffle  
 
-Reviens ---  
-là où tout était bon.  
+reviens  
+où il faisait bon  
 
-Traverse  
+traverse  
 le dernier jour ---  
-et retrouve tout  
-de l’autre côté.  
+retrouve tout  
 
-Quand nous descendrons,  
-tous ensemble,  
+quand nous descendrons  
+tous ensemble  
 avec Sion :  
-tous ceux qui ont le cœur pur.  
+tous ceux qui ont le cœur pur  
 
-Que Sa parole purifie la terre !  
+que Sa parole purifie la terre !  
