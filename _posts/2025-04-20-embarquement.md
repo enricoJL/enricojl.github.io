@@ -1,58 +1,59 @@
 ---
 layout: post
-title: "Embarquement"
+title: "embarquement"
 date: "2025-04-20"
 categories: "amore"
 published: true
 ---
 
-Tu me regardes  
-sur mon radeau,  
+tu me regardes  
+sur mon radeau  
 avec un air bizarre...  
 
-Et tu t’inquiètes :  
+et tu t’inquiètes :  
 << Va-t-il vraiment tenir ?  
 Va-t-il nous ramener à bon port ?  
-Va-t-il se rendre jusqu’au bout,  
-sur son radeau ?  >>  
+Va-t-il se rendre jusqu’au bout ?  
+Sur son radeau ?  >>  
 
-Et moi, je te dis :  
-Y crois-tu, à ce fleuve  
+et moi, je te dis :  
+
+y crois-tu, à ce fleuve  
 qui court  
 jusqu’au centre de nous deux ?  
 
-Et j’essaie toujours  
-de te convaincre de rester.  
+j’essaie toujours  
+de te convaincre de rester  
 
-Me fais-tu assez confiance,  
-assez longtemps,  
+me fais-tu assez confiance  
+assez longtemps  
 pour qu'on ne fasse plus qu’un :  
 nos deux eaux qui s’écoulent  
 dans le même océan ?  
 
-Vas-tu résister  
-quand elle reviendra,  
-la tempête,  
+vas-tu résister  
+quand elle reviendra  
+la tempête  
 dans laquelle on se perd —  
-naufragés sur une île,  
+naufragés sur une île  
 avec plus rien à croire ?  
 
-Il est où, le trésor  
+il est où, le trésor  
 qu’on nous avait raconté ?  
 
-J’ai échoué mon navire  
+j’ai échoué mon navire  
 sur la rive de ton pays —  
 étranger  
-dans une terre inconnue.  
+dans une terre inconnue  
 
-Mais j’ai réussi  
-à reconstruire un radeau,  
+mais j’ai réussi  
+à reconstruire un radeau  
 avec les morceaux  
-de l’épave de nos rêves.  
+de l’épave de nos rêves  
 
-Me fais-tu assez confiance  
+me fais-tu assez confiance  
 maintenant  
 pour embarquer avec moi ?  
-Sur mon radeau...  
+sur mon radeau...  
 
-Veux-tu encore naviguer ?  
+veux-tu encore naviguer ?  
