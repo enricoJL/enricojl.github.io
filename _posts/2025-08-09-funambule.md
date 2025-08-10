@@ -16,8 +16,10 @@ j'hésite un pas en avant
 un pas en arrière  
 je sautille  
 je titube  
-au risque de m'écraser  
-sur la réalité du passé  
+
+si je tombe  
+je risque de me fracasser  
+à la réalité du passé  
 
 puis la foule  
 qui m'observe attentivement  
