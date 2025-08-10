@@ -8,8 +8,8 @@ published: true
 
 je marche sur un fil  
 au-dessus du vide  
-perché haut  
-dans ma conscience    
+perché  
+haut dans ma conscience    
 en équilibre  
 sur ma ligne de vie  
 
