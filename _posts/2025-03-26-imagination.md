@@ -1,28 +1,28 @@
 ---
 layout: post
-title: "Imagination"
+title: "imagination"
 date: "2025-03-26"
 categories: "divers"
 published: true
 ---
 
 
-Dans ton imagination,  
-je déborde de tous côtés,  
-je ne tiens pas dans ton carcan.  
+dans ton imagination  
+je déborde de tous les côtés  
+je ne tiens pas dans ton carcan  
 
-Les barricades cèdent,  
-je suis mouvant,  
-insaisissable.  
+les barricades cèdent  
+je suis mouvant  
+insaisissable  
 
-Tu ne peux plus me retenir.  
-Si tu cherchais à me piétiner,  
-tu t’enliserais.  
+tu ne peux plus me retenir  
+si tu cherchais à me piétiner  
+tu t’enliserais  
 
-Je suis un souffle vaporeux  
+je suis un souffle vaporeux  
 qui respire l’air du printemps  
-après un hiver trop dur.  
+après un hiver trop dur  
 
-Je suis fleur qui éclot,  
+je suis fleur qui éclot  
 oranger qui se réveille —  
-dans *mon* imagination.  
+dans *mon* imagination  

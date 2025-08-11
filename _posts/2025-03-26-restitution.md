@@ -1,47 +1,29 @@
 ---
 layout: post
-title: "En restitution"
+title: "restitution"
 date: "2025-03-26"
 categories: "divers"
 published: true
 ---
 
-Je suis là, devant le monde  
-et j’imagine...  
+ma vie se déploie  
+sous les regards  
+et pourtant  
+personne ne me voit  
+tel que je m'imagine  
 
-Derrière-moi : le passé,  
-devant-moi : l’avenir,  
-le présent bien réel en moi.  
+tous supposent que je suis  
+d’une certaine manière  
+alors quelle est la probabilité  
+que je sois tel que je suis  
+dans mon imagination  
 
-Dans mon corps,  
-dans mon souffle,  
-dans mes veines,  
-mon cœur qui bat.  
+je suis un amalgame  
+tissé de multitudes  
+je suis un collage  
+de bribes éparpillées  
+dans la foule  
+je suis une étoile à la dérive  
+relancée mille fois dans la mer  
 
-Ma vie se déploie sous le regard du monde,  
-et pourtant, personne ne me voit.  
-Tous s’imaginent que je sois.  
-
-Moi-même, je m’imagine que je suis.  
-D’une certaine manière, je suis imaginé,  
-mais tout autrement chez toi.  
-
-Dans ton imagination débordante,  
-je suis comment ?  
-
-La probabilité que je sois là,  
-sur cette place,  
-tel que je me suis imaginé,  
-est infime.  
-
-Je suis un amalgame,  
-tissé par la multitude.  
-Je suis un collage de bribes éparpillées  
-en reconstitution perpétuelle.  
-
-Je suis un voyage,  
-un navire en dérive,  
-une étoile relancée  
-mille fois dans la mer ---  
-
-une image restituée.
+en restitution perpétuelle

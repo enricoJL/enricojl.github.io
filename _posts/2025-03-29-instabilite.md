@@ -15,8 +15,7 @@ dans le ciel
 pour apaiser  
 la fontaine  
 pour continuer d'aimer  
-pour aider  
-à soulager la souffrance  
+et soulager la souffrance  
 
 sans jamais cesser  
 de tituber vers elle  

@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Retrouvailles"
+title: "retrouvailles"
 date: "2025-01-03"
 categories: "divers"
 published: true
 ---
 
-Contre toute évidence,  
-à l'envers des coincidences,  
-les retrouvailles.  
+contre toute évidence  
+à l'envers des coincidences  
+les retrouvailles  
 
-Sur le chemin des attentes,  
-je reprends ta main.  
+sur le chemin des attentes  
+je reprends ta main  

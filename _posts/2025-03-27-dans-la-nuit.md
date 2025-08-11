@@ -1,48 +1,49 @@
 ---
 layout: post
-title: "Dans la nuit"
+title: "dans la nuit"
 date: "2025-03-27"
 categories: "divers"
 published: true
 ---
 
 
-Attendre, la nuit,  
-sous les couvertures,  
-le jour qui se lève.  
+attendre la nuit  
+sous les couvertures  
+le jour qui se lève  
 
-Sans penser,  
-sans se soucier,  
-faire le vide,  
-tout doucement,  
-dans un souffle.  
+sans penser  
+sans se soucier  
+faire le vide  
+doucement  
+dans un souffle  
 
-Les amertumes du jour,  
-les inquiétudes du soir,  
-évadées.  
+les amertumes du jour  
+les inquiétudes du soir  
+évadées  
 
-Veiller sur l'oreiller,  
-sans penser à rien.  
-Faire le vide,  
-encore une fois,  
-et basculer.  
+veiller sur l'oreiller  
+sans penser à rien  
+encore une fois  
+et basculer  
+dans le vide  
 
-La nuit, réparatrice.  
-Le matin, révélateur.  
-Le jour, porteur.  
+la nuit réparatrice  
+le matin révélateur  
+le jour porteur  
 
-La vie tranquille...  
-les enfants,  
-le mariage,  
-le travail.  
+la vie tranquille...  
+les enfants  
+le mariage  
+le travail  
 
-Malgré les conflits —  
-à la maison,  
-au travail,  
-dans le pays.  
+malgré les conflits —  
+à la maison  
+au travail  
+dans le pays  
 
-Il y en a,  
-des conflits.  
-À la maison,  
-au travail,  
-dans le pays.  
+il y en a  
+des conflits  
+
+à la maison  
+au travail  
+dans le pays  

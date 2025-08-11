@@ -1,26 +1,25 @@
 ---
 layout: post
-title: "Chambranlant"
+title: "chambranlant"
 date: "2025-03-18"
 categories: "divers"
 published: true
 ---
 
-Debout sur une chaise berçante dans le monde,  
-je crie ma joie de grandir à l’envers.  
+*debout* sur une chaise berçante dans le monde  
+je crie ma joie de grandir à l’envers  
 
-À l’inverse des conventions,  
-dans la désillusion totale,  
-tout vacille,  
-tout m’essouffle.  
+dans la désillusion totale  
+tout vacille  
+tout m’essouffle  
 
-Les dogmes s’effondrent,  
-mes certitudes s’effritent.  
-Mes doutes me soulèvent  
-dans l’impossible réalité du temps.  
+les dogmes s’effondrent  
+mes certitudes s’effritent  
+mes doutes me soulèvent  
+dans l’impossible réalité du temps  
 
-Hésitant,  
-ballottant,  
-chambranlant ---  
+hésitant  
+ballottant  
+chambranlant  
 
-*Mais toujours debout.*
+*mais toujours debout*

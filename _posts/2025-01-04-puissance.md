@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Puissance"
+title: "puissance"
 date: "2025-01-04"
 categories: "pensees"
 published: true
 ---
 
-L'intelligence de faire,  
-c'est le pouvoir.  
+l'intelligence de faire  
+c'est le pouvoir  
 
-L'intelligence de faire faire,  
-c'est l'influence.  
+l'intelligence de faire faire  
+c'est la puissance  
