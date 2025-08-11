@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Incubation"
+title: "incubation"
 date: "2024-10-21"
 categories: "divers"
 published: true
 ---
 
-Quelle beauté !  
+quelle beauté !  
 
-Le soleil qui se lève,  
-avec toute sa grâce.  
+le soleil qui se lève  
+avec toute sa grâce  
 
-La lumière qui s’avance,  
-avalant tout sur son passage,  
-ramenant tout dans son ventre,  
-pour incuber le jour.  
+la lumière qui s’avance  
+avalant tout sur son passage  
+ramenant tout dans son ventre  
+pour incuber le jour  

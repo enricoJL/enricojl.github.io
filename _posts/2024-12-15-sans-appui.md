@@ -1,28 +1,28 @@
 ---
 layout: post
-title: "Sans appui"
+title: "sans appui"
 date: "2024-12-15"
 categories: "divers"
 published: true
 ---
 
-Chercher partout  
-la main tendue,  
-perdu.  
+chercher partout  
+la main tendue  
+perdu  
 
-Chercher le cœur,  
-chercher la tête,  
-chercher réconfort.  
+chercher le cœur  
+chercher la tête  
+chercher réconfort  
 
-Chercher toujours,  
-sans arrêt,  
-sans appui.  
+chercher toujours  
+sans arrêt  
+sans appui  
 
-Perdre le sens des choses,  
-perdre son chemin,  
-tout perdre —  
-et rien.  
+perdre le sens des choses  
+perdre son chemin  
+tout perdre  
+et rien  
 
-Rien à trouver,  
-rien à percevoir,  
-rien à s'accrocher.  
+rien à trouver  
+rien à percevoir  
+rien à s'accrocher  
