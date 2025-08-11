@@ -1,25 +1,25 @@
 ---
 layout: post
-title: "J'ose encore croire"
+title: "j'ose encore croire"
 date: "2024-02-11"
 categories: "divers"
 published: true
 ---
 
-C’est quoi, ton intention ?  
-Parce que je ne comprends pas.  
+c’est quoi ton intention  
+parce que je ne comprends pas  
 
-As-tu vraiment envie de dire  
-ce que tu dis ?  
-As-tu vraiment l’intention de faire  
-tout ce que tu fais ?  
-Que cherches-tu ?  
+as-tu vraiment envie de dire  
+ce que tu dis  
+as-tu vraiment l’intention de faire  
+tout ce que tu fais  
+que cherches-tu ?  
 
-Où l’as-tu placé,  
-mon cœur ?  
-Comment l’as-tu perdu ?  
+où l’as-tu placé  
+mon cœur  
+comment l’as-tu perdu ?  
 
-Si loin…  
-Va-t-il me revenir un jour ?  
+si loin  
+va-t-il me revenir un jour ?  
 
-J’ose encore croire que oui.  
+j’ose encore croire que oui  
