@@ -1,26 +1,25 @@
 ---
 layout: post
-title: "Le grand tilleul"
+title: "le grand tilleul"
 date: "2023-08-06"
 categories: "spirit"
 published: true
 ---
 
-Dès le printemps,  
-le grand tilleul —  
+dès le printemps, le grand tilleul  
 
-avec ses fleurs bénéfiques,  
-sa sève à profusion,  
-son énergie débordante.  
+avec ses fleurs bénéfiques  
+sa sève à profusion  
+son énergie débordante  
 
-Des milliers d’insectes  
-et des centaines d’oiseaux  
-y viennent pour se nourrir,  
-tout l’été.  
+des milliers d’insectes  
+des centaines d’oiseaux  
+y viennent pour se nourrir  
+tout l’été  
 
-À ses côtés,  
-je peux ressentir sa lumière,  
+à ses côtés  
+je peux ressentir sa lumière  
 sa vitalité  
-et sa générosité —  
+et sa générosité  
 
-comme Dieu.  
+comme Dieu  
