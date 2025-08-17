@@ -6,16 +6,13 @@ categories: "amore"
 published: true
 ---
 
-je veux espérer  
-te connaître  
+je veux espérer te connaître  
 encore plus fort  
 
 je veux m’enfuir loin    
-dans la réciprocité  
-de nos amours  
+dans la réciprocité de nos amours  
 
-je veux ne plus savoir  
-te perdre  
+je veux ne plus savoir te perdre  
 
 je veux encore t’embrasser  
 comme un amant t’enlacer  

@@ -15,8 +15,7 @@ et son sourire d'enfant
 je l'entends encore  
 qui me parle doucement  
 de sa voix claire  
-résiliente  
-jusqu'à la mort  
+résiliente jusqu'à la mort  
 
 je laisse la fenêtre ouverte  
 à chaque nuit  
