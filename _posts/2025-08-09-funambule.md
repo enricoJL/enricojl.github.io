@@ -17,7 +17,7 @@ je titube
 
 si je tombe  
 sur la réalité  
-je risque de me fracasser  
+je vais me fracasser  
 
 et la foule qui m'observe  
 attentivement  
