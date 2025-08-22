@@ -8,10 +8,12 @@ published: false
 
 je suis parti  
 au bout des vagues  
+au gré du vent  
 
 je suis revenu  
-emmuré de montagnes  
-enrochées jusque dans mes tripes  
+enroché de montagnes  
+jusque dans mes tripes  
 
-je pesais lourd  
-ailleurs dans l'insouciance  
+je pesais lourd ailleurs
+emmuré dans l'insouciance  
+quand je suis rentré chez toi  

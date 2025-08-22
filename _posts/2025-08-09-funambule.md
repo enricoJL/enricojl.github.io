@@ -19,5 +19,6 @@ si je tombe
 sur la réalité  
 je risque de me fracasser  
 
-et la foule qui m'observe attentivement  
+et la foule qui m'observe  
+attentivement  
 s'émeut devant le danger  
