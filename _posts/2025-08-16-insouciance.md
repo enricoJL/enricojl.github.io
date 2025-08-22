@@ -3,17 +3,24 @@ layout: post
 title: "insouciance"
 date: "2025-08-16"
 categories: "divers"
-published: false
+published: true
 ---
 
 je suis parti  
-au bout des vagues  
-au gré du vent  
+jusqu'à la lisière  
+des horizons brisés  
 
 je suis revenu  
 enroché de montagnes  
 jusque dans mes tripes  
 
-je pesais lourd ailleurs
+<< tu as tant souffert >>  
+tu m'as dit  
+
 emmuré dans l'insouciance  
-quand je suis rentré chez toi  
+je t'ai regardé pleurer  
+sous l'emprise de la douleur  
+de te retrouver à mes côtés  
+dans un pays étranger  
+
+puis je suis reparti  
