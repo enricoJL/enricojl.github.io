@@ -21,4 +21,4 @@ je risque de me fracasser
 
 et la foule qui m'observe  
 attentivement  
-s'émeut devant le danger  
+s'émeut du danger  
