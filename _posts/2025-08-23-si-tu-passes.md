@@ -16,18 +16,18 @@ des feuilles qui tombent des arbres
 des ruisseaux d'eau qui coulent partout  
 
 des fleurs qui poussent à tout moment dans l'année  
-des animaux sauvages de toutes les formes  
-et de toutes les couleurs  
+des animaux sauvages de toutes les sortes  
+et de toutes les formes  
 
 des pensées  
 des images à couper le souffle  
-des soupirs expressifs  
-des feuillages ébouriffés  
+des soupirs excessifs  
+des feuillages expressifs  
 
 du vert du bleu du rouge  
 orange soleil le soir  
 jaune éclatant le matin  
 vert partout  
-un peu sur toute les pages  
+sur toutes les pages  
 
 j'espère que tu ne te sentiras pas trop perdu  
