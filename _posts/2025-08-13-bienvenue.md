@@ -28,4 +28,4 @@ tu peux remonter à sa source
 mais tu ne peux l'empêcher  
 
 sans le combattre  
-laisse-le couleur  
+laisse-le couler  
