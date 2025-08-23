@@ -17,7 +17,8 @@ des ruisseaux d'eau qui coulent
 
 des fleurs qui poussent  
 à tout moment dans l'année  
-des animaux sauvages de toutes les sortes  
+des animaux sauvages  
+de toutes les sortes  
 
 des pensées  
 des images à couper le souffle  
