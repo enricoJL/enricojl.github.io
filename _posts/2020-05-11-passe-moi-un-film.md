@@ -1,40 +1,42 @@
 ---
 layout: post
-title: "Passe-moi un film"
+title: "passe-moi un film"
 date: "2020-05-11"
 categories:
   - "amore"
 ---
 
-On est là, sans barrière,  
-à s'observer penser,  
-l'un pour l'autre.  
+on est là, sans barrière  
+à s'observer penser  
+l'un pour l'autre  
 
-Nos yeux observent.  
-Ils scrutent,  
-espérant voir et ne pas voir.  
-Ils cherchent la raison des choses,  
+nos yeux observent  
+ils scrutent  
+espérant voir et ne pas voir  
+ils cherchent la raison des choses  
 ils veulent reconstruire l'univers  
-et croire.  
+et croire  
 
-Croire à ce filet de tendresse,  
-ce bouquet de sentiments,  
+croire à ce filet de tendresse  
+ce bouquet de sentiments  
 à cet arrangement de nos sourires  
-et de nos beaux mots.  
-Ils nous emportent un peu dans les émotions  
-(quand même).  
+et de nos beaux mots  
+ils nous emportent
+(un peu quand même)  
 
-Toutes nos images réarrangées  
+toutes nos images réarrangées  
 pour pointer tout le décor  
-vers ce lieu où nos yeux se plaisent,  
-l'un pour l'autre…  
+vers ce lieu où nos yeux se plaisent  
+l'un pour l'autre  
 
-Dans une histoire à raconter encore et encore,  
-à revoir et revoir, sans arrêt,  
-continuellement.  
+dans une histoire à se raconter  
+encore et encore  
+à revoir et se revoir  
+en boucle sans arrêt  
 
-Passe-moi un film.  
-Une histoire d'amour, un mélodrame ou une comédie,  
-peu importe…  
+passe-moi un film  
+une histoire d'amour  
+un mélodrame ou une comédie  
+peu importe  
 
-Pourvu qu'on se voie beaux dedans.  
+pourvu qu'on se voie beaux dedans  

@@ -13,15 +13,16 @@ really, really good, and really fine?
 Do you feel the love?  
 Do you know from whence it came?  
 I have been searching long for such a feeling,  
-and I found it between you and me.  
+and I found it  
+between you and me.  
 
 Can you feel the love?  
 Can you hear the sound —  
 in my heart, and in my hopes?  
 Can you possibly know what it is?  
 
-Is this real,  
-or is this true?  
+Is this real?  
+Or is this true?  
 Do you know?  
 
 Right in between you and me,  
