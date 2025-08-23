@@ -1,12 +1,21 @@
 ---
 layout: post
 title: "sous les étoiles"
-date: "2025-08-22"
+date: "2025-08-23"
 categories: "divers"
-published: false
+published: true
 ---
 
 les enfants s'endorment  
-sous les étoiles  
-perdus dans leurs mouvements  
-pour se réveiller dans le rêve  
+bercés par le mouvement  
+des ailleurs espérés  
+
+la confiance du moment  
+leur permet de jouer dans le sable
+ou de grimper dans les arbres  
+sans crainte  
+
+un jour sous les étoiles  
+leurs ailes déployées  
+ils s'élèveront  
+pour embrasser le ciel  
