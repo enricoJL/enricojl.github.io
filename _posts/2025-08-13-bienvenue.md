@@ -9,9 +9,9 @@ published: true
 l'eau coule toujours  
 tous les jours  
 
-le soleil dans les nuages  
+je vois le soleil dans les nuages  
 ses rayons traversent le ciel  
-sa splendeur  
+et sa splendeur  
 enveloppe le paysage  
 
 c'est le matin sur la Rive-Sud  
@@ -26,6 +26,7 @@ aux rapides de Sainte-Marie
 
 tu peux remonter à sa source  
 mais tu ne peux l'empêcher  
+de courir  
 
 sans le combattre  
 laisse-le couler  

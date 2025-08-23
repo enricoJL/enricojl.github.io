@@ -11,11 +11,11 @@ jusqu'à la lisière
 des horizons brisés  
 
 je suis revenu  
-enroché de montagnes  
+des montagnes enrochés  
 jusque dans mes tripes  
 
-<< tu as tant souffert >>  
-tu m'as dit  
+<< Tu as tant souffert ! >>  
+tu t'es exclamée  
 
 emmuré dans l'insouciance  
 je t'ai regardé pleurer  

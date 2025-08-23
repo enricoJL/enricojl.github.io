@@ -11,7 +11,7 @@ sans prendre le grand détour
 
 tout au long  
 sans dérangement  
-pour te dire  
-au tournant  
+pour te le dire  
+au tournant :  
 
 je t'aime   
