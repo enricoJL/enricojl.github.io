@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "intelligences passagères"
+title: "folie passagère"
 date: "2025-08-23"
 categories: "divers"
 published: true
@@ -10,16 +10,13 @@ des bulles de conscience
 éparpillées dans le ciel  
 prêtes à éclater  
 
-des bribes de folie  
-passagères  
-
-les vérités  
+des bribes passagères de vérité  
 dans notre délire partagé  
 nous ramènent à nous  
 
-je suis heureux de t'avoir  
+je suis heureux de les avoir  
 pour échanger nos forces  
-se tenir en équilibre  
+en équilibre  
 
 ma folie pas méchante  
 ne fait que passer  
