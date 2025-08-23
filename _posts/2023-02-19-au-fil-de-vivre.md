@@ -1,20 +1,19 @@
 ---
 layout: post
-title: "Au fil de vivre"
+title: "au fil de vivre"
 date: "2023-02-19"
 categories: "pensees"
 published: true
 ---
 
-Dans mon idée, la vie —  
+dans mon idée la vie  
 
-en fermant les yeux —  
+en fermant les yeux  
 
-comme un arbre, en moi,  
+comme un arbre en moi  
 
-très fort,  
+très fort  
 
-me pousse au-dessus du vide —  
+me pousse au-dessus du vide  
 
-accroché  
-au fil de vivre.  
+accroché au fil de vivre  

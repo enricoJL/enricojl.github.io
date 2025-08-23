@@ -5,6 +5,7 @@ date: "2023-01-06"
 categories:
   - "amore"
 ---
+
 Est-ce que tu la sens, cette substance ---  
 quelque chose de vraiment là,  
 vraiment, vraiment bon, et vraiment doux ?  
@@ -19,8 +20,8 @@ Entends-tu ce son —
 dans mon cœur, dans mes espérances ?  
 Peux-tu seulement savoir ce que c’est ?  
 
-Est-ce bien réel,  
-ou est-ce vraiment vrai ?  
+Est-ce bien réel ?  
+Ou est-ce vraiment vrai ?  
 Le sais-tu ?  
 
 Là, juste entre toi et moi,  
