@@ -15,9 +15,9 @@ des plumes éparpillées dans le vent
 des feuilles qui tombent des arbres  
 des ruisseaux d'eau qui coulent partout  
 
-des fleurs qui poussent à tout moment dans l'année  
+des fleurs qui poussent  
+à tout moment dans l'année  
 des animaux sauvages de toutes les sortes  
-et de toutes les formes  
 
 des pensées  
 des images à couper le souffle  
