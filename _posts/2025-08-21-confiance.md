@@ -16,10 +16,9 @@ l'oiseau plane sur ses ailes
 dans ma conscience  
 je perçois le monde  
 
-(respiration profonde)  
+(*respiration profonde*)  
 
-un pont dans le ciel  
-vient de traverser  
-jusqu'au soleil  
+un pont vers le ciel ---  
+traversier jusqu'au soleil  
 
 j'ai confiance en toi  
