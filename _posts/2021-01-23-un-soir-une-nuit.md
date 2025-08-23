@@ -6,19 +6,19 @@ categories:
   - "amore"
 ---
 
-Un soir.  
-Deux soirs.  
-Trois soirs.  
-Quatre soirs.  
+Un soir  
+Deux soirs  
+Trois soirs  
+Quatre soirs  
 
-Une nuit.  
-Deux nuits.  
-Trois nuits.  
-Quatre nuits.  
+Une nuit  
+Deux nuits  
+Trois nuits  
+Quatre nuits  
 
-Un jour.  
-Deux jours.  
-Trois jours…  
+Un jour  
+Deux jours  
+Trois jours  
 
-Mon amour.  
-Mon seul amour.  
+Mon amour  
+Mon seul amour  

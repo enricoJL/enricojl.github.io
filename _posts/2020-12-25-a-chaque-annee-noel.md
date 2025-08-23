@@ -6,9 +6,9 @@ categories:
   - "spirit"
 ---
 
-À chaque année Noël,  
-les cœurs s’illuminent.  
+À chaque année Noël  
+les cœurs s’illuminent  
 
-À chaque année Noël,  
-au milieu de la nuit,  
-une Étoile est née.  
+À chaque année Noël  
+au milieu de la nuit  
+une Étoile est née  
