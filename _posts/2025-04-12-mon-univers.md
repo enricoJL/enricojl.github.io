@@ -13,7 +13,8 @@ se croisent entre nos mains
 sur le chemin  
 nos envies se morcellent  
 se resserrent dans un entonnoir  
-où s’engouffrent tous nos rêves  
+où s’engouffrent  
+toutes nos ambitions  
 
 avec le temps  
 s'égouttent nos peurs  
