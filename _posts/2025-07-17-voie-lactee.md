@@ -15,7 +15,7 @@ pour s'en émouvoir*
 
 <br/>  
 
-sa lumière brillera sur nous  
+
 aveugles aux étoiles  
 mais participants  
 dans tous ses mouvements  
