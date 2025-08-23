@@ -11,7 +11,7 @@ bercés par le mouvement
 des ailleurs espérés  
 
 la confiance du moment  
-leur permet de jouer dans le sable
+leur permet de jouer dans le sable  
 ou de grimper dans les arbres  
 sans crainte  
 
