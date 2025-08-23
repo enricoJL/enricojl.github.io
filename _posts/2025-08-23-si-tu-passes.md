@@ -31,4 +31,5 @@ jaune éclatant le matin
 vert partout  
 sur toutes les pages  
 
-j'espère que tu ne te sentiras pas trop perdu  
+j'espère que tu ne te sentiras pas  
+trop perdu  
