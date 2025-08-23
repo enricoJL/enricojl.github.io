@@ -13,7 +13,7 @@ tu trouveras
 des perles perdus au fond des mers  
 des plumes éparpillées dans le vent  
 des feuilles qui tombent des arbres  
-des ruisseaux d'eau qui coulent partout  
+des ruisseaux d'eau qui coulent  
 
 des fleurs qui poussent  
 à tout moment dans l'année  
