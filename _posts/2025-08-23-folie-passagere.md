@@ -18,5 +18,5 @@ je suis heureux de les avoir
 pour échanger nos forces  
 en équilibre  
 
-ma folie -- pas méchante  
+ma folie --- pas méchante  
 ne fait que passer  
