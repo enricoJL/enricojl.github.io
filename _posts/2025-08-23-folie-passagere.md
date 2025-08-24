@@ -6,7 +6,7 @@ categories: "divers"
 published: true
 ---
 
-des bulles de vérité  
+des bulles de lumière  
 occupent mon esprit  
 dans le ciel éparpillées  
 
