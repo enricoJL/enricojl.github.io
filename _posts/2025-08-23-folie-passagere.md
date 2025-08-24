@@ -11,8 +11,8 @@ occupent mon esprit
 dans le ciel éparpillées  
 
 bribes passagères  
-pour contrer le délire  
 toujours prêtes à éclater  
+pour contrer le délire  
 
 j'y bascule en ce moment  
 pour recharger mes forces  
