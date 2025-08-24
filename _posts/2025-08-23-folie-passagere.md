@@ -6,13 +6,12 @@ categories: "divers"
 published: true
 ---
 
-des bulles de conscience  
+bulles de conscience  
 éparpillées dans le ciel  
 prêtes à éclater  
 
-des bribes passagères de vérité  
+bribes passagères de vérité  
 dans notre délire partagé  
-nous ramènent à nous  
 
 je suis heureux de les avoir  
 pour échanger nos forces  
