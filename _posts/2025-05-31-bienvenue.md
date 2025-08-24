@@ -8,9 +8,8 @@ published: true
 
 
 en remontant le fleuve  
-à bord du bateau  
+ce matin à bord du bateau  
 le calme nous accueille  
-ce matin  
 
 les couleurs du printemps  
 les gens courtois  
@@ -28,4 +27,5 @@ d'activité
 sous l'eau  
 
 devant le cirque de la ville  
+
 bienvenue à Montréal  
