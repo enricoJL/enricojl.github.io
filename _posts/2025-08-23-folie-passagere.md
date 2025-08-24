@@ -8,17 +8,17 @@ published: true
 
 des bulles de lumière  
 dans le ciel éparpillées  
-occupent mon esprit  
+illuminent mon esprit  
 
 je scrute l'horizon  
-à la recherche de la vérité  
-comme des bribes de lucidité  
-&nbsp;&nbsp;&nbsp;&nbsp;passagères  
-toujours prêtes à éclater  
+à la recherche de vérités  
+comme des bribes  
+de lucidité passagère  
+prêtes à éclater  
 pour contrer le délire  
 
-j'y bascule en ce moment même  
-pour recharger mes forces  
+j'y bascule en ce moment  
+afin de recharger mes forces  
 
 ma folie (pas méchante)  
 ne fait que passer  
