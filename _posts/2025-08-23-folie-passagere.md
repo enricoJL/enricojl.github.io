@@ -7,14 +7,17 @@ published: true
 ---
 
 des bulles de lumière  
-occupent mon esprit  
 dans le ciel éparpillées  
+occupent mon esprit  
 
-bribes passagères  
+je scrute l'horizon  
+à la recherche de la vérité  
+comme des bribes de lucidité  
+&nbsp;&nbsp;&nbsp;&nbsp;passagères  
 toujours prêtes à éclater  
 pour contrer le délire  
 
-j'y bascule en ce moment  
+j'y bascule en ce moment même  
 pour recharger mes forces  
 
 ma folie (pas méchante)  
