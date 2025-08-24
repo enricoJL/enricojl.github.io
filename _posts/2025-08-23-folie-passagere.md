@@ -6,16 +6,16 @@ categories: "divers"
 published: true
 ---
 
-bulles de conscience  
-éparpillées dans le ciel  
-prêtes à éclater  
+des bulles de vérité  
+occupent mon esprit  
+dans le ciel éparpillées  
 
-bribes passagères de vérité  
-dans notre délire partagé  
+bribes passagères  
+pour contrer le délire  
+toujours prêtes à éclater  
 
-je suis heureux de les avoir  
-pour échanger nos forces  
-en équilibre  
+j'y bascule en ce moment  
+pour recharger mes forces  
 
 ma folie (pas méchante)  
 ne fait que passer  
