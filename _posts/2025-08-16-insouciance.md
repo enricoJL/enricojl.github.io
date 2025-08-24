@@ -11,7 +11,7 @@ jusqu'à la lisière
 des horizons brisés  
 
 je suis revenu  
-des montagnes enrochés  
+de montagnes enrochés  
 jusque dans mes tripes  
 
 << Tu as tant souffert ! >>  
