@@ -14,7 +14,6 @@ des perles perdus au fond des mers
 des plumes éparpillées dans le vent  
 des feuilles qui tombent des arbres  
 des ruisseaux d'eau qui coulent  
-
 des fleurs qui poussent  
 à tout moment dans l'année  
 des animaux sauvages  
@@ -31,5 +30,4 @@ jaune éclatant le matin
 vert partout  
 sur toutes les pages  
 
-j'espère que tu ne te sentiras pas  
-trop perdu  
+j'espère que tu ne te sentiras pas trop perdu  
