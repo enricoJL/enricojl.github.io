@@ -15,7 +15,4 @@ des bribes de lucidité
 prêtes à éclater  
 pour contrer le délire  
 
-j'y bascule en ce moment  
-afin de recharger mes forces  
-
 ma folie ne fait que passer  
