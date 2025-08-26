@@ -10,15 +10,12 @@ des bulles de lumière
 dans le ciel éparpillées  
 illuminent mon esprit  
 
-je scrute l'horizon  
-à la recherche de vérités  
-comme des bribes  
-de lucidité passagère  
+je scrute à l'horizon  
+des bribes de lucidité  
 prêtes à éclater  
 pour contrer le délire  
 
 j'y bascule en ce moment  
 afin de recharger mes forces  
 
-ma folie (pas méchante)  
-ne fait que passer  
+ma folie ne fait que passer  
