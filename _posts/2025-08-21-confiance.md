@@ -18,7 +18,7 @@ je perçois le monde
 
 (*respiration profonde*)  
 
-je vois un pont vers le ciel  
-traverser jusqu'au soleil  
+un pont vers le ciel  
+traverse jusqu'au soleil  
 
 j'ai confiance en toi  
