@@ -3,7 +3,7 @@ layout: post
 title: "vulnérables"
 date: "2025-08-30"
 categories: "divers"
-published: true
+published: false
 ---
 
 rayons de lucidité  
@@ -21,4 +21,4 @@ au milieu de l'hiver
 nous demeurons vulnérables  
 
 ensevelis sous d'épaisses neiges  
-nous en irons rejoindre nos racines  
+nous irons rejoindre nos racines  
