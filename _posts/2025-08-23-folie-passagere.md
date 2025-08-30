@@ -13,6 +13,6 @@ illuminent mon esprit
 je scrute à l'horizon  
 des bribes de lucidité  
 prêtes à éclater  
-pour contrer le délire  
 
+pour contrer le délire  
 ma folie ne fait que passer  

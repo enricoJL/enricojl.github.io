@@ -19,7 +19,7 @@ un pas en arrière
 je glisse  
 je titube  
 
-si je tombe sur la réalité  
+si je tombe  
 je vais me fracasser  
 
 et la foule qui m'observe  

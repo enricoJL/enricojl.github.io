@@ -19,7 +19,8 @@ c'est le matin sur la Rive-Sud
 bienvenue maritime  
 au port de Montréal  
 
-<< *Be water, my friend* >> (Bruce Lee)  
+<< *Be water, my friend* >>  
+(Bruce Lee)  
 
 laisse couler le fleuve  
 aux rapides de Sainte-Marie  

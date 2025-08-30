@@ -8,4 +8,5 @@ published: true
 
 
 mes larmes sèchent d'être tristes  
-faute de n'avoir pu en trouver la source  
+faute de n'avoir jamais su  
+en trouver la source  
