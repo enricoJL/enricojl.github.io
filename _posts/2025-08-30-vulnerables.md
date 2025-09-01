@@ -11,14 +11,13 @@ au coucher du soleil
 perforent la forêt  
 
 perdra bientôt son manteau  
-et plus rien ne pourra  
-arrêter l'aurore  
+et plus rien  
+pour retenir l'aurore  
 
 dans le jour éclatant  
 au milieu de l'hiver  
 nous demeurons vulnérables  
 
-ensevelis  
 sous d'épaisses neiges  
-nous en irons  
+ensevelis, nous en irons  
 rejoindre les racines  
