@@ -8,16 +8,17 @@ published: true
 
 des rayons de lucidité  
 au coucher du soleil  
-perforent la forêt  
+dans la forêt  
 
-perdra bientôt son manteau  
-et plus rien  
-pour retenir l'aurore  
+bientôt son manteau tombera  
+et plus rien pour retenir  
+l'aurore  
 
 dans le jour éclatant  
 au milieu de l'hiver  
 nous demeurons vulnérables  
 
 sous d'épaisses neiges  
-ensevelis, nous en irons  
+ensevelis  
+nous en irons  
 rejoindre les racines  
