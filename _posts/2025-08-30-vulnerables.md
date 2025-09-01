@@ -10,8 +10,7 @@ des rayons de lucidité
 au coucher du soleil  
 perforent la forêt  
 
-elle perdra bientôt  
-son manteau  
+perdra bientôt son manteau  
 et plus rien ne pourra  
 arrêter l'aurore  
 
@@ -21,5 +20,5 @@ nous demeurons vulnérables
 
 ensevelis  
 sous d'épaisses neiges  
-nous nous en irons  
+nous en irons  
 rejoindre les racines  
