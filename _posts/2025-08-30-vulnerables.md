@@ -3,22 +3,23 @@ layout: post
 title: "vulnérables"
 date: "2025-08-30"
 categories: "divers"
-published: false
+published: true
 ---
 
-rayons de lucidité  
-traversant la forêt  
-à chaque coucher de soleil  
+des rayons de lucidité  
+au coucher du soleil  
+perforent la forêt  
 
-l'un et l'autre perforant  
-l'opacité de nos rencontres  
-
-l'automne enlèvera bientôt son manteau  
-et plus rien ne pourra arrêter l'aurore  
+elle perdra bientôt  
+son manteau  
+et plus rien ne pourra  
+arrêter l'aurore  
 
 dans le jour éclatant  
 au milieu de l'hiver  
 nous demeurons vulnérables  
 
-ensevelis sous d'épaisses neiges  
-nous irons rejoindre nos racines  
+ensevelis  
+sous d'épaisses neiges  
+nous nous en irons  
+rejoindre les racines  
