@@ -6,19 +6,20 @@ categories: "divers"
 published: true
 ---
 
+d'un coucher de soleil à l'autre  
 des rayons de lucidité  
-au coucher du soleil  
-dans la forêt  
+tombent dans la forêt  
 
-bientôt son manteau tombera  
-et plus rien pour retenir  
-l'aurore  
+y délaissera son manteau :  
+plus rien ne pourra  
+retenir l'aurore  
 
 dans le jour éclatant  
 au milieu de l'hiver  
 nous demeurons vulnérables  
 
-sous d'épaisses neiges  
 ensevelis  
+sous d'épaisses neiges  
 nous en irons  
+
 rejoindre les racines  
