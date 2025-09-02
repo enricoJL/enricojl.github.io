@@ -7,11 +7,10 @@ published: true
 ---
 
 les enfants s'endorment  
-bercés par le mouvement  
-des ailleurs espérés  
+bercés par ailleurs  
 
-la confiance du moment  
-leur permet de jouer dans le sable  
+leur confiance leur permet  
+de jouer dans le sable  
 ou de grimper dans les arbres  
 sans crainte  
 

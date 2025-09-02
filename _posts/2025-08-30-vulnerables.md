@@ -22,5 +22,4 @@ nous demeurons vulnérables
 ensevelis  
 sous d'épaisses neiges  
 nous nous en irons  
-
 rejoindre les racines  

@@ -6,20 +6,20 @@ categories: "divers"
 published: true
 ---
 
-quand je pense à lui  
+je pense à lui  
 dans sa chambre  
 avec ses jouets  
 ses petits souliers  
-et son sourire d'enfant  
 
 je l'entends encore  
-qui me parle doucement  
+me parler doucement  
 de sa voix claire  
 résiliente jusqu'à la mort  
 
 je laisse la fenêtre ouverte  
 à chaque nuit  
-afin qu’il puisse  
+au clair de lune  
 
+afin qu’il puisse  
 aller  
 et venir  

@@ -8,24 +8,18 @@ published: true
 
 
 en remontant le fleuve  
-ce matin à bord du bateau  
+ce matin  
+à bord du Faucon Millénium  
 le calme nous accueille  
 
 les couleurs du printemps  
 les gens courtois  
 les animaux marins  
-les paquebots  
+les paquebots au port  
 les transferts de marchandise  
 
-je vois des volées d'oiseaux  
-avec frénésie plonger  
-à la surface de l'eau  
-
-j'imagine  
-encore plus  
-d'activité  
-sous l'eau  
-
+des volées d'oiseaux  
+plongent avec frénésie  
 devant le cirque de la ville  
 
 bienvenue à Montréal  

@@ -15,11 +15,12 @@ pour résister à la nuit
 qui vient toujours  
 
 prendras-tu encore ma main  
-pour traverser les pénombres ?  
+pour traverser les pénombres  
 
 mon cœur  
-couché dans ta main —  
+couché dans ta main  
 toujours  
+
 tu peux me faire confiance  
 
 je t’accompagne  

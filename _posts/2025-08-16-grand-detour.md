@@ -9,9 +9,8 @@ published: true
 je n'ai jamais su te l'avouer  
 sans prendre le grand détour  
 
-tout au long  
-sans dérangement  
+pendant longtemps  
 pour te le dire  
-au tournant :  
+seulement au dernier virage :  
 
 je t'aime   

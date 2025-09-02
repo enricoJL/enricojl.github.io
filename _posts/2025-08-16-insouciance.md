@@ -7,8 +7,7 @@ published: true
 ---
 
 je suis parti  
-à la lisière des horizons  
-regrettés  
+à la lisière des horizons    
 
 je suis revenu  
 de montagnes enrochés  

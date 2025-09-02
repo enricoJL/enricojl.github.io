@@ -6,13 +6,12 @@ categories: "divers"
 published: true
 ---
 
-des bulles de lumière  
-dans le ciel éparpillées  
-illuminent mon esprit  
-
 je scrute à l'horizon  
 des bribes de vérité  
 prêtes à éclater  
 pour contrer le délire  
+
+des bulles de couleur  
+dans le ciel éparpillées  
 
 ma folie ne fait que passer  

@@ -9,9 +9,8 @@ published: true
 je marche sur un fil  
 au-dessus du vide  
 en équilibre  
+perché très haut  
 sur ma ligne de vie  
-perché haut  
-dans ma conscience  
 
 j'hésite  
 un pas en avant  

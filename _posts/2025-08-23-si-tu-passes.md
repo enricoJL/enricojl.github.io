@@ -8,19 +8,18 @@ published: true
 
 si tu passes par là  
 dans mon cahier  
-tu trouveras  
+tu trouveras :  
 
 des perles perdus au fond des mers  
-des plumes éparpillées dans le vent  
-des feuilles qui tombent des arbres  
+des plumes éparpillées à tous vents  
+des feuilles qui s'amassent dans les coins
 des ruisseaux d'eau qui coulent  
-des fleurs qui poussent  
-à tout moment dans l'année  
+des fleurs à tout moment  
 des animaux sauvages  
 de toutes les sortes  
 
 des pensées  
-des images à couper le souffle  
+des images  
 des soupirs excessifs  
 des feuillages expressifs  
 
