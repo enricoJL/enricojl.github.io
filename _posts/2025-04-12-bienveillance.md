@@ -6,33 +6,27 @@ categories: "divers"
 ---
 
 je te regarde  
-assise  
-tranquille  
+assise tranquille  
 au début de ta vie —  
 à observer le ciel  
-à douter des humains...  
+à douter des humains  
 
 que s’est-il passé ?  
 tu as grandi  
 tellement !  
 trop vite  
-encore fragile  
 
-vas-tu enfin  
-déployer tes ailes ?  
+vas-tu enfin déployer tes ailes ?  
 en comprends-tu assez  
 pour t'envoler ?  
 
-dis-moi...  
-as-tu assez  
-confiance  
+dis-moi  
+as-tu assez confiance  
 en moi ?  
 en toi ?  
 
-l'ai-je été  
-suffisamment  
+l'ai-je été suffisamment  
 bienveillant ?  
 
-l’es-tu assez  
-pour toi  
+l’es-tu assez pour toi  
 bienveillante ?
