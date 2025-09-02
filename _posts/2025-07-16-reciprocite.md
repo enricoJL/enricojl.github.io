@@ -7,8 +7,8 @@ published: true
 ---
 
 encore plus fort  
-je veux m’enfuir loin    
-dans la réciprocité  
+je veux m’enfuir  
+loin dans la réciprocité  
 
 je veux ne plus savoir  
 te perdre  
