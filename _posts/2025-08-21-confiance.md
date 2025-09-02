@@ -9,7 +9,6 @@ published: true
 la mariée embrasse le marié  
 le bateau vogue sur la mer  
 les racines poussent dans la terre  
-le chien obéit à son maître  
 l'enfant prend la main tendue  
 l'oiseau plane sur ses ailes  
 
