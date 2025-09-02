@@ -9,7 +9,7 @@ published: true
 en attendant l’insécable  
 dans la même direction toujours  
 ton œil s’ouvre avec le mien  
-dans un souffle de promesse  
+dans un souffle de promesses  
 
 avec la fragilité d’une rose  
 nos tendres espérances enlacées  
