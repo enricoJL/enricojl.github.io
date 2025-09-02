@@ -3,15 +3,16 @@ layout: post
 title: "vulnérables"
 date: "2025-08-30"
 categories: "divers"
-published: true
+published: false
 ---
 
 d'un coucher de soleil à l'autre  
 des rayons de lucidité  
-tombent dans la forêt  
+traversent la forêt  
 
-y délaissera son manteau :  
-plus rien ne pourra  
+son manteau de couleurs  
+tombera bientôt  
+et plus rien ne pourra  
 retenir l'aurore  
 
 dans le jour éclatant  
@@ -20,6 +21,6 @@ nous demeurons vulnérables
 
 ensevelis  
 sous d'épaisses neiges  
-nous en irons  
+nous nous en irons  
 
 rejoindre les racines  
