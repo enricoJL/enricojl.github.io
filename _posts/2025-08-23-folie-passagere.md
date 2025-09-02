@@ -11,8 +11,8 @@ dans le ciel éparpillées
 illuminent mon esprit  
 
 je scrute à l'horizon  
-des bribes de lucidité  
+des bribes de vérité  
 prêtes à éclater  
-
 pour contrer le délire  
+
 ma folie ne fait que passer  
