@@ -10,16 +10,17 @@ published: true
 en remontant le fleuve  
 ce matin  
 à bord du Faucon Millénium  
+entre Boucherville et Montréal  
 le calme nous accueille  
 
 les couleurs du printemps  
 les gens courtois  
 les animaux marins  
-les paquebots au port  
+les paquebots amarrés  
 les transferts de marchandise  
 
 des volées d'oiseaux  
 plongent avec frénésie  
-devant le cirque de la ville  
+devant le Cirque du Soleil  
 
-bienvenue à Montréal  
+bienvenue en ville  
