@@ -15,10 +15,9 @@ sur ma ligne de vie
 j'hésite  
 un pas en avant  
 un pas en arrière  
-je glisse  
 je titube  
 
-si je tombe  
+si je glisse  
 je vais me fracasser  
 
 et la foule qui m'observe  
