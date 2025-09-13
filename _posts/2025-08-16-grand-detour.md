@@ -10,7 +10,8 @@ je n'ai jamais su te l'avouer
 sans prendre le grand détour  
 
 pendant longtemps  
-pour te le dire  
-seulement au dernier virage :  
+pour ne te le dire  
+seulement  
+qu'au dernier virage  
 
 je t'aime   
