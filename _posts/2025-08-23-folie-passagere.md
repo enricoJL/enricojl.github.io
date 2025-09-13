@@ -9,8 +9,8 @@ published: true
 je scrute à l'horizon  
 des bribes de vérité  
 prêtes à éclater  
-pour contrer le délire  
 
+pour contrer le délire  
 des bulles de couleur  
 dans le ciel éparpillées  
 
