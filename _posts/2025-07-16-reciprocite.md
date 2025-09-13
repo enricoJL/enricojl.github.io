@@ -8,10 +8,8 @@ published: true
 
 encore plus fort  
 je veux m’enfuir  
-loin dans la réciprocité  
+loin  
+dans la réciprocité  
 
-je veux ne plus savoir  
-te perdre  
-
-à nous deux  
-remodeler le monde  
+je veux ne plus  
+savoir te perdre  
