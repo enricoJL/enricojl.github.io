@@ -6,15 +6,14 @@ categories: "divers"
 published: true
 ---
 
-je suis parti  
-à la lisière des horizons    
+je suis parti à la lisière  
+des horizons mensongers  
 
-je suis revenu  
-de montagnes enrochés  
-jusque dans mes tripes  
+je suis revenu de montagnes  
+enrochés jusque dans les tripes  
 
-<< Tu as tant souffert ! >>  
-tu t'es exclamée  
+<< T'as tant souffert ! >>  
+t'es-tu exclamée  
 
 emmuré dans l'insouciance  
 je t'ai regardé pleurer  
