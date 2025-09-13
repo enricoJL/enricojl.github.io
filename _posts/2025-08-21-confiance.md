@@ -6,7 +6,7 @@ categories: "divers"
 published: true
 ---
 
-la mariée embrasse le marié  
+la mariée embrasse son amoureux  
 le bateau vogue sur la mer  
 les racines poussent dans la terre  
 l'enfant prend la main tendue  
@@ -18,6 +18,6 @@ je perçois le monde
 (*respiration profonde*)  
 
 un pont vers le ciel  
-traverse jusqu'au soleil :  
+traverse jusqu'au soleil  
 
-j'ai confiance en toi  
+car j'ai confiance en toi  
