@@ -6,7 +6,7 @@ categories: "divers"
 published: true
 ---
 
-les enfants s'endorment  
+les enfants dorment  
 bercés par ailleurs  
 
 leur confiance leur permet  
@@ -16,5 +16,5 @@ sans crainte
 
 un jour sous les étoiles  
 leurs ailes déployées  
-ils s'élèveront  
+s'élèveront  
 pour embrasser le ciel  
