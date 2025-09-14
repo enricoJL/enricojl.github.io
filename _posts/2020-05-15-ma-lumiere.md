@@ -30,4 +30,4 @@ Marche encore avec moi jusqu’au matin. Nous pourrions aller le long de cette r
 
 Marche encore avec moi jusqu’au matin. J’aime tellement me promener avec toi. Ta compagnie, pour moi, est comme mille rayons de ce soleil. Je n’ai jamais oublié la chaleur de ta présence à mes côtés, parce que tu ne m’as jamais quitté.
 
-Reste encore avec moi, ensemble, en espérant y demeurer pour toujours.
+Reste encore avec moi, ensemble, tous les deux, en espérant y demeurer pour toujours.
