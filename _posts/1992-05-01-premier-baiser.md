@@ -51,7 +51,7 @@ dans tes bras, je me trouvais
 
 je partais  
 j’ai fait un pas craintif  
-j’ai avancé ma bouche pour te baiser  
+j’ai avancé ma bouche  
 dans un geste gauche et chancelant  
 j’ai baisé tes deux joues  
 j’ai risqué ta bouche fraîche  
