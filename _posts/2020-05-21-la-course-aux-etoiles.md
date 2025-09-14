@@ -6,7 +6,7 @@ categories:
   - "divers"
 ---
 
-J’étais sur une étoile, et je regardais vers l’intérieur. Tout à coup, j’y suis attiré : vers l’intérieur — je m’y perds.
+J’étais sur une étoile, et je regardais vers l’intérieur. Tout à coup, j’y suis attiré — je m’y perds.
 
 Sans même savoir en profiter, je ressortais de l’autre côté : trou noir, ou autre dimension ?  
 
