@@ -60,7 +60,8 @@ contre mes lèvres brûlantes
 et  
 tu m’as répondu  
 
-j’embrassais mon mirage, mon rêve en image devant moi  
+j’embrassais mon mirage  
+mon rêve en image devant moi  
 devant mes yeux  
 derrière mes paupières fermées  
 je sentais —  
