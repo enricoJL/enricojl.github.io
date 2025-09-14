@@ -20,7 +20,6 @@ croire
 à la gentillesse  
 
 servir autrui  
-nourrir le monde  
 les mains tendues  
 prêtes à apaiser  
 
