@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "3 jours de jeûne dans la jungle sur l'Île de Vancouver"
+title: "Trois jours de jeûne sur l'Île de Vancouver"
 date: "2014-10-05"
 categories: "spirit"
 ---
-
-<center>
-	<img src="{{site.baseurl}}/assets/figures/amy-tran-8036.png" >
-</center>
 
 J’ai raconté à mes filles, dernièrement, un événement malheureux que j’ai vécu enfant, lorsque j’ai pleuré dans mon garde-robe après mon premier jour à l’école secondaire. Ce jour-là, on m’avait bousculé dans les corridors, et j’étais tombé dans les escaliers après avoir été légèrement accroché. En rentrant chez moi, j’ai lancé mon sac par terre et crié à ma mère que c’était une école de fous, que je ne voulais plus jamais y retourner. Je me suis assis au fond de mon garde-robe et j’ai pleuré. Puis, à haute voix, j’ai demandé : pourquoi suis-je handicapé ? Pourquoi moi ? Pourquoi ne suis-je pas resté mort après l’accident ?
 
