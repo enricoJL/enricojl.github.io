@@ -10,9 +10,9 @@ si tu passes par là
 dans mon cahier  
 tu trouveras :  
 
-des perles perdus au fond des mers  
-des plumes éparpillées à tous vents  
-des feuilles qui s'amassent dans les coins  
+des perles au fond des mers  
+des plumes éparpillées  
+des feuilles dans les coins  
 des ruisseaux d'eau qui coulent  
 des fleurs à tout moment  
 des animaux sauvages  
