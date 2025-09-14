@@ -12,14 +12,14 @@ tu trouveras :
 
 des perles au fond des mers  
 des plumes éparpillées  
-des feuilles dans les coins  
+des feuilles d'automne partout  
 des ruisseaux d'eau qui coulent  
 des fleurs à tout moment  
 des animaux sauvages  
 de toutes les sortes  
 
 des pensées  
-des images  
+des sentiments  
 des soupirs excessifs  
 des feuillages expressifs  
 
