@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wu bon moment"
+title: "au bon moment"
 date: "2023-01-27"
 categories: "spirit"
 published: true
