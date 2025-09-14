@@ -9,7 +9,7 @@ categories:
 la mort à petit feu fait son nid  
 et je dors à ses côtés  
 
-mais quand elle se réveille  
+quand elle se réveille  
 la nuit  
 hors de contrôle  
 à plein gosier  
