@@ -24,4 +24,5 @@ j’arrive
 la montagne d’en face  
 l’homme d’en face  
 en face de moi :  
+
 c’est moi  
