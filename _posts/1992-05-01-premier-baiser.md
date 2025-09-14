@@ -66,8 +66,10 @@ devant mes yeux
 derrière mes paupières fermées  
 je sentais —  
 oh oui ! je sentais —  
-ton odeur, ta forme, ton goût sur mes lèvres  
-je goûtais mon mirage, mon rêve en image en moi  
+ton odeur, ta forme  
+ton goût sur mes lèvres  
+je goûtais mon mirage  
+mon rêve en image en moi  
 
 j’étais surpris, hésitant, gauche et maladroit  
 je ne saisissais pas encore ce qui m’arrivait  
