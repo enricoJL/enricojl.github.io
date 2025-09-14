@@ -7,7 +7,6 @@ categories:
 ---
 
 la mort à petit feu fait son nid  
-et je dors à ses côtés  
 
 quand elle se réveille  
 la nuit  
@@ -19,4 +18,5 @@ et puis
 sans faire de bruit  
 elle se rendort  
 
-je dors tranquille à ses côtés  
+et je dors à ses côtés  
+tranquille  
