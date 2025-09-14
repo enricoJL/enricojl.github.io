@@ -9,8 +9,9 @@ categories:
 au centre de nous deux  
 dans un tourbillon  
 continuellement  
+
 sans jamais s’arrêter  
-la métamorphose  
+c'est la métamorphose  
 
 mondes innombrables  
 multitudes en formation  
