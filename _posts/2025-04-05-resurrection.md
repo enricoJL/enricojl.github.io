@@ -9,7 +9,7 @@ dans la douleur
 la misère et les pleurs  
 comme des semences  
 éparpillés sur la terre  
-nous nous retrouvons  
+nous nous enfouissons  
 
 avec l’espoir de grandir  
 un jour  
