@@ -14,7 +14,7 @@ qu’elle s’envole
 qu’elle voyage  
 qu’elle se propulse  
 
-au cœur du monde  
+au cœur de l'humanité  
 
 qu’elle aspire tout  
 pour s’élever jusqu’à toi  
