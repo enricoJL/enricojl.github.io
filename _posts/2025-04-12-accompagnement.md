@@ -5,8 +5,9 @@ date: "2025-04-12"
 categories: "amore"
 ---
 
-à travers les montagnes  
+à l'abri  
 sur le sentier des amours  
+à travers les montagnes  
 on accroche nos manteaux  
 dans la fatigue du soir  
 
@@ -15,7 +16,7 @@ pour résister à la nuit
 qui vient toujours  
 
 prendras-tu encore ma main  
-pour traverser les pénombres  
+pour traverser la pénombre  
 
 mon cœur  
 couché dans ta main  
