@@ -19,4 +19,4 @@ et puis
 sans faire de bruit  
 elle se rendort  
 
-et je dors tranquille à ses côtés  
+je dors tranquille à ses côtés  

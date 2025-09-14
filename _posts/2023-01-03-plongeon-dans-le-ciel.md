@@ -21,8 +21,3 @@ entre les immenses bras de la galaxie
 le poids du monde me plaquant contre lui  
 j’ai compris que j’y avais ma place  
 en sécurité à l’ombre du cosmos  
-
-témoin d’une Intelligence supérieure à l’œuvre  
-j’ai su que  
-pour tout le reste de ma vie  
-je pouvais Lui faire confiance  
