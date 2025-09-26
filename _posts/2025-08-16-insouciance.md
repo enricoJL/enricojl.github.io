@@ -7,7 +7,7 @@ published: true
 ---
 
 je suis parti à la lisière  
-des horizons mensongers  
+sous des horizons mensongers  
 
 je suis revenu de montagnes  
 enrochés jusque dans les tripes  
