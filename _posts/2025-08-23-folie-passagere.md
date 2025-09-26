@@ -8,7 +8,7 @@ published: true
 
 je vois des bribes de vérité  
 prêtes à éclater  
-pour contrer le délire  
+dans le délire  
 comme des bulles de couleur  
 dans le ciel éparpillées  
 
