@@ -8,13 +8,10 @@ published: true
 
 grâce à elle  
 je reste là  
-à chercher appui  
-dans le ciel  
+à chercher appui dans le ciel  
 
-à chercher la source  
-pour apaiser  
-la fontaine  
-pour continuer d'aimer  
+à chercher la source pour apaiser  
+la fontaine pour continuer d'aimer  
 et soulager la souffrance  
 
 sans jamais cesser  
