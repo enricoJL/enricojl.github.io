@@ -24,8 +24,8 @@ des soupirs excessifs
 des feuillages expressifs  
 
 du jaune du bleu du rouge  
-mauve soleil le soir  
-blanc éclatant le matin  
+orange soleil le soir  
+mauve éclatant le matin  
 vert sur toutes les pages  
 
 j'espère que tu ne te sentiras pas trop perdu  
