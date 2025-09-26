@@ -19,5 +19,6 @@ des souffrances qu'il ne pensait pas lui appartenir
 
 Rendu au bout tout à fait du voyage  
 son âme s'est éclatée  
+
 Elle gît au pied d'un arbre  
 et mille ans de vie ornent ses pensées  
