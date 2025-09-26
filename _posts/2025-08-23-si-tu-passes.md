@@ -23,9 +23,9 @@ des sentiments
 des soupirs excessifs  
 des feuillages expressifs  
 
-du vert du bleu du rouge  
-orange soleil le soir  
-jaune éclatant le matin  
-sur toutes les pages  
+du jaune du bleu du rouge  
+mauve soleil le soir  
+blanc éclatant le matin  
+vert sur toutes les pages  
 
 j'espère que tu ne te sentiras pas trop perdu  
