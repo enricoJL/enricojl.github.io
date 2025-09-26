@@ -2,7 +2,7 @@
 layout: post
 title: "j'ose encore croire"
 date: "2024-02-11"
-categories: "divers"
+categories: "douleur"
 published: true
 ---
 

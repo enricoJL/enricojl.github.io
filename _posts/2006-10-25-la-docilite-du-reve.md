@@ -3,7 +3,7 @@ layout: post
 title: "La docilité du rêve"
 date: "2006-10-23"
 categories:
-  - "pensees"
+  - "douleur"
 ---
 
 J'ai vécu dans le rêve toute ma vie. J'ai laissé mon rêve engloutir ma vie complètement, jusqu'à me mêler moi-même avec lui. Continuellement dans mes paroles, je me suis construit un palais de souhaits que j'ai chéri comme ma vraie vie. Mais voilà qu'aujourd'hui, le grand vaisseau d'or[^1] s'est évaporé, sous le soleil excessif. Qu'est-il advenu de mon rêve ?  

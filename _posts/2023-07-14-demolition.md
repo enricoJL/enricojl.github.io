@@ -2,7 +2,7 @@
 layout: post
 title: "démolition"
 date: "2023-07-25"
-categories: "divers"
+categories: "douleur"
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "inassouvi"
 date: "2025-07-17"
-categories: "divers"
+categories: "douleur"
 published: true
 ---
 

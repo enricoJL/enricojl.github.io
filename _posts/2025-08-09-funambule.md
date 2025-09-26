@@ -2,7 +2,7 @@
 layout: post
 title: "funambule"
 date: "2025-08-09"
-categories: "divers"
+categories: "douleur"
 published: true
 ---
 

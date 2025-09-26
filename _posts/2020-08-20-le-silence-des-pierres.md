@@ -3,7 +3,7 @@ layout: post
 title: "le silence des pierres"
 date: "2020-08-20"
 categories:
-  - "divers"
+  - "douleur"
 ---
 
 les pierres  

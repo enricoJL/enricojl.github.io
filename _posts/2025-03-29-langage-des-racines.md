@@ -2,7 +2,7 @@
 layout: post
 title: "langage des racines"
 date: "2025-03-29"
-categories: "divers"
+categories: "douleur"
 ---
 
 je n’ai rien emporté  
