@@ -13,7 +13,7 @@ tu trouveras :
 des perles au fond des mers  
 éparpillées partout  
 des ruisseaux qui coulent  
-des fleurs qui écloent  
+des fleurs qui éclosent  
 à tout moment  
 des animaux sauvages  
 de toutes les sortes  
