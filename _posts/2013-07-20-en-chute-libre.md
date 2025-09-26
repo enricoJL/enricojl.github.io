@@ -15,7 +15,7 @@ je vois l'envers de qui je suis —
 
 entre ma peur, mes faiblesses et ma folie  
 
-mais tant bien que mal  
+tant bien que mal  
 la vie ne s'arrête pas comme ça  
 et le monde et sa beauté  
 persistent encore quelque part  
