@@ -9,8 +9,7 @@ published: true
 je n'ai jamais su te l'avouer  
 sans prendre le grand détour  
 
-pour ne te le dire  
-seulement  
+pour ne te le dire seulement  
 qu'au dernier virage  
 
 je t'aime   
