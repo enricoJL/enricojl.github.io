@@ -7,6 +7,6 @@ published: true
 ---
 
 
-mes larmes sèchent d'être tristes  
+mes larmes sèchent d'être triste  
 faute de n'avoir jamais su  
 en trouver la source  
