@@ -8,7 +8,7 @@ published: true
 
 d'un coucher de soleil à l'autre  
 des rayons de lucidité traversent  
-l'opacité de nos rencontres  
+l'opacité des rencontres  
 
 les feuilles tomberont bientôt  
 et plus rien pour retenir l'aurore  
