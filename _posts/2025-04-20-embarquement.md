@@ -14,12 +14,12 @@ et tu t’inquiètes :
 << Va-t-il vraiment tenir ?  
 Va-t-il nous ramener à bon port ?  
 Va-t-il se rendre jusqu’au bout ?  
-Son radeau !  >>  
+Sur son radeau !  >>  
 
 et moi, je te dis :  
 
 y crois-tu ?  
-à ce fleuve qui court  
+à ce fleuve  
 au centre de nous deux   
 
 j’essaie toujours  
@@ -27,7 +27,7 @@ de te convaincre de rester
 
 me fais-tu assez confiance ?  
 assez longtemps  
-nos deux eaux  
+nos deux eaux qui s'entrecroisent   
 dans un même océan   
 
 vas-tu résister ?  
