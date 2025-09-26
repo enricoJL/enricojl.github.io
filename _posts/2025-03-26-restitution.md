@@ -31,4 +31,5 @@ je suis une étoile
 relancée mille fois  
 dans la mer  
 
+une image dynamique  
 en restitution perpétuelle
