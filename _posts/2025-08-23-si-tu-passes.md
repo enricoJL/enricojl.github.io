@@ -24,6 +24,7 @@ des soupirs excessifs
 des feuillages expressifs  
 
 du jaune du bleu du rouge  
+un peu d'ombre par ci par là  
 orange soleil le soir  
 mauve éclatant le matin  
 vert sur toutes les pages  
