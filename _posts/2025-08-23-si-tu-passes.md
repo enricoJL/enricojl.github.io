@@ -11,10 +11,10 @@ dans mon cahier
 tu trouveras :  
 
 des perles au fond des mers  
-des plumes éparpillées  
-des feuilles d'automne partout  
+éparpillées tout partout  
 des ruisseaux qui coulent  
-des fleurs à tout moment  
+des fleurs qui écloent  
+à tout moment  
 des animaux sauvages  
 de toutes les sortes  
 
@@ -23,10 +23,9 @@ des sentiments
 des soupirs excessifs  
 des feuillages expressifs  
 
-du vert du bleu du rouge  
+du mauve du bleu du rouge  
 orange soleil le soir  
 jaune éclatant le matin  
-vert partout  
-sur toutes les pages  
+vert sur toutes les pages  
 
 j'espère que tu ne te sentiras pas trop perdu  
