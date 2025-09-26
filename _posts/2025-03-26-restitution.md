@@ -14,6 +14,7 @@ tel que je suis
 tel que je m'imagine  
 
 tous supposent que je sois  
+en quelque sorte  
 
 quelle est la probabilité  
 que je sois tel que je suis  
