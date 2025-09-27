@@ -35,7 +35,7 @@ complètement inutile
 si les acteurs n'en font qu'à leur tête  
 et sabotent toute ta création ?  
 
-la réalité ne colle plus au décor  
+la réalité ne colle plus au décor :  
 comment pouvait-il en être autrement ?  
 
 en réalité  
