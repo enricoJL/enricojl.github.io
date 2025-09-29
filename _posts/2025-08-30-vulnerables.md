@@ -8,10 +8,12 @@ published: true
 
 d'un coucher de soleil à l'autre  
 des rayons de lucidité traversent  
-l'opacité des rencontres  
+l'opacité de nos rencontres  
 
-les feuilles tomberont bientôt  
+les mois se succèdent l'un après l'autre  
+les feuilles d'automne tomberont bientôt  
 et plus rien pour retenir l'aurore  
 
-ensevelies sous d'épaisses neiges  
-s'en iront rejoindre les racines  
+ensevelis sous d'épaisses neiges  
+nos calendriers empilés les uns sur les autres  
+s'en iront rejoindre nos racines  
