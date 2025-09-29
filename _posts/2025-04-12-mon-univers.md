@@ -6,14 +6,21 @@ categories: "divers"
 published: true
 ---
 
-de multiples aspirations  
-s'entrecroisent sur mon chemin  
-se resserrent dans un entonnoir  
-
 à tout vouloir  
 on risque de ne jamais rien atteindre  
+de multiples avenues possibles  
+se croisent entre nos mains  
 
-avec le temps je deviens  
-plus ferme dans mon << vouloir >>  
+sur le chemin vers la gloire  
+nos envies se morcellent  
+se resserrent dans un entonnoir  
+où s'enngouffrent  
+toutes nos ambition  
+
+
+avec le temps  
+s'égouttent nos peurs  
+nous devenons plus fermes  
+dsns notre << vouloir >>  
 
 et l’univers conspire à le réaliser  
