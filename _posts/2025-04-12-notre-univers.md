@@ -17,7 +17,6 @@ se resserrent dans un entonnoir
 où s'enngouffrent  
 toutes nos ambition  
 
-
 avec le temps  
 s'égouttent nos peurs  
 nous devenons plus fermes  
