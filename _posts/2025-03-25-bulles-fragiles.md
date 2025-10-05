@@ -2,7 +2,7 @@
 layout: post
 title: "bulles fragiles"
 date: "2025-03-25"
-categories: "divers"
+categories: "douleur"
 published: true
 ---
 
