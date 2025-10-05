@@ -16,8 +16,7 @@ t'es-tu exclamée
 
 emmuré dans l'insouciance  
 je t'ai regardé pleurer  
-sous l'emprise de la douleur  
-de te retrouver à mes côtés  
+surprise à mes côtés  
 dans un pays étranger  
 
 puis je suis reparti  
