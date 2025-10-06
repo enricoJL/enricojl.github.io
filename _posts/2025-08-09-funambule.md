@@ -9,7 +9,6 @@ published: true
 je marche sur un fil  
 au-dessus du vide  
 en équilibre  
-perché très haut  
 sur ma ligne de vie  
 
 j'hésite  
