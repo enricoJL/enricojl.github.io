@@ -5,7 +5,6 @@ date: "2025-04-12"
 categories: "amore"
 ---
 
-à l'abri  
 sur le sentier des amours  
 à travers les montagnes  
 on accroche nos manteaux  
@@ -21,8 +20,6 @@ pour traverser la pénombre
 mon cœur  
 couché dans ta main  
 toujours  
-
-tu peux me faire confiance  
 
 je t’accompagne  
 jusqu’à l'aube  
