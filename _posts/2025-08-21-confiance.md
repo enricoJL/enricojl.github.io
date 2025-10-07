@@ -15,4 +15,4 @@ l'oiseau plane sur ses ailes
 un pont vers le ciel  
 me traverse jusqu'au soleil  
 
-car j'ai confiance en toi  
+j'ai confiance en toi  
