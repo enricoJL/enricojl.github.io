@@ -6,10 +6,6 @@ categories: "divers"
 published: true
 ---
 
-la mariée embrasse son amoureux  
-le bateau vogue sur la mer  
-les racines poussent dans la terre  
-l'enfant prend la main tendue  
 l'oiseau plane sur ses ailes  
 
 dans ma conscience  
