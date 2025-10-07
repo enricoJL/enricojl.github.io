@@ -12,7 +12,8 @@ je crie ma joie de grandir à l’envers
 dans la désillusion totale  
 les dogmes s’effondrent  
 les certitudes s’effritent  
-les doutes me soulèvent  
+
+mes doutes me soulèvent  
 dans l’impossible réalité du temps  
 
 hésitant  
