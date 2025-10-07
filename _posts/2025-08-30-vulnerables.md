@@ -7,10 +7,10 @@ published: true
 ---
 
 d'un coucher de soleil à l'autre  
-des rayons de lucidité traversent  
-l'opacité de nos rencontres  
+des rayons de lucidité nous traversent  
+malgré l'opacité de nos rencontres  
 
-les mois se succèdent l'un après l'autre  
+les mois se succédant l'un après l'autre  
 les feuilles d'automne tomberont bientôt  
 et plus rien pour retenir l'aurore  
 
