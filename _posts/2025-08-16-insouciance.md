@@ -17,7 +17,7 @@ de montagnes enrochées
 t'es-tu exclamée  
 en pleurant douloureusement  
 
-emmuré dans l'insouciance  
+emmuré d'insouciance  
 je t'ai regardé  
 prise à mes côtés  
 dans un pays étranger  
