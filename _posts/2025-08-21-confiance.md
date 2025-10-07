@@ -10,6 +10,7 @@ dans ma conscience
 je perçois le monde  
 
 l'oiseau plane sur ses ailes  
+
 (*respiration profonde*)  
 
 un pont vers le ciel  
