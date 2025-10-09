@@ -48,7 +48,7 @@ dans une terre inconnue
 mais j’ai réussi  
 à reconstruire ce radeau  
 avec les morceaux  
-de nos épaves perdus  
+de nos épaves perdues  
 
 me fais-tu assez confiance ?    
 pour embarquer avec moi  
