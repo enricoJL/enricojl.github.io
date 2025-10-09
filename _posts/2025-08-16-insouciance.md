@@ -7,15 +7,16 @@ published: true
 ---
 
 je suis parti  
-à la lisière des horizons  
-mensongers  
+enroché de montagnes  
+à la lisière du mensonge  
+parcourir les horizons  
 
 je suis revenu  
-de montagnes enrochées  
+te visiter dans ta maison  
 
-<< Enrico, tu as tant souffert ! >>  
+<< Tu as tant souffert ! >>  
 t'es-tu exclamée  
-en pleurant douloureusement  
+en pleurs  
 
 emmuré d'insouciance  
 je t'ai regardé  

@@ -14,7 +14,7 @@ j’invente
 je m’enfuis dans les rues  
 au-travers d’un songe  
 et je me retrouve au bout de mes limites  
-étranglé de sombres prétentions  
+étranglé de sombres présomptions  
 
 dans l’invivable, je fuis sans relâche  
 ma propre présence infecte  
@@ -30,25 +30,24 @@ on fait vibrer ma maison
 à l’entrée, le colporteur se présente  
 rempli de miel jusque dans les yeux  
 il offre d’abord sa présence  
-(le plus dur à prendre)  
 
 — Méfie-toi !  
 
-et tu te réjouis d’avoir fermé la porte  
+et je me réjouis d’avoir fermé la porte  
 avant que son pied n’atteigne l’intérieur  
-de ta maison  
+de la maison  
 
 à l’entrée : le colporteur  
 une autre fois encore  
 avec sa présence toujours  
 avec du miel  
 
-séduite  
-tu l’invites dans ta maison  
+séduit  
+je l’invite dans la maison  
 et son pied se pose à l’intérieur  
 
-et tu sens venir son corps entier  
+et je sens venir son corps entier  
 comme une structure qui entre  
 entre les yeux et le pied  
 
-et tu te réjouis
+et je me réjouis

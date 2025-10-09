@@ -18,7 +18,9 @@ les pierres
 essuyant le sang des massacres  
 témoins du chaos  
 elles crient en silence :  
+
 « Arrêtez ! Arrêtez ! »  
+
 nous suppliant constamment  
 depuis si longtemps  
 
