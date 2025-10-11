@@ -23,6 +23,3 @@ Et avant de pouvoir y voir clair, je me suis retrouvé dans mon corps...
   ma chambre   
   mon monde   
   ma prison   
-
-Mais c’est bel et bien là, qu’enfin,  
-j’ai réussi à prendre pied.   
