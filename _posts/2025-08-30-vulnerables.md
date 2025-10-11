@@ -8,8 +8,8 @@ published: true
 
 d'un coucher de soleil à l'autre  
 des rayons de lucidité nous traversent  
-
 les mois se succédant l'un après l'autre  
+
 les feuilles d'automne tomberont bientôt  
 et plus rien pour retenir l'aurore  
 
