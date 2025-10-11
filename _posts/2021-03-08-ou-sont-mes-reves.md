@@ -18,7 +18,7 @@ et Il a pris toute la place
 parce que je l’aime  
 j’ai accepté la métamorphose  
 j’ai décidé de disparaître  
-j’ai décidé de Le suivre  
+j’ai décidé de le suivre  
 
 Il m’a promis une vie meilleure  
 dans un avenir encore inconnu  
@@ -64,6 +64,3 @@ tranquillement
 me soumettre à Dieu  
 vivre de sa volonté  
 comme vivre de l’air  
-
-tel est mon idéal  
-telle est ma passion  

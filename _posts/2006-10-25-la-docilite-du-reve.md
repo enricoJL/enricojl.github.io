@@ -17,7 +17,7 @@ J’ai encore du mal à accepter de me soumettre à la vie telle qu'elle m'est d
 « *Ainsi la vie n’est que le rêve d’un rêve*,  
 *Mais l’état de veille est ailleurs*. »[^3]  
 
-Je préfère rêver ma vie et me blottir dans mes espoirs, et ce, même en vain, même si je suis seul à y croire contre tout, contre la réalité, et contre mon corps beaucoup trop faible pour mes ambitions. Je continue de croire jusqu'à mourir de stupidité, s'il le faut. Croire c'est la force de mes membres, la source de ma persévérance et la joie de mes efforts. Ma souffrance même de vivre trouve sa joie dans mes espoirs, mes croyances et mon obstination.   
+Je préfère me blottir dans mes rêves, et ce, même si je suis seul à y croire contre tout, contre la réalité, et contre mon corps beaucoup trop faible pour mes ambitions. Je continue de croire jusqu'à mourir de stupidité, s'il le faut. Croire c'est la force de mes membres, la source de ma persévérance et la joie de mes efforts. Ma souffrance même de vivre trouve sa joie dans mes espoirs, mes croyances et mon obstination.   
 
 Je veux rester dans mon illusion, faire un pas et me réjouir de ce pas parce qu'il me rapproche de mon rêve, et rire de mes difficultés parce qu'elles sont absorbées dans ma folie. Je continue de rêver. Je continue de rêver. Je continue d'espérer que la vieillesse va s'éloigner et que la mort ne viendra que plus tard, juste un peu plus tard. Je refuse de sortir de mon sommeil. Laissez-moi rêver, sublimer ma souffrance et espérer ma guérison. Juste encore un peu, laissez-moi caresser le bonheur d'y croire.   
 
