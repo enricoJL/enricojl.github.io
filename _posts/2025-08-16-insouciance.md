@@ -7,20 +7,25 @@ published: true
 ---
 
 je suis parti  
-enroché de montagnes  
 à la lisière du mensonge  
 parcourir les horizons  
 
-je suis revenu  
-te visiter dans ta maison  
+je suis revenu
+enroché de montagnes   
 
 << Tu as tant souffert ! >>  
 t'es-tu exclamée  
-en pleurs  
+en sanglots  
 
-emmuré d'insouciance  
-je t'ai regardé  
-prise à mes côtés  
+la situation m'étonnait  
+sans pouvoir rien y faire  
+sans savoir quoi dire  
+sans même comprendre   
+ce qui se passait  
+réellement  
+
+toi, surprise, à mes côtés  
+comme emprisonnée  
 dans un pays étranger  
 
 puis je suis reparti  

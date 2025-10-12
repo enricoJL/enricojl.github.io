@@ -8,6 +8,7 @@ categories: "douleur"
 quand on se voit  
 nos images diffèrent  
 de celles que l'on voit  
+
 forcément  
 puisque je ne te vois pas  
 comme tu me vois
@@ -20,7 +21,6 @@ toi, de toi
 et celle que tu t’es faite de moi  
 n’est pas la même que je me suis faite  
 moi, de moi  
-
 sûrement pas  
 
 ces images qu’on a en tête l’un de l’autre  
@@ -41,7 +41,7 @@ le titan qui t’accompagne
 quand tu penses à moi  
 il se tient là  
 entre toi et moi  
-et ce n’est pas moi  
+mais ce n’est pas moi  
 pas du tout, même !  
 en tout cas  
 pas celui que je pensais être moi  

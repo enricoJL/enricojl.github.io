@@ -18,7 +18,7 @@ ma vie placée sur un pivot —
 d’un côté comme de l’autre  
 mes rêves discutent avec l’avenir  
 
-mais le véritable habite beaucoup plus loin  
+le véritable habite beaucoup plus loin  
 sur une terre encore bien plus vaste  
 au-delà de mon imaginaire  
 et par-dessus tout ce que je connais  

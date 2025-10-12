@@ -6,9 +6,9 @@ categories:
   - "divers"
 ---
 
-J’étais sur une étoile, je la regardais attentivement. Tout à coup, je me suis senti attiré — je m’y suis perdu.
+J'étais sur une étoile, et je regardais vers l'intérieur. Tout à coup, j'y ai été attiré — et je m’y suis perdu.
 
-Sans même savoir en profiter, je ressortais de l’autre côté : trou noir, ou autre dimension ?   
+Sans même savoir profiter de son éclat, je ressortais de l’autre côté : trou noir, ou autre dimension ?
 
 Et puis, je me suis retrouvé au-travers d’une autre étoile, puis une autre, et une autre...   
 
@@ -18,7 +18,7 @@ Je passais d’une étoile à l’autre, mais toujours sans en profiter. Comme p
 
 Je n’ai trouvé, finalement, qu’une mini-étoile, qu’une planète qui brûle, où je me suis arrêté.   
 
-Et avant de pouvoir y voir clair, je me suis retrouvé dans mon corps...   
+Et avant de pouvoir y voir clair, je me suis retrouvé dans mon propre corps...   
 
   ma chambre   
   mon monde   

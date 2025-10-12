@@ -9,8 +9,9 @@ Je marche avec Lui dans une fontaine
 au beau milieu d’un feu tendre  
 
 Pris d’altitude  
-le véritable sentiment jaillit :  
-un océan, comme un feu de joie, se déverse  
+le véritable sentiment jaillit  
+
+un océan comme un feu de joie se déverse  
 
 Tous mes espoirs d’avenir balancés  
 comme un câble dans un puits  
