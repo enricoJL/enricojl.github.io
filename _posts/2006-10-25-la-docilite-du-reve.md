@@ -15,7 +15,7 @@ Existe-il le soleil ? Je n'ai plus de fenêtre pour voir la lumière dehors : o
 « *Ainsi la vie n’est que le rêve d’un rêve*,  
 *Mais l’état de veille est ailleurs*. »[^3]  
 
-J’ai encore du mal à accepter de me soumettre à la vie telle qu'elle m'est donnée.
+J’ai du mal à accepter de me soumettre à la vie telle qu'elle m'est donnée.
 
 Je préfère me blottir dans mes rêves, et ce, même si je suis seul à y croire, contre la réalité, et contre mon corps beaucoup trop faible pour mes ambitions. Je continue de croire jusqu'à mourir de stupidité, s'il le faut. Croire c'est la force de mes membres, la source de ma persévérance et la joie de mes efforts. Ma souffrance même de vivre trouve sa joie dans mes espérances, mes croyances et mon obstination.   
 
