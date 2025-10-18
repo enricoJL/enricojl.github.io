@@ -17,4 +17,5 @@ en s'appuyant
 contre le trauma  
 
 sublimer l'angoisse  
-et soupirer jusqu'aux étoiles  
+et soupirer  
+jusqu'aux étoiles  
