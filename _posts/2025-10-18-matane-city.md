@@ -7,16 +7,13 @@ published: true
 ---
 
 avec le vent  
-les vagues de la mer  
-qui s'en vont  
+et les vagues de la mer  
 qui reviennent  
-sans cesse  
 dans mon souvenir  
-mon ami au large  
-sur un chalutier  
 
+mon ami au large  
+revenant sur son chalutier  
 debout sur le pont  
-en revenant  
 il m'a salué de loin  
 
 avec son imperméable jaune  
@@ -34,7 +31,7 @@ j'avais grandement besoin d'un ami
 
 à l'arrimage du bateau  
 en mettant pied à terre  
-tout en faisant les manœuvres  
+en faisant les manœuvres  
 il m'a dit  
 en souriant très fort :
 
