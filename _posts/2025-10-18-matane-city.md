@@ -29,9 +29,9 @@ j'arrivais tout juste de Montréal
 pour visiter  
 j'avais grandement besoin d'un ami  
 
-à l'arrimage du bateau  
-en mettant pied à terre  
 en faisant les manœuvres  
+pour l'arrimage du bateau   
+et mettant pied à terre
 il m'a dit  
 en souriant très fort :
 
