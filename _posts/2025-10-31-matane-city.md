@@ -8,12 +8,11 @@ published: true
 
 mon ami revenait du large  
 avec le vent et la mer  
+le soleil à l'horizon  
 
-je le voyais au loin sur le pont  
+je le voyais au loin  
 dans son imperméable jaune  
-et ses bottes de pêcheur  
-s'approchant sur l'horizon  
-avec le soleil  
+afféré sur le pont  
 
 le temps se faisait humide  
 il y avait l'air salin  
