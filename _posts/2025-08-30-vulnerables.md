@@ -7,12 +7,9 @@ published: true
 ---
 
 d'un coucher de soleil à l'autre  
-des rayons de lucidité nous traversent  
-les mois se succédant l'un après l'autre  
-
-les feuilles d'automne tomberont bientôt  
-et plus rien pour retenir l'aurore  
+les calendriers se succèdent  
+l'un après l'autre  
 
 ensevelis sous d'épaisses neiges  
-nos calendriers, empilés les uns sur les autres  
-s'en iront rejoindre nos racines  
+empilés les uns sur les autres  
+s'en iront rejoindre les racines  
