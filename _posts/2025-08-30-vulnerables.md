@@ -10,6 +10,6 @@ les calendriers se succèdent
 empilés les uns sur les autres  
 sous d'épaisses neiges  
 
-tous un chacun  
+tous un chacun vulnérables  
 nous nous en iront  
 rejoindre nos racines  

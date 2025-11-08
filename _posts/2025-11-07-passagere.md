@@ -6,9 +6,8 @@ categories: "douleur"
 published: false
 ---
 
-des bulbes de vérité  
 mordant le délire  
-j'ai vu les étoiles  
+j'ai vu des étoiles  
 se coucher  
 beaucoup trop tard  
 
