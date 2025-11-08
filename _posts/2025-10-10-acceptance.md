@@ -6,15 +6,19 @@ categories: "douleur"
 published: true
 ---
 
-respirer calmement  
-malgré la douleur  
+respirer  
+calmement  
+la douleur  
 
-absorber le silence  
-pour supporter le jour  
+absorber  
+le silence  
 
 se tenir debout  
-en s'appuyant  
-contre le trauma  
+en s'appuyant contre  
+le trauma  
 
-sublimer l'angoisse  
-et soupirer jusqu'aux étoiles  
+sublimer  
+l'angoisse  
+
+soupirer  
+jusqu'aux étoiles  
