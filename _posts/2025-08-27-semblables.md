@@ -6,16 +6,17 @@ categories: "spirit"
 published: true
 ---
 
-Je suis semblable à Dieu.  
-Il est semblable à moi.  
-Je suis engendré à son image.  
-Son image reflète sur mon visage.  
-Mes yeux sont tournés vers sa gloire.  
-Son cœur est tourné vers moi.  
+je suis semblable à Dieu  
+Il est semblable à moi  
+Il m'a engendré à son image  
+son image reflète sur mon visage  
+mes yeux sont tournés Lui  
+son cœur est tourné vers moi  
 
-Je me sens si privilégié.  
-Si choyé.  
-Si béni.  
-Tant aimé.  
+je me sens  
+si privilégié  
+si choyé  
+si béni  
+et tant aimé  
 
-Merci mon Dieu.
+merci mon Dieu
