@@ -7,14 +7,11 @@ published: true
 ---
 
 mon ami revenait du large  
-avec le vent et la mer  
 le soleil à l'horizon  
+dans son imperméable  
+affairé sur le pont  
 
-je le voyais au loin  
-dans son imperméable jaune  
-afféré sur le pont  
-
-le temps se faisait humide  
+il faisait humide  
 il y avait l'air salin  
 il y avait la brunante  
 
@@ -23,8 +20,8 @@ pour visiter
 j'avais grandement besoin d'un ami  
 
 à l'amarrage du bateau  
-sautant sur le quai  
-il me lança  
-avec un grand sourire :  
+en sautant sur le quai  
+il m'a lancé  
+avec son grand sourire :  
 
 « Bienvenue à Matane City ! »
