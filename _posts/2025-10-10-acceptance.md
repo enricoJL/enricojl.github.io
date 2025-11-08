@@ -14,8 +14,8 @@ absorber
 le silence  
 
 se tenir debout  
-en s'appuyant contre  
-le trauma  
+en s'appuyant  
+sur le trauma  
 
 sublimer  
 l'angoisse  
