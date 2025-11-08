@@ -19,9 +19,8 @@ j'arrivais tout juste de Montréal
 pour visiter  
 j'avais grandement besoin d'un ami  
 
-à l'amarrage du bateau  
 en sautant sur le quai  
 il m'a lancé  
-avec son grand sourire :  
+avec un grand sourire :  
 
 « Bienvenue à Matane City ! »
