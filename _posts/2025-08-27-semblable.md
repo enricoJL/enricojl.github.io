@@ -18,5 +18,3 @@ si privilégié
 si choyé  
 si béni  
 et tant aimé  
-
-merci mon Dieu
