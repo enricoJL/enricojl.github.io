@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Semblables"
+title: "semblable"
 date: "2025-08-27"
 categories: "spirit"
 published: true
