@@ -6,14 +6,11 @@ categories: "douleur"
 published: false
 ---
 
-mordant le délire  
-j'ai vu des étoiles  
-se coucher  
+serrant le délire entre les dents  
+j'ai vu tant d'étoiles se coucher  
 beaucoup trop tard  
 
-dans un rire d'ombres  
-les éclats du monde  
-se referment  
+les éclats d'ombres se referment  
 dans un livre clos  
 
 ma folie ne fait que passer  

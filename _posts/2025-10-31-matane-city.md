@@ -6,7 +6,7 @@ categories: "douleur"
 published: true
 ---
 
-mon ami pêcheur revenait du large  
+mon ami revenait du large  
 il faisait humide  
 il y avait l'air salin  
 il y avait la brunante  
@@ -15,11 +15,11 @@ j'arrivais tout juste de Montréal
 pour visiter  
 j'avais grandement besoin d'un ami  
 
+avec ses bottes de pêcheur  
+et son imperméable jaune  
 en sautant sur le quai  
 au milieu des manoeuvres d'amarrage  
 il m'a lancé  
 avec un grand sourire :  
 
 « Bienvenue à Matane City ! »
-
- 
