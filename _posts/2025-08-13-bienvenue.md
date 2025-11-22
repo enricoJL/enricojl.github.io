@@ -35,7 +35,7 @@ aux rapides de Sainte-Marie
 
 tu peux remonter à sa source  
 mais tu ne peux l'empêcher  
-de courir  
+d'accourir  
 
 sans le combattre  
 laisse-le couler  
