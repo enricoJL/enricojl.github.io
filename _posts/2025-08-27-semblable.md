@@ -8,13 +8,17 @@ published: true
 
 je suis semblable à Dieu  
 Il est semblable à moi  
+
 Il m'a engendré à son image  
 son image reflète sur mon visage  
+
 mes yeux tournés vers Lui  
 son cœur tourné vers moi  
 
 je me sens  
+
 si privilégié  
 si choyé  
 si béni  
+
 et tant aimé  
