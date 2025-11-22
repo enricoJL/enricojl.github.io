@@ -20,6 +20,7 @@ le matin sur la Rive-Sud
 
 je vois le soleil  
 au travers des nuages  
+
 ses rayons traversent le ciel  
 
 de bord en bord  
