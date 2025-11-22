@@ -8,15 +8,14 @@ published: true
 
 l'eau coule  
 tous les jours  
-
 le matin sur la Rive-Sud  
 
 on voit le soleil  
 au travers des nuages  
 
 ses rayons traversent le ciel  
-
 de bord en bord  
+
 sa splendeur  
 enveloppe le paysage  
 
