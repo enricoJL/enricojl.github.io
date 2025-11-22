@@ -10,14 +10,14 @@ je suis parti
 à la lisière du mensonge  
 parcourir les horizons  
 
-je suis revenu
+je suis revenu  
 enroché de montagnes   
 
 << Tu as tant souffert ! >>  
 t'es-tu exclamée  
 en sanglots  
 
-la situation m'étonnait  
+tes pleurs m'étonnaient  
 sans pouvoir rien y faire  
 sans savoir quoi dire  
 sans même comprendre   
