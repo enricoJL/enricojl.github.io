@@ -18,26 +18,25 @@ Sur son radeau !  >>
 
 et moi, je te dis :  
 
-y crois-tu ?  
-à ce fleuve  
+y crois-tu à ce fleuve  
 au centre de nous deux   
-
 j’essaie toujours  
 de te convaincre de rester  
 
-me fais-tu assez confiance ?  
+me fais-tu assez confiance  
 assez longtemps  
-nos deux eaux qui s'entrecroisent   
+nos deux eaux  
+qui s'entrecroisent   
 dans un même océan   
 
-vas-tu résister ?  
+vas-tu résister  
 quand elle reviendra  
 la tempête  
 dans laquelle on se perd  
 naufragés sur une île  
 avec plus rien à croire  
 
-il est où, le trésor ?  
+il est où le trésor  
 qu’on nous avait raconté  
 
 j’ai échoué mon navire  
@@ -50,7 +49,7 @@ mais j’ai réussi
 avec les morceaux  
 de nos épaves perdues  
 
-me fais-tu assez confiance ?    
+me fais-tu assez confiance    
 pour embarquer avec moi  
 sur ce radeau  
 
