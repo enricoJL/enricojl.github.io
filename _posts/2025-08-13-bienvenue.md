@@ -6,23 +6,30 @@ categories: "divers"
 published: true
 ---
 
-l'eau coule toujours  
+<div style="text-align: right; font-style: italic;">
+  Be water, my friend<br/>
+  <br/>
+  <sup style="font-style: normal;">(Bruce Lee)</sup>  
+</div>
+<br/>  
+
+l'eau coule  
 tous les jours  
 
-je vois le soleil dans les nuages  
-ses rayons traversent le ciel  
-et sa splendeur  
-enveloppe le paysage  
+c'est le matin  
+sur la Rive-Sud  
 
-c'est le matin sur la Rive-Sud  
+je vois le soleil  
+au travers des nuages  
+ses rayons traversent le ciel  
+de bord en bord  
+sa splendeur  
+enveloppe le paysage  
 
 bienvenue maritime  
 au port de Montréal  
 
-<< *Be water, my friend* >>  
-(Bruce Lee)  
-
-laisse couler le fleuve  
+laisse aller le fleuve  
 aux rapides de Sainte-Marie  
 
 tu peux remonter à sa source  
