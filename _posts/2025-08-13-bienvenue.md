@@ -6,13 +6,6 @@ categories: "douleur"
 published: true
 ---
 
-<div style="text-align: right; font-style: italic;">
-  Be water, my friend<br/>
-  <br/>
-  <sup style="font-style: normal;">(Bruce Lee)</sup>  
-</div>
-<br/>  
-
 l'eau coule  
 tous les jours  
 
@@ -39,3 +32,9 @@ mais tu ne peux l'empêcher
 d'accourir  
 
 laisse-le couler  
+
+<div style="text-align: right; font-style: italic;">
+  Be water, my friend<br/>
+  <br/>
+  <sup style="font-style: normal;">(Bruce Lee)</sup>  
+</div>
