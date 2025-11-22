@@ -13,7 +13,6 @@ la douleur
 pour absorber  
 le silence  
 
-se tenir debout  
 en s'appuyant  
 très fort  
 sur le trauma  
