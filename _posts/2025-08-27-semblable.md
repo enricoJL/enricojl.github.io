@@ -10,8 +10,8 @@ je suis semblable à Dieu
 Il est semblable à moi  
 Il m'a engendré à son image  
 son image reflète sur mon visage  
-mes yeux sont tournés Lui  
-son cœur est tourné vers moi  
+mes yeux tournés vers Lui  
+son cœur tourné vers moi  
 
 je me sens  
 si privilégié  
