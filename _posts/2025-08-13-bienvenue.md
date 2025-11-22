@@ -30,6 +30,7 @@ enveloppe le paysage
 bienvenue maritime  
 au port de Montréal  
 
+sans le combattre  
 laisse aller le fleuve  
 aux rapides de Sainte-Marie  
 
@@ -37,5 +38,4 @@ tu peux remonter à sa source
 mais tu ne peux l'empêcher  
 d'accourir  
 
-sans le combattre  
 laisse-le couler  
