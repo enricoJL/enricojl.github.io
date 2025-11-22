@@ -11,7 +11,7 @@ tous les jours
 
 le matin sur la Rive-Sud  
 
-je vois le soleil  
+on voit le soleil  
 au travers des nuages  
 
 ses rayons traversent le ciel  
