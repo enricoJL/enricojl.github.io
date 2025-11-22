@@ -10,7 +10,7 @@ respirer
 calmement  
 la douleur  
 
-absorber  
+pour absorber  
 le silence  
 
 se tenir debout  
@@ -20,5 +20,5 @@ sur le trauma
 sublimer  
 l'angoisse  
 
-soupirer  
+et soupirer  
 jusqu'aux étoiles  
