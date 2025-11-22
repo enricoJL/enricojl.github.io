@@ -2,7 +2,7 @@
 layout: post
 title: "bienvenue maritime"
 date: "2025-08-13"
-categories: "divers"
+categories: "douleur"
 published: true
 ---
 
