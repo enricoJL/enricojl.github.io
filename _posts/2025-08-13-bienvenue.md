@@ -16,8 +16,7 @@ published: true
 l'eau coule  
 tous les jours  
 
-c'est le matin  
-sur la Rive-Sud  
+le matin sur la Rive-Sud  
 
 je vois le soleil  
 au travers des nuages  
