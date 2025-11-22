@@ -13,9 +13,8 @@ la douleur
 pour absorber  
 le silence  
 
-en s'appuyant  
-très fort  
-sur le trauma  
+en complaisance  
+envers le trauma  
 
 sublimer  
 l'angoisse  
