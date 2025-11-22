@@ -11,6 +11,7 @@ sur mon radeau
 avec un air bizarre  
 
 et tu t’inquiètes :  
+
 << Va-t-il vraiment tenir ?  
 Va-t-il nous ramener à bon port ?  
 Va-t-il se rendre jusqu’au bout ?  
