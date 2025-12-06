@@ -12,10 +12,10 @@ avec un air bizarre
 
 et tu t’inquiètes :  
 
-<< Va-t-il vraiment tenir ?  
-Va-t-il nous ramener à bon port ?  
-Va-t-il se rendre jusqu’au bout ?  
-Sur son radeau !  >>  
+va-t-il vraiment tenir ?  
+va-t-il nous ramener à bon port ?  
+va-t-il se rendre jusqu’au bout  
+sur son radeau ?  
 
 et moi, je te dis :  
 
