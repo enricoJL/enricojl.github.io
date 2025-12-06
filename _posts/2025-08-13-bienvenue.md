@@ -12,7 +12,6 @@ le matin sur la Rive-Sud
 
 on voit le soleil  
 au travers des nuages  
-
 ses rayons traversent le ciel  
 de bord en bord  
 
@@ -25,10 +24,8 @@ au port de Montréal
 sans le combattre  
 laisse aller le fleuve  
 aux rapides de Sainte-Marie  
-
 tu peux remonter à sa source  
 mais tu ne peux l'empêcher  
-d'accourir  
 
 laisse-le couler  
 
