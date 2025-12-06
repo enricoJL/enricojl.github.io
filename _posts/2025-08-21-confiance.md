@@ -14,6 +14,6 @@ l'oiseau plane sur ses ailes
 (*respiration profonde*)  
 
 un pont vers le ciel  
-nous traverse jusqu'au soleil  
+me traverse jusqu'au soleil  
 
 j'ai confiance en toi  
