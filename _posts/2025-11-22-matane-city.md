@@ -18,7 +18,7 @@ avec l'air salin
 ses bottes de pêcheur  
 et son imperméable jaune  
 
-à l'amarrage  
+à l'amarrage du bateau  
 en sautant sur le quai  
 nouant le cordage  
 avec son grand sourire  
