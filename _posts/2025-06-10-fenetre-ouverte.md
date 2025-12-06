@@ -21,4 +21,5 @@ je laisse la fenêtre ouverte
 au clair de lune  
 
 afin qu’il puisse  
+encore  
 aller et venir  
