@@ -52,6 +52,6 @@ de nos épaves perdues
 
 me fais-tu assez confiance    
 pour embarquer avec moi  
-sur ce radeau  
+sur ce radeau ?  
 
 veux-tu encore naviguer ?  
