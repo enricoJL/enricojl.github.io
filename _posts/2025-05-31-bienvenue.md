@@ -7,8 +7,7 @@ published: true
 ---
 
 
-en remontant le fleuve  
-ce matin  
+en remontant le fleuve ce matin  
 à bord du Faucon Millénium  
 entre Boucherville et Montréal  
 le calme nous accueille  
