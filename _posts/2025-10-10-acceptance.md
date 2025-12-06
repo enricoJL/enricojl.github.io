@@ -8,13 +8,12 @@ published: true
 
 respirer  
 calmement  
-la douleur  
 
 pour absorber  
-le silence  
+la douleur  
 
-en complaisance  
-envers le trauma  
+en toute  
+complaisance  
 
 sublimer  
 l'angoisse  
