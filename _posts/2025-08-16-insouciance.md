@@ -22,7 +22,6 @@ sans pouvoir rien y faire
 sans savoir quoi dire  
 sans même comprendre   
 ce qui se passait  
-réellement  
 
 toi, surprise, à mes côtés  
 comme emprisonnée  
