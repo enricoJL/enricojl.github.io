@@ -6,22 +6,24 @@ categories: "douleur"
 published: true
 ---
 
-il revenait du large  
-
 j'arrivais tout juste de Montréal  
 pour visiter  
-
 j'avais grandement besoin d'un ami  
 
-il pleuvait sur le pont  
-l'air était salin  
+il y avait l'air salin  
+il y avait la brunante  
 
-à l'amarrage du bateau  
-sautant sur le quai  
+j'allais accueillir mon ami  
+qui revenait du large  
+
 avec ses bottes de pêcheur  
 et son imperméable jaune  
+encore imprimés sur le paysage  
 
-il m'a lancé
-avec un grand sourire :  
+à l'amarrage de son bateau  
+en sautant sur le quai  
+après avoir noué le cordage  
+il m'a lancé  
+avec un sourire :  
 
 « Bienvenue à Matane City ! »
