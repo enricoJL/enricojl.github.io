@@ -7,21 +7,21 @@ published: true
 ---
 
 il revenait du large  
-à la brunante  
+
 j'arrivais tout juste de Montréal  
 pour visiter  
+
 j'avais grandement besoin d'un ami  
 
 il pleuvait sur le pont  
-
-avec l'air salin  
-ses bottes de pêcheur  
-et son imperméable jaune  
+l'air était salin  
 
 à l'amarrage du bateau  
-en sautant sur le quai  
-nouant le cordage  
-avec son grand sourire  
-il m'a lancé :  
+sautant sur le quai  
+avec ses bottes de pêcheur  
+et son imperméable jaune  
+
+il m'a lancé
+avec un grand sourire :  
 
 « Bienvenue à Matane City ! »
