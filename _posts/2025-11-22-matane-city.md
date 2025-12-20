@@ -7,20 +7,16 @@ published: true
 ---
 
 j'arrivais tout juste de Montréal  
-et j'avais grandement besoin d'un ami  
-
 il y avait l'air salin  
 il y avait la brunante  
 
-j'allais accueillir mon ami  
-revenant du large  
+j'avais grandement besoin d'un ami  
+et j'allais l'accueillir au quai  
 
 avec ses bottes de pêcheur  
 et son imperméable jaune  
-imprimés sur le paysage  
-
 à l'amarrage de son bateau  
 nouant le cordage de son sourire  
-il m'a lancé :  
 
+il m'a lancé :  
 « Bienvenue à Matane City ! »
