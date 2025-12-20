@@ -10,5 +10,5 @@ sous d'épaisses neiges
 les calendriers se succèdent  
 empilés les uns sur les autres  
 
-ils s'en iront  
+ils s'en iront bientôt  
 rejoindre leurs racines  
