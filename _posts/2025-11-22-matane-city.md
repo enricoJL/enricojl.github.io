@@ -7,7 +7,6 @@ published: true
 ---
 
 j'arrivais tout juste de Montréal  
-pour visiter  
 j'avais grandement besoin d'un ami  
 
 il y avait l'air salin  
@@ -18,12 +17,11 @@ qui revenait du large
 
 avec ses bottes de pêcheur  
 et son imperméable jaune  
-encore imprimés sur le paysage  
+imprimés sur le paysage  
 
 à l'amarrage de son bateau  
-en sautant sur le quai  
-après avoir noué le cordage  
-il m'a lancé  
-avec un sourire :  
+nouant le cordage  
+avec son sourire  
+il m'a lancé :  
 
 « Bienvenue à Matane City ! »
