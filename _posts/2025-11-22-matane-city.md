@@ -20,8 +20,7 @@ et son imperméable jaune
 imprimés sur le paysage  
 
 à l'amarrage de son bateau  
-nouant le cordage  
-avec son sourire  
+nouant le cordage de son sourire  
 il m'a lancé :  
 
 « Bienvenue à Matane City ! »
