@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vulnérable"
+title: "vulnérables"
 date: "2025-08-30"
 categories: "douleur"
 published: true
