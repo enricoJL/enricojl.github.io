@@ -17,8 +17,7 @@ te rapiécer
 jusqu'au dernier souffle  
 
 reviens  
-traverse  
-le dernier jour  
+traverse le dernier jour  
 
 quand nous descendrons  
 tous ensemble  

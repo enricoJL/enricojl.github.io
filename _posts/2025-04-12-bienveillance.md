@@ -8,17 +8,15 @@ categories: "divers"
 je te regarde  
 assise tranquille  
 au début de ta vie —  
-à observer le ciel  
-à douter des humains  
+à observer  
+à douter  
 
 que s’est-il passé ?  
 tu as grandi  
-tellement !  
 trop vite  
 
 vas-tu enfin déployer tes ailes ?  
-en comprends-tu assez  
-pour t'envoler ?  
+en comprends-tu assez pour t'envoler ?  
 
 dis-moi  
 as-tu assez confiance  
