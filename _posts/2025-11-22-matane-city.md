@@ -7,13 +7,13 @@ published: true
 ---
 
 j'arrivais tout juste de Montréal  
-j'avais grandement besoin d'un ami  
+et j'avais grandement besoin d'un ami  
 
 il y avait l'air salin  
 il y avait la brunante  
 
 j'allais accueillir mon ami  
-qui revenait du large  
+revenant du large  
 
 avec ses bottes de pêcheur  
 et son imperméable jaune  
