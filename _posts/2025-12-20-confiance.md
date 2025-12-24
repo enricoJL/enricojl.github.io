@@ -3,10 +3,9 @@ layout: post
 title: "confiance"
 date: "2025-12-20"
 categories: "divers"
-published: true
+published: false
 ---
 
 l'oiseau dans son envol  
 appuyé sur ses ailes  
-traverse vers l'horizon  
-un pont jusqu'au soleil  
+traverse un pont jusqu'au soleil  

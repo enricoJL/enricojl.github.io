@@ -7,11 +7,12 @@ published: true
 ---
 
 j'arrivais tout juste de Montréal  
+
 il y avait l'air salin  
 il y avait la brunante  
 
-j'avais grandement besoin d'un ami  
-et j'allais l'accueillir au quai  
+j'allais accueillir mon ami au quai  
+revenant du large  
 
 avec ses bottes de pêcheur  
 et son imperméable jaune  
