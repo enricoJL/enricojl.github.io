@@ -10,14 +10,11 @@ j'arrivais tout juste de Montréal
 
 il y avait l'air salin  
 il y avait la brunante  
+et j'allais accueillir  
+mon ami revenant du large
 
-j'allais accueillir mon ami au quai  
-revenant du large  
-
-avec ses bottes de pêcheur  
-et son imperméable jaune  
-à l'amarrage de son bateau  
-nouant le cordage de son sourire  
-
+à l'amarrage du bateau  
+avec le cordage de son sourire  
 il m'a lancé :  
+
 « Bienvenue à Matane City ! »
