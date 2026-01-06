@@ -18,4 +18,4 @@ mon ami revenant du large
 épris dans le cordage de son sourire  
 il m'a lancé sur le quai :  
 
-« Bienvenue à Matane City ! »
+« Bienvenue à *Matane City* ! »
