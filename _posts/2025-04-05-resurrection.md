@@ -17,8 +17,6 @@ et d’atteindre le ciel
 
 dans la patience  
 croire  
-à la gentillesse  
-
 servir autrui  
 les mains tendues  
 prêtes à apaiser  

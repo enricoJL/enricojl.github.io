@@ -7,15 +7,14 @@ published: true
 ---
 
 chacun dans sa bulle  
-conscients d’à moitié rien  
-concentrés sur soi  
+conscient d’à moitié rien  
+concentré sur soi  
 avec l’espoir d’y rencontrer l’autre  
 
 chacun dans sa bulle  
-on se côtoie pour se rencontrer  
+on se côtoie  
 on tourne en rond la plupart du temps  
 seul  
-chacun dans sa bulle  
 
 on avance à petits pas  
 on s'aventure à tâtons  
@@ -24,8 +23,8 @@ sans voir bien loin devant soi
 je te vois à peine  
 tu me vois à peine  
 
-on se voit dans une image tracée  
-à la surface de nos rencontres  
+on se voit dans une image  
+tracée à la surface de nos rencontres  
 à l’encre de nos aspirations  
 
 je me vois  
@@ -38,21 +37,22 @@ je suis perdu
 
 nos bulles fragiles  
 faites d’images superposées  
-les unes aux autres  
 
 et paf !  
 tout éclate !  
 
-te voilà, enfin là, devant moi  
-sans plus aucune carapace  
-avec des images éparpillées  
+te voilà enfin là  
+devant moi  
+sans aucune carapace  
+avec des images éparpillées partout  
 
 te voilà sans protection  
 vulnérable  
 prête à me rencontrer  
 
-cependant le passé te hantent encore  
-te voilà à chercher mon image  
+cependant  
+le passé te hantent encore  
+te voilà à chercher cette image  
 à travers toutes celles qui sont tombées  
 dispersées dans le temps  
 
@@ -61,7 +61,9 @@ tranquillement
 
 je demeure à l’intérieur  
 dilué  
-dans une image difforme  
+dans une figure difforme  
+
 emprisonné  
-dans une bulle prête à éclater  
+dans une bulle  
+prête à éclater  
 à tout moment  

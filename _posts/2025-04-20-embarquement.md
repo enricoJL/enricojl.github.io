@@ -26,8 +26,8 @@ de te convaincre de rester
 
 me fais-tu assez confiance  
 assez longtemps  
-nos deux eaux  
-qui s'entrecroisent   
+afin que nos deux eaux  
+s'incorporent   
 dans un même océan   
 
 vas-tu résister  
@@ -48,10 +48,9 @@ dans une terre inconnue
 mais j’ai réussi  
 à reconstruire ce radeau  
 avec les morceaux  
-de nos épaves perdues  
+de nos épaves échouées  
 
 me fais-tu assez confiance    
 pour embarquer avec moi  
-sur ce radeau ?  
-
+sur mon radeau ?  
 veux-tu encore naviguer ?  

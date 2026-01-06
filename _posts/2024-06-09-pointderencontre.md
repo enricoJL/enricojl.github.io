@@ -11,9 +11,9 @@ au point de rencontre
 
 sans barrière  
 sans carapace  
-aucune  
 
-j’y ai aimé la pensée de ton sourire  
+j’y ai aimé  
+la pensée de ton sourire  
 jusqu’au lendemain  
 
 ce lendemain  

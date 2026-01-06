@@ -7,12 +7,14 @@ published: true
 ---
 
 
-dans ton imagination  
-je déborde de tous les côtés  
-je ne tiens pas dans ton carcan  
+dans *ton* imagination  
+je déborde de tous côtés  
+je ne tiens plus  
+dans ton carcan  
 
 les barricades cèdent  
 je suis mouvant  
+
 insaisissable  
 
 tu ne peux plus me retenir  
@@ -25,4 +27,5 @@ après un hiver trop dur
 
 je suis fleur qui éclot  
 oranger qui se réveille —  
+
 dans *mon* imagination  

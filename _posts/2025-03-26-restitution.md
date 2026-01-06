@@ -27,10 +27,8 @@ je suis un collage
 de bribes éparpillées  
 dans la foule  
 
-je suis une étoile  
-à la dérive  
-relancée mille fois  
-dans la mer  
+je suis une étoile à la dérive  
+relancée mille fois dans la mer  
 
 une image dynamique  
 en restitution perpétuelle

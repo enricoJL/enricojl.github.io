@@ -26,6 +26,6 @@ entre leurs doigts crispés
 
 elles sentent sous la peau  
 les battements sourds  
-d’un amour qui se tait  
+d’un amour qui se tait —  
 
 mais ne s’éteint jamais  

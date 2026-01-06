@@ -7,19 +7,18 @@ published: true
 ---
 
 
-attendre la nuit  
-sous les couvertures  
+attendre sous les couvertures  
 le jour qui se lève  
+toute la nuit  
 
 sans penser  
 sans se soucier  
 faire le vide  
 doucement  
-dans un souffle  
 
 les amertumes du jour  
 les inquiétudes du soir  
-évadées  
+évadées dans un souffle  
 
 veiller sur l'oreiller  
 sans penser à rien  
