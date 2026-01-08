@@ -6,14 +6,12 @@ categories: "amore"
 published: true
 ---
 
-tu me regardes  
-sur mon radeau  
+tu me regardes sur mon radeau  
 avec un air bizarre  
-
 et tu t’inquiètes :  
 
 va-t-il vraiment tenir ?  
-va-t-il nous ramener à bon port ?  
+va-t-il nous ramener ?  
 va-t-il se rendre jusqu’au bout  
 sur son radeau ?  
 
@@ -22,7 +20,8 @@ et moi, je te dis :
 y crois-tu à ce fleuve  
 au centre de nous deux   
 j’essaie toujours  
-de te convaincre de rester  
+de te convaincre  
+de rester  
 
 me fais-tu assez confiance  
 assez longtemps  
@@ -35,7 +34,7 @@ quand elle reviendra
 la tempête  
 dans laquelle on se perd  
 naufragés sur une île  
-avec plus rien à croire  
+et plus rien à croire  
 
 il est où le trésor  
 qu’on nous avait raconté  
@@ -53,4 +52,5 @@ de nos épaves échouées
 me fais-tu assez confiance    
 pour embarquer avec moi  
 sur mon radeau ?  
+
 veux-tu encore naviguer ?  

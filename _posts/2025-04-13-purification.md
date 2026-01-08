@@ -17,7 +17,8 @@ te rapiécer
 jusqu'au dernier souffle  
 
 reviens  
-et traverse le dernier jour  
+et traverse  
+le dernier jour  
 
 quand nous descendrons  
 tous ensemble avec Sion :  

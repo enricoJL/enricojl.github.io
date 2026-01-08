@@ -6,7 +6,7 @@ categories: "douleur"
 published: true
 ---
 
-je suis parti  
+parti  
 à la lisière du mensonge  
 parcourir les horizons  
 
@@ -14,12 +14,10 @@ je suis revenu
 enroché de montagnes   
 
 << Tu as tant souffert ! >>  
-t'es-tu exclamée  
-en sanglots  
 
 tes pleurs m'étonnaient  
 sans pouvoir rien y faire  
-sans savoir quoi dire  
+sans savoir  
 sans même comprendre   
 ce qui se passait  
 

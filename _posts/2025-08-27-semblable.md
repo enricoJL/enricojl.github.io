@@ -6,11 +6,7 @@ categories: "spirit"
 published: true
 ---
 
-je suis semblable à Dieu  
-
-Il m'a engendré à son image  
-son image reflète sur moi  
-
+semblable à son image  
 mes yeux tournés vers Lui  
 son cœur tourné vers moi  
 

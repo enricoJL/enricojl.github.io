@@ -6,17 +6,11 @@ categories: "douleur"
 published: true
 ---
 
-respirer  
-calmement  
+respirer calmement  
+pour absorber la douleur  
 
-pour absorber  
-la douleur  
-
-en toute  
-complaisance  
-
-sublimer  
-l'angoisse  
+en toute complaisance  
+sublimer l'angoisse  
 
 et soupirer  
 jusqu'aux étoiles  

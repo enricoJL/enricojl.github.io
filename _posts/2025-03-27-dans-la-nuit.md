@@ -7,14 +7,14 @@ published: true
 ---
 
 
-attendre sous les couvertures  
+attendre  
+sous les couvertures  
 le jour qui se lève  
 toute la nuit  
 
 sans penser  
 sans se soucier  
 faire le vide  
-doucement  
 
 les amertumes du jour  
 les inquiétudes du soir  
@@ -23,7 +23,7 @@ les inquiétudes du soir
 veiller sur l'oreiller  
 sans penser à rien  
 encore une fois  
-et basculer  
+basculer  
 dans le vide  
 
 la nuit réparatrice  
@@ -41,7 +41,7 @@ au travail
 dans le pays  
 
 il y en a  
-des conflits  
+des conflits !  
 
 à la maison  
 au travail  

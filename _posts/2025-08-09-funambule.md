@@ -19,6 +19,6 @@ je titube
 si je glisse  
 je vais me fracasser  
 
-et la foule qui m'observe  
+et la foule m'observant  
 attentivement  
 s'émeut du danger  

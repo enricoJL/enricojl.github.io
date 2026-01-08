@@ -1,20 +1,16 @@
 ---
 layout: post
-title: "vivant"
+title: "sans image"
 date: "2025-03-26"
 categories: "divers"
 published: true
 ---
 
-je suis là  
 présent  
 sans image  
+je suis là  
+dans ta vie  
 
-je suis bien là  
-dans ma vie  
-dans la tienne aussi  
-
-je me tiens debout  
 vivant  
 avec mon souffle  
 mes os  
@@ -24,22 +20,20 @@ tout mon corps
 présent devant toi  
 sans prétention  
 
-peu importe comment —  
 cette image reconstituée  
 à l'intérieur de tes yeux  
 ce n'est pas moi  
 
 je refuse  
 je m’oppose  
-à n’être qu'une image  
-projetée dans tes pensées  
+à n’être qu'un reflet  
+projeté dans tes pensées  
 
-je suis  
+JE SUIS  
 
 que je sois vivant  
-que je sois tout autrement  
+tout autrement  
 sans artifice  
 
 un feu vibrant  
-joyeux  
 que j’espère aimant  

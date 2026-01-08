@@ -14,8 +14,9 @@ il y avait la brunante
 j'allais accueillir  
 mon ami revenant du large
 
-à l'amarrage de son bateau  
-épris dans le cordage de son sourire  
+à l'amarrage du bateau  
+épris dans le cordage  
+avec son sourire accrocheur  
 il m'a lancé sur le quai :  
 
 « Bienvenue à *Matane City* ! »

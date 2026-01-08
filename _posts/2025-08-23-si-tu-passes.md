@@ -11,7 +11,6 @@ dans mon cahier
 tu trouveras :  
 
 des perles au fond des mers  
-éparpillées partout  
 des ruisseaux qui coulent  
 des fleurs qui éclosent  
 à tout moment  
@@ -30,4 +29,5 @@ orange soleil le soir
 mauve éclatant le matin  
 vert sur toutes les pages  
 
-j'espère que tu ne te sentiras pas trop perdu  
+j'espère que tu ne te sentiras pas  
+trop perdu  
