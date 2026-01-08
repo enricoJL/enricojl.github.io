@@ -19,8 +19,6 @@ pour apaiser
 la fontaine  
 pour continuer  
 d'aimer  
-et soulager  
-la souffrance  
 
 sans jamais cesser  
 de tituber vers elle  
