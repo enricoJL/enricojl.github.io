@@ -7,11 +7,11 @@ published: true
 ---
 
 j'arrivais tout juste de Montréal  
-et j'avais grandement besoin d'un ami  
 
 il y avait l'air salin  
 il y avait la brunante  
-et j'allais accueillir  
+
+j'allais accueillir  
 mon ami revenant du large
 
 à l'amarrage de son bateau  
