@@ -19,7 +19,6 @@ tes pleurs m'étonnaient
 sans pouvoir rien y faire  
 sans savoir  
 sans même comprendre   
-ce qui se passait  
 
 toi, surprise, à mes côtés  
 comme emprisonnée  

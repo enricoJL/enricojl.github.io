@@ -6,13 +6,13 @@ categories: "divers"
 published: true
 ---
 
-les enfants  
-dorment par ailleurs  
+les enfants dorment  
+par ailleurs  
 
-leur confiance  
-joue dans le sable  
-grimpe dans les arbres  
+épris de confiance  
+ils jouent dans le sable  
+ou grimpent dans les arbres  
 
-un jour vers les étoiles  
-avec leurs ailes s'élèveront  
-pour embrasser le ciel  
+vers les étoiles  
+avec leurs ailes, s'élèveront  
+pour se perdre dans les nues  
