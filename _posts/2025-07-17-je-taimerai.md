@@ -7,9 +7,9 @@ published: true
 ---
 
 Dans mon souvenir  
-*Loin comme l'Angleterre* <sup>*</sup>  
+_Loin comme l'Angleterre_<sup>*</sup>  
 Tout au long du voyage  
-*Je t'aimerai* <sup>*</sup>  
+_Je t'aimerai_<sup>*</sup>  
 Toujours  
 
 
@@ -19,4 +19,4 @@ Toujours
 
 ___
 
-<sup>* Clin d'oeil à Gilles Vigneault, *Si les bateaux*</sup>
+<sup>*</sup> Clin d'oeil à Gilles Vigneault, _Si les bateaux_  
