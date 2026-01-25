@@ -8,12 +8,12 @@ categories:
 
 J'ai vécu dans le rêve. J'ai laissé mon rêve engloutir ma vie complètement, jusqu'à me mêler moi-même avec lui. Je me suis construit un navire de souhaits que j'ai chéri. Mais voilà qu'aujourd'hui, mon *vaisseau d'or*[^1] s'est échoué. Qu'est-il advenu de mes aspirations ?   
 
-La vieillesse me tue petit à petit et la réalité me rattrape malgré moi. L’orgueil, oh ! l'orgueil mesquin qui me donnait des ailes et me laissait planer sur l'adversité, s'est enfui loin de moi, piqué au cœur et percé de douleur ; je reste seul dans l'humilité de mes limites et de ma condition. Ma maison rapetisse de plus en plus, les murs se rapprochent et les corridors se rétrécissent sans cesse[^2]. Va-t-il me rester une issue ?  
+La vieillesse me tue petit à petit et la réalité me rattrape malgré moi. L’orgueil, oh ! l'orgueil mesquin qui me donnait des ailes et me laissait planer sur l'adversité, s'est enfui loin de moi, piqué au cœur et percé de douleur ; je reste seul dans l'humilité de mes limites et de ma condition. Ma maison rapetisse de plus en plus, les murs se rapprochent et les corridors se rétrécissent sans cesse. Va-t-il me rester une issue ?  
 
 Existe-il le soleil ? Je n'ai plus de fenêtre pour voir la lumière dehors : ou l'ai-je jamais vue ? Des fois, je pense que la vie n'est pas réelle, mais qu'elle existe ailleurs, dans un monde parallèle ou chacune de nos pensées s'accumule comme un trésor qu'on ne découvrira que plus tard.
 
 « *Ainsi la vie n’est que le rêve d’un rêve*,  
-*Mais l’état de veille est ailleurs*. »[^3]  
+*Mais l’état de veille est ailleurs*. »[^2]  
 
 J’ai du mal à accepter de me soumettre à la vie telle qu'elle m'est donnée.
 
@@ -40,5 +40,4 @@ Ma maladie me ronge et je refuse d'en souffrir, et pourtant, la douleur envahit 
 **Références**
 
 [^1]: Émile Nelligan, Le Vaisseau d'Or  
-[^2]: Boris Vian, L'écume des jours  
-[^3]: Rainer Maria Rilke
+[^2]: Rainer Maria Rilke
