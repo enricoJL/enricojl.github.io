@@ -8,17 +8,14 @@ categories: "spirit"
 laisse-la venir  
 poser un baume  
 sur ta méchanceté  
-
 prononcer une bénédiction  
 sur ta colère  
 
-laisse la Parole te sanctifier  
+laisse la te sanctifier  
 te rapiécer  
-jusqu'au dernier souffle  
 
 reviens  
-et traverse  
-le dernier jour  
+traverse le dernier jour  
 
 quand nous descendrons  
 tous ensemble avec Sion :  

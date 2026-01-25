@@ -7,8 +7,8 @@ categories: "amore"
 
 sur le sentier des amours  
 à travers les montagnes  
-on accroche nos manteaux  
 dans la fatigue du soir  
+on accroche nos manteaux  
 
 on se couvre de confidences  
 pour résister à la nuit  
@@ -18,7 +18,7 @@ prendras-tu encore ma main
 pour traverser la pénombre  
 
 mon cœur  
-couché dans ta main  
+dans ta main  
 toujours  
 
 je t’accompagne  

@@ -16,6 +16,7 @@ dans le ciel
 à chercher  
 la source  
 pour apaiser  
+
 la fontaine  
 pour continuer  
 d'aimer  

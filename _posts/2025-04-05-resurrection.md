@@ -19,7 +19,7 @@ dans la patience
 croire  
 servir autrui  
 les mains tendues  
-prêtes à apaiser  
+pour apaiser le feu  
 
 mourir  
 pour ressusciter  

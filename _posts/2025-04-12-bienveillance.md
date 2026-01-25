@@ -20,7 +20,6 @@ en comprends-tu assez pour t'envoler ?
 
 dis-moi  
 as-tu assez confiance  
-en moi ?  
 en toi ?  
 
 l'ai-je été suffisamment  
