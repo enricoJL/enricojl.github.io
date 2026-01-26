@@ -20,8 +20,7 @@ seul
 
 on avance à petits pas  
 on s'aventure à tâtons  
-sans voir bien loin  
-devant soi  
+sans voir bien loin devant soi  
 
 je te vois  
 à peine  
@@ -38,30 +37,25 @@ et j’y crois
 dur comme fer  
 
 quand la bulle éclate  
-je suis perdu  
-tout *pète* de partout  
+je suis perdu ---  
 
-nos bulles fragiles  
-faites d’images superposées  
+*nos bulles fragiles*  
+*faites d’images superposées*  
 
-te voilà  
-enfin là  
-devant moi  
+mais te voilà  
+enfin  
 sans aucune carapace  
-
-avec des images  
-éparpillées  
-tout autour de toi  
 
 te voilà sans protection  
 vulnérable  
 prête à me rencontrer  
 
-cependant  
+avec des images  
+éparpillées  
+tout autour de toi    
 tes souvenirs te hantent  
 toujours  
 
-te voilà  
 en train de te fatiguer  
 à chercher cette image là  
 à travers toutes celles  
