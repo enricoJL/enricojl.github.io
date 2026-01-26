@@ -31,16 +31,17 @@ on se voit dans une image
 tracée à la surface des rencontres  
 à l’encre de nos aspirations  
 
+*nos bulles fragiles*  
+*faites d'images superposées*  
+
 je me vois  
-sur ton image imaginée  
+dans une image imaginée  
 et j’y crois  
 dur comme fer  
 
 quand la bulle éclate  
 je suis perdu ---  
-
-*nos bulles fragiles*  
-*faites d’images superposées*  
+tout *pète* de partout  
 
 mais te voilà  
 enfin  
@@ -49,13 +50,10 @@ sans aucune carapace
 te voilà sans protection  
 vulnérable  
 prête à me rencontrer  
+avec des images éparpillées  
+tout autour de toi  
 
-avec des images  
-éparpillées  
-tout autour de toi    
-tes souvenirs te hantent  
-toujours  
-
+toujours dans tes souvenirs  
 en train de te fatiguer  
 à chercher cette image là  
 à travers toutes celles  
@@ -63,10 +61,8 @@ qui sont tombées
 dispersées dans le temps  
 
 une autre se forme déjà    
-je demeure à l’intérieur  
-dilué  
-dans une figure difforme  
-
+et je demeure à l’intérieur  
+dilué dans une figure difforme  
 emprisonné dans une bulle  
 prête à éclater  
 à tout moment  
