@@ -7,12 +7,10 @@ categories: amore
 
 quoi dire, quoi faire, comment te le dire ?  
 je t’aime — c’est quoi, dire je t’aime ?  
-je te le dis  
-c’est trop peu  
+je te le dis, c’est trop peu  
 
 passion, passionnément, à la folie, à devenir fou  
 je suis insensé  
-c’est la folie qui s’empare de moi  
 ce que je dis, de sens, n’a plus de sens  
 je ne réfléchis plus qu’à moitié  
 penser à toi me rend malade de toi  
