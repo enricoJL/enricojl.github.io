@@ -44,33 +44,35 @@ tout *pète* de partout
 nos bulles fragiles  
 faites d’images superposées  
 
-te voilà enfin là  
+te voilà  
+enfin là  
 devant moi  
 sans aucune carapace  
+
 avec des images  
 éparpillées  
 tout autour de toi  
 
 te voilà sans protection  
 vulnérable  
-et prête à me rencontrer  
+prête à me rencontrer  
 
 cependant  
-le souvenir te hantent encore  
+tes souvenirs te hantent  
+toujours  
 
-te voilà en train de te fatiguer  
+te voilà  
+en train de te fatiguer  
 à chercher cette image là  
-à travers toutes celles qui sont tombées  
+à travers toutes celles  
+qui sont tombées  
 dispersées dans le temps  
 
-une autre bulle se forme déjà  
-tranquillement  
-
+une autre se forme déjà    
 je demeure à l’intérieur  
 dilué  
 dans une figure difforme  
 
-emprisonné  
-dans une bulle  
+emprisonné dans une bulle  
 prête à éclater  
 à tout moment  
