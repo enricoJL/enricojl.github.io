@@ -41,8 +41,8 @@ quand la bulle éclate
 je suis perdu ---  
 tout *pète* de partout  
 
-nos bulles fragiles  
-faites d’images superposées  
+*nos bulles fragiles*  
+*faites d’images superposées*  
 
 te voilà  
 enfin là  
