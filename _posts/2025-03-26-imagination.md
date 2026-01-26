@@ -10,11 +10,11 @@ published: true
 dans *ton* imagination  
 je déborde de tous côtés  
 je ne tiens plus  
+en place  
 dans ton carcan  
 
-les barricades cèdent  
+les fers cèdent  
 je suis mouvant  
-
 insaisissable  
 
 tu ne peux plus me retenir  
@@ -27,5 +27,4 @@ après un hiver trop dur
 
 je suis fleur qui éclot  
 oranger qui se réveille —  
-
 dans *mon* imagination  

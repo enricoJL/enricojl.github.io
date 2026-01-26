@@ -1,30 +1,35 @@
 ---
 layout: post
-title: "bulles fragiles"
+title: "nos bulles fragiles"
 date: "2025-03-25"
 categories: "douleur"
 published: true
 ---
 
 chacun dans sa bulle  
-conscient d’à moitié rien  
+conscient à moitié  
 concentré sur soi  
-avec l’espoir d’y rencontrer l’autre  
+avec l’espoir  
+d’y rencontrer l’autre  
 
 chacun dans sa bulle  
 on se côtoie  
-on tourne en rond la plupart du temps  
+on tourne en rond  
+la plupart du temps  
 seul  
 
 on avance à petits pas  
 on s'aventure à tâtons  
-sans voir bien loin devant soi  
+sans voir bien loin  
+devant soi  
 
-je te vois à peine  
-tu me vois à peine  
+je te vois  
+à peine  
+tu me vois  
+à peine  
 
 on se voit dans une image  
-tracée à la surface de nos rencontres  
+tracée à la surface des rencontres  
 à l’encre de nos aspirations  
 
 je me vois  
@@ -33,26 +38,28 @@ et j’y crois
 dur comme fer  
 
 quand la bulle éclate  
-je suis perdu  
+je suis perdu ---  
+tout *pète* de partout  
 
 nos bulles fragiles  
 faites d’images superposées  
 
-et paf !  
-tout éclate !  
-
 te voilà enfin là  
 devant moi  
 sans aucune carapace  
-avec des images éparpillées partout  
+avec des images  
+éparpillées  
+tout autour de toi  
 
 te voilà sans protection  
 vulnérable  
-prête à me rencontrer  
+et prête à me rencontrer  
 
 cependant  
-le passé te hantent encore  
-te voilà à chercher cette image  
+le souvenir te hantent encore  
+
+te voilà en train de te fatiguer  
+à chercher cette image là  
 à travers toutes celles qui sont tombées  
 dispersées dans le temps  
 

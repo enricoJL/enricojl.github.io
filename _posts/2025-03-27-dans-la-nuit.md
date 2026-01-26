@@ -14,7 +14,7 @@ toute la nuit
 
 sans penser  
 sans se soucier  
-faire le vide  
+et faire le vide  
 
 les amertumes du jour  
 les inquiétudes du soir  
@@ -22,6 +22,7 @@ les inquiétudes du soir
 
 veiller sur l'oreiller  
 sans penser à rien  
+
 encore une fois  
 basculer  
 dans le vide  
@@ -30,7 +31,9 @@ la nuit réparatrice
 le matin révélateur  
 le jour porteur  
 
-la vie tranquille...  
+la vie  
+tranquille  
+
 les enfants  
 le mariage  
 le travail  
@@ -40,8 +43,7 @@ malgré les conflits —
 au travail  
 dans le pays  
 
-il y en a  
-des conflits !  
+il y en a des conflits !  
 
 à la maison  
 au travail  

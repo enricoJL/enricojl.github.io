@@ -9,8 +9,8 @@ dans la douleur
 la misère et les pleurs  
 comme des semences  
 éparpillés sur la terre  
-nous nous enfouissons  
 
+nous nous enfouissons  
 avec l’espoir de grandir  
 un jour  
 et d’atteindre le ciel  

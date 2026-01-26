@@ -6,10 +6,8 @@ categories: "divers"
 published: true
 ---
 
-présent  
 sans image  
 je suis là  
-dans ta vie  
 
 vivant  
 avec mon souffle  
@@ -36,4 +34,5 @@ tout autrement
 sans artifice  
 
 un feu vibrant  
-que j’espère aimant  
+que j’espère  
+aimant  
