@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nos bulles fragiles"
+title: "bulles fragiles"
 date: "2025-03-25"
 categories: "douleur"
 published: true
