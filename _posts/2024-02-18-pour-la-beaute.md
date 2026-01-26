@@ -13,7 +13,6 @@ qu’ils se l’approprient
 qu’elle s’envole  
 qu’elle voyage  
 qu’elle se propulse  
-
 au cœur de l'humanité  
 
 qu’elle aspire tout  

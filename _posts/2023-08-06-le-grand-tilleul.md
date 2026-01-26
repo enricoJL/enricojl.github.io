@@ -6,14 +6,13 @@ categories: "spirit"
 published: true
 ---
 
-dès le printemps  
-le grand tilleul  
+dès le printemps le grand tilleul  
 avec ses fleurs bénéfiques  
 sa sève à profusion  
 son énergie débordante  
 
 des milliers d’insectes  
-des centaines d’oiseaux  
+et des centaines d’oiseaux  
 y viennent pour se nourrir  
 tout l’été  
 
