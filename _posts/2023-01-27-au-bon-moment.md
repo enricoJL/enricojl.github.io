@@ -13,13 +13,12 @@ volait un aigle en faisant des ronds
 longtemps, je l’observai  
 prenant de l’altitude  
 d’une circonvolution à l’autre  
-il s’élevait doucement dans le ciel  
+il s’élevait doucement  
+dans la pureté des nues  
 
-rendu au bon endroit  
-au bon moment  
+rendu au bon endroit, au bon moment  
 déployant très grand ses ailes  
-sans effort  
-sans même un seul battement d’ailes  
+sans effort, sans même un seul battement d’ailes  
 à une vitesse vertigineuse  
 il s’éloigna hors de ma vue  
 

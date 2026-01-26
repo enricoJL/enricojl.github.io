@@ -10,14 +10,13 @@ des bribes de vérité nous habitent
 et le temps qui souffle les efface  
 petit à petit  
 
-ces étincelles antiques  
+mais partout des étincelles  
 comme des cristaux  
 incrustés dans le roc  
 demeurent  
 
-parfois dégagés  
-par un travail scrupuleux  
+dégagés par un travail scrupuleux  
 ces fragments réapparaissent  
+à la surface du temps  
 
-et l’artisan qui les place à la lumière  
-laisse des traces  
+sur les traces de l'archéologue du moi  
