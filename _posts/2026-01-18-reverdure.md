@@ -6,7 +6,7 @@ categories: "douleur"
 published: true
 ---
 
-reverdure dans les prés  
+reverdure dans le pré  
 
 le soleil  
 de cycle en cycle  
