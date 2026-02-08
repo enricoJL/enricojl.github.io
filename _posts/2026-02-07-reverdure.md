@@ -8,7 +8,6 @@ published: true
 
 reverdure dans les prés  
 
-sous son manteau d'or  
 le soleil  
 de cycle en cycle  
 transporte  
