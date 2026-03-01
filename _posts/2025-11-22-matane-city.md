@@ -2,7 +2,7 @@
 layout: post
 title: "Matane City"
 date: "2025-11-22"
-categories: "douleur"
+categories: "divers"
 published: true
 ---
 

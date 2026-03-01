@@ -2,7 +2,7 @@
 layout: post
 title: "vulnérables"
 date: "2025-08-30"
-categories: "douleur"
+categories: "divers"
 published: true
 ---
 
