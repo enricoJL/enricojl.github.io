@@ -11,4 +11,4 @@ chaque mot nous anime
 
 les noms des choses  
 laissés comme des pieux  
-où d'autres pourront bâtir  
+où nous pourrons bâtir  
