@@ -1,9 +1,10 @@
 
-- slug: douleur
-  name: Douleur
 
 - slug: amore
   name: Amour
+
+- slug: douleur
+  name: Douleur
 
 - slug: pensees
   name: Pensées

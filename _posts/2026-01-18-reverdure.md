@@ -2,7 +2,7 @@
 layout: post
 title: "reverdure"
 date: "2026-01-18"
-categories: "douleur"
+categories: "divers"
 published: true
 ---
 
