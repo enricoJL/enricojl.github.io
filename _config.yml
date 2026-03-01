@@ -2,7 +2,7 @@
 # Site settings
 title: À livre ouvert
 description: >
-  Poèmes, récits et pensées
+  poèmes, récits et pensées
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://enricojl.github.io" # the base hostname & protocol for your site
