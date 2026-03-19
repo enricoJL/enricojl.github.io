@@ -7,12 +7,9 @@ published: true
 ---
 
 les enfants dorment  
-par ailleurs  
-
 épris de confiance  
+ailleurs dans le rêve  
+
 ils jouent dans le sable  
 ou grimpent dans les arbres  
-
 vers les étoiles  
-avec leurs ailes, s'élèveront  
-pour se perdre dans les nues  
