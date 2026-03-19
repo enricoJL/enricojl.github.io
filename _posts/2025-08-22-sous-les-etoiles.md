@@ -7,8 +7,8 @@ published: true
 ---
 
 les enfants dorment  
-épris de confiance  
 dans leurs rêves  
+épris de confiance  
 
 ils jouent dans le sable  
 ou grimpent dans les arbres  
