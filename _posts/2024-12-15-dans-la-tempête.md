@@ -7,7 +7,7 @@ published: true
 ---
 
 pendant longtemps malgré la peur  
-rester là sur le rivage de l'autre  
+rester là sur la rive de l'autre  
 à espérer la lumière qui viendra un jour  
 
 de soi vers l'autre et de l'autre à soi  
