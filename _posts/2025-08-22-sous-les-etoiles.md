@@ -8,7 +8,7 @@ published: true
 
 les enfants dorment  
 épris de confiance  
-ailleurs dans le rêve  
+dans leurs rêves  
 
 ils jouent dans le sable  
 ou grimpent dans les arbres  
