@@ -10,10 +10,8 @@ dans mon idée la vie
 
 en fermant les yeux  
 
-comme un arbre en moi  
-
 très fort  
 
 me pousse au-dessus du vide  
 
-accroché au fil de vivre  
+suspendu au fil de vivre  
