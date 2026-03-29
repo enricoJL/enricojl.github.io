@@ -6,9 +6,9 @@ categories: "divers"
 published: true
 ---
 
+épris de confiance  
 les enfants dorment  
 dans leurs rêves  
-épris de confiance  
 
 ils jouent dans le sable  
 ou grimpent dans les arbres  
