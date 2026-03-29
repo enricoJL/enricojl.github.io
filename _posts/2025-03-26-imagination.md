@@ -11,10 +11,9 @@ dans *ton* imagination
 je déborde de tous côtés  
 je ne tiens plus  
 en place  
-dans ton carcan  
 
 les fers cèdent  
-je suis mouvant  
+je suis sable mouvant  
 insaisissable  
 
 tu ne peux plus me retenir  
