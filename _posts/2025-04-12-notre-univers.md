@@ -16,7 +16,7 @@ nos envies se morcellent
 se resserrent dans un entonnoir  
 où s'engouffrent toutes nos ambitions  
 
-avec le temps s'égouttent nos peurs  
+avec le temps s'égouttent nos inquiétudes  
 nous devenons plus fermes  
 dans notre << vouloir >>  
 
