@@ -22,4 +22,4 @@ une scène après l'autre
 je suis surpris  
 
 et la mascarade continue  
-jusqu'à la nuit  
+jusque dans la nuit  
