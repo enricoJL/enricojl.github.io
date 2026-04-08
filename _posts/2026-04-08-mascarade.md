@@ -22,4 +22,5 @@ une scène après l'autre
 je suis surpris  
 
 et la mascarade continue  
+dans sa procession  
 jusque dans la nuit  
