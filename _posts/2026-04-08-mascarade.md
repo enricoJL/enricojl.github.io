@@ -14,6 +14,12 @@ et le faire pour vrai
 comme dans un film  
 tout est pour moi  
 une suite d'images  
-inventées dans ma tête  
+qui repassent sans cesse  
+dans ma tête  
 
-c'est la mascarade  
+la comédie ne s'arrête plus  
+une scène après l'autre  
+je suis surpris  
+
+et la mascarade continue  
+jusqu'à la nuit  
