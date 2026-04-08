@@ -2,16 +2,18 @@
 layout: post
 title: "mascarade"
 date: "2026-04-08"
-categories: "douleur"
+categories: "divers"
 published: true
 ---
 
-je vis dans ma tête  
-et la réalité m'échappe  
+la réalité m'échappe  
 je ne fais pas la différence  
 entre le faire semblant  
 et le faire pour vrai  
 
 comme dans un film  
 tout est pour moi  
-une mascarade  
+une suite d'images  
+inventées dans ma tête  
+
+c'est la mascarade  
