@@ -1,26 +1,18 @@
 ---
 layout: post
 title: "mascarade"
-date: "2026-04-08"
-categories: "divers"
-published: true
+date: 2026-04-08
+categories: divers 
+published: false
 ---
 
-la réalité m'échappe  
-je ne fais pas la différence  
-entre le faire semblant  
-et le faire pour vrai  
+mascarade dans la nuit  
+une procession de créatures imaginaires  
+des éléphants, des dragons, des libellules géantes  
+des papillons de nuit  
 
-comme dans un film  
-tout est pour moi  
-une suite d'images  
-qui repassent sans cesse  
-dans ma tête  
+à la recherche du bonheur  
+ma compréhension  
+mon intelligence  
 
-la comédie ne s'arrête plus  
-une scène après l'autre  
-je suis surpris  
-
-et la mascarade continue  
-dans sa procession  
-jusque dans la nuit  
+candeur  
