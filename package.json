@@ -1,0 +1,12 @@
+{
+  "name": "enricojl-blog",
+  "version": "1.0.0",
+  "description": "Blog personnel Jekyll",
+  "type": "commonjs",
+  "scripts": {
+    "watch:posts": "node scripts/auto-frontmatter.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}
