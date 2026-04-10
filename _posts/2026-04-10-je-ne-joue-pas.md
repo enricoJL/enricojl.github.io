@@ -19,18 +19,21 @@ je donne mes cartes
 même à mes opposants  
 et ça peut sembler injuste  
 
+ou encore je peux être fâché  
+et je joue n'importe quoi  
+sans réfléchir  
+
 d'autres fois j'abandonne  
 je peux tout laisser là  
 sur la table  
 sans crier garde  
 
-mon but est différent  
+car mon but est différent  
 mon intention n'est pas  
 la même que vous  
 
 voyez-vous  
 je joue à un autre jeu  
-je cherche le plaisir  
 sans nécessairement vouloir gagner  
 à tout prix  
 
