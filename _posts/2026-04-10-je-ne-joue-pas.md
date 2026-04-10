@@ -2,7 +2,7 @@
 layout: post
 title: "je ne joue pas"
 date: "2026-04-10"
-categories: "divers"
+categories: "new"
 published: true
 ---
 
