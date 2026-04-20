@@ -7,48 +7,42 @@ published: true
 ---
 
 je ne joue pas au même jeu que vous  
-les règles sont différentes  
 je n'aime pas votre jeu  
 
-j'ai toujours un « joker »  
-que je garde discrètement  
-dans mes cartes  
+sans vouloir gagner je joue  
+mais surtout pas  
+au détriment des autres  
 
-des fois sans avertir  
-je donne mes cartes  
-et ça peut sembler tricher  
-
-ou encore je peux me fâcher  
-et je joue n'importe quoi  
-sans réfléchir  
-
-d'autres fois j'abandonne le jeu  
-et tout laisser là  
-sur la table  
-sans crier garde  
-
-car mon but est différent  
-mon intention n'est pas  
-la même que vous  
-
-voyez-vous  
-je joue au jeu  
-sans nécessairement vouloir gagner  
-à tout prix  
-
-je ne cherche pas à « gagner la game »  
-je joue pour le plaisir de jouer  
-
-mais ça déstabilise à tout coup  
-quand je donne mes cartes  
-ce n'est pas tous qui aiment ça  
-
-si je perçois un comportement malhonnête  
-ou si quelqu'un s'amuse à détruire  
-ou si quelqu'un s'attriste  
-je peux mettre des batons dans les roues  
-ou j'arrête de jouer  
+si quelqu'un s'amuse  
+au détriment d'un autre  
+je laisse le jeu sur la table  
+et j'arrête de jouer  
 tout simplement  
 
-car mon objectif n'est pas de gagner  
-mais d'avoir du bon temps  
+mon intention n'est pas  
+la même que vous  
+voyez-vous  
+je ne cherche pas  
+à « gagner la game »  
+
+quand je joue  
+je joue pour le plaisir  
+pour le bonheur  
+pour la compagnie  
+
+mes règles sont différentes  
+je poursuis d'autres principes  
+qui peuvent vous sembler étranges  
+si vous voulez gagner à tout prix  
+
+ces principes me tiennent à cœur  
+et je peux figer des fois  
+si vous ne les respectez pas  
+
+alors je joue n'importe quoi  
+sans réfléchir  
+ce qui peut faire de moi  
+un mauvais joueur  
+
+alors je ne joue pas  
+car je n'aime pas votre jeu  
