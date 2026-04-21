@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nouveau puits"
+title: "le poète et le puits"
 date: "2026-04-20"
 categories: "new"
 published: false
