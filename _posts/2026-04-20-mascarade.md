@@ -20,6 +20,3 @@ sous les projecteurs
 je fais semblant  
 sachant qui je suis vraiment  
 
-un homme bien ordinaire  
-dans un bien beau costume  
-

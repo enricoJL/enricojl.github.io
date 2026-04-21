@@ -19,7 +19,7 @@ des expériences pour lesquelles
 en général nous avons du mal  
 à trouver les mots  
 
-les paroles du poète sont un puits  
+les paroles du poète sont comme un puits  
 quand on est en train de creuser le puits  
 l'eau qui en sort n'est pas très bonne  
 toutes sortes de particules viennent la troubler  
