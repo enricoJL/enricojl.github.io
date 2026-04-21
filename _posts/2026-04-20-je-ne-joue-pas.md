@@ -12,7 +12,7 @@ je n'aime pas votre jeu
 sans vouloir gagner  
 je joue  
 
-si quelqu'un s'amuse  
+mais si quelqu'un s'amuse  
 au détriment d'un autre  
 je laisse le jeu sur la table  
 et j'arrête de jouer  
@@ -27,7 +27,8 @@ pour la compagnie
 mes règles sont différentes  
 je poursuis des principes  
 qui peuvent vous sembler étranges  
-si vous voulez gagner à tout prix  
+si vous voulez gagner  
+à tout prix  
 
 ils me tiennent à cœur  
 et je peux figer des fois  
