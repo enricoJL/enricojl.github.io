@@ -7,19 +7,19 @@ published: true
 ---
 
 mascarade dans l'univers  
-je ne suis pas celui  
-que le monde croit  
+je ne suis pas celui que l'on croit  
 
-dans mon illusion  
 comme un astronaute  
-je calcule ma trajectoire  
-dans l'espace  
+je recalcule ma trajectoire  
+maintes et maintes fois  
 
-en imposteur  
+en faisant bien attention  
 je pose mon pied sur la lune  
 sous les projecteurs  
 
-sachant bien qui je suis  
+je fais semblant d'être  
+sachant qui je suis vraiment  
+
 un homme bien ordinaire  
 dans un bien beau costume  
 
