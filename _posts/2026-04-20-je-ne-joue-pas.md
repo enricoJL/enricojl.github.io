@@ -27,8 +27,7 @@ pour la compagnie
 mes règles sont différentes  
 je poursuis des principes  
 qui peuvent vous sembler étranges  
-si vous voulez gagner  
-à tout prix  
+si vous voulez gagner à tout prix  
 
 ils me tiennent à cœur  
 et je peux figer des fois  
