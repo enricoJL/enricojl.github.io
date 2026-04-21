@@ -7,13 +7,21 @@ published: true
 ---
 
 mascarade dans l'univers  
-je ne suis pas celui que je crois  
+je ne suis pas celui  
+que le monde croit  
 
-est-ce que je suis malade ?  
-est-ce que je suis normal ?  
-est-ce que j'en souffre ?  
-
-pas vraiment  
-mais je suis seul  
 dans mon illusion  
+comme un astronaute  
+je calcule ma trajectoire  
+dans l'espace  
 
+en imposteur  
+je pose mon pied sur la lune  
+sous les projecteurs  
+
+sachant bien qui je suis  
+un homme bien ordinaire  
+dans un beau costume  
+
+qui manque bien souvent  
+de maîtrise de soi  
