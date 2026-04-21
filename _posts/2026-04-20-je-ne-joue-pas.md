@@ -39,5 +39,5 @@ sans réfléchir
 ce qui peut faire de moi  
 un mauvais joueur  
 
-je ne joue pas  
-je n'aime pas votre jeu  
+alors je ne joue pas  
+car je n'aime pas votre jeu  
