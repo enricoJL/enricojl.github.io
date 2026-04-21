@@ -21,7 +21,5 @@ sous les projecteurs
 
 sachant bien qui je suis  
 un homme bien ordinaire  
-dans un beau costume  
+dans un bien beau costume  
 
-qui manque bien souvent  
-de maîtrise de soi  
