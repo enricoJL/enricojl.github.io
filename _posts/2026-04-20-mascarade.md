@@ -14,10 +14,10 @@ je recalcule ma trajectoire
 maintes et maintes fois  
 
 en faisant bien attention  
-je pose mon pied sur la lune  
+de poser mon pied sur la lune  
 sous les projecteurs  
 
-je fais semblant d'être  
+je fais semblant  
 sachant qui je suis vraiment  
 
 un homme bien ordinaire  
