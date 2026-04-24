@@ -15,7 +15,7 @@ j'allais accueillir
 mon ami revenant du large
 
 à l'amarrage de son bateau  
-pris dans le cordage  
+pris dans son cordage  
 avec un sourire accrocheur  
 il m'a lancé sur le quai :  
 

@@ -7,7 +7,6 @@ published: false
 ---
 
 mascarade dans l'univers  
-je ne suis pas celui que l'on croit  
 
 comme un astronaute  
 je recalcule ma trajectoire  

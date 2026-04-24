@@ -9,16 +9,10 @@ published: true
 je ne joue pas  
 je n'aime pas votre jeu  
 
-sans vouloir gagner  
-je joue  
-
-mais si quelqu'un s'amuse  
-au détriment d'un autre  
-je laisse le jeu sur la table  
-et j'arrête de jouer  
-
 mon intention n'est pas  
 la même que vous  
+je ne cherche pas  
+à « gagner la game »
 
 quand je joue  
 je joue pour le plaisir de jouer  

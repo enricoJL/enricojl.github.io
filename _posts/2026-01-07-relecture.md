@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "possible"
+title: "relecture"
 date: "2026-01-07"
 categories: "new"
 published: true
 ---
 
-à la racine du possible  
-le jour révisé    
+relecture du possible  
+
 mes limitations  
 les reconsidérant  
 ne me dérangent plus  
