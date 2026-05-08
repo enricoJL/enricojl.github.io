@@ -11,6 +11,7 @@ je n'aime pas votre jeu
 
 mon intention n'est pas  
 la même que vous  
+voyez-vous  
 je ne cherche pas  
 à « gagner la game »
 
