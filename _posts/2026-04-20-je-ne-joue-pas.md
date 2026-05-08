@@ -16,8 +16,6 @@ je ne cherche pas
 
 quand je joue  
 je joue pour le plaisir de jouer  
-pour la compagnie  
-
 mes règles sont différentes  
 je poursuis des principes  
 qui peuvent vous sembler étranges  
@@ -26,10 +24,8 @@ si vous voulez gagner à tout prix
 ils me tiennent à cœur  
 et je peux figer des fois  
 si vous ne les respectez pas  
-
 ou je joue n'importe quoi  
 sans réfléchir  
-
 ce qui peut faire de moi  
 un mauvais joueur  
 
