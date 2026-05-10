@@ -13,7 +13,7 @@ tu trouveras :
 des perles au fond des mers  
 des ruisseaux qui coulent  
 des fleurs qui éclosent  
-à tout moment  
+à tout moment dans l'année  
 des animaux sauvages  
 de toutes les sortes  
 

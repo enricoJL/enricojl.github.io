@@ -8,9 +8,7 @@ published: true
 
 respirer calmement  
 pour absorber la douleur  
-
 en toute confiance  
 sublimer l'angoisse  
 
-et soupirer  
-jusqu'aux étoiles  
+et soupirer jusqu'aux étoiles  
