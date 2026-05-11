@@ -22,5 +22,5 @@ les mains tendues
 pour apaiser le feu  
 
 mourir  
-pour ressusciter  
+pour ressusciter un jour  
 de l'autre côté du monde  

@@ -11,5 +11,5 @@ rester là sur la rive de l'autre
 à espérer la lumière qui viendra un jour  
 
 de soi vers l'autre et de l'autre à soi  
-dans la tempête au travers des échanges  
+dans la tempête au milieu des échanges  
 la lueur provient des deux rivages  
