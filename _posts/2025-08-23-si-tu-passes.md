@@ -8,7 +8,7 @@ published: true
 
 si tu passes par là  
 dans mon cahier  
-tu trouveras :  
+tu trouveras  
 
 des perles au fond des mers  
 des ruisseaux qui coulent  
