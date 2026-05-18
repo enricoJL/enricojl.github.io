@@ -42,7 +42,7 @@ chokidar.watch(postsDir, { ignored: /(^|[\/\\])\.|node_modules/ }).on('add', (fi
 layout: post
 title: "${title}"
 date: "${dateStr}"
-categories: "divers"
+categories: "new"
 published: false
 ---
 `;
