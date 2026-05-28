@@ -2,7 +2,7 @@
 layout: post
 title: "sans frontières"
 date: "2026-01-18"
-categories: "divers"
+categories: "spirit"
 published: true
 ---
 

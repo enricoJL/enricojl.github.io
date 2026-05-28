@@ -2,7 +2,7 @@
 layout: post
 title: "tout le monde est poète"
 date: "2021-01-16"
-categories: "divers"
+categories: "identite"
 ---
 
 qu’ils sont nombreux, les poèmes  

@@ -2,7 +2,7 @@
 layout: post
 title: "bienvenue en ville"
 date: "2025-05-31"
-categories: "divers"
+categories: "spirit"
 published: true
 ---
 

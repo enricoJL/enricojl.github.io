@@ -2,7 +2,7 @@
 layout: post
 title: "pour la beauté du monde"
 date: "2024-02-18"
-categories: "divers"
+categories: "identite"
 published: true
 ---
 

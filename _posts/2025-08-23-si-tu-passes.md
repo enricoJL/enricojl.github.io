@@ -2,7 +2,7 @@
 layout: post
 title: "si tu passes par là"
 date: "2025-08-23"
-categories: "divers"
+categories: "identite"
 published: true
 ---
 

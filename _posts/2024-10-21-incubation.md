@@ -2,7 +2,7 @@
 layout: post
 title: "incubation"
 date: "2024-10-21"
-categories: "divers"
+categories: "spirit"
 published: true
 ---
 

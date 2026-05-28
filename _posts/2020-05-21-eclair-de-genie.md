@@ -2,7 +2,7 @@
 layout: post
 title: "éclair de génie"
 date: "2020-05-21"
-categories: "divers"
+categories: "identite"
 ---
 
 coup de génie !  

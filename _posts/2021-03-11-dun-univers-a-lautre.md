@@ -2,7 +2,7 @@
 layout: post
 title: "d’un univers à l’autre"
 date: "2021-03-11"
-categories: "divers"
+categories: "spirit"
 ---
 
 par-delà les frontières  
