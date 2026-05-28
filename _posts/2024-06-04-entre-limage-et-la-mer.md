@@ -2,7 +2,7 @@
 layout: post
 title: "entre l'image et la mer"
 date: "2024-06-04"
-categories: "pensees"
+categories: "relations"
 published: true
 ---
 

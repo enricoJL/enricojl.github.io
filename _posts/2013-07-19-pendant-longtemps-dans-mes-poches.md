@@ -2,7 +2,7 @@
 layout: post
 title: "pendant longtemps dans mes poches"
 date: "2013-07-19"
-categories: "pensees"
+categories: "resilience"
 ---
 
 pendant longtemps dans mes poches  

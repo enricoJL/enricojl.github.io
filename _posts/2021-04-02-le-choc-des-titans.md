@@ -2,7 +2,7 @@
 layout: post
 title: "le choc des titans"
 date: "2021-04-02"
-categories: "pensees"
+categories: "relations"
 ---
 
 quand on se voit  

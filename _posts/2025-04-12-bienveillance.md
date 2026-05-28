@@ -2,7 +2,7 @@
 layout: post
 title: "bienveillance"
 date: "2025-04-12"
-categories: "divers"
+categories: "relations"
 ---
 
 je te regarde  

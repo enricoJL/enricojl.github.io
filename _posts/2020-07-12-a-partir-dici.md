@@ -2,7 +2,7 @@
 layout: post
 title: "à partir d'ici"
 date: "2020-07-12"
-categories: "pensees"
+categories: "resilience"
 ---
 
 devant moi  

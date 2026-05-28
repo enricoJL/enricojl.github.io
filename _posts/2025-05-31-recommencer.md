@@ -2,7 +2,7 @@
 layout: post
 title: "recommencer"
 date: "2025-05-31"
-categories: "pensees"
+categories: "resilience"
 published: true
 ---
 
