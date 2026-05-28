@@ -2,8 +2,7 @@
 layout: post
 title: "Is This Real?"
 date: "2023-01-06"
-categories:
-  - "amore"
+categories: "amore"
 ---
 
 Do you feel this —  

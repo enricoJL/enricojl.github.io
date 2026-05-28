@@ -2,8 +2,7 @@
 layout: post
 title: "assis par terre"
 date: "2021-02-04"
-categories:
-  - "douleur"
+categories: "douleur"
 ---
 
 assis par terre, dans un coin de la ville  

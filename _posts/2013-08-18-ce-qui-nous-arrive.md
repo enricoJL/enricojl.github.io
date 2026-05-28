@@ -2,8 +2,7 @@
 layout: post
 title: "ce qui nous arrive"
 date: "2013-08-18"
-categories:
-  - "pensees"
+categories: "pensees"
 ---
 
 ce qui nous arrive  

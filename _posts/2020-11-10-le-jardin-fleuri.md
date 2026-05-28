@@ -2,8 +2,7 @@
 layout: post
 title: "Jardin fleuri"
 date: "2020-11-10"
-categories:
-  - "spirit"
+categories: "spirit"
 ---
 
 Dans ce jardin fleuri  

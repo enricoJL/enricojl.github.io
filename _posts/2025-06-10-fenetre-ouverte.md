@@ -2,7 +2,7 @@
 layout: post
 title: "fenêtre ouverte"
 date: "2025-06-10"
-categories: "divers"
+categories: "douleur"
 published: true
 ---
 

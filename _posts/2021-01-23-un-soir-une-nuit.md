@@ -2,8 +2,7 @@
 layout: post
 title: "Un soir"
 date: "2021-01-23"
-categories:
-  - "amore"
+categories: "amore"
 ---
 
 Un soir  

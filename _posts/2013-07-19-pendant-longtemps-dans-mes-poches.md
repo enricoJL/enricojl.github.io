@@ -2,7 +2,7 @@
 layout: post
 title: "pendant longtemps dans mes poches"
 date: "2013-07-19"
-categories: "divers"
+categories: "pensees"
 ---
 
 pendant longtemps dans mes poches  

@@ -2,8 +2,7 @@
 layout: post
 title: "ici et maintenant"
 date: "2018-02-27"
-categories:
-  - "amore"
+categories: "amore"
 ---
 
 il ne me reste plus rien  

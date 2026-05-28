@@ -2,8 +2,7 @@
 layout: post
 title: "au-travers d'une cage"
 date: "2020-09-12"
-categories:
-  - "spirit"
+categories: "spirit"
 ---
 
 un arbre pousse, malgré tout  

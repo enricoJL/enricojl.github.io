@@ -2,7 +2,7 @@
 layout: post
 title: "existe-t-il"
 date: "2020-05-11"
-categories: "divers"
+categories: "amore"
 ---
 
 je me suis dit, en silence :  

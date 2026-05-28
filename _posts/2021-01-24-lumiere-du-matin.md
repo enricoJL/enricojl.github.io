@@ -2,8 +2,7 @@
 layout: post
 title: "lumière du matin"
 date: "2021-01-24"
-categories:
-  - "spirit"
+categories: "spirit"
 ---
 
 dès les premières lueurs du matin  

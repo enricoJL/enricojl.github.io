@@ -2,8 +2,7 @@
 layout: post
 title: "l'arbrisseau"
 date: "2020-09-12"
-categories:
-  - "spirit"
+categories: "spirit"
 ---
 
 l’arbrisseau, recueilli dans ses branches  

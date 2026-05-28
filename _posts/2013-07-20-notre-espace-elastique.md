@@ -2,7 +2,7 @@
 layout: post
 title: "notre espace élastique"
 date: "2013-07-20"
-categories: amore
+categories: "amore"
 ---
 
 en ce moment même, notre vie  

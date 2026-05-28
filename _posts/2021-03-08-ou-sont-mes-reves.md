@@ -2,8 +2,7 @@
 layout: post
 title: "Où sont mes rêves ?"
 date: "2021-03-08"
-categories:
-  - "spirit"
+categories: "spirit"
 ---
 
 J’ai perdu mes rêves — estompés, tous disparus — ma volonté s’est distillée.

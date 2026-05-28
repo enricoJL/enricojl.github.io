@@ -2,8 +2,7 @@
 layout: post
 title: "en chute libre"
 date: "2013-07-20"
-categories:
-  - "douleur"
+categories: "douleur"
 ---
 
 le terrain de mes yeux s'effondre  

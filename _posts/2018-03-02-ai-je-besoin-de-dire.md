@@ -2,8 +2,7 @@
 layout: post
 title: "ai-je besoin de dire"
 date: "2018-03-02"
-categories:
-  - "amore"
+categories: "amore"
 ---
 
 dans le cœur  

@@ -2,8 +2,7 @@
 layout: post
 title: "en cours de route"
 date: "2020-05-11"
-categories:
-  - "amore"
+categories: "amore"
 ---
 
 en cours de route  

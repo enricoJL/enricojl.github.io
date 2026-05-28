@@ -2,7 +2,7 @@
 layout: post
 title: "relecture"
 date: "2026-01-07"
-categories: "new"
+categories: "pensees"
 published: true
 ---
 

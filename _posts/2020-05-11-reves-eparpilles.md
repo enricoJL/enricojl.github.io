@@ -2,8 +2,7 @@
 layout: post
 title: "rêves éparpillés"
 date: "2020-05-11"
-categories:
-  - "divers"
+categories: "divers"
 ---
 
 des bribes éparpillées  

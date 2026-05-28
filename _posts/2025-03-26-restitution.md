@@ -2,7 +2,7 @@
 layout: post
 title: "restitution"
 date: "2025-03-26"
-categories: "divers"
+categories: "pensees"
 published: true
 ---
 

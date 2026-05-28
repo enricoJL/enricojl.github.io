@@ -2,8 +2,7 @@
 layout: post
 title: "La docilité du rêve"
 date: "2006-10-23"
-categories:
-  - "douleur"
+categories: "douleur"
 ---
 
 J'ai vécu dans le rêve. J'ai laissé mon rêve engloutir ma vie complètement, jusqu'à me mêler moi-même avec lui. Je me suis construit un navire de souhaits que j'ai chéri. Mais voilà qu'aujourd'hui, mon *vaisseau d'or*[^1] s'est échoué. Qu'est-il advenu de mes aspirations ?   

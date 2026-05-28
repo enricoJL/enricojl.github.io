@@ -2,8 +2,7 @@
 layout: post
 title: "Au pied d'un arbre"
 date: "2013-07-20"
-categories:
-  - "douleur"
+categories: "douleur"
 ---
 
 Au pied d'un arbre, dans un jardin  

@@ -2,8 +2,7 @@
 layout: post
 title: "si fragile"
 date: "2013-07-20"
-categories:
-  - "amore"
+categories: "amore"
 ---
 
 au milieu de nous deux  

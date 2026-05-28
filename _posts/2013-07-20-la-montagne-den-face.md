@@ -2,8 +2,7 @@
 layout: post
 title: "la montagne d'en face"
 date: "2013-07-20"
-categories:
-  - "divers"
+categories: "pensees"
 ---
 
 l’un après l’autre  

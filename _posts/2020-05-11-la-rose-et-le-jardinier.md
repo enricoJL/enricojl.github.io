@@ -2,8 +2,7 @@
 layout: post
 title: "la rose et son jardinier"
 date: "2020-05-11"
-categories:
-  - "douleur"
+categories: "douleur"
 ---
 
 le jardinier a pris la rose  

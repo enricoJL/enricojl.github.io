@@ -2,8 +2,7 @@
 layout: post
 title: "L'homme chrétien"
 date: "2020-10-16"
-categories:
-  - "spirit"
+categories: "spirit"
 ---
 
 À chaque matin, le soleil jette sur le monde  

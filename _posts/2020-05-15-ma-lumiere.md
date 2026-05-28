@@ -2,8 +2,7 @@
 layout: post
 title: "Ma lumière"
 date: "2020-05-15"
-categories:
-  - "spirit"
+categories: "spirit"
 ---
 
 Un soir, j’ai traîné dehors jusqu’au crépuscule, puis je suis rentré chez nous pour me réchauffer. J’avais dans la tête encore les échos des rues quand je suis rentré — et j’ai oublié de te saluer, mon ami.

@@ -2,7 +2,7 @@
 layout: post
 title: "sans image"
 date: "2025-03-26"
-categories: "divers"
+categories: "pensees"
 published: true
 ---
 

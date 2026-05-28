@@ -2,8 +2,7 @@
 layout: post
 title: "Plus belle et plus grande"
 date: "2021-02-01"
-categories:
-  - "spirit"
+categories: "spirit"
 ---
 
 Elle a été soufflée dans un vase de cristal  

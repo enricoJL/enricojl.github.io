@@ -2,8 +2,7 @@
 layout: post
 title: "cycle de vie"
 date: "2018-12-22"
-categories:
-  - "douleur"
+categories: "pensees"
 ---
 
 le lion mange la chèvre  

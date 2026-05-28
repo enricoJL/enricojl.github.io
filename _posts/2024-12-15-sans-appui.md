@@ -2,7 +2,7 @@
 layout: post
 title: "sans appui"
 date: "2024-12-15"
-categories: "divers"
+categories: "douleur"
 published: true
 ---
 

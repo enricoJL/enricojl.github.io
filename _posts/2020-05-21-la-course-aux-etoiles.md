@@ -2,8 +2,7 @@
 layout: post
 title: "La course aux étoiles"
 date: "2020-05-21"
-categories:
-  - "divers"
+categories: "divers"
 ---
 
 J'étais sur une étoile, et je regardais vers l'intérieur. Tout à coup, j'y ai été attiré — et je m’y suis perdu.

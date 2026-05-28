@@ -2,7 +2,7 @@
 layout: post
 title: "comment te le dire"
 date: "2023-01-06"
-categories: amore
+categories: "amore"
 ---
 
 quoi dire, quoi faire, comment te le dire ?  

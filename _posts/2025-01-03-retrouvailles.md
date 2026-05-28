@@ -2,7 +2,7 @@
 layout: post
 title: "retrouvailles"
 date: "2025-01-03"
-categories: "divers"
+categories: "amore"
 published: true
 ---
 

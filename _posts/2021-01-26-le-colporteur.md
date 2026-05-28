@@ -2,8 +2,7 @@
 layout: post
 title: "le colporteur"
 date: "2021-01-26"
-categories:
-  - "douleur"
+categories: "douleur"
 ---
 
 je vis dans une cage  

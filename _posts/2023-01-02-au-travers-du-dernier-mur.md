@@ -2,8 +2,7 @@
 layout: post
 title: "au travers du dernier mur"
 date: "2023-01-02"
-categories:
-  - "douleur"
+categories: "douleur"
 ---
 
 au travers du dernier mur  

@@ -2,8 +2,7 @@
 layout: post
 title: "métamorphose"
 date: "2020-05-29"
-categories:
-  - "amore"
+categories: "amore"
 ---
 
 au centre de nous deux  

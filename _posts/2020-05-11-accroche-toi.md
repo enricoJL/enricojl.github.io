@@ -2,8 +2,7 @@
 layout: post
 title: "accroche-toi!"
 date: "2020-05-11"
-categories:
-  - "amore"
+categories: "amore"
 ---
 
 accroche-toi  
