@@ -6,7 +6,7 @@ categories: "divers"
 ---
 
 <center>
-	<img src="{{site.baseurl}}/assets/figures/clown.png">
+	<img src="{{site.baseurl}}/assets/figures/clown2.png">
 </center>
 
 Qu’est-ce qui cloche ?  
