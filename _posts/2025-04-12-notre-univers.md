@@ -2,7 +2,7 @@
 layout: post
 title: "notre univers"
 date: "2025-04-12"
-categories: "pensees"
+categories: "resilience"
 published: true
 ---
 

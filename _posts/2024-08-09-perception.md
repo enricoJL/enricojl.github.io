@@ -2,7 +2,7 @@
 layout: post
 title: "Perception, imagination et réalité"
 date: "2024-08-09"
-categories: "pensees"
+categories: "identite"
 published: true
 ---
 

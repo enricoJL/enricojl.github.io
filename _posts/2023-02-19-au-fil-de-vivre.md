@@ -2,7 +2,7 @@
 layout: post
 title: "au fil de vivre"
 date: "2023-02-19"
-categories: "pensees"
+categories: "resilience"
 published: true
 ---
 

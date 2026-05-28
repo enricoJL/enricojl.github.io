@@ -2,7 +2,7 @@
 layout: post
 title: "puissance"
 date: "2025-01-04"
-categories: "pensees"
+categories: "identite"
 published: true
 ---
 

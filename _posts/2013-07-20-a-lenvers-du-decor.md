@@ -2,7 +2,7 @@
 layout: post
 title: "à l'envers du décor"
 date: "2013-07-20"
-categories: "pensees"
+categories: "identite"
 ---
 
 j'ai tout préparé  

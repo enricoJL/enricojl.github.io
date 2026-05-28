@@ -2,7 +2,7 @@
 layout: post
 title: "le cœur a ses raisons"
 date: "2021-02-27"
-categories: "pensees"
+categories: "amore"
 ---
 
 le cœur a ses raisons  

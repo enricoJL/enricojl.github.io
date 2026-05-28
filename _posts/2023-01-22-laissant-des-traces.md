@@ -2,7 +2,7 @@
 layout: post
 title: "laissant des traces"
 date: "2023-01-22"
-categories: "pensees"
+categories: "identite"
 published: true
 ---
 

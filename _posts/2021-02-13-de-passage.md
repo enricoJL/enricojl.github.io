@@ -2,7 +2,7 @@
 layout: post
 title: "de passage"
 date: "2021-02-13"
-categories: "pensees"
+categories: "identite"
 ---
 
 à l’intérieur de mes pensées  
