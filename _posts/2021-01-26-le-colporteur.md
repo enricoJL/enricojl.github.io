@@ -30,7 +30,7 @@ on fait vibrer ma maison
 rempli de miel jusque dans les yeux  
 il offre d’abord sa présence  
 
-— Méfie-toi !  
+— méfie-toi !  
 
 et je me réjouis d’avoir fermé la porte  
 avant que son pied n’atteigne l’intérieur  

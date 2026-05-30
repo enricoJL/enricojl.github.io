@@ -10,7 +10,7 @@ il y avait un jeune homme barbu, très mal en point
 la tête enfouie dans la poussière de son manteau  
 
 quand j’ai placé ma pièce de monnaie dans sa tasse  
-il m’a dit : « merci »  
+il m’a dit : « Merci. »  
 mais j’avais plus envie que lui de dire merci  
 
 assis par terre, j’ai vu là un homme exténué  

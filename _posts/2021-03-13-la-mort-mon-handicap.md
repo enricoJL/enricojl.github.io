@@ -5,8 +5,7 @@ date: "2021-03-13"
 categories: "douleur"
 ---
 
-ma maladie  
-c’est la mort  
+ma maladie, c’est la mort  
 
 mon handicap  
 c’est de refuser d’y croire  

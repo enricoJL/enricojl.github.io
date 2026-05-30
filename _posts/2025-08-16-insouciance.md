@@ -6,11 +6,10 @@ categories: "douleur"
 published: true
 ---
 
-parti  
-à la lisière du mensonge  
+parti à la lisière du mensonge  
 parcourir les horizons  
 je suis revenu  
-enroché de montagnes   
+tout enroché de montagnes   
 
 << Tu as tant souffert ! >>  
 t'es-tu exclamée

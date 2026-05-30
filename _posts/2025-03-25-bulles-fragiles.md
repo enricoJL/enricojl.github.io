@@ -9,8 +9,7 @@ published: true
 chacun dans sa bulle  
 conscient à moitié  
 concentré sur soi  
-avec l’espoir  
-d’y rencontrer l’autre  
+avec l’espoir d’y rencontrer l’autre  
 
 chacun dans sa bulle  
 on se côtoie  

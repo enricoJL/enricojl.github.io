@@ -9,12 +9,10 @@ published: true
 
 attendre  
 sous les couvertures  
-le jour qui se lève  
 toute la nuit  
 
 sans penser  
-sans se soucier  
-et faire le vide  
+faire le vide  
 
 les amertumes du jour  
 les inquiétudes du soir  
@@ -24,8 +22,7 @@ veiller sur l'oreiller
 sans penser à rien  
 
 encore une fois  
-basculer  
-dans le vide  
+basculer dans le vide  
 
 la nuit réparatrice  
 le matin révélateur  
