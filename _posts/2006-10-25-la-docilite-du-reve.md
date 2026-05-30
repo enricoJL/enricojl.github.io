@@ -5,15 +5,29 @@ date: "2006-10-23"
 categories: "douleur"
 ---
 
-J'ai vécu dans le rêve. J'ai laissé mon rêve engloutir ma vie complètement, jusqu'à me mêler moi-même avec lui. Je me suis construit un navire de souhaits que j'ai chéri. Mais voilà qu'aujourd'hui, mon *vaisseau d'or*[^1] s'est échoué. Qu'est-il advenu de mes aspirations ?   
+<div style="text-align: right; font-style: italic;">
+  Que reste-t-il de lui dans la tempête brève ?<br/>
+  Qu’est devenu mon coeur, navire déserté ?<br/>
+  Hélas! Il a sombré dans l’abîme du Rêve !<br/>
+  <br/>
+  <sup style="font-style: normal;">(Émile Nelligan, Le Vaisseau d'or)</sup>  
+</div>
+<br/>  
+
+J'ai laissé le rêve engloutir ma vie complètement, jusqu'à me mêler moi-même avec lui. Je me suis construit un navire de souhaits que j'ai chéri. Mais voilà qu'aujourd'hui, mon *Vaisseau d'or*[^1] s'est échoué.    
 
 La vieillesse me tue petit à petit et la réalité me rattrape malgré moi. L’orgueil, oh ! l'orgueil mesquin qui me donnait des ailes et me laissait planer sur l'adversité, s'est enfui loin de moi, piqué au cœur et percé de douleur ; je reste seul dans l'humilité de mes limites et de ma condition. Ma maison rapetisse de plus en plus, les murs se rapprochent et les corridors se rétrécissent sans cesse. Va-t-il me rester une issue ?  
 
 Existe-il le soleil ? Je n'ai plus de fenêtre pour voir la lumière dehors : ou l'ai-je jamais vue ? Des fois, je pense que la vie n'est pas réelle, mais qu'elle existe ailleurs, dans un monde parallèle ou chacune de nos pensées s'accumule comme un trésor qu'on ne découvrira que plus tard.
 
-« *Ainsi la vie n’est que le rêve d’un rêve*,  
-*Mais l’état de veille est ailleurs*. »[^2]  
-
+<div style="text-align: right; font-style: italic;">
+  Ainsi la vie n’est que le rêve d’un rêve,<br/>  
+  Mais l’état de veille est ailleurs.<br/> 
+  <br/>
+  <sup style="font-style: normal;">()</sup>  
+</div>
+<br/>  
+ 
 J’ai du mal à accepter de me soumettre à la vie telle qu'elle m'est donnée.
 
 Je préfère me blottir dans mes rêves, et ce, même si je suis seul à y croire, contre la réalité, et contre mon corps beaucoup trop faible pour mes ambitions. Je continue de croire jusqu'à mourir de stupidité, s'il le faut. Croire c'est la force de mes membres, la source de ma persévérance et la joie de mes efforts. Ma souffrance même de vivre trouve sa joie dans mes espérances, mes croyances et mon obstination.   
@@ -29,14 +43,3 @@ Comment lutter contre une telle vérité ? Comment échapper à cette fatalité
 Ma maladie me ronge et je refuse d'en souffrir, et pourtant, la douleur envahit tout mon être, et le mal sournoisement me guette au détour.
 
 *Ma maladie, c'est la mort. Mon handicap, c'est de refuser d'y croire.*
-
-<br/>
-<br/>
-<br/>
-
-----
-
-**Références**
-
-[^1]: Émile Nelligan, Le Vaisseau d'Or  
-[^2]: Rainer Maria Rilke
