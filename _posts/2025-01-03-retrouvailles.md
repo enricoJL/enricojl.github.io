@@ -7,7 +7,7 @@ published: true
 ---
 
 contre toute évidence  
-à l'envers des coincidences  
+à l'envers des coïncidences  
 aux retrouvailles  
 sur le chemin des attentes  
 je reprends ta main  
