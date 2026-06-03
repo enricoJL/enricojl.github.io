@@ -2,7 +2,7 @@
 layout: post
 title: "inextricable beauté"
 date: "2020-06-12"
-categories: "spirit"
+categories: "identite"
 ---
 
 la terre s’ébranle, encore une fois  
