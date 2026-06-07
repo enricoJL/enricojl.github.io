@@ -5,10 +5,14 @@ date: "2021-02-27"
 categories: "identite"
 ---
 
-le cœur a ses raisons  
-mais rien n'y paraît  
+<div style="text-align: right; font-style: italic;">
+  le cœur a ses raisons que la raison ignore<br/>
+  <br/>
+  <sup style="font-style: normal;">(Blaise Pascal)</sup>  
+</div>
 
-comme une chapelle enterrée  
+rien n'y paraît  
+comme une chapelle sous terre  
 que personne ne voit  
 avec ses reliques et ses prières  
 
