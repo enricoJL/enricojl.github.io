@@ -6,11 +6,13 @@ categories: "identite"
 ---
 
 le cœur a ses raisons  
+mais rien n'y paraît  
+
 comme une chapelle enterrée  
+que personne ne voit  
 avec ses reliques et ses prières  
 
-une crypte en fusion  
-dont la paroi fragile  
+une crypte dont la paroi fragile  
 abrite un aveu qui se consume  
 
 un désir ardent y nourrit  
