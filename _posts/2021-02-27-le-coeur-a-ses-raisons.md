@@ -13,8 +13,8 @@ que personne ne voit
 avec ses reliques et ses prières  
 
 une crypte dont la paroi fragile  
-abrite un aveu qui se consume  
-
-un désir ardent y nourrit  
+abrite un aveu qui consume  
 toute forme de vie  
+
+un désir ardent 
 sous une cathédrale d'intentions  
