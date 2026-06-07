@@ -6,13 +6,13 @@ categories: "identite"
 ---
 
 le cœur a ses raisons  
-mais rien n'y paraît  
+comme une chapelle enterrée  
+avec ses reliques et ses prières  
 
-une boîte fermée    
-un œuf  
-une planète en fusion  
-
-dont la croûte fragile  
+une crypte en fusion  
+dont la paroi fragile  
 abrite un aveu qui se consume  
-un désir ardent qui nourrit  
+
+un désir ardent y nourrit  
 toute forme de vie  
+sous une cathédrale d'intentions  
