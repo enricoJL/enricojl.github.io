@@ -6,7 +6,7 @@ De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la 
 
 ---
 
-## Séquence complète — 35 poèmes, 34 ans
+## Séquence complète — 36 poèmes, 34 ans
 
 ### Phase I — Mirage 
 
@@ -57,6 +57,7 @@ De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la 
 | 33 | Sans frontières | 2026-01-18 | **Transversalité** — la circulation libre sans limites |
 | 34 | Semblable | 2025-08 | **Tournant** — la ressemblance devient don, non projection |
 | 35 | Abysmal | 2026-05 | **Téléologie** — "jusqu'à te ressembler / en puissance / en pureté" |
+| 36 | je marche avec Lui | 2013 | **Coda** — la destination révélée : compagnon, non image |
 
 ---
 
@@ -87,15 +88,23 @@ La sortie n'est pas d'ajuster les images plus soigneusement — c'est de donner 
 
 > "jusqu'à te ressembler / en puissance / en pureté" — *Abysmal*
 
+
+### Coda — je marche avec Lui (2013)
+*Poème 36*
+
+La métamorphose révèle sa destination : le poète n'est pas devenu image, il est devenu compagnon. Le "je" de 2013 qui marchait avec Lui, c'est le même "je" de 2026 qui a traversé mirage, prison, métamorphose. Le feu tendre, l'océan qui se déverse, les genoux sur l'éternité : c'était ça, depuis le début.
+
+> "je marche avec Lui dans une fontaine / au beau milieu d'un feu tendre" — *je marche avec Lui*
+
 ---
 
 ## Notes pour la construction du recueil
 
 - **Ouverture :** *Premier baiser* (1992) — la matrice de tout
-- **Fermeture :** *Abysmal* (2026) — la résolution téléologique
+- **Fermeture :** *Abysmal* (2026) — la résolution téléologique, suivie du coda *je marche avec Lui* (2013) — la destination révélée
 - **Poème pivot :** *Le choc des titans* (2021) — centre de gravité théorique, mérite une mise en page à part
 - **Triptyque clé :** *Imagination / Restitution / Sans image* (26 mars 2025) — trois poèmes le même jour, méritent une section ou une page commune
-- **Le fil spirituel discret :** *Épitaphe* → *Semblable* → *Abysmal* — progression vers la ressemblance à l'Autre ultime
+- **Le fil spirituel discret :** *Épitaphe* → *Semblable* → *Abysmal* → *je marche avec Lui* — progression vers la ressemblance à l'Autre ultime
 - **Note sur Mascarade :** placé en Phase II (2026 chronologiquement, mais thématiquement lié aux masques conscients de 2020) — à confirmer si l'ordre chronologique strict est retenu pour le recueil
 
 ---

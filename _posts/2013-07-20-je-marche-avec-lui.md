@@ -1,25 +1,24 @@
 ---
 layout: post
-title: "Je marche avec Lui"
+title: "je marche avec Lui"
 date: "2013-07-20"
 categories: "spirit"
 ---
 
-Je marche avec Lui dans une fontaine  
+je marche avec Lui dans une fontaine  
 au beau milieu d’un feu tendre  
 
-Pris d’altitude  
+pris d’altitude  
 le véritable sentiment jaillit  
-
 un océan comme un feu de joie se déverse  
 
-Tous mes espoirs d’avenir balancés  
+tous mes espoirs d’avenir balancés  
 comme un câble dans un puits  
-cherchent l’eau profonde et fraîche  
+cherchant l’eau profonde et fraîche  
 
-Le regard enfoui dans le ciel  
-ma conscience s’élève et se déplace  
+le regard enfoui dans le ciel  
+ma conscience élargie se déplace  
 par-dessus les nuages  
 
-Mes pas sur le trottoir disparaissent  
+mes pas sur le trottoir disparaissent  
 et mes genoux sur l’éternité se déposent  
