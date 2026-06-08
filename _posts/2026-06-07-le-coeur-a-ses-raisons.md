@@ -18,7 +18,7 @@ avec ses reliques et ses prières
 
 une crypte dont la paroi fragile  
 abrite un aveu qui consume  
-toute forme de vie  
+toutes formes de vie  
 
 un désir ardent  
 sous une cathédrale d'intentions  
