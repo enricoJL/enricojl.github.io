@@ -1,5 +1,5 @@
 ---
-title: "Mirage"
+title: "Du mirage à la métamorphose"
 author: "Enrico J. Lévesque"
 date: ""
 lang: fr
@@ -31,7 +31,7 @@ header-includes:
 \begin{titlepage}
 \centering
 \vspace*{4cm}
-{\fontsize{40}{50}\selectfont\bfseries mirage}\\[1.4cm]
+{\fontsize{40}{50}\selectfont\bfseries Du mirage à la métamorphose}\\[1.4cm]
 {\large\itshape Poèmes choisis — 1992–2026}\\[2.5cm]
 {\large Enrico J. Lévesque}
 \vfill
@@ -47,7 +47,7 @@ header-includes:
 
 ---
 
-# Phase I — mirage
+# Phase I — Mirage
 
 *Le poète désire l'image de l'autre, non l'autre. La peur centrale : que la réalité dissolve le mirage. L'image est forteresse et illusion à la fois.*
 
@@ -399,8 +399,43 @@ et faire mourir le soleil
 et le silence devient soudain  
 vide de rien  
 
+\newpage
+\vspace*{2cm}
 
-# Phase II — prison
+## Elle
+
+Elle  
+c’est-à-dire notre présence  
+quand nous sommes ensemble  
+est une troisième personne  
+
+Elle a préséance entre nous  
+dans la rencontre, Elle  
+nous traverse et nous transforme  
+
+en sa présence  
+Je n’existe plus  
+et Tu n’existe plus  
+
+je ne suis plus celui que je suis  
+et tu n’es plus celle que tu es  
+car nous formons une autre  
+tout à fait  
+
+Elle agit et pense différemment de chacun de nous  
+Elle est l’ensemble de nos deux personnes  
+l’un et l’autre formant la troisième  
+
+Je et Tu* sommes Elle  
+
+
+***
+
+* *Inspiré du livre « Je et Tu » de Martin Buber*
+
+
+
+# Phase II — Prison
 
 *Le poète nomme le mécanisme. La première vision réciproque ouvre une brèche, mais le masque social se consolide avant que la vérité ne blesse. Le pivot théorique : nous ne rencontrons pas l'autre, nous rencontrons nos images de l'autre.*
 
@@ -704,7 +739,7 @@ partout où j'allais
 mon véhicule était ma prison  
 
 
-# Phase III — libération
+# Phase III — Métamorphose
 
 *La sortie n'est pas d'ajuster les images plus soigneusement — c'est de donner sans se regarder être vu. L'image-miroir est désactivée. Le soi est redéfini hors de l'économie des images. La ressemblance devient téléologie, non origine du désir.*
 

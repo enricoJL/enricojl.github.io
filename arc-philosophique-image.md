@@ -6,9 +6,9 @@ De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la 
 
 ---
 
-## Séquence complète — 33 poèmes, 34 ans
+## Séquence complète — 35 poèmes, 34 ans
 
-### Phase I — mirage 
+### Phase I — Mirage 
 
 | # | Poème | Date | Fonction |
 |---|-------|------|----------|
@@ -19,58 +19,59 @@ De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la 
 | 5 | En chute libre | 2013 | **Vertige** — "l'envers de qui je suis" |
 | 6 | Gravure | 2013 | **Inscription** — l'image de l'autre gravée dans mes prunelles |
 | 7 | Si fragile | 2013 | **Bulle** — le château fort qui isole autant qu'il protège |
+| 8 | Elle | 2013 | **Annonce** — la théorie de la rencontre absolue (Buber), promise mais pas encore atteinte |
 
-### Phase II — prison 
-
-| # | Poème | Date | Fonction |
-|---|-------|------|----------|
-| 8 | Ici et maintenant | 2018 | **Brèche** — première vision réciproque sans mirage |
-| 9 | Temple, fondements et babeurre | 2019 | **Théorie** — chacun au centre de son univers construit |
-| 10 | Passe-moi un film | 2020 | **Mise en scène** — soi comme personnage de son propre film |
-| 11 | De belles choses à dire | 2020-12 | **Clown** — la mascarade lucide avant la lucidité de la mascarade |
-| 12 | Mascarade | 2026-04 | **Lucidité** — je fais semblant sachant qui je suis vraiment |
-| 13 | Inquiétude | 2023-07 | **Choc** — la vérité blesse, le cœur chavire, la question est posée |
-| 14 | Blessure | 2023-03 | **Érosion** — la vérité qui n'est plus, bascule dans l'ultrasensibilité |
-| 15 | Le cœur a ses raisons | 2021 | **Crypte** — le désir ardent sous la cathédrale d'intentions |
-| 16 | Le choc des titans | 2021 | **Pivot** — les images prennent toute la place entre toi et moi |
-| 17 | Véhicule prison | — | **Corps** — le corps comme véhicule et prison de l'image de soi |
-
-### Phase III — libération 
+### Phase II — Prison 
 
 | # | Poème | Date | Fonction |
 |---|-------|------|----------|
-| 17 | Démolition | 2023-07 | **Rupture** — on détruit les murs pour ouvrir l'espace |
-| 18 | D'un univers à l'autre | 2021-03 | **Propulsion** — la beauté nous projette hors des frontières |
-| 19 | Inextricable beauté | 2020-06 | **Chaos** — la beauté déstabilise et brise le contrôle |
-| 20 | La beauté | 2023-01 | **Ouverture** — la beauté comme transport vers l'ailleurs |
-| 21 | Épitaphe | 2023 | **Essence** — ce qu'on est au-delà de l'image (l'urne vivace) |
-| 22 | Tendre vers l'autre | 2023 | **Pratique** — donner sans se regarder être vu |
-| 23 | Entre l'image et la mer | 2024 | **Obstacle** — l'image encombre ce qui existe vraiment |
-| 24 | Cristal | 2024 | **Refus** — ne reflètes rien, l'image-miroir désactivée |
-| 25 | Perception | 2024 | **Cartographie** — les trois univers, sortie par le partage |
-| 26 | Bulles fragiles | 2025-03-25 | **Diagnostic** — les bulles nommées, vues, acceptées |
-| 27 | Imagination | 2025-03-26 | **Débordement** — l'image cesse d'être piège, devient espace |
-| 28 | Restitution | 2025-03-26 | **Reconstruction** — image organique qui se reforme |
-| 29 | Sans image | 2025-03-26 | **Libération** — le feu vibrant de la présence nue |
-| 30 | Be water, my friend | 2025-08-13 | **Fluidité** — l'abandon et le lâcher-prise |
-| 31 | Sans frontières | 2026-01-18 | **Transversalité** — la circulation libre sans limites |
-| 32 | Semblable | 2025-08 | **Tournant** — la ressemblance devient don, non projection |
-| 33 | Abysmal | 2026-05 | **Téléologie** — "jusqu'à te ressembler / en puissance / en pureté" |
+| 9 | Ici et maintenant | 2018 | **Brèche** — première vision réciproque sans mirage |
+| 10 | Temple, fondements et babeurre | 2019 | **Théorie** — chacun au centre de son univers construit |
+| 11 | Passe-moi un film | 2020 | **Mise en scène** — soi comme personnage de son propre film |
+| 12 | De belles choses à dire | 2020-12 | **Clown** — la mascarade lucide avant la lucidité de la mascarade |
+| 13 | Mascarade | 2026-04 | **Lucidité** — je fais semblant sachant qui je suis vraiment |
+| 14 | Inquiétude | 2023-07 | **Choc** — la vérité blesse, le cœur chavire, la question est posée |
+| 15 | Blessure | 2023-03 | **Érosion** — la vérité qui n'est plus, bascule dans l'ultrasensibilité |
+| 16 | Le cœur a ses raisons | 2021 | **Crypte** — le désir ardent sous la cathédrale d'intentions |
+| 17 | Le choc des titans | 2021 | **Pivot** — les images prennent toute la place entre toi et moi |
+| 18 | Véhicule prison | — | **Corps** — le corps comme véhicule et prison de l'image de soi |
+
+### Phase III — Métamorphose 
+
+| # | Poème | Date | Fonction |
+|---|-------|------|----------|
+| 19 | Démolition | 2023-07 | **Rupture** — on détruit les murs pour ouvrir l'espace |
+| 20 | D'un univers à l'autre | 2021-03 | **Propulsion** — la beauté nous projette hors des frontières |
+| 21 | Inextricable beauté | 2020-06 | **Chaos** — la beauté déstabilise et brise le contrôle |
+| 22 | La beauté | 2023-01 | **Ouverture** — la beauté comme transport vers l'ailleurs |
+| 23 | Épitaphe | 2023 | **Essence** — ce qu'on est au-delà de l'image (l'urne vivace) |
+| 24 | Tendre vers l'autre | 2023 | **Pratique** — donner sans se regarder être vu |
+| 25 | Entre l'image et la mer | 2024 | **Obstacle** — l'image encombre ce qui existe vraiment |
+| 26 | Cristal | 2024 | **Refus** — ne reflètes rien, l'image-miroir désactivée |
+| 27 | Perception | 2024 | **Cartographie** — les trois univers, sortie par le partage |
+| 28 | Bulles fragiles | 2025-03-25 | **Diagnostic** — les bulles nommées, vues, acceptées |
+| 29 | Imagination | 2025-03-26 | **Débordement** — l'image cesse d'être piège, devient espace |
+| 30 | Restitution | 2025-03-26 | **Reconstruction** — image organique qui se reforme |
+| 31 | Sans image | 2025-03-26 | **Libération** — le feu vibrant de la présence nue |
+| 32 | Be water, my friend | 2025-08-13 | **Fluidité** — l'abandon et le lâcher-prise |
+| 33 | Sans frontières | 2026-01-18 | **Transversalité** — la circulation libre sans limites |
+| 34 | Semblable | 2025-08 | **Tournant** — la ressemblance devient don, non projection |
+| 35 | Abysmal | 2026-05 | **Téléologie** — "jusqu'à te ressembler / en puissance / en pureté" |
 
 ---
 
 ## Les trois phases du recueil
 
-### Phase I — Le mirage (1992–2013)
-*Poèmes 1 à 7*
+### Phase I — Mirage (1992–2013)
+*Poèmes 1 à 8*
 
-Le poète désire l'image de l'autre, non l'autre. La peur centrale : que la réalité dissolve le mirage. L'image est forteresse et illusion à la fois. Le cluster 2013 est une explosion soudaine de conscience — cinq poèmes la même saison, comme si le diagnostic venait de se poser.
+Le poète désire l'image de l'autre, non l'autre. La peur centrale : que la réalité dissolve le mirage. L'image est forteresse et illusion à la fois. Le cluster 2013 est une explosion soudaine de conscience — six poèmes la même saison, comme si le diagnostic venait de se poser.
 
 > "Tu te tenais là / belle comme un mirage" — *Premier baiser*
 > "Je préfère me blottir dans mes rêves... contre la réalité." — *La docilité du rêve*
 
-### Phase II — La prison (2018–2021)
-*Poèmes 8 à 16*
+### Phase II — Prison (2018–2021)
+*Poèmes 9 à 17*
 
 Le poète nomme le mécanisme. La première vision réciproque ouvre une brèche, mais le masque social se consolide (film, clown, mascarade lucide) avant que la vérité ne blesse. Le choc des images ouvre une crise : inquiétude, blessure, puis le cœur souterrain qui persiste malgré tout. Le pivot théorique : nous ne rencontrons pas l'autre, nous rencontrons nos images de l'autre.
 
@@ -79,8 +80,8 @@ Le poète nomme le mécanisme. La première vision réciproque ouvre une brèche
 > "rien n'est plus blessant / qu'une vérité qui ne l'est plus" — *Blessure*
 > "un désir ardent / sous une cathédrale d'intentions" — *Le cœur a ses raisons*
 
-### Phase III — La libération (2023–2026)
-*Poèmes 17 à 33*
+### Phase III — La métamorphose (2023–2026)
+*Poèmes 19 à 35*
 
 La sortie n'est pas d'ajuster les images plus soigneusement — c'est de donner sans se regarder être vu. L'image-miroir est désactivée. Le soi est redéfini hors de l'économie des images. La ressemblance devient téléologie, non origine du désir.
 
