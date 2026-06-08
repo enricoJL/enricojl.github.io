@@ -13,7 +13,7 @@ qu’ils se l’approprient
 qu’elle s’envole  
 qu’elle voyage  
 qu’elle se propulse  
-au cœur de l'humanité  
+au cœur  
 
 qu’elle aspire tout  
 pour s’élever jusqu’à toi  
