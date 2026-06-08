@@ -43,7 +43,7 @@ header-includes:
 \newpage
 
 
-*De « j'embrassais mon mirage » (1992) à « jusqu'à te ressembler » (2026) : la peur que l'image se dissipe est devenue désir de devenir image en métamorphose. La trajectoire passe de l'épistémologie — comment voit-on l'autre ? — à l'ontologie — qu'est-ce qu'on devient ?*
+De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la peur que l'image se dissipe est devenue désir de se transformer en l'image. La trajectoire ondule de l'épistémologie — *comment voit-on l'autre ?* — à l'ontologie — *qu'est-ce qu'on devient ?*
 
 ---
 
@@ -1021,8 +1021,7 @@ prête à éclater
 
 dans *ton* imagination  
 je déborde de tous côtés  
-je ne tiens plus  
-en place  
+je ne tiens plus en place  
 
 les fers cèdent  
 je suis sable mouvant  
@@ -1030,16 +1029,15 @@ insaisissable
 
 tu ne peux plus me retenir  
 si tu cherchais à me piétiner  
-tu t'enliserais  
+tu t’enliserais  
 
 je suis un souffle vaporeux  
-qui respire l'air du printemps  
+qui respire l’air du printemps  
 après un hiver trop dur  
 
 je suis fleur qui éclot  
 oranger qui se réveille —  
-dans *mon* imagination  
-
+dans *mon* imagination
 
 \newpage
 \vspace*{2cm}
@@ -1047,20 +1045,19 @@ dans *mon* imagination
 ## restitution
 
 personne ne me voit  
-tous supposent que je sois  
-en quelque sorte  
+mais tous supposent que je sois  
 
+je suis en quelque sorte  
 un amalgame  
-tissé dans la multitude  
+tissé de multitude  
 
 je suis un collage de bribes éparpillées  
 dans l'imagination d'une foule  
 
-je suis une étoile à la dérive  
+je suis une étoile échouée  
 relancée mille fois dans la mer  
 une image organique  
-en restitution perpétuelle  
-
+en restitution perpétuelle
 
 \newpage
 \vspace*{2cm}
@@ -1068,7 +1065,7 @@ en restitution perpétuelle
 ## sans image
 
 sans image  
-je suis là  
+je me tiens là  
 
 vivant  
 avec mon souffle  
@@ -1084,9 +1081,9 @@ cette image reconstituée
 ce n'est pas moi  
 
 je refuse  
-je m'oppose  
-à n'être qu'un reflet  
-projeté dans tes pensées  
+je m’oppose  
+à n’être que le reflet  
+d'une projection de tes pensées  
 
 JE SUIS  
 
@@ -1095,9 +1092,8 @@ tout autrement
 sans artifice  
 
 un feu vibrant  
-que j'espère  
-aimant  
-
+que j’espère  
+aimant
 
 \newpage
 \vspace*{2cm}

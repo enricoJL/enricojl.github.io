@@ -7,7 +7,7 @@ published: true
 ---
 
 sans image  
-je suis là  
+je me tiens là  
 
 vivant  
 avec mon souffle  
@@ -24,8 +24,8 @@ ce n'est pas moi
 
 je refuse  
 je m’oppose  
-à n’être qu'un reflet  
-projeté dans tes pensées  
+à n’être que le reflet  
+d'une projection de tes pensées  
 
 JE SUIS  
 

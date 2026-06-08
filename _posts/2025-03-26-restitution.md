@@ -7,16 +7,16 @@ published: true
 ---
 
 personne ne me voit  
-tous supposent que je sois  
-en quelque sorte  
+mais tous supposent que je sois  
 
+je suis en quelque sorte  
 un amalgame  
-tissé dans la multitude  
+tissé de multitude  
 
 je suis un collage de bribes éparpillées  
 dans l'imagination d'une foule  
 
-je suis une étoile à la dérive  
+je suis une étoile échouée  
 relancée mille fois dans la mer  
 une image organique  
 en restitution perpétuelle

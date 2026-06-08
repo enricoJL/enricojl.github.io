@@ -9,8 +9,7 @@ published: true
 
 dans *ton* imagination  
 je déborde de tous côtés  
-je ne tiens plus  
-en place  
+je ne tiens plus en place  
 
 les fers cèdent  
 je suis sable mouvant  

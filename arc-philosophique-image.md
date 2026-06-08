@@ -2,7 +2,7 @@
 
 ## L'arc en une phrase
 
-De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la peur que l'image se dissipe est devenue désir de devenir. La trajectoire passe de l'épistémologie — *comment voit-on l'autre ?* — à l'ontologie — *qu'est-ce qu'on devient ?*
+De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la peur que l'image se dissipe est devenue désir de se transformer en l'image. La trajectoire ondule de l'épistémologie — *comment voit-on l'autre ?* — à l'ontologie — *qu'est-ce qu'on devient ?*
 
 ---
 
@@ -73,7 +73,7 @@ Le poète désire l'image de l'autre, non l'autre. La peur centrale : que la ré
 ### Phase II — Prison (2018–2021)
 *Poèmes 9 à 17*
 
-Le poète nomme le mécanisme. La première vision réciproque ouvre une brèche, mais le masque social se consolide (film, clown, mascarade lucide) avant que la vérité ne blesse. Le choc des images ouvre une crise : inquiétude, blessure, puis le cœur souterrain qui persiste malgré tout. Le pivot théorique : nous ne rencontrons pas l'autre, nous rencontrons nos images de l'autre.
+Le poète nomme le mécanisme. La première vision réciproque ouvre une brèche, mais le masque social se consolide (film, clown, mascarade) avant que la vérité ne blesse. Le choc des images ouvre une crise : inquiétude, blessure, puis le cœur souterrain qui persiste malgré tout. Le pivot théorique : nous ne rencontrons pas l'autre, nous rencontrons nos images de l'autre.
 
 > "ces images qu'on a en tête l'un de l'autre / prennent toute la place entre toi et moi" — *Le choc des titans*
 > "la vérité te blesse / le cœur te chavire à l'envers / es-tu là ?" — *Inquiétude*
