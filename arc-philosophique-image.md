@@ -8,7 +8,7 @@ De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la 
 
 ## Séquence complète — 33 poèmes, 34 ans
 
-### Phase I — Le mirage 
+### Phase I — mirage 
 
 | # | Poème | Date | Fonction |
 |---|-------|------|----------|
@@ -20,21 +20,22 @@ De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la 
 | 6 | Gravure | 2013 | **Inscription** — l'image de l'autre gravée dans mes prunelles |
 | 7 | Si fragile | 2013 | **Bulle** — le château fort qui isole autant qu'il protège |
 
-### Phase II — La prison 
+### Phase II — prison 
 
 | # | Poème | Date | Fonction |
 |---|-------|------|----------|
 | 8 | Ici et maintenant | 2018 | **Brèche** — première vision réciproque sans mirage |
 | 9 | Temple, fondements et babeurre | 2019 | **Théorie** — chacun au centre de son univers construit |
 | 10 | Passe-moi un film | 2020 | **Mise en scène** — soi comme personnage de son propre film |
-| 11 | Mascarade | 2026-04 | **Lucidité** — je fais semblant sachant qui je suis vraiment |
-| 12 | Inquiétude | 2023-07 | **Choc** — la vérité blesse, le cœur chavire, la question est posée |
-| 13 | Blessure | 2023-03 | **Érosion** — la vérité qui n'est plus, bascule dans l'ultrasensibilité |
-| 14 | Le cœur a ses raisons | 2021 | **Crypte** — le désir ardent sous la cathédrale d'intentions |
-| 15 | Le choc des titans | 2021 | **Pivot** — les images prennent toute la place entre toi et moi |
-| 16 | Véhicule prison | — | **Corps** — le corps comme véhicule et prison de l'image de soi |
+| 11 | De belles choses à dire | 2020-12 | **Clown** — la mascarade lucide avant la lucidité de la mascarade |
+| 12 | Mascarade | 2026-04 | **Lucidité** — je fais semblant sachant qui je suis vraiment |
+| 13 | Inquiétude | 2023-07 | **Choc** — la vérité blesse, le cœur chavire, la question est posée |
+| 14 | Blessure | 2023-03 | **Érosion** — la vérité qui n'est plus, bascule dans l'ultrasensibilité |
+| 15 | Le cœur a ses raisons | 2021 | **Crypte** — le désir ardent sous la cathédrale d'intentions |
+| 16 | Le choc des titans | 2021 | **Pivot** — les images prennent toute la place entre toi et moi |
+| 17 | Véhicule prison | — | **Corps** — le corps comme véhicule et prison de l'image de soi |
 
-### Phase III — La libération 
+### Phase III — libération 
 
 | # | Poème | Date | Fonction |
 |---|-------|------|----------|

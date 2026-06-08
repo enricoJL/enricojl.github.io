@@ -77,17 +77,25 @@ def process_content(text):
     rest = "".join(lines[i:])
 
     # Shift heading levels: ## Phase → # (chapter), ### Poem → ## (section)
-    rest = re.sub(r"^### ", "## ", rest, flags=re.MULTILINE)
+    # Order matters: shift phases first, then poems
     rest = re.sub(r"^## ", "# ", rest, flags=re.MULTILINE)
+    rest = re.sub(r"^### ", "## ", rest, flags=re.MULTILINE)
 
-    # Strip leading numbering from poem titles: # 1. Titre → # Titre
-    rest = re.sub(r"^(# )\d+\.\s+", r"\1", rest, flags=re.MULTILINE)
+    # Strip leading numbering from poem titles: ## 1. Titre → ## Titre
+    # (Désactivé — les numéros ont été retirés du recueil source)
+    # rest = re.sub(r"^(## )\d+\.\s+", r"\1", rest, flags=re.MULTILINE)
+
+    # Each poem starts on a new page with extra top space
+    rest = re.sub(r"^(## )", r"\\newpage\n\\vspace*{2cm}\n\n\1", rest, flags=re.MULTILINE)
 
     # Remove standalone date/year lines like *1992* or *25 mars 2025*
     rest = re.sub(r"^\*(?:\d{1,2}\s+\w+\s+)?\d{4}\*\n?", "", rest, flags=re.MULTILINE)
 
-    # Remove horizontal rules
-    rest = re.sub(r"^---\n?", "", rest, flags=re.MULTILINE)
+    # Remove horizontal rules (désactivé — déjà retirées du recueil source)
+    # rest = re.sub(r"^---\n?", "", rest, flags=re.MULTILINE)
+
+    # Colophon on a new page with top spacing
+    rest = re.sub(r"(\*Mirage — \d+ poèmes)", r"\\newpage\n\\vspace*{2cm}\n\n\1", rest)
 
     return rest
 

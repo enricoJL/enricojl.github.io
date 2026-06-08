@@ -45,15 +45,17 @@ header-includes:
 
 *De « j'embrassais mon mirage » (1992) à « jusqu'à te ressembler » (2026) : la peur que l'image se dissipe est devenue désir de devenir image en métamorphose. La trajectoire passe de l'épistémologie — comment voit-on l'autre ? — à l'ontologie — qu'est-ce qu'on devient ?*
 
+---
 
-# Phase I — Le mirage
-
-*Poèmes 1 à 7 | 1992–2013*
+# Phase I — mirage
 
 *Le poète désire l'image de l'autre, non l'autre. La peur centrale : que la réalité dissolve le mirage. L'image est forteresse et illusion à la fois.*
 
 
-# Premier baiser
+\newpage
+\vspace*{2cm}
+
+## premier baiser
 
 nous nous regardions  
 nous nous quittions  
@@ -179,13 +181,16 @@ une femme belle que l'on sent depuis longtemps
 vivre en soi comme dans le monde au printemps  
 
 
-# La docilité du rêve
+\newpage
+\vspace*{2cm}
+
+## La docilité du rêve
 
 > Que reste-t-il de lui dans la tempête brève ?  
 > Qu'est devenu mon cœur, navire déserté ?  
 > Hélas ! Il a sombré dans l'abîme du Rêve !  
 >
-> *(Émile Nelligan, Le Vaisseau d'or)*
+> --- Émile Nelligan, *Le Vaisseau d'or*
 
 J'ai laissé le rêve engloutir ma vie complètement, jusqu'à me mêler moi-même avec lui. Je me suis construit un navire de souhaits que j'ai chéri. Mais voilà qu'aujourd'hui, mon *Vaisseau d'or* s'est échoué.
 
@@ -195,6 +200,8 @@ Existe-il le soleil ? Je n'ai plus de fenêtre pour voir la lumière dehors : ou
 
 > Ainsi la vie n'est que le rêve d'un rêve,  
 > Mais l'état de veille est ailleurs.
+>
+> --- Rainer Maria Rilke
 
 J'ai du mal à accepter de me soumettre à la vie telle qu'elle m'est donnée.
 
@@ -213,7 +220,10 @@ Ma maladie me ronge et je refuse d'en souffrir, et pourtant, la douleur envahit 
 *Ma maladie, c'est la mort. Mon handicap, c'est de refuser d'y croire.*
 
 
-# À l'envers du décor
+\newpage
+\vspace*{2cm}
+
+## à l'envers du décor
 
 j'ai tout préparé  
 tout y est  
@@ -228,7 +238,7 @@ tout peut maintenant être joué
 vraiment, je n'ai rien oublié...  
 enfin, je pense bien  
 
-— Que le spectacle commence !  
+— que le spectacle commence !  
 
 mais voilà que  
 malencontreusement  
@@ -265,7 +275,10 @@ où l'on se croise
 à l'envers du décor  
 
 
-# La montagne d'en face
+\newpage
+\vspace*{2cm}
+
+## la montagne d'en face
 
 l'un après l'autre  
 mes pas sont jetés  
@@ -289,7 +302,10 @@ en face de moi :
 c'est moi  
 
 
-# En chute libre
+\newpage
+\vspace*{2cm}
+
+## en chute libre
 
 le terrain de mes yeux s'effondre  
 et les chevaux de mon cœur s'enlisent  
@@ -308,7 +324,10 @@ persistent encore quelque part
 entre ma peur, mes faiblesses et ma folie  
 
 
-# Gravure
+\newpage
+\vspace*{2cm}
+
+## gravure
 
 j'ai gravé ton visage  
 dans le creux de mes prunelles  
@@ -349,7 +368,10 @@ je me perds dedans dans mon voyage
 et j'en grave chaque instant  
 
 
-# Si fragile
+\newpage
+\vspace*{2cm}
+
+## si fragile
 
 au milieu de nous deux  
 entre nos sourires discrets  
@@ -378,18 +400,19 @@ et le silence devient soudain
 vide de rien  
 
 
-# Phase II — La prison
-
-*Poèmes 8 à 15 | 2018–2021*
+# Phase II — prison
 
 *Le poète nomme le mécanisme. La première vision réciproque ouvre une brèche, mais le masque social se consolide avant que la vérité ne blesse. Le pivot théorique : nous ne rencontrons pas l'autre, nous rencontrons nos images de l'autre.*
 
 
-# Ici et maintenant
+\newpage
+\vspace*{2cm}
+
+## ici et maintenant
 
 il ne me reste plus rien  
-qui m'attache  
-au loin, loin d'ici  
+qui m'attache au loin  
+
 plus rien qui m'empêche  
 plus rien qui m'arrête  
 
@@ -403,7 +426,10 @@ toi et moi
 ici et maintenant  
 
 
-# Temple, fondements et babeurre
+\newpage
+\vspace*{2cm}
+
+## Temple, fondements et babeurre
 
 Un soir, après une visite au temple, mon beau-frère me rappela une discussion que nous avions eue des mois plus tôt sur le fait que nous étions chacun dans notre bulle, sans trop en savoir sur l'autre, et même sans trop en savoir sur nous-mêmes. Nous nous disions que nous étions dans le monde, avançant chacun dans notre vie à tâtons, faisant nos expériences et cherchant à faire mieux que par le passé. Il me fit remarquer qu'il ne connaissait pas grand-chose de moi, de ce qui m'habite à chaque instant. Je ne connaissais pas beaucoup de lui non plus. De plus, cela fait longtemps que j'ai la forte impression de ne pas connaître grand-chose de moi-même, et par extension, des hommes en général.
 
@@ -422,7 +448,10 @@ Les plus anciennes structures humaines découvertes de nos jours ont souvent une
 Ainsi, le remède au mal du pays, au sentiment de solitude et de désorientation dans un monde étranger, réside dans la fréquentation du temple. C'est là que notre place dans le cosmos et le grand plan du salut nous sont rappelés. Dans la maison du Seigneur, on nous enseigne continuellement les principes de la doctrine du Christ, ainsi que les symboles et le langage éternel qui nous définissent depuis avant la fondation du monde et qui façonneront notre devenir éternel. L'Esprit de Dieu peut alors nous instruire directement et personnellement pour nous métamorphoser, à l'image des grains de babeurre — les fondements — qui amorcent la transformation de la crème en beurre dans un mouvement perpétuel.
 
 
-# Passe-moi un film
+\newpage
+\vspace*{2cm}
+
+## passe-moi un film
 
 on est là, sans barrière  
 à s'observer penser  
@@ -460,7 +489,82 @@ peu importe
 pourvu qu'on se voie beaux dedans  
 
 
-# Mascarade
+\newpage
+\vspace*{2cm}
+
+## de belles choses à dire
+
+![clown](/Users/enrico/GDrive/Écrits/enricojl.io/assets/figures/clown2.png)
+
+qu'est-ce qui cloche  
+pourquoi ce rire qui surgit  
+qu'est-ce qui lui manque, à ce clown  
+pour causer un tel rire  
+
+il a pourtant les oreilles  
+pour l'entendre, ce rire —  
+de belles grandes oreilles !  
+
+il a aussi de beaux yeux tristes  
+pour voir la provenance du rire  
+
+mais elle ne se montre pas, la provenance  
+elle se cache  
+
+il a un gros nez  
+pour emplir son visage imposant  
+peut-être est-ce ce qui cause ce rire :  
+ce visage émotif ---  
+non, je refuse de croire qu'être émotif  
+puisse amener ce rire  
+
+il a de grosses joues  
+de belles bajoues pendantes  
+pour tante Fernande  
+
+il a de grands sourcils  
+pour couvrir les yeux  
+lorsque la pluie tombe trop dru  
+
+il a un front plissé  
+encore capable d'emmagasiner  
+dans sa mémoire  
+tous les moments merveilleux  
+
+il a une petite bouche, c'est vrai  
+mais il n'est pas nécessaire de crier  
+lorsqu'on a de belles choses à dire :  
+il suffit de les chuchoter  
+et elles se rendent d'elles-mêmes  
+
+il a un petit menton —  
+c'est pour permettre à ses idées  
+de passer au-dessus des objets ---  
+c'est lourd, un menton !  
+
+il a même un grain de beauté  
+c'est l'humilité de son cœur  
+qui ressort par là  
+
+il a aussi de beaux cils  
+pour cligner les yeux  
+lorsque le plaisir le fait rire  
+
+oh ! j'ai trouvé  
+vous avez vu ses cheveux  
+ces cheveux noirs et lisses  
+pour glisser entre les doigts ---  
+eh bien, vous ne remarquez rien qui cloche  
+
+je vais vous le chuchoter :  
+
+*il n'a pas de crâne pour retenir sa cervelle*  
+
+
+\newpage
+\vspace*{2cm}
+
+## mascarade
 
 mascarade dans l'univers  
 
@@ -468,8 +572,7 @@ comme un astronaute
 je recalcule ma trajectoire  
 maintes et maintes fois  
 
-en faisant bien attention  
-quand c'est le temps  
+en faisant bien attention   
 de poser mon pied sur la lune  
 sous les projecteurs  
 
@@ -477,7 +580,10 @@ je fais semblant
 sachant qui je suis vraiment  
 
 
-# Inquiétude
+\newpage
+\vspace*{2cm}
+
+## inquiétude
 
 la nuit  
 avec toute son inquiétude  
@@ -493,7 +599,10 @@ et qu'elle te demande
 — es-tu là ?  
 
 
-# Blessure
+\newpage
+\vspace*{2cm}
+
+## blessure
 
 rien n'est plus blessant  
 qu'une vérité qui ne l'est plus  
@@ -513,9 +622,12 @@ où tu demeures
 ultrasensible à la vérité  
 
 
-# Le cœur a ses raisons
+\newpage
+\vspace*{2cm}
 
-> *le cœur a ses raisons que la raison ignore*
+## le cœur a ses raisons
+
+> *Le cœur a ses raisons que la raison ignore.*
 >
 > — Blaise Pascal
 
@@ -532,7 +644,10 @@ un désir ardent
 sous une cathédrale d'intentions  
 
 
-# Le choc des titans
+\newpage
+\vspace*{2cm}
+
+## le choc des titans
 
 quand on se voit  
 nos images diffèrent  
@@ -584,20 +699,24 @@ quand je te vois
 c'est le choc des titans  
 
 
-# Véhicule prison
+\newpage
+\vspace*{2cm}
+
+## véhicule prison
 
 partout où j'allais  
 mon véhicule était ma prison  
 
 
-# Phase III — La libération
-
-*Poèmes 17 à 33 | 2023–2026*
+# Phase III — libération
 
 *La sortie n'est pas d'ajuster les images plus soigneusement — c'est de donner sans se regarder être vu. L'image-miroir est désactivée. Le soi est redéfini hors de l'économie des images. La ressemblance devient téléologie, non origine du désir.*
 
 
-# Démolition
+\newpage
+\vspace*{2cm}
+
+## démolition
 
 démolir les murs  
 tout défaire  
@@ -634,14 +753,20 @@ espérer bien au-delà
 et reconstruire le vide  
 
 
-# D'un univers à l'autre
+\newpage
+\vspace*{2cm}
+
+## d'un univers à l'autre
 
 par-delà les frontières  
 la beauté nous propulse  
 d'un univers à l'autre  
 
 
-# Inextricable beauté
+\newpage
+\vspace*{2cm}
+
+## inextricable beauté
 
 la terre s'ébranle, encore une fois  
 et mes souvenirs se balancent en vrac  
@@ -660,7 +785,10 @@ inextricable beauté
 tu me déstabilises  
 
 
-# La beauté
+\newpage
+\vspace*{2cm}
+
+## la beauté
 
 avec ses prétentions  
 ses préférences multiples  
@@ -680,7 +808,10 @@ la beauté vient nous chercher quelque part
 et nous transporte ailleurs  
 
 
-# Épitaphe
+\newpage
+\vspace*{2cm}
+
+## épitaphe
 
 je suis l'amalgame des essences  
 au fil du temps cumulées  
@@ -691,7 +822,10 @@ effluve naturelle élevée jusqu'au ciel
 j'espère être agréable à mon Créateur  
 
 
-# Tendre vers l'autre
+\newpage
+\vspace*{2cm}
+
+## tendre vers l'autre
 
 tendre la main  
 donner généreusement  
@@ -710,7 +844,10 @@ en espérant que la joie surgisse
 et que la vie nous surpasse  
 
 
-# Entre l'image et la mer
+\newpage
+\vspace*{2cm}
+
+## entre l'image et la mer
 
 quand on s'adresse à l'autre, malheureusement  
 ce qu'on pense connaître prend toute la place  
@@ -734,7 +871,10 @@ entre l'image de ce qu'on connaît peu
 et la mer de ce qu'on ne connaît pas  
 
 
-# Cristal
+\newpage
+\vspace*{2cm}
+
+## cristal
 
 cristal des profondeurs  
 sous la pression  
@@ -753,7 +893,10 @@ l'émotion révélatrice
 à la pupille de l'abîme  
 
 
-# Perception, imagination et réalité
+\newpage
+\vspace*{2cm}
+
+## Perception, imagination et réalité
 
 La pensée de l'univers qui m'habite se situe au cœur des perceptions que me procurent mon corps physique. Les relations que j'entretiens avec les autres corps autour de moi, qu'ils soient animés ou inanimés, enrichissent et définissent les connaissances que je possède.
 
@@ -774,7 +917,10 @@ Ce troisième univers commun, incohérent par nature, car construit d'un amalgam
 Au-delà des limites imposées par notre corps et nos sens, la quête de la vérité ultime semble insaisissable, échappant à notre compréhension limitée. Pourtant, c'est précisément cette quête, nourrie par l'interaction avec les autres et les mondes que nous percevons, qui enrichit notre existence et donne un sens à notre univers personnel. Bien que l'essence véritable de la réalité réside dans une totalité inaccessible, elle se révèle dans la richesse des perceptions et des échanges qui nous unissent.
 
 
-# Bulles fragiles
+\newpage
+\vspace*{2cm}
+
+## bulles fragiles
 
 chacun dans sa bulle  
 conscient à moitié  
@@ -837,7 +983,10 @@ prête à éclater
 à tout moment  
 
 
-# Imagination
+\newpage
+\vspace*{2cm}
+
+## imagination
 
 dans *ton* imagination  
 je déborde de tous côtés  
@@ -861,7 +1010,10 @@ oranger qui se réveille —
 dans *mon* imagination  
 
 
-# Restitution
+\newpage
+\vspace*{2cm}
+
+## restitution
 
 personne ne me voit  
 tous supposent que je sois  
@@ -879,7 +1031,10 @@ une image organique
 en restitution perpétuelle  
 
 
-# Sans image
+\newpage
+\vspace*{2cm}
+
+## sans image
 
 sans image  
 je suis là  
@@ -913,7 +1068,10 @@ que j'espère
 aimant  
 
 
-# Be water, my friend
+\newpage
+\vspace*{2cm}
+
+## Be water, my friend
 
 l'eau coule tous les jours  
 entre la Rive-Sud et Montréal  
@@ -932,7 +1090,10 @@ laisse-le couler
 > — Bruce Lee
 
 
-# Sans frontières
+\newpage
+\vspace*{2cm}
+
+## sans frontières
 
 le soleil  
 de cycle en cycle  
@@ -944,7 +1105,10 @@ comme s'il n'existait pas
 de frontières  
 
 
-# Semblable
+\newpage
+\vspace*{2cm}
+
+## semblable
 
 semblable à son image  
 mes yeux tournés vers Lui  
@@ -958,7 +1122,10 @@ si béni
 et tant aimé  
 
 
-# Abysmal
+\newpage
+\vspace*{2cm}
+
+## abysmal
 
 sourire abysmal  
 dans mon orgueil dérisoire  
@@ -978,6 +1145,10 @@ un jour lointain
 en puissance  
 en pureté  
 
+---
 
-*Mirage — 33 poèmes, 34 ans*  
+\newpage
+\vspace*{2cm}
+
+*Mirage — 34 poèmes sur 34 ans*  
 *Enrico J. Lévesque — 1992–2026*
