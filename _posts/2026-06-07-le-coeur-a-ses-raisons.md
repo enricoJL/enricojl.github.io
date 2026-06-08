@@ -20,5 +20,5 @@ une crypte dont la paroi fragile
 abrite un aveu qui consume  
 toute forme de vie  
 
-un désir ardent 
+un désir ardent  
 sous une cathédrale d'intentions  
