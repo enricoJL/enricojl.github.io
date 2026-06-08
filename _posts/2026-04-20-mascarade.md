@@ -13,7 +13,6 @@ je recalcule ma trajectoire
 maintes et maintes fois  
 
 en faisant bien attention  
-quand c'est le temps  
 de poser mon pied sur la lune  
 sous les projecteurs  
 
