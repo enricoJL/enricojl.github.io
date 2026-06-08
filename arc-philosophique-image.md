@@ -1,8 +1,8 @@
-# Mirage — Arc philosophique (1992–2026)
+# De mirage à métamorphose — Arc philosophique (1992–2026)
 
 ## L'arc en une phrase
 
-De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la peur que l'image se dissipe est devenue désir de devenir image en métamorphose. La trajectoire passe de l'épistémologie — *comment voit-on l'autre ?* — à l'ontologie — *qu'est-ce qu'on devient ?*
+De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la peur que l'image se dissipe est devenue désir de devenir. La trajectoire passe de l'épistémologie — *comment voit-on l'autre ?* — à l'ontologie — *qu'est-ce qu'on devient ?*
 
 ---
 

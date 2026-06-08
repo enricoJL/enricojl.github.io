@@ -1,5 +1,5 @@
 ---
-title: "Du mirage à la métamorphose"
+title: "De mirage à métamorphose"
 author: "Enrico J. Lévesque"
 date: ""
 lang: fr
@@ -31,7 +31,7 @@ header-includes:
 \begin{titlepage}
 \centering
 \vspace*{4cm}
-{\fontsize{40}{50}\selectfont\bfseries Du mirage à la métamorphose}\\[1.4cm]
+{\fontsize{40}{50}\selectfont\bfseries De mirage à métamorphose}\\[1.4cm]
 {\large\itshape Poèmes choisis — 1992–2026}\\[2.5cm]
 {\large Enrico J. Lévesque}
 \vfill
@@ -426,12 +426,12 @@ Elle agit et pense différemment de chacun de nous
 Elle est l’ensemble de nos deux personnes  
 l’un et l’autre formant la troisième  
 
-Je et Tu* sommes Elle  
+Je et Tu sommes Elle  
 
 
 ***
 
-* *Inspiré du livre « Je et Tu » de Martin Buber*
+*Inspiré du livre « Je et Tu » de Martin Buber*
 
 
 

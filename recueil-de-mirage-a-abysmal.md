@@ -1,4 +1,4 @@
-# Du mirage à la métamorphose
+# De mirage à métamorphose
 
 *Poèmes choisis — 1992–2026*
 
@@ -365,12 +365,12 @@ Elle agit et pense différemment de chacun de nous
 Elle est l’ensemble de nos deux personnes  
 l’un et l’autre formant la troisième  
 
-Je et Tu* sommes Elle  
+Je et Tu sommes Elle  
 
 
 ***
 
-* *Inspiré du livre « Je et Tu » de Martin Buber*
+*Inspiré du livre « Je et Tu » de Martin Buber*
 
 
 

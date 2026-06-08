@@ -11,7 +11,7 @@ OUTPUT_MD  = os.path.join(os.path.dirname(__file__), "_recueil.md")
 OUTPUT_PDF = os.path.join(os.path.dirname(__file__), "Mirage.pdf")
 
 LATEX_HEADER = r"""---
-title: "Du mirage à la métamorphose"
+title: "De mirage à métamorphose"
 author: "Enrico J. Lévesque"
 date: ""
 lang: fr
@@ -45,7 +45,7 @@ TITLE_PAGE = r"""
 \begin{titlepage}
 \centering
 \vspace*{4cm}
-{\fontsize{40}{50}\selectfont\bfseries Du mirage à la métamorphose}\\[1.4cm]
+{\fontsize{40}{50}\selectfont\bfseries De mirage à métamorphose}\\[1.4cm]
 {\large\itshape Poèmes choisis — 1992–2026}\\[2.5cm]
 {\large Enrico J. Lévesque}
 \vfill
