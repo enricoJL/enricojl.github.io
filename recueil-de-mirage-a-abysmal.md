@@ -12,7 +12,7 @@
 
 ## Phase I — Mirage
 
-*Le poète paralyse devant l’image, dans la hantise de voir la réalité dissoudre le mirage. Ici, l'image se fait à la fois sanctuaire et artifice.*
+*L'image de soi et des autres, ainsi que la conception que l'on se fait de nos relations ambiguës, toutes interreliées dans un amalgame plus ou moins authentiques, forment ici le terreau d'un premier aveu : celui d'une préférence pour le mirage face à l'érosion du réel. L'image y sert autant de rempart que de prisme déformant à nos premières rencontres, figeant l'univers de l'autre et la perception de soi dans un idéalisme sécurisant avant que le temps ne vienne en fissurer le vernis.*
 
 
 ### premier baiser
@@ -639,6 +639,22 @@ ou que je pense voir
 quand je te vois  
 
 c'est le choc des titans  
+
+
+### au point de rencontre
+
+j’y suis allé souvent  
+au point de rencontre  
+
+sans barrière  
+sans carapace  
+
+j’y ai aimé  
+la pensée de ton sourire  
+jusqu’au lendemain  
+
+ce lendemain  
+qui n’est jamais venu  
 
 
 ### véhicule prison

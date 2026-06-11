@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Assemble Mirage poetry collection into a print-ready PDF."""
+"""Assemble poetry collection into a print-ready PDF."""
 
 import os
 import re
@@ -8,10 +8,10 @@ import sys
 
 SOURCE_MD  = os.path.join(os.path.dirname(__file__), "recueil-de-mirage-a-abysmal.md")
 OUTPUT_MD  = os.path.join(os.path.dirname(__file__), "_recueil.md")
-OUTPUT_PDF = os.path.join(os.path.dirname(__file__), "Mirage.pdf")
+OUTPUT_PDF = os.path.join(os.path.dirname(__file__), "Entre l'image et la mer.pdf")
 
 LATEX_HEADER = r"""---
-title: "Mirage"
+title: "Entre l'image et la mer"
 author: "Enrico J. Lévesque"
 date: ""
 lang: fr
@@ -45,7 +45,7 @@ TITLE_PAGE = r"""
 \begin{titlepage}
 \centering
 \vspace*{4cm}
-{\fontsize{40}{50}\selectfont\bfseries Mirage}\\[1.4cm]
+{\fontsize{30}{40}\selectfont\bfseries Entre l'image et la mer}\\[1.4cm]
 {\large\itshape Poèmes choisis — 1992–2026}\\[2.5cm]
 {\large Enrico J. Lévesque}
 \vfill

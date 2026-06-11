@@ -1,5 +1,5 @@
 ---
-title: "Mirage"
+title: "Entre l'image et la mer"
 author: "Enrico J. Lévesque"
 date: ""
 lang: fr
@@ -31,7 +31,7 @@ header-includes:
 \begin{titlepage}
 \centering
 \vspace*{4cm}
-{\fontsize{40}{50}\selectfont\bfseries Mirage}\\[1.4cm]
+{\fontsize{30}{40}\selectfont\bfseries Entre l'image et la mer}\\[1.4cm]
 {\large\itshape Poèmes choisis — 1992–2026}\\[2.5cm]
 {\large Enrico J. Lévesque}
 \vfill
@@ -49,7 +49,7 @@ header-includes:
 
 # Phase I — Mirage
 
-*Le poète poursuit l’image de l’autre plutôt que l’autre même, dans la hantise de voir la réalité dissoudre le mirage. Ici, l'image se fait à la fois sanctuaire et artifice.*
+*L'image de soi et des autres, ainsi que la conception que l'on se fait de nos relations ambiguës, toutes interreliées dans un amalgame plus ou moins authentiques, forment ici le terreau d'un premier aveu : celui d'une préférence pour le mirage face à l'érosion du réel. L'image y sert autant de rempart que de prisme déformant à nos premières rencontres, figeant l'univers de l'autre et la perception de soi dans un idéalisme sécurisant avant que le temps ne vienne en fissurer le vernis.*
 
 
 \newpage
@@ -727,6 +727,25 @@ ou que je pense voir
 quand je te vois  
 
 c'est le choc des titans  
+
+
+\newpage
+\vspace*{2cm}
+
+## au point de rencontre
+
+j’y suis allé souvent  
+au point de rencontre  
+
+sans barrière  
+sans carapace  
+
+j’y ai aimé  
+la pensée de ton sourire  
+jusqu’au lendemain  
+
+ce lendemain  
+qui n’est jamais venu  
 
 
 \newpage

@@ -1,4 +1,4 @@
-# De mirage à métamorphose — Arc philosophique (1992–2026)
+# Entre l'image et la mer — Arc philosophique (1992–2026)
 
 ## L'arc en une phrase
 
@@ -34,29 +34,30 @@ Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler
 | 15 | Blessure | 2023-03 | **Érosion** — la vérité qui n'est plus, bascule dans l'ultrasensibilité |
 | 16 | Le cœur a ses raisons | 2021 | **Crypte** — le désir ardent sous la cathédrale d'intentions |
 | 17 | Le choc des titans | 2021 | **Pivot** — les images prennent toute la place entre toi et moi |
-| 18 | Véhicule prison | — | **Corps** — le corps comme véhicule et prison de l'image de soi |
+| 18 | Au point de rencontre | 2024 | **Échec** — le rendez-vous manqué, sans carapace |
+| 19 | Véhicule prison | — | **Corps** — le corps comme véhicule et prison de l'image de soi |
 
 ### Phase III — Métamorphose 
 
 | # | Poème | Date | Fonction |
 |---|-------|------|----------|
-| 19 | Démolition | 2023-07 | **Rupture** — on détruit les murs pour ouvrir l'espace |
-| 20 | D'un univers à l'autre | 2021-03 | **Propulsion** — la beauté nous projette hors des frontières |
-| 21 | Inextricable beauté | 2020-06 | **Chaos** — la beauté déstabilise et brise le contrôle |
-| 22 | La beauté | 2023-01 | **Ouverture** — la beauté comme transport vers l'ailleurs |
-| 23 | Épitaphe | 2023 | **Essence** — ce qu'on est au-delà de l'image (l'urne vivace) |
-| 24 | Tendre vers l'autre | 2023 | **Pratique** — donner sans se regarder être vu |
-| 25 | Entre l'image et la mer | 2024 | **Obstacle** — l'image encombre ce qui existe vraiment |
-| 26 | Cristal | 2024 | **Refus** — ne reflètes rien, l'image-miroir désactivée |
-| 27 | Perception | 2024 | **Cartographie** — les trois univers, sortie par le partage |
-| 28 | Bulles fragiles | 2025-03-25 | **Diagnostic** — les bulles nommées, vues, acceptées |
-| 29 | Imagination | 2025-03-26 | **Débordement** — l'image cesse d'être piège, devient espace |
-| 30 | Restitution | 2025-03-26 | **Reconstruction** — image organique qui se reforme |
-| 31 | Sans image | 2025-03-26 | **Libération** — le feu vibrant de la présence nue |
-| 32 | Be water, my friend | 2025-08-13 | **Fluidité** — l'abandon et le lâcher-prise |
-| 33 | Sans frontières | 2026-01-18 | **Transversalité** — la circulation libre sans limites |
-| 34 | Semblable | 2025-08 | **Tournant** — la ressemblance devient don, non projection |
-| 35 | Abysmal | 2026-05 | **Téléologie** — "jusqu'à te ressembler / en puissance / en pureté" |
+| 20 | Démolition | 2023-07 | **Rupture** — on détruit les murs pour ouvrir l'espace |
+| 21 | D'un univers à l'autre | 2021-03 | **Propulsion** — la beauté nous projette hors des frontières |
+| 22 | Inextricable beauté | 2020-06 | **Chaos** — la beauté déstabilise et brise le contrôle |
+| 23 | La beauté | 2023-01 | **Ouverture** — la beauté comme transport vers l'ailleurs |
+| 24 | Épitaphe | 2023 | **Essence** — ce qu'on est au-delà de l'image (l'urne vivace) |
+| 25 | Tendre vers l'autre | 2023 | **Pratique** — donner sans se regarder être vu |
+| 26 | Entre l'image et la mer | 2024 | **Obstacle** — l'image encombre ce qui existe vraiment |
+| 27 | Cristal | 2024 | **Refus** — ne reflètes rien, l'image-miroir désactivée |
+| 28 | Perception, imagination et réalité | 2024 | **Cartographie** — les trois univers, sortie par le partage |
+| 29 | Bulles fragiles | 2025-03-25 | **Diagnostic** — les bulles nommées, vues, acceptées |
+| 30 | Imagination | 2025-03-26 | **Débordement** — l'image cesse d'être piège, devient espace |
+| 31 | Restitution | 2025-03-26 | **Reconstruction** — image organique qui se reforme |
+| 32 | Sans image | 2025-03-26 | **Libération** — le feu vibrant de la présence nue |
+| 33 | Be water, my friend | 2025-08-13 | **Fluidité** — l'abandon et le lâcher-prise |
+| 34 | Sans frontières | 2026-01-18 | **Transversalité** — la circulation libre sans limites |
+| 35 | Semblable | 2025-08 | **Tournant** — la ressemblance devient don, non projection |
+| 36 | Abysmal | 2026-05 | **Téléologie** — "jusqu'à te ressembler / en puissance / en pureté" |
 | ~~36~~ | ~~je marche avec Lui~~ | ~~2013~~ | ~~**Coda** — retiré, versé dans l'arc de l'accompagnement~~ |
 
 ---
