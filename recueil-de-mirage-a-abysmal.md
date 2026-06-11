@@ -6,13 +6,13 @@
 
 ---
 
-De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la peur que l'image se dissipe est devenue désir de se transformer en l'image. La trajectoire ondule de l'épistémologie — *comment voit-on l'autre ?* — à l'ontologie — *qu'est-ce qu'on devient ?*
+*Entre l'aveu (« j'embrassais mon mirage ») et la promesse (« jusqu'à te ressembler »), ce recueil trace le sillage d'une lente érosion. Ce qui n'était d'abord qu'une hantise — voir la réalité dissoudre l'illusion — s'est mué en une quête de transmutation : l'image n'est plus ce que l'on craint de perdre, mais ce que l'on aspire à devenir.*
 
 ---
 
 ## Phase I — Mirage
 
-*Le poète désire l'image de l'autre, non l'autre. La peur centrale : que la réalité dissolve le mirage. L'image est forteresse et illusion à la fois.*
+*Le poète paralyse devant l’image, dans la hantise de voir la réalité dissoudre le mirage. Ici, l'image se fait à la fois sanctuaire et artifice.*
 
 
 ### premier baiser
@@ -188,14 +188,13 @@ tout a été remodelé
 exactement comme il le faut  
 
 rien n'a été laissé de côté  
-tout peut maintenant être joué  
+la pièce peut maintenant être présentée  
 vraiment, je n'ai rien oublié...  
 enfin, je pense bien  
 
 — que le spectacle commence !  
 
-mais voilà que  
-malencontreusement  
+mais voilà que malencontreusement  
 le jeu des acteurs ne correspond pas  
 j'avais tout organisé pour une tragédie  
 mais rien ne va plus :  
@@ -376,7 +375,7 @@ Je et Tu sommes Elle
 
 ## Phase II — Prison
 
-*Le poète nomme le mécanisme. La première vision réciproque ouvre une brèche, mais le masque social se consolide avant que la vérité ne blesse. Le pivot théorique : nous ne rencontrons pas l'autre, nous rencontrons nos images de l'autre.*
+*Le poète nomme ici l'impasse : celle du « choc des titans » où les représentations occultent les êtres. Bien que la réciprocité laisse poindre une fissure, le masque social se fige avant que la blessure ne devienne vérité. Au cœur de ce mouvement réside un constat sans appel : nous ne rencontrons pas l'autre en son essence, nous ne faisons que nous heurter aux images que nous avons dressées de lui.*
 
 
 ### ici et maintenant
@@ -399,9 +398,9 @@ ici et maintenant
 
 ### Temple, fondements et babeurre
 
-Un soir, après une visite au temple, mon beau-frère me rappela une discussion que nous avions eue des mois plus tôt sur le fait que nous étions chacun dans notre bulle, sans trop en savoir sur l'autre, et même sans trop en savoir sur nous-mêmes. Nous nous disions que nous étions dans le monde, avançant chacun dans notre vie à tâtons, faisant nos expériences et cherchant à faire mieux que par le passé. Il me fit remarquer qu'il ne connaissait pas grand-chose de moi, de ce qui m'habite à chaque instant. Je ne connaissais pas beaucoup de lui non plus. De plus, cela fait longtemps que j'ai la forte impression de ne pas connaître grand-chose de moi-même, et par extension, des hommes en général.
+Après une visite au temple, un ami proche me rappela une discussion que nous avions eue des mois plus tôt sur le fait que nous étions chacun dans notre bulle, sans trop en savoir sur l'autre, et même sans trop en savoir sur nous-mêmes. Nous nous disions que nous étions dans le monde, avançant chacun dans notre vie à tâtons, faisant nos expériences et cherchant à faire mieux que par le passé. Il me fit remarquer qu'il ne connaissait pas grand-chose de moi, de ce qui m'habite à chaque instant. Je ne connaissais pas beaucoup de lui non plus. De plus, cela fait longtemps que j'ai la forte impression de ne pas connaître grand-chose de moi-même, et par extension, des hommes en général.
 
-J'ai fait une lecture très intéressante : il s'agit d'un chapitre du livre *Temple and Cosmos* de Hugh Nibley, intitulé « *The Circle and The Square* ». L'auteur y parle de la symbolique du cercle et du carré dans les civilisations anciennes, symboles que l'on retrouve dans les temples sacrés de nombreuses cultures, tant anciennes que modernes. Une image particulièrement marquante a nourri ma réflexion sur mon sentiment de désorientation dans le monde et sur la manière d'y remédier.
+J'ai fait dernièrement une lecture très intéressante : il s'agit d'un chapitre du livre *Temple and Cosmos* de Hugh Nibley, intitulé « *The Circle and The Square* ». L'auteur y parle de la symbolique du cercle et du carré dans les civilisations anciennes, symboles que l'on retrouve dans les temples sacrés de nombreuses cultures, tant anciennes que modernes. Une image particulièrement marquante a nourri ma réflexion sur mon sentiment de désorientation dans le monde et sur la manière d'y remédier.
 
 Chaque personne est, en quelque sorte, le centre de l'univers, le centre de l'univers tel qu'elle le conçoit ; et comment pourrait-il en être autrement ? Puisque nous nous mouvons dans le monde grâce à ce corps merveilleux qui nous sert de véhicule et qui préserve notre intégrité et notre identité. Sans lui, je pense que nous nous dissoudrions dans l'univers sans même en prendre conscience. De la même manière, notre corps spirituel, dans notre existence prémortelle, nous servait à la fois de véhicule et de protection, mais dans un tout autre monde que celui-ci. Ici, nous percevons l'univers qui nous entoure par nos cinq sens : la vue, l'ouïe, l'odorat, le goût et le toucher. Toute l'information qui nous parvient du monde extérieur passe par l'un de ces cinq canaux. Chacun évolue ainsi dans sa propre sphère selon ce qu'il voit, entend, touche, goûte, sent, et ce qu'il comprend à travers le prisme de son expérience et de son interprétation. Chacun est, en quelque sorte, un nomade en perpétuel mouvement. Le seul moyen de trouver une certaine stabilité dans cette errance constante est de s'appuyer sur des points de repère pour être guidé sur la route.
 
@@ -650,7 +649,7 @@ mon véhicule était ma prison
 
 ## Phase III — Métamorphose
 
-*La sortie n'est pas d'ajuster les images plus soigneusement — c'est de donner sans se regarder être vu. L'image-miroir est désactivée. Le soi est redéfini hors de l'économie des images. La ressemblance devient téléologie, non origine du désir.*
+*Le dénouement ne réside pas dans une meilleure précision des images, mais dans leur abandon. La sortie de la prison se fait par le don pur, celui qui s’offre sans le souci de son propre reflet. Libéré de l’économie des miroirs, l’être se redéfinit dans le silence de l’acte. Ici, la ressemblance n'est plus le point de départ du désir, mais son horizon sacré.*
 
 
 ### démolition

@@ -23,14 +23,14 @@ Les poèmes de l'arc philosophique sur l'image traitent de : mirage, image de l'
 Cette séquence est conçue comme un cheminement, partant de l'appel pour finir par la transformation, en entrelaçant l'humain et le spirituel.
 
 ### I. L'Appel et l'Engagement (Le Seuil)
-*L'invitation et le choix conscient de rejoindre l'autre.*
+*La réponse à l'écoute : après avoir entendu, je te tends la main. L'engagement n'est pas abstrait — il naît de ce qu'on a compris.*
 - `dans-une-falaise`
 - `je-te-suivrai`
 - `dans-la-tempête`
 - `cahier`
 
 ### II. La Descente dans la Nuit (L'Épreuve du Réel)
-*L'accompagnement dans la fragilité brute, la solidarité dans l'abîme.*
+*Je descends avec toi parce que je t'ai compris. Ce n'est plus seulement une épreuve partagée — c'est la conséquence directe de l'écoute : on entre dans l'abîme de l'autre parce qu'on a consenti à le voir.*
 - `coma` (L'effort de sauvetage)
 - `senliser` (L'impuissance partagée)
 - `fragile`
@@ -44,7 +44,7 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 - `givrés`
 
 ### III. La Main qui Relève (La Consolation)
-*Le basculement vers la guérison et le soutien reçu.*
+*Parce que j'ai entendu et descendu, je suis là au bon moment. Le soutien reçu ou donné n'est pas un hasard — c'est le fruit de la présence consentie.*
 - `sans-appui` (Le contrepoint : le cri du manque)
 - `la-rose-et-le-jardinier`
 - `ma-lumiere` (**Pivot Central**)
@@ -54,7 +54,7 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 - `tombe`
 
 ### IV. La Transmutation (De l'Accompagné à l'Accompagnateur)
-*L'Esprit transforme la blessure en vocation de service.*
+*Celui qui a été entendu apprend à entendre. La blessure devient vocation parce que quelqu'un a d'abord consenti à descendre — et on comprend maintenant pourquoi.*
 - `le-soleil-sest-leve`
 - `langage-des-racines`
 - `decision`
@@ -64,7 +64,7 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 - `résurrection`
 
 ### V. L'Ouverture (L'Inspiration)
-*L'aboutissement dans la communion collective.*
+*L'aboutissement dans la communion collective. Le cercle se ferme : l'écoute reçue devient écoute offerte — et la beauté du monde croît par ceux qui ont appris à entendre.*
 - `je-marche-avec-lui`
 - `miracle`
 - `au-bon-moment`
@@ -129,4 +129,4 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 | `a-table` | 2024-09-29 | *"à mon réveil / le déjeuner était déjà prêt"* | moyenne |
 
 ---
-*Dernière mise à jour : 2026-06-08*
+*Dernière mise à jour : 2026-06-10*

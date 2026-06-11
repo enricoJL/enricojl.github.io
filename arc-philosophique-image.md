@@ -2,7 +2,7 @@
 
 ## L'arc en une phrase
 
-De *"j'embrassais mon mirage"* (1992) à *"jusqu'à te ressembler"* (2026) : la peur que l'image se dissipe est devenue désir de se transformer en l'image. La trajectoire ondule de l'épistémologie — *comment voit-on l'autre ?* — à l'ontologie — *qu'est-ce qu'on devient ?*
+Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler*), ce recueil trace le sillage d'une lente érosion. Ce qui n'était d'abord qu'une hantise — voir la réalité dissoudre l'illusion — s'est mué en une quête de transmutation : l'image n'est plus ce que l'on craint de perdre, mais ce que l'on aspire à devenir. À la manière d'une marée, la parole ondule entre le mystère du regard (comment voir l'autre ?) et le secret de l'être (que devenons-nous ?).
 
 ---
 

@@ -14,14 +14,13 @@ tout a été remodelé
 exactement comme il le faut  
 
 rien n'a été laissé de côté  
-tout peut maintenant être joué  
+la pièce peut maintenant être présentée  
 vraiment, je n'ai rien oublié...  
 enfin, je pense bien  
 
 --- Que le spectacle commence !  
 
-mais voilà que  
-malencontreusement  
+mais voilà que malencontreusement  
 le jeu des acteurs ne correspond pas  
 j'avais tout organisé pour une tragédie  
 mais rien ne va plus :  
