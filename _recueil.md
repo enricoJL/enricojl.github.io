@@ -45,7 +45,6 @@ header-includes:
 
 *Entre l'aveu (« j'embrassais mon mirage ») et la promesse (« jusqu'à te ressembler »), ce recueil trace le sillage d'une lente érosion. Ce qui n'était d'abord qu'une hantise — voir la réalité dissoudre l'illusion — s'est mué en une quête de transmutation : l'image n'est plus ce que l'on craint de perdre, mais ce que l'on aspire à devenir.*
 
----
 
 # Phase I — Mirage
 
@@ -1190,6 +1189,6 @@ un jour lointain
 en puissance  
 en pureté  
 
----
 
+###
 *Enrico J. Lévesque — 1992–2026*
