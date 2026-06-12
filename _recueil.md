@@ -536,7 +536,7 @@ pourvu qu'on se voie beaux dedans
 
 ## de belles choses à dire
 
-![clown](/Users/enrico/GDrive/Écrits/enricojl.io/assets/figures/clown.png)
+![clown](/Users/enrico/GDrive/Écrits/enricojl.io/assets/figures/clown2.png)
 
 qu’est-ce qui cloche ?  
 pourquoi ce rire qui surgit ?  
@@ -1222,6 +1222,29 @@ le poids du monde me plaquant contre lui
 j'ai compris que j'y avais ma place  
 en sécurité à l'ombre du cosmos  
 
+\newpage
+\vspace*{2cm}
+
+## je marche avec Lui  
+
+je marche avec Lui dans une fontaine  
+au beau milieu d’un feu tendre  
+
+pris d’altitude  
+le véritable sentiment jaillit  
+un océan comme un feu de joie se déverse  
+
+tous mes espoirs d’avenir balancés  
+comme un câble dans un puits  
+cherchant l’eau profonde et fraîche  
+
+le regard enfoui dans le ciel  
+ma conscience élargie se déplace  
+par-dessus les nuages  
+
+mes pas sur le trottoir disparaissent  
+et mes genoux sur l’éternité se déposent  
+
 
 \newpage
 \vspace*{2cm}
@@ -1232,11 +1255,7 @@ semblable à son image
 mes yeux tournés vers Lui  
 son cœur tourné vers moi  
 
-je me sens  
-si privilégié  
-si choyé  
-si béni  
-
+je me sens si privilégié  
 et tant aimé  
 
 

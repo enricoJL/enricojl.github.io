@@ -8,7 +8,7 @@ Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler
 
 ---
 
-## Séquence complète — 41 poèmes, 34 ans
+## Séquence complète — 42 poèmes, 34 ans
 
 ### Phase I — Mirage 
 
@@ -62,10 +62,10 @@ Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler
 | 33 | Be water, my friend | 2025-08-13 | **Fluidité** — l'abandon et le lâcher-prise |
 | 34 | Sans frontières | 2026-01-18 | **Transversalité** — la circulation libre sans limites |
 | 34b | Plongeon dans le ciel | 2023-01 | **Conversion cosmique** — le vide habité, sa place à l'ombre du cosmos |
+| 34c | Je marche avec Lui | 2013 | **Altitude** — fontaine et océan, la conscience élargie au-dessus des nuages |
 | 35 | Semblable | 2025-08 | **Tournant** — la ressemblance devient don, non projection |
 | 35b | Plongée | 2026-03 | **Consentement** — toutes craintes à l'envers, jusqu'à la rive de ton sourire |
 | 36 | Abyssal | 2026-05 | **Téléologie** — "jusqu'à te ressembler / en puissance / en pureté" |
-| ~~36~~ | ~~je marche avec Lui~~ | ~~2013~~ | ~~**Coda** — retiré, versé dans l'arc de l'accompagnement~~ |
 
 ---
 

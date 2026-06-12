@@ -10,9 +10,5 @@ semblable à son image
 mes yeux tournés vers Lui  
 son cœur tourné vers moi  
 
-je me sens  
-si privilégié  
-si choyé  
-si béni  
-
+je me sens si privilégié  
 et tant aimé  
