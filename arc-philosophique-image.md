@@ -1,4 +1,4 @@
-# Entre l'image et la mer — Arc philosophique (1992–2026)
+# entre l'image et la mer — Arc philosophique (1992–2026)
 
 ## L'arc en une phrase
 

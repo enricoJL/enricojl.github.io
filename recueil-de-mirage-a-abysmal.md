@@ -1,4 +1,4 @@
-# Mirage
+# entre l'image et la mer
 
 *Poèmes choisis — 1992–2026*
 
