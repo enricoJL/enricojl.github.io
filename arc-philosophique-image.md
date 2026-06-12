@@ -1,12 +1,14 @@
 # entre l'image et la mer — Arc philosophique (1992–2026)
 
+*Dernière mise à jour : 2026-06-12 — ajout des 5 poèmes du vertige (vertige, BANG !, au travers du dernier mur, plongeon dans le ciel, plongée).*
+
 ## L'arc en une phrase
 
 Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler*), ce recueil trace le sillage d'une lente érosion. Ce qui n'était d'abord qu'une hantise — voir la réalité dissoudre l'illusion — s'est mué en une quête de transmutation : l'image n'est plus ce que l'on craint de perdre, mais ce que l'on aspire à devenir. À la manière d'une marée, la parole ondule entre le mystère du regard (comment voir l'autre ?) et le secret de l'être (que devenons-nous ?).
 
 ---
 
-## Séquence complète — 36 poèmes, 34 ans
+## Séquence complète — 41 poèmes, 34 ans
 
 ### Phase I — Mirage 
 
@@ -14,6 +16,7 @@ Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler
 |---|-------|------|----------|
 | 1 | Premier baiser | 1992 | **Matrice** — j'embrasse mon mirage, pas l'autre |
 | 2 | La docilité du rêve | 2006 | **Choix** — l'illusion choisie contre le réel |
+| 2b | Vertige | 2020-05 | **Diapason** — le silence comme un vertige sans fond |
 | 3 | À l'envers du décor | 2013 | **Conflit** — décor vs réalité, le théâtre de l'existence |
 | 4 | La montagne d'en face | 2013 | **Miroir** — l'autre comme projection |
 | 5 | En chute libre | 2013 | **Vertige** — "l'envers de qui je suis" |
@@ -36,12 +39,14 @@ Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler
 | 17 | Le choc des titans | 2021 | **Pivot** — les images prennent toute la place entre toi et moi |
 | 18 | Au point de rencontre | 2024 | **Échec** — le rendez-vous manqué, sans carapace |
 | 19 | Véhicule prison | — | **Corps** — le corps comme véhicule et prison de l'image de soi |
+| 19b | BANG ! | 2021-01 | **Détonateur** — toucher le fond, plus rien à tomber, tout à espérer |
 
-### Phase III — Métamorphose 
+### Phase III — Transparence 
 
 | # | Poème | Date | Fonction |
 |---|-------|------|----------|
 | 20 | Démolition | 2023-07 | **Rupture** — on détruit les murs pour ouvrir l'espace |
+| 20b | Au travers du dernier mur | 2023-01 | **Seuil** — la crainte au bord du précipice, le chemin jusqu'à demain |
 | 21 | D'un univers à l'autre | 2021-03 | **Propulsion** — la beauté nous projette hors des frontières |
 | 22 | Inextricable beauté | 2020-06 | **Chaos** — la beauté déstabilise et brise le contrôle |
 | 23 | La beauté | 2023-01 | **Ouverture** — la beauté comme transport vers l'ailleurs |
@@ -56,8 +61,10 @@ Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler
 | 32 | Sans image | 2025-03-26 | **Libération** — le feu vibrant de la présence nue |
 | 33 | Be water, my friend | 2025-08-13 | **Fluidité** — l'abandon et le lâcher-prise |
 | 34 | Sans frontières | 2026-01-18 | **Transversalité** — la circulation libre sans limites |
+| 34b | Plongeon dans le ciel | 2023-01 | **Conversion cosmique** — le vide habité, sa place à l'ombre du cosmos |
 | 35 | Semblable | 2025-08 | **Tournant** — la ressemblance devient don, non projection |
-| 36 | Abysmal | 2026-05 | **Téléologie** — "jusqu'à te ressembler / en puissance / en pureté" |
+| 35b | Plongée | 2026-03 | **Consentement** — toutes craintes à l'envers, jusqu'à la rive de ton sourire |
+| 36 | Abyssal | 2026-05 | **Téléologie** — "jusqu'à te ressembler / en puissance / en pureté" |
 | ~~36~~ | ~~je marche avec Lui~~ | ~~2013~~ | ~~**Coda** — retiré, versé dans l'arc de l'accompagnement~~ |
 
 ---
@@ -82,12 +89,14 @@ Le poète nomme le mécanisme. La première vision réciproque ouvre une brèche
 > "rien n'est plus blessant / qu'une vérité qui ne l'est plus" — *Blessure*
 > "un désir ardent / sous une cathédrale d'intentions" — *Le cœur a ses raisons*
 
-### Phase III — La métamorphose (2023–2026)
+### Phase III — Transparence (2023–2026)
+
+*(Anciennement « La métamorphose » — renommée le 2026-06-12 pour préciser le concept central. La téléologie finale — *Semblable*, *Plongée*, *Abyssal* — reste délibérément non annoncée dans le titre de phase, comme surprise pour le lecteur.)*
 *Poèmes 19 à 35*
 
 La sortie n'est pas d'ajuster les images plus soigneusement — c'est de donner sans se regarder être vu. L'image-miroir est désactivée. Le soi est redéfini hors de l'économie des images. La ressemblance devient téléologie, non origine du désir.
 
-> "jusqu'à te ressembler / en puissance / en pureté" — *Abysmal*
+> "jusqu'à te ressembler / en puissance / en pureté" — *Abyssal*
 
 
 ---
@@ -95,10 +104,10 @@ La sortie n'est pas d'ajuster les images plus soigneusement — c'est de donner 
 ## Notes pour la construction du recueil
 
 - **Ouverture :** *Premier baiser* (1992) — la matrice de tout
-- **Fermeture :** *Abysmal* (2026) — la résolution téléologique
+- **Fermeture :** *Abyssal* (2026) — la résolution téléologique
 - **Poème pivot :** *Le choc des titans* (2021) — centre de gravité théorique, mérite une mise en page à part
 - **Triptyque clé :** *Imagination / Restitution / Sans image* (26 mars 2025) — trois poèmes le même jour, méritent une section ou une page commune
-- **Le fil spirituel discret :** *Épitaphe* → *Semblable* → *Abysmal* → *je marche avec Lui* — progression vers la ressemblance à l'Autre ultime
+- **Le fil spirituel discret :** *Épitaphe* → *Semblable* → *Abyssal* → *je marche avec Lui* — progression vers la ressemblance à l'Autre ultime
 - **Note sur Mascarade :** placé en Phase II (2026 chronologiquement, mais thématiquement lié aux masques conscients de 2020) — à confirmer si l'ordre chronologique strict est retenu pour le recueil
 
 ---
@@ -106,3 +115,17 @@ La sortie n'est pas d'ajuster les images plus soigneusement — c'est de donner 
 ## Les 10 sous-motifs à tracer
 
 mirage · invisible · fenêtre · gravure · écran intersubjectif · cinéma · souvenir · cristal/transparence · restitution · ressemblance spirituelle
+
+---
+
+## La constellation du vertige (ajout 2026-06-12)
+
+Cinq poèmes insérés pour incarner ce qui était jusqu'ici conceptuel — chacun habite un palier différent du vertige :
+
+1. **Vertige** (2020) — *Phase I, après La docilité du rêve*. Le diapason : trois vers qui donnent la note du sans-fond.
+2. **BANG !** (2021) — *Charnière fin Phase II*. Le détonateur : on touche le fond, et le fond devient puits.
+3. **Au travers du dernier mur** (2023) — *Phase III, après Démolition*. Le seuil : l'effroi du saut une fois les murs tombés.
+4. **Plongeon dans le ciel** (2023) — *Phase III, entre Sans frontières et Semblable*. Le vertige converti en sécurité cosmique.
+5. **Plongée** (2026) — *Phase III, entre Semblable et Abyssal*. Le consentement — plonger jusqu'à la rive de l'autre.
+
+Ces cinq poèmes comblent trois des quatre lacunes identifiées par l'analyse Opus (voir `analyse-opus-image.md`) : le vertige du miroir, l'incarnation honteuse partielle, et le consentement. **Reste à écrire le poème de la mer** — le titre tenu, l'élément où l'image se dissout pour devenir présence.

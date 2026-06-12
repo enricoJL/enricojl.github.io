@@ -106,7 +106,7 @@ car de toujours te voir
 sans te toucher ni te demander  
 s’imprégnait en moi comme un songe  
 j’essayais de comprendre pourquoi  
-pourquoi ai-je fait encore l’insignifiant  
+pourquoi encore suis-je resté insignifiant  
 
 je restais là  
 pendu à tes lèvres  

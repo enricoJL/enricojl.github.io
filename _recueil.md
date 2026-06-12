@@ -40,16 +40,20 @@ header-includes:
 
 \setcounter{tocdepth}{1}
 \tableofcontents
-\newpage
+\cleardoublepage
 
 
-*Entre l'aveu (« j'embrassais mon mirage ») et la promesse (« jusqu'à te ressembler »), ce recueil trace le sillage d'une lente érosion. Ce qui n'était d'abord qu'une hantise — voir la réalité dissoudre l'illusion — s'est mué en une quête de transmutation : l'image n'est plus ce que l'on craint de perdre, mais ce que l'on aspire à devenir.*
+\vspace*{2cm}
+
+> *Je marche à côté d'une joie*  
+> *D'une joie qui n'est pas à moi*  
+> — Hector de Saint-Denys Garneau, *Accompagnement*
+
+> *Toute vie véritable est rencontre. La relation au Tu est immédiate. Entre Je et Tu ne s'intercale aucun but, aucun savoir et aucune imagination.*  
+> — Martin Buber, *Je et Tu*, traduction Geneviève Bianquis
 
 
 # Phase I — Mirage
-
-*L'image de soi et des autres, ainsi que la conception que l'on se fait de nos relations ambiguës, toutes interreliées dans un amalgame plus ou moins authentiques, forment ici le terreau d'un premier aveu : celui d'une préférence pour le mirage face à l'érosion du réel. L'image y sert autant de rempart que de prisme déformant à nos premières rencontres, figeant l'univers de l'autre et la perception de soi dans un idéalisme sécurisant avant que le temps ne vienne en fissurer le vernis.*
-
 
 \newpage
 \vspace*{2cm}
@@ -156,7 +160,7 @@ car de toujours te voir
 sans te toucher ni te demander  
 s'imprégnait en moi comme un songe  
 j'essayais de comprendre pourquoi  
-pourquoi ai-je fait encore l'insignifiant  
+pourquoi encore suis-je resté insignifiant  
 
 je restais là  
 pendu à tes lèvres  
@@ -188,7 +192,6 @@ vivre en soi comme dans le monde au printemps
 > Que reste-t-il de lui dans la tempête brève ?  
 > Qu'est devenu mon cœur, navire déserté ?  
 > Hélas ! Il a sombré dans l'abîme du Rêve !  
->
 > --- Émile Nelligan, *Le Vaisseau d'or*
 
 J'ai laissé le rêve engloutir ma vie complètement, jusqu'à me mêler moi-même avec lui. Je me suis construit un navire de souhaits que j'ai chéri. Mais voilà qu'aujourd'hui, mon *Vaisseau d'or* s'est échoué.
@@ -198,13 +201,12 @@ La vieillesse me tue petit à petit et la réalité me rattrape malgré moi. L'o
 Existe-il le soleil ? Je n'ai plus de fenêtre pour voir la lumière dehors : ou l'ai-je jamais vue ? Des fois, je pense que la vie n'est pas réelle, mais qu'elle existe ailleurs, dans un monde parallèle ou chacune de nos pensées s'accumule comme un trésor qu'on ne découvrira que plus tard.
 
 > Ainsi la vie n'est que le rêve d'un rêve,  
-> Mais l'état de veille est ailleurs.
->
+> Mais l'état de veille est ailleurs.  
 > --- Rainer Maria Rilke
 
 J'ai du mal à accepter de me soumettre à la vie telle qu'elle m'est donnée.
 
-Je préfère me blottir dans mes rêves, et ce, même si je suis seul à y croire, contre la réalité, et contre mon corps beaucoup trop faible pour mes ambitions. Je continue de croire jusqu'à mourir de stupidité, s'il le faut. Croire c'est la force de mes membres, la source de ma persévérance et la joie de mes efforts. Ma souffrance même de vivre trouve sa joie dans mes espérances, mes croyances et mon obstination.
+Je préfère me blottir dans mes rêves, et ce, même si je suis seul à y croire, contre la réalité, et contre mon corps beaucoup trop faible pour mes ambitions. Je continue de croire jusqu'à mourir de stupidité, s'il le faut. Croire, c'est la force de mes membres, la source de ma persévérance et la joie de mes efforts. Ma souffrance même de vivre trouve sa joie dans mes espérances, mes croyances et mon obstination.
 
 Je veux rester dans mon illusion, faire un pas et me réjouir de ce pas, parce qu'il me rapproche du rêve, et rire de mes difficultés, absorbées dans ma folie.
 
@@ -217,6 +219,16 @@ Comment lutter contre une telle vérité ? Comment échapper à cette fatalité 
 Ma maladie me ronge et je refuse d'en souffrir, et pourtant, la douleur envahit tout mon être, et le mal sournoisement me guette au détour.
 
 *Ma maladie, c'est la mort. Mon handicap, c'est de refuser d'y croire.*
+
+
+\newpage
+\vspace*{2cm}
+
+## vertige
+
+dans mes pensées  
+le silence comme un vertige  
+semble être sans fond  
 
 
 \newpage
@@ -328,7 +340,7 @@ entre ma peur, mes faiblesses et ma folie
 ## gravure
 
 j'ai gravé ton visage  
-dans le creux de mes prunelles  
+dans le creux de ma prunelle  
 partout, je le regarde  
 et quand la lumière rentre un peu  
 c'est ton sourire que je vois  
@@ -434,9 +446,6 @@ Je et Tu sommes Elle
 
 
 # Phase II — Prison
-
-*Le poète nomme ici l'impasse : celle du « choc des titans » où les représentations occultent les êtres. Bien que la réciprocité laisse poindre une fissure, le masque social se fige avant que la blessure ne devienne vérité. Au cœur de ce mouvement réside un constat sans appel : nous ne rencontrons pas l'autre en son essence, nous ne faisons que nous heurter aux images que nous avons dressées de lui.*
-
 
 \newpage
 \vspace*{2cm}
@@ -656,8 +665,7 @@ ultrasensible à la vérité
 
 ## le cœur a ses raisons
 
-> *Le cœur a ses raisons que la raison ignore.*
->
+> Le cœur a ses raisons que la raison ignore.
 > — Blaise Pascal
 
 rien n'y paraît  
@@ -756,10 +764,40 @@ partout où j'allais
 mon véhicule était ma prison  
 
 
-# Phase III — Métamorphose
+\newpage
+\vspace*{2cm}
 
-*Le dénouement ne réside pas dans une meilleure précision des images, mais dans leur abandon. La sortie de la prison se fait par le don pur, celui qui s’offre sans le souci de son propre reflet. Libéré de l’économie des miroirs, l’être se redéfinit dans le silence de l’acte. Ici, la ressemblance n'est plus le point de départ du désir, mais son horizon sacré.*
+## BANG !
 
+je me retrouve au fond  
+tout au fond  
+plus rien à tomber  
+et tout à espérer  
+
+la peur est morte sous le choc  
+le désespoir a fui  
+la perspective du vivant remonte  
+
+tout ce temps à tomber  
+tout ce temps à craindre  
+cette longue heure  
+et ce vertige  
+
+la longue noyade  
+la longue mort  
+qui tardait tant à venir  
+
+mais il le fallait  
+tout devait y passer  
+tout devait y tomber  
+pour y puiser cette eau  
+
+dans ce puits profond  
+la solitude profonde  
+et l'amour profond  
+
+
+# Phase III — Transparence
 
 \newpage
 \vspace*{2cm}
@@ -799,6 +837,20 @@ très loin même !
 espérer bien au-delà  
 
 et reconstruire le vide  
+
+
+\newpage
+\vspace*{2cm}
+
+## au travers du dernier mur
+
+au travers du dernier mur  
+comme au bord du précipice  
+la crainte m'envahit  
+et le vertige m'éprend  
+
+au travers du dernier mur  
+le chemin est long jusqu'à demain  
 
 
 \newpage
@@ -931,12 +983,12 @@ te voilà remonté jusqu'à moi
 cristal muet  
 translucide  
 
-laisses passer  
+laisse passer  
 la lumière  
 ne dis rien  
-ne reflètes rien  
+ne reflète rien  
 
-laisses juste passer  
+laisse juste passer  
 l'émotion révélatrice  
 à la pupille de l'abîme  
 
@@ -1115,7 +1167,7 @@ aimant
 \newpage
 \vspace*{2cm}
 
-## Be water, my friend
+## *Be water, my friend*
 
 l'eau coule tous les jours  
 entre la Rive-Sud et Montréal  
@@ -1130,7 +1182,6 @@ mais tu ne peux l'empêcher
 laisse-le couler  
 
 > *Be water, my friend*
->
 > — Bruce Lee
 
 
@@ -1147,6 +1198,29 @@ le chant des oiseaux
 de lieux en lieux  
 comme s'il n'existait pas  
 de frontières  
+
+
+\newpage
+\vspace*{2cm}
+
+## plongeon dans le ciel
+
+étendu à demi sur la plage  
+les coudes bien enfoncés dans le sable  
+le regard plongé dans le ciel  
+au plus sombre de la nuit  
+
+la distance me semblait tellement grande  
+entre nous et les étoiles  
+que le vertige s'est emparé de moi  
+
+j'ai senti, dans le vide, mon esprit déraper  
+et la Terre se déplacer dans son orbite  
+entre les immenses bras de la galaxie  
+
+le poids du monde me plaquant contre lui  
+j'ai compris que j'y avais ma place  
+en sécurité à l'ombre du cosmos  
 
 
 \newpage
@@ -1169,9 +1243,22 @@ et tant aimé
 \newpage
 \vspace*{2cm}
 
-## abysmal
+## plongée
 
-sourire abysmal  
+dans le vertige  
+sous la surface  
+je retiens mon souffle  
+
+toutes craintes à l'envers de moi  
+jusqu'à la rive de ton sourire  
+
+
+\newpage
+\vspace*{2cm}
+
+## abyssal
+
+sourire abyssal  
 dans mon orgueil dérisoire  
 la comparaison résonne encore  
 

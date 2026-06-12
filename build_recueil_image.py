@@ -54,7 +54,7 @@ TITLE_PAGE = r"""
 
 \setcounter{tocdepth}{1}
 \tableofcontents
-\newpage
+\cleardoublepage
 
 """
 
