@@ -12,7 +12,7 @@ OUTPUT_PDF = os.path.join(os.path.dirname(__file__), "entre l'image et la mer.pd
 
 LATEX_HEADER = r"""---
 title: "entre l'image et la mer"
-author: "Enrico J. Lévesque"
+author: "Enrico Lévesque"
 date: ""
 lang: fr
 documentclass: book
@@ -47,7 +47,7 @@ TITLE_PAGE = r"""
 \vspace*{4cm}
 {\fontsize{30}{40}\selectfont\bfseries entre l'image et la mer}\\[1.4cm]
 {\large\itshape Poèmes choisis — 1992–2026}\\[2.5cm]
-{\large Enrico J. Lévesque}
+{\large Enrico Lévesque}
 \vfill
 \end{titlepage}
 \restoregeometry

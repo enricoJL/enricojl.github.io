@@ -7,7 +7,7 @@ J'ai généré le PDF final nommé selon les standards de l'industrie :
 ### 2. Guide d'envoi par maison
 #### **A. Éditions du Noroît (Par Courriel)**
 * **Destinataire :** `manuscrits@lenoroit.com`
-* **Objet :** Soumission de manuscrit — Enrico J. Lévesque — Mirage
+* **Objet :** Soumission de manuscrit — Enrico Lévesque — *entre l'image et la mer*
 * **Corps du message :** Utilise la lettre d'accompagnement que nous avons rédigée (elle est déjà en page 1 du PDF, mais tu peux la copier-coller dans l'email).
 * **Pièce jointe :** `LEVESQUE_Enrico_Mirage.pdf`
 * **Note :** Ils exigent la citoyenneté canadienne (ce qui est ton cas). Délai de réponse : 3 à 6 mois.
@@ -28,5 +28,5 @@ J'ai généré le PDF final nommé selon les standards de l'industrie :
 ---
 ### 3. Petit ajustement pour les Forges (Bio de 5 lignes)
 Ils sont très stricts sur la notice biographique (maximum 5 lignes). Utilise celle-ci pour leur envoi :
-> Enrico J. Lévesque est architecte d'affaires et poète de l'ombre depuis 1992. Il explore dans son œuvre la tension entre l'image perçue et la réalité de l'être. "Mirage" est son premier recueil structuré, fruit d'une maturation de trente ans. Il vit et travaille à Montréal, où il cherche à construire des ponts entre la structure des systèmes et la vulnérabilité du vers.
+> Enrico Lévesque est architecte d'affaires et poète de l'ombre depuis 1992. Il explore dans son œuvre la tension entre l'image perçue et la réalité de l'être. "Mirage" est son premier recueil structuré, fruit d'une maturation de trente ans. Il vit et travaille à Montréal, où il cherche à construire des ponts entre la structure des systèmes et la vulnérabilité du vers.
 Veux-tu que j'ajoute quelques poèmes supplémentaires au PDF pour garantir les 45 pages avant que tu ne l'imprimes pour les Forges ? 🪄

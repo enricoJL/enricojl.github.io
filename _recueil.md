@@ -1,6 +1,6 @@
 ---
 title: "entre l'image et la mer"
-author: "Enrico J. Lévesque"
+author: "Enrico Lévesque"
 date: ""
 lang: fr
 documentclass: book
@@ -33,7 +33,7 @@ header-includes:
 \vspace*{4cm}
 {\fontsize{30}{40}\selectfont\bfseries entre l'image et la mer}\\[1.4cm]
 {\large\itshape Poèmes choisis — 1992–2026}\\[2.5cm]
-{\large Enrico J. Lévesque}
+{\large Enrico Lévesque}
 \vfill
 \end{titlepage}
 \restoregeometry
@@ -1297,4 +1297,4 @@ en pureté
 
 
 ###
-*Enrico J. Lévesque — 1992–2026*
+*Enrico Lévesque — 1992–2026*

@@ -18,4 +18,4 @@ Avec ce recueil, dans ce laboratoire expérimental, je tente de capturer mes obs
 <br/>
 <br/>
 
-<h3 style="text-align: center;">Enrico J. Lévesque</h3>
+<h3 style="text-align: center;">Enrico Lévesque</h3>

@@ -2,7 +2,7 @@
 
 *Poèmes choisis — 1992–2026*
 
-**Enrico J. Lévesque**
+**Enrico Lévesque**
 
 ---
 
@@ -1134,4 +1134,4 @@ en pureté
 
 
 ###
-*Enrico J. Lévesque — 1992–2026*
+*Enrico Lévesque — 1992–2026*
