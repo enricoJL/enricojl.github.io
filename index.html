@@ -1,10 +1,21 @@
 ---
 layout: page
 title: recueil
-subtitle: poèmes, récits et pensées
 sitemap:
   priority: 0.9
 ---
+
+{% assign poem_count = 0 %}
+{% for post in site.posts %}
+    {% if post.published != false %}
+        {% assign poem_count = poem_count | plus: 1 %}
+    {% endif %}
+{% endfor %}
+
+<h1 class="page-title">
+    <div class="page-title__text">{{ page.title }}</div>
+    <div class="page-title__subtitle">{{ poem_count }} poèmes, récits et pensées</div>
+</h1>
 
 <!--<center>
 	<img src="{{site.baseurl}}/assets/transparent.png" width="40%">
