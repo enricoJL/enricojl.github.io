@@ -16,7 +16,7 @@ que le vertige s’est emparé de moi
 
 j’ai senti, dans le vide, mon esprit déraper  
 et la Terre se déplacer dans son orbite  
-entre les immenses bras de la galaxie  
+entre les immenses bras de notre galaxie  
 
 le poids du monde me plaquant contre lui  
 j’ai compris que j’y avais ma place  

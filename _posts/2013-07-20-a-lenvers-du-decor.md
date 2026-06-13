@@ -26,7 +26,7 @@ j'avais tout organisé pour une tragédie
 mais rien ne va plus :  
 c'est la comédie !  
 
-le jeu s'échappe au décor  
+le jeu s'échappe du décor  
 tout ce travail de conception  
 complètement inutile  
 

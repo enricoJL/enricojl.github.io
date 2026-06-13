@@ -208,7 +208,7 @@ j'avais tout organisé pour une tragédie
 mais rien ne va plus :  
 c'est la comédie !  
 
-le jeu s'échappe au décor  
+le jeu s'échappe du décor  
 tout ce travail de conception  
 complètement inutile  
 
@@ -505,7 +505,6 @@ de passer au-dessus des objets ---
 c’est lourd, un menton !  
 
 il a même un grain de beauté  
-pour montrer l'humilité de son cœur  
 
 il a aussi de beaux cils  
 pour cligner des yeux  
@@ -553,6 +552,7 @@ les yeux droits dans les yeux
 et qu'elle te demande  
 
 — es-tu là ?  
+— ...
 
 
 ### blessure
@@ -577,7 +577,7 @@ ultrasensible à la vérité
 
 ### le cœur a ses raisons
 
-> Le cœur a ses raisons que la raison ignore.
+> Le cœur a ses raisons que la raison ignore.  
 > — Blaise Pascal
 
 rien n'y paraît  
@@ -643,6 +643,21 @@ ou que je pense voir
 quand je te vois  
 
 c'est le choc des titans  
+
+
+### dialogue
+
+> *ils étaient convaincus de voir clair*  
+> *donc ils ne voyaient plus*  
+
+je ne suis pas celui que tu penses  
+ni celui que tu aimerais  
+ni l'autre que tu détestes  
+
+je ne sais plus qui je suis  
+quand tu me regardes  
+
+ton œil diffère mon image  
 
 
 ### au point de rencontre
@@ -863,7 +878,7 @@ ne reflète rien
 
 laisse juste passer  
 l'émotion révélatrice  
-à la pupille de l'abîme  
+à la pupille de l'abysse  
 
 
 ### Perception, imagination et réalité
@@ -1036,7 +1051,7 @@ mais tu ne peux l'empêcher
 
 laisse-le couler  
 
-> *Be water, my friend*
+> *Be water, my friend*  
 > — Bruce Lee
 
 
@@ -1065,7 +1080,7 @@ que le vertige s'est emparé de moi
 
 j'ai senti, dans le vide, mon esprit déraper  
 et la Terre se déplacer dans son orbite  
-entre les immenses bras de la galaxie  
+entre les immenses bras de notre galaxie  
 
 le poids du monde me plaquant contre lui  
 j'ai compris que j'y avais ma place  
@@ -1119,7 +1134,6 @@ plus je coule avec l'ancre
 plus j'ai du mal à résister  
 à la densité qui me pèse  
 
-je retiens mon souffle  
 dans le noir  
 il fait froid  
 tous mes repères dégringolent avec moi  
@@ -1128,7 +1142,7 @@ je ne distingue plus aucune image
 sauf une  
 à laquelle je me cramponne  
 un brin de lumière  
-dans les profondeurs de l'abysse  
+dans les profondeurs  
 
 --- Qu'est-ce que tu veux ?  
 --- Je veux écrire.  

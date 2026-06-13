@@ -7,7 +7,7 @@ categories: "douleur"
 
 <div style="text-align: right; font-style: italic;">
   Que reste-t-il de lui dans la tempête brève ?<br/>
-  Qu’est devenu mon coeur, navire déserté ?<br/>
+  Qu’est devenu mon cœur, navire déserté ?<br/>
   Hélas! Il a sombré dans l’abîme du Rêve !<br/>
   <br/>
   <sup style="font-style: normal;">(Émile Nelligan, Le Vaisseau d'or)</sup>  

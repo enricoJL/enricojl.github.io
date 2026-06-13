@@ -52,7 +52,6 @@ de passer au-dessus des objets ---
 c’est lourd, un menton !  
 
 il a même un grain de beauté  
-pour montrer l'humilité de son cœur  
 
 il a aussi de beaux cils  
 pour cligner des yeux  
