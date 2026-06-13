@@ -607,12 +607,12 @@ pour retenir sa cervelle*
 mascarade dans l'univers  
 
 comme un astronaute  
-je recalcule ma trajectoire  
 maintes et maintes fois  
+je recalcule ma trajectoire  
 
-en faisant bien attention   
-de poser mon pied sur la lune  
+en faisant bien attention  
 sous les projecteurs  
+de poser mon pied sur la lune  
 
 je fais semblant  
 sachant qui je suis vraiment  
