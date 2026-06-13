@@ -1308,7 +1308,7 @@ je ne distingue plus aucune image
 sauf une  
 à laquelle je me cramponne  
 un brin de lumière  
-dans les profondeurs de l'abysse  
+dans les profondeurs  
 
 --- Qu'est-ce que tu veux ?  
 --- Je veux écrire.  
