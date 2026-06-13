@@ -11,4 +11,3 @@ mes yeux tournés vers Lui
 son cœur tourné vers moi  
 
 je me sens si choyé  
-et béni  

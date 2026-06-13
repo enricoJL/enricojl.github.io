@@ -1099,7 +1099,6 @@ mes yeux tournés vers Lui
 son cœur tourné vers moi  
 
 je me sens si choyé  
-et béni  
 
 
 ### plongée
@@ -1110,6 +1109,37 @@ je retiens mon souffle
 
 toutes craintes à l'envers de moi  
 jusqu'à la rive de ton sourire  
+
+
+### la mer
+
+l'eau et le sel  
+se resserrent contre moi  
+plus je coule avec l'ancre  
+plus j'ai du mal à résister  
+à la densité qui me pèse  
+
+je retiens mon souffle  
+dans le noir  
+il fait froid  
+tous mes repères dégringolent avec moi  
+
+je ne distingue plus aucune image  
+sauf une  
+à laquelle je me cramponne  
+un brin de lumière  
+dans les profondeurs de l'abysse  
+
+--- Qu'est-ce que tu veux ?  
+--- Je veux écrire.  
+--- Viens d'abord à moi.  
+--- ...  
+
+libéré des chaînes  
+j'y consens  
+
+je perçois l'apesanteur  
+à mesure que mon œil se dissout dans la mer  
 
 
 ### abyssal
