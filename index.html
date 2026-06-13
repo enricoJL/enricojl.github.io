@@ -13,7 +13,10 @@ sitemap:
     {% endif %}
 {% endfor %}
 
-<p style="text-align:center; margin-top: 1.5em; font-style: italic;">{{ poem_count }} poèmes, récits et pensées</p>
+<h1 class="page-title">
+    <div class="page-title__text">{{ page.title }}</div>
+    <div class="page-title__subtitle">{{ poem_count }} poèmes, récits et pensées</div>
+</h1>
 
 <!--<center>
 	<img src="{{site.baseurl}}/assets/transparent.png" width="40%">
