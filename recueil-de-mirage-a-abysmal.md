@@ -1128,30 +1128,25 @@ jusqu'à la rive de ton sourire
 
 ### la mer
 
-l'eau et le sel  
-se resserrent contre moi  
-plus je coule avec l'ancre  
+plus je coule  
 plus j'ai du mal à résister  
-à la densité qui me pèse  
+la densité de l'eau me pèse  
 
-dans le noir  
-il fait froid  
+j'ai froid dans l'obscurité  
 tous mes repères dégringolent avec moi  
-
 je ne distingue plus aucune image  
 sauf une  
 à laquelle je me cramponne  
-un brin de lumière  
-dans les profondeurs  
 
 --- Qu'est-ce que tu veux ?  
 --- Je veux écrire.  
---- Viens d'abord à moi.  
+--- Viens d'abord à moi. 
 --- ...  
 
-libéré des chaînes  
 j'y consens  
 
+libéré de mes chaînes  
+devenu translucide  
 je perçois l'apesanteur  
 à mesure que mon œil se dissout dans la mer  
 
