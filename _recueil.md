@@ -1304,7 +1304,7 @@ je ne distingue plus aucune image
 sauf une  
 à laquelle je me cramponne  
 recroquevillé sur elle  
-dans ma descente  
+je me laisse descendre  
 
 --- Qu'est-ce que tu veux ?  
 --- Je veux écrire.  
