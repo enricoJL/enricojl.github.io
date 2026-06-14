@@ -8,7 +8,7 @@ import sys
 
 SOURCE_MD  = os.path.join(os.path.dirname(__file__), "recueil-de-mirage-a-abysmal.md")
 OUTPUT_MD  = os.path.join(os.path.dirname(__file__), "_recueil.md")
-OUTPUT_PDF = os.path.join(os.path.dirname(__file__), "entre l'image et la mer.pdf")
+OUTPUT_PDF = os.path.join(os.path.dirname(__file__), "LEVESQUE_Enrico_entre_l'image_et_la_mer.pdf")
 
 LATEX_HEADER = r"""---
 title: "entre l'image et la mer"
