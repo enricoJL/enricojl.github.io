@@ -1128,15 +1128,17 @@ jusqu'à la rive de ton sourire
 
 ### la mer
 
-plus je coule  
+plus je coule dans l'eau  
 plus j'ai du mal à résister  
-la densité de l'eau me pèse  
+la densité me pèse lourd  
 
 j'ai froid dans l'obscurité  
 tous mes repères dégringolent avec moi  
 je ne distingue plus aucune image  
 sauf une  
 à laquelle je me cramponne  
+recroquevillé sur elle  
+dans ma descente  
 
 --- Qu'est-ce que tu veux ?  
 --- Je veux écrire.  
@@ -1148,6 +1150,7 @@ j'y consens
 libéré de mes chaînes  
 devenu translucide  
 je perçois l'apesanteur  
+
 à mesure que mon œil se dissout dans la mer  
 
 
