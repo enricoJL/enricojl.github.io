@@ -1140,7 +1140,7 @@ sauf une
 
 --- Qu'est-ce que tu veux ?  
 --- Je veux écrire.  
---- Viens d'abord à moi. 
+--- Viens d'abord à moi.  
 --- ...  
 
 j'y consens  
