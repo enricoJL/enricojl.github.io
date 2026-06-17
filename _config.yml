@@ -2,7 +2,7 @@
 # Site settings
 title: pour la beauté du monde
 description: >
-  poèmes, récits et pensées
+  poèmes et proses
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://enricojl.github.io" # the base hostname & protocol for your site
