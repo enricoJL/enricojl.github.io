@@ -819,25 +819,6 @@ effluve naturelle élevée jusqu'au ciel
 j'espère être agréable à mon Créateur  
 
 
-### tendre vers l'autre
-
-tendre la main  
-donner généreusement  
-comme on verse de l'eau dans un vase  
-
-sans compter  
-sans regarder  
-sans s'en soucier  
-jusqu'à ce que ça déborde  
-sans s'inquiéter d'en perdre  
-ou d'en gaspiller  
-
-tendre vers l'autre  
-en espérant que l'eau soit bonne  
-en espérant que la joie surgisse  
-et que la vie nous surpasse  
-
-
 ### entre l'image et la mer
 
 quand on s'adresse à l'autre, malheureusement  
