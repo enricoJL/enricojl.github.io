@@ -33,6 +33,8 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 *Je descends avec toi parce que je t'ai compris. Ce n'est plus seulement une épreuve partagée — c'est la conséquence directe de l'écoute : on entre dans l'abîme de l'autre parce qu'on a consenti à le voir.*
 - `coma` (L'effort de sauvetage)
 - `senliser` (L'impuissance partagée)
+- `dialogue` (L'échec du regard)
+- `fracture` (L'effondrement intérieur)
 - `fragile`
 - `accroche-toi`
 - `solitudes`
@@ -65,10 +67,22 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 
 ### V. L'Ouverture (L'Inspiration)
 *L'aboutissement dans la communion collective. Le cercle se ferme : l'écoute reçue devient écoute offerte — et la beauté du monde croît par ceux qui ont appris à entendre.*
-- `je-marche-avec-lui`
+- `tendre-vers-lautre` (Le don universel)
 - `miracle`
 - `au-bon-moment`
 - `a-table`
+
+### VI. La Réponse : La Métamorphose en Silence
+*La destination finale n'est pas un lieu, mais une disposition. On ne mène pas l'autre vers un rivage fixe, on lui apprend que la mer en a plusieurs. Le "tourbillon au centre de nous deux" devient le lieu de la création de mondes.*
+- `ce-qui-nous-arrive`
+- `de-passage`
+- `en-voyage`
+- `métamorphose`
+- `mes-amours` (Le cycle du désir)
+- `désir-ardent`
+- `ou-sont-mes-reves`
+- `recommencer` (Le cycle)
+- `offrande` (Prose)
 
 ---
 
@@ -91,6 +105,8 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 | `coma` | 2023-06-04 | *"qu'est-ce que je peux faire pour le réveiller / allez ! debout ! lève-toi, rêveur, participe !"* | forte |
 | `te-voilà` | 2024-11-05 | *"je reste là, aux aguets / à surveiller le départ / mais voilà / que tu m'aimes en retour"* | forte |
 | `senliser` | 2024-11-02 | *"voir l'autre s'enliser / sans issue / et sombrer avec elle / sans pouvoir rien y faire"* | forte |
+| `dialogue` | 2026-06-12 | *"je ne sais plus qui je suis / quand tu me regardes / ton œil diffère mon image"* | forte |
+| `fracture` | 2025-08-16 | *"tout s'est écroulé / sans moi / à la maison"* | forte |
 | `solitudes` | 2025-03-25 | *"deux grandes solitudes / assises l'une à côté de l'autre / main dans la main / elles traversent le temps"* | forte |
 | `accompagnement` | 2025-04-12 | *"prendras-tu encore ma main / pour traverser la pénombre ? / je t'accompagne / jusqu'à l'aube"* | forte |
 | `bienveillance` | 2025-04-12 | *"je te regarde / assise tranquille / au début de ta vie / l'ai-je été suffisamment bienveillant ?"* | forte |
@@ -111,7 +127,6 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 ### ACCOMPAGNEMENT SPIRITUEL / TRANSITION
 | Poème | Date | Vers clés | Force |
 |---|---|---|---|
-| `je-marche-avec-lui` | 2013-07-20 | *"je marche avec Lui dans une fontaine / mes genoux sur l'éternité se déposent"* | forte |
 | `3-jours-de-jeune-dans-la-jungle-sur-lile-de-vancouver` | 2014-10-05 | *"Lui-même ne jeûnait pas afin de veiller sur nous / ma mission était d'être heureux... et d'apporter du bonheur autour de moi"* | forte |
 | `le-soleil-sest-leve` | 2020-09-12 | *"Le bon Seigneur a pris mon cœur entre ses mains / mon âme, mon être en entier, demeure transformé"* | forte |
 | `loiseau-delicat` | 2020-08-20 | *"entends-tu, mon ami ? / la main d'un Père aimant / qui travaille discrètement"* | moyenne |
@@ -127,6 +142,20 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 | `miracle` | 2026-04-20 | *"je parle avec Dieu / Il m'aide / l'histoire de ma vie / est un miracle collectif"* | forte |
 | `au-bon-moment` | 2023-01-27 | *"confiant d'une puissance invisible / sa patience le projeta"* | moyenne |
 | `a-table` | 2024-09-29 | *"à mon réveil / le déjeuner était déjà prêt"* | moyenne |
+| `tendre-vers-lautre` | 2023-03-04 | *"tendre vers l’autre / en espérant que la joie surgisse / et que la vie nous surpasse"* | forte (universelle) |
+
+### LA RÉPONSE / MÉTAMORPHOSE
+| Poème | Date | Vers clés | Force |
+|---|---|---|---|
+| `ce-qui-nous-arrive` | 2013-08-18 | *"la structure de nos pensées / se métamorphose en silence"* | forte |
+| `de-passage` | 2021-02-13 | *"j’accumule tout un bagage / laissé là par le mouvement des choses"* | forte |
+| `en-voyage` | 2021-02-13 | *"comme un véhicule en mouvement / alors que tout autour / le paysage se métamorphose"* | forte |
+| `métamorphose` | 2020-05-29 | *"au centre de nous deux / dans un tourbillon / continuellement"* | forte |
+| `mes-amours` | 2023-05-15 | *"sans être toujours confortables / auprès de mes amours / mes désirs m'y ramènent toujours"* | forte |
+| `ou-sont-mes-reves` | 2021-03-08 | *"Parce que je L’aime, j’ai accepté la métamorphose. J’ai décidé de disparaître."* | forte |
+| `recommencer` | 2025-05-31 | *"et recommencer encore"* | moyenne |
+| `désir-ardent` | 2026-06-17 | *"mon obstination refusant d'avoir mal / j'ai contemplé la fin"* | forte |
+| `offrande` | 2026-06-16 | *"J'ai donné ce jour-là ma douleur en offrande à Dieu."* | forte (prose) |
 
 ---
-*Dernière mise à jour : 2026-06-10*
+*Dernière mise à jour : 2026-06-17*

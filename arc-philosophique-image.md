@@ -8,7 +8,7 @@ Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler
 
 ---
 
-## Séquence complète — 44 poèmes, 34 ans
+## Séquence complète — 43 poèmes, 34 ans
 
 ### Phase I — Mirage 
 
@@ -52,22 +52,21 @@ Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler
 | 26 | Inextricable beauté | 2020-06 | **Chaos** — la beauté déstabilise et brise le contrôle |
 | 27 | La beauté | 2023-01 | **Ouverture** — la beauté comme transport vers l'ailleurs |
 | 28 | Épitaphe | 2023 | **Essence** — ce qu'on est au-delà de l'image (l'urne vivace) |
-| 29 | Tendre vers l'autre | 2023 | **Pratique** — donner sans se regarder être vu |
-| 30 | Entre l'image et la mer | 2024 | **Obstacle** — l'image encombre ce qui existe vraiment |
-| 31 | Cristal | 2024 | **Refus** — ne reflètes rien, l'image-miroir désactivée |
-| 32 | Perception, imagination et réalité | 2024 | **Cartographie** — les trois univers, sortie par le partage |
-| 33 | Bulles fragiles | 2025-03-25 | **Diagnostic** — les bulles nommées, vues, acceptées |
-| 34 | Imagination | 2025-03-26 | **Débordement** — l'image cesse d'être piège, devient espace |
-| 35 | Restitution | 2025-03-26 | **Reconstruction** — image organique qui se reforme |
-| 36 | Sans image | 2025-03-26 | **Libération** — le feu vibrant de la présence nue |
-| 37 | Be water, my friend | 2025-08-13 | **Fluidité** — l'abandon et le lâcher-prise |
-| 38 | Sans frontières | 2026-01-18 | **Transversalité** — la circulation libre sans limites |
-| 39 | Plongeon dans le ciel | 2023-01 | **Conversion cosmique** — le vide habité, sa place à l'ombre du cosmos |
-| 40 | Je marche avec Lui | 2013 | **Altitude** — fontaine et océan, la conscience élargie au-dessus des nuages |
-| 41 | Semblable | 2025-08 | **Tournant** — la ressemblance devient don, non projection |
-| 42 | Plongée | 2026-03 | **Consentement** — toutes craintes à l'envers, jusqu'à la rive de ton sourire |
-| 43 | la mer | 2026-06-13 | **Dissolution** — le point de bascule final, l'œil qui se dissout |
-| 44 | Abyssal | 2026-05 | **Téléologie** — "jusqu'à te ressembler / en puissance / en pureté" |
+| 29 | Entre l'image et la mer | 2024 | **Obstacle** — l'image encombre ce qui existe vraiment |
+| 30 | Cristal | 2024 | **Refus** — ne reflètes rien, l'image-miroir désactivée |
+| 31 | Perception, imagination et réalité | 2024 | **Cartographie** — les trois univers, sortie par le partage |
+| 32 | Bulles fragiles | 2025-03-25 | **Diagnostic** — les bulles nommées, vues, acceptées |
+| 33 | Imagination | 2025-03-26 | **Débordement** — l'image cesse d'être piège, devient espace |
+| 34 | Restitution | 2025-03-26 | **Reconstruction** — image organique qui se reforme |
+| 35 | Sans image | 2025-03-26 | **Libération** — le feu vibrant de la présence nue |
+| 36 | Be water, my friend | 2025-08-13 | **Fluidité** — l'abandon et le lâcher-prise |
+| 37 | Sans frontières | 2026-01-18 | **Transversalité** — la circulation libre sans limites |
+| 38 | Plongeon dans le ciel | 2023-01 | **Conversion cosmique** — le vide habité, sa place à l'ombre du cosmos |
+| 39 | Je marche avec Lui | 2013 | **Altitude** — fontaine et océan, la conscience élargie au-dessus des nuages |
+| 40 | Semblable | 2025-08 | **Tournant** — la ressemblance devient don, non projection |
+| 41 | Plongée | 2026-03 | **Consentement** — toutes craintes à l'envers, jusqu'à la rive de ton sourire |
+| 42 | la mer | 2026-06-13 | **Dissolution** — le point de bascule final, l'œil qui se dissout |
+| 43 | Abyssal | 2026-05 | **Téléologie** — "jusqu'à te ressembler / en puissance / en pureté" |
 
 ---
 
