@@ -29,26 +29,23 @@ permalink: /recherche/
   var searchStatus = document.getElementById('search-status');
   var index, documents;
 
+  function stripAccents(str) {
+    return str ? str.normalize('NFD').replace(/[̀-ͯ]/g, '') : '';
+  }
+
   fetch('{{ "/search.json" | prepend: site.baseurl }}')
     .then(function(res) { return res.json(); })
     .then(function(data) {
       documents = data;
-      lunr.Pipeline.registerFunction(function normalizeAccents(token) {
-        return token.update(function(str) {
-          return str.normalize('NFD').replace(/[̀-ͯ]/g, '');
-        });
-      }, 'normalizeAccents');
-
-      var normalizeAccents = lunr.Pipeline.getRegisteredFunction('normalizeAccents');
 
       index = lunr(function() {
         this.ref('id');
         this.field('title', { boost: 10 });
         this.field('content');
         this.pipeline.remove(lunr.stemmer);
-        this.pipeline.before(lunr.trimmer, normalizeAccents);
-        this.searchPipeline.add(normalizeAccents);
-        documents.forEach(function(doc) { this.add(doc); }, this);
+        documents.forEach(function(doc) {
+          this.add({ id: doc.id, title: stripAccents(doc.title), content: stripAccents(doc.content) });
+        }, this);
       });
       if (searchInput.value.trim()) runSearch(searchInput.value);
     });
@@ -58,7 +55,7 @@ permalink: /recherche/
   });
 
   function runSearch(query) {
-    query = query.trim();
+    query = stripAccents(query.trim());
     searchResults.innerHTML = '';
     searchStatus.textContent = '';
     if (!query || !index) return;
