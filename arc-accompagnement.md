@@ -33,7 +33,6 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 *Je descends avec toi parce que je t'ai compris. Ce n'est plus seulement une épreuve partagée — c'est la conséquence directe de l'écoute : on entre dans l'abîme de l'autre parce qu'on a consenti à le voir.*
 - `coma` (L'effort de sauvetage)
 - `senliser` (L'impuissance partagée)
-- `dialogue` (L'échec du regard)
 - `fracture` (L'effondrement intérieur)
 - `fragile`
 - `accroche-toi`
@@ -105,7 +104,6 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 | `coma` | 2023-06-04 | *"qu'est-ce que je peux faire pour le réveiller / allez ! debout ! lève-toi, rêveur, participe !"* | forte |
 | `te-voilà` | 2024-11-05 | *"je reste là, aux aguets / à surveiller le départ / mais voilà / que tu m'aimes en retour"* | forte |
 | `senliser` | 2024-11-02 | *"voir l'autre s'enliser / sans issue / et sombrer avec elle / sans pouvoir rien y faire"* | forte |
-| `dialogue` | 2026-06-12 | *"je ne sais plus qui je suis / quand tu me regardes / ton œil diffère mon image"* | forte |
 | `fracture` | 2025-08-16 | *"tout s'est écroulé / sans moi / à la maison"* | forte |
 | `solitudes` | 2025-03-25 | *"deux grandes solitudes / assises l'une à côté de l'autre / main dans la main / elles traversent le temps"* | forte |
 | `accompagnement` | 2025-04-12 | *"prendras-tu encore ma main / pour traverser la pénombre ? / je t'accompagne / jusqu'à l'aube"* | forte |
