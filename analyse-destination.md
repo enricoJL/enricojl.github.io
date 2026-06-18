@@ -72,7 +72,7 @@ C'est la destination ultime : devenir celui par qui la beauté passe. La souffra
 Le Mouvement I s'ouvre sur l'appel et l'engagement, mais le tout premier geste — descendre dans le trouble de l'autre sans encore proposer de sortie — reste sans poème dédié. `intimite`, `givrés`, `fenetre-ouverte`, `solitudes` (dans Mv. II) l'approchent, mais aucun n'en fait son sujet central.
 
 ### Lacune 1 : Le moment de la *conversion*
-Entre « je reçois la lumière » et « je pars en mission », il manque le poème qui dit *pourquoi* le tournant se fait. Qu'est-ce qui bascule ? `decision` est proche, mais abstrait. Il manque un poème où le sujet, précisément, sent le passage de l'accompagné à l'accompagnateur — le moment où la blessure devient parole.
+Entre « je reçois la lumière » et « je pars en mission », il manque le poème qui dit *pourquoi* le tournant se fait. `guérison` (2026-02-07) est maintenant en pont III→IV : il nomme la blessure, ce qui rend le départ possible. Mais il reste orienté vers soi. Il manque encore le poème du basculement vers l'autre — le moment où la blessure *nommée* devient *offerte*. **À écrire : suite directe de `guérison`.**
 
 ### Lacune 2 : L'échec
 Tous les poèmes réussissent. Où est le poème de l'accompagnement raté ? De la main qu'on a tendue et qu'on a retirée ? De la tempête qu'on n'a pas traversée ? `senliser` touche à ça, mais du point de vue de celui qui regarde l'autre couler — pas de celui qui échoue lui-même. Il manque la poésie de l'échec *personnel* dans l'accompagnement.
@@ -101,6 +101,7 @@ Au lieu de 5 mouvements qui décrivent *comment* on accompagne, restructurons en
 
 ### II. Dans les crevasses
 *Je descends avec toi parce que je t'ai compris. La souffrance n'est pas contournée — elle est traversée ensemble, parce que l'écoute a rendu la descente consentie.*
+- `passager` *(ouverture : l'état de l'accompagné enfermé, avant que la main se tende)*
 - `accroche-toi` (déjà dans l'arc)
 - `coma` (déjà dans l'arc)
 - `solitudes` (déjà dans l'arc)
@@ -112,9 +113,11 @@ Au lieu de 5 mouvements qui décrivent *comment* on accompagne, restructurons en
 - `ma-lumiere` (déjà dans l'arc)
 - `je-reviens-a-la-vie`
 - `lumiere-du-matin` (déjà dans l'arc)
+- `relecture` *(clôture du Mv. III / pont vers IV : l'intégration silencieuse — reconsidérer ses limitations sans en être dérangé, avant l'envol)*
 
 ### IV. L'envol
 *Celui qui a été entendu apprend à entendre. Le sujet ne reçoit plus, il part — et il sait pourquoi : parce que quelqu'un a d'abord consenti à descendre.*
+- `guérison` *(pont III→IV : nommer la blessure, condition du départ — un nouveau poème viendra après lui comme basculement vers l'autre)*
 - `envol`
 - `decision` (déjà dans l'arc)
 - `3-jours-de-jeune` (déjà dans l'arc)
