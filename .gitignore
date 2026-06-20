@@ -1,3 +1,4 @@
 _site
 .sass-cache
 WARP.md
+.DS_Store

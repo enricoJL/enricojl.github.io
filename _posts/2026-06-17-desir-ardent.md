@@ -6,23 +6,22 @@ categories: "new douleur"
 published: true
 ---
 
-marcher  
-sur quinze années de souffrance  
-pour des niaiseries  
-qu'on m'a laissé faire  
+marcher sur quinze années  
+la hanche disloquée  
 
 marcher pour toi  
 pendant deux ans de plus  
 malgré ma condition  
 
-la canne à la main  
-comme une offrande à Dieu  
-je ris de ma souffrance  
-sublimée dans ma prière  
+la canne à la main comme une offrande  
+ma douleur sublimée dans ma prière  
 refusant dans mon obstination  
 d'avoir mal  
 
 jusqu'au dernier jour  
 la douleur aiguë de nouveau  
+qui me rattrape  
+
 dans un effondrement soudain  
-sur le sol je contemple la fin  
+pendant longtemps sur le sol  
+je contemple la fin  
