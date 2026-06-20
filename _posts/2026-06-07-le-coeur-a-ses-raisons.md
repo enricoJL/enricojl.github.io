@@ -2,7 +2,7 @@
 layout: post
 title: "le cœur a ses raisons"
 date: "2026-06-07"
-categories: "identite"
+categories: "identite new"
 ---
 
 <div style="text-align: right; font-style: italic;">

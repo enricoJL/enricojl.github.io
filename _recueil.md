@@ -614,7 +614,8 @@ sous les projecteurs
 de poser mon pied sur la lune  
 
 je fais semblant  
-sachant qui je suis vraiment  
+ne sachant pas  
+qui je suis vraiment  
 
 
 \newpage
@@ -1305,13 +1306,13 @@ je perçois l'apesanteur
 
 sourire abyssal  
 dans mon orgueil dérisoire  
-la comparaison résonne encore  
+tu résonnes encore  
 
 je tremble d'amertume  
 à contempler ta nature  
 nettement supérieure à la mienne  
 
-ma vision du monde  
+et ma vision du monde  
 entame une métamorphose  
 singulière  
 

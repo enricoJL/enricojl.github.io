@@ -17,5 +17,6 @@ sous les projecteurs
 de poser mon pied sur la lune  
 
 je fais semblant  
-sachant qui je suis vraiment  
+ne sachant pas  
+qui je suis vraiment  
 
