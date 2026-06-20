@@ -9,19 +9,18 @@ published: true
 marcher sur quinze années  
 la hanche disloquée  
 
-marcher pour toi  
-pendant deux ans de plus  
+marcher encore  
+deux ans de plus  
 malgré ma condition  
 
-la canne à la main comme une offrande  
-ma douleur sublimée dans ma prière  
-refusant dans mon obstination  
-d'avoir mal  
+la canne à la main  
+comme une offrande  
+la souffrance sublimée  
+dans la prière  
 
 jusqu'au dernier jour  
-la douleur aiguë de nouveau  
-qui me rattrape  
+la douleur aiguë de retour  
+dans mon effondrement  
 
-dans un effondrement soudain  
-pendant longtemps sur le sol  
-je contemple la fin  
+longtemps sur le sol  
+j'ai contemplé la fin  
