@@ -18,6 +18,7 @@ ARC = [
         "2025-08-09-funambule.md",
         "2024-11-02-senliser.md",
         "2020-08-20-le-silence-des-pierres.md",
+        "2026-06-23-tourbillon.md",
         "2025-08-16-insouciance.md",
     ]),
     ("[2-FOND] — Le néant habité", [
@@ -32,7 +33,6 @@ ARC = [
         "2025-06-10-degout.md",
         "2025-07-17-inassouvi.md",
         "2025-08-16-fracture.md",
-        "2025-08-16-sans-mot.md",
         "2025-11-22-passager.md",
         "2025-03-27-dans-la-nuit.md",
     ]),

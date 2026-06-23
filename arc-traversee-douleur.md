@@ -18,8 +18,8 @@ et **new** (2026). Après épuration des poèmes déjà sélectionnés dans l'ar
 
 | Station | Sens | Nombre |
 |---|---|---|
-| `[1-DESCENTE]` | On glisse, on tourne autour du bord, on tombe | **6** |
-| `[2-FOND]` | Immobilité, enlisement, le néant, le sans-issue | **13** |
+| `[1-DESCENTE]` | On glisse, on tourne autour du bord, on tombe | **7** |
+| `[2-FOND]` | Immobilité, enlisement, le néant, le sans-issue | **12** |
 | `[3-BASCULE]` | Le pivot — le fond devient source, on consent | **8** |
 | `[4-REMONTEE]` | Debout, le lien retrouvé, la douleur portée | **12** |
 | `[5-AUTRE-CÔTÉ]` | Transmutation accomplie — la souffrance nourrit | **9** |
@@ -60,16 +60,17 @@ de l'image et de la transparence qu'à celle de la douleur comme traversée auto
 
 ## La trajectoire, station par station
 
-### `[1-DESCENTE]` — le bord qui s'effrite (6)
+### `[1-DESCENTE]` — le bord qui s'effrite (7)
 On n'est pas encore tombé. On tourne autour, on glisse, on titube.
 **Spine :** `le gouffre` (le rebord nommé) → `y` (le seuil sans franchissement) →
-`funambule` (le fil au-dessus du vide) → `s'enliser` (la glissade silencieuse).
+`funambule` (le fil au-dessus du vide) → `s'enliser` (la glissade silencieuse) →
+`tourbillon` (l'embarquement pour la dérive).
 
 > *cette plaie / ça pue tellement / je n'ai pas envie d'y entrer / mais j'en ai tant besoin* — `le gouffre`
 
 Autres : le-silence-des-pierres, insouciance.
 
-### `[2-FOND]` — le néant habité (13)
+### `[2-FOND]` — le néant habité (12)
 Le centre. Immobilité, perte des repères, peine innommable, invisibilité.
 **Spine :** `le puits` (l'archétype du gouffre) → `la-mort-à-petit-feu` (l'extinction
 lente) → `disparu` (l'effacement) → `anonyme` (la peine qui ne se nomme pas) →
@@ -78,7 +79,7 @@ lente) → `disparu` (l'effacement) → `anonyme` (la peine qui ne se nomme pas)
 > *j'ai l'impression d'être mort / depuis longtemps déjà* — `la-mort-à-petit-feu`
 
 Autres : au-pied-d'un-arbre, à-l'agonie, sans-appui, dégoût, inassouvi,
-fracture, sans-mot, passager.
+fracture, passager.
 
 ### `[3-BASCULE]` — le pivot (8)
 Le cœur battant de l'arc. Le fond se retourne en source.

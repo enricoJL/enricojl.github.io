@@ -12,29 +12,15 @@
 
 ### le gouffre
 
-ça pue tellement  
-je n'ai pas envie d'y entrer  
-mais j'en ai tant besoin  
-
-j'appréhende à la surface  
-la substance qui émerge  
-sans le courage d'y plonger  
-
+je n'ai pas le courage d'y plonger  
 dans cette fosse lugubre  
-remplie de moisissures  
-il ne faut pas s'y aventurer  
-au risque d'y glisser  
-et de ne plus jamais revenir  
+remplie de mystères  
 
-je tourne autour du mystère  
 j'y lance un regard de temps à autre  
 pour y percevoir des créatures étranges  
-au fond du fossé qui grouillent dans la pénombre  
+au fond qui grouillent dans la pénombre  
 
 mais je n'ose jamais m'attarder  
-assez longtemps pour réaliser  
-de quoi elles s'alimentent ---  
-
 chaque jour laissé-là à pourrir  
 dans le gouffre de l'oubli
 
@@ -66,10 +52,7 @@ un pas en arrière
 je titube  
 
 si je glisse  
-je vais me fracasser  
-
-et la foule observant le spectacle  
-s'émeut du danger
+je vais me fracasser
 
 *2025*
 
@@ -117,6 +100,22 @@ elle éclatera !
 les rochers se fendent déjà
 
 *2020*
+
+### tourbillon
+
+ce qui nous a frappés  
+à moitié dans le monde  
+j'en suis seul survivant  
+
+nos amours en suspension  
+nos relations écorchées  
+nos convictions ébranlées  
+
+à la dérive  
+sur mille et un repères  
+j'embarque pour le tourbillon
+
+*2026*
 
 ### insouciance
 
@@ -231,30 +230,28 @@ jusqu'à ce qu'il n'en reste
 plus qu'un   
 
 moi seul  
-dans l'amphithéâtre  
-spectateur sidéré  
-figé sur le granite
+figé sur le granite  
+au milieu de l'amphithéâtre
 
 *2025*
 
-### Au pied d'un arbre
+### au pied d'un arbre
 
-Au pied d'un arbre, dans un jardin  
-Un homme, et mille ans de vie  
+au pied d'un arbre dans un jardin  
+un homme et mille ans de vie  
 
-Des larmes coulent à flots sur son visage  
-Ses yeux, bien enfoncés dans une terre invisible  
-Il voit plus clair, de tout son cœur  
+des larmes coulent à flots sur son visage  
+ses yeux bien enfoncés dans une terre invisible  
+il voit plus clair de tout son cœur  
 
-Une puissance s'est déposée sur ses épaules  
-Il porte des peines qu'il ne connaissait pas  
-Des souffrances qu'il ne pensait pas lui appartenir  
+une puissance s'est déposée sur ses épaules  
+il porte des peines qu'il ne connaissait pas  
+des souffrances qu'il ne savait pas lui appartenir  
 
-Rendu au bout tout à fait du voyage  
-Son âme s'est éclatée  
-
-Elle gît au pied d'un arbre  
-Et mille ans de vie ornent ses pensées
+rendu au bout tout à fait du voyage  
+son âme s'est éclatée  
+elle gît au pied d'un arbre  
+et mille ans de vie ornent ses pensées
 
 *2013*
 
@@ -321,46 +318,22 @@ on ne le voit plus
 ### inassouvi
 
 mes larmes sèchent d'être tristes  
-faute de n'avoir jamais su  
-en trouver la source
+faute de n'avoir jamais su en trouver la source
 
 *2025*
 
 ### fracture
 
 je suis resté là  
-à pleurer  
-dans la douleur  
-l'incompréhension  
-et la honte  
+à pleurer dans la douleur  
+l'incompréhension et la honte  
 
-<< ça ira mieux >>  
-je me suis dit  
-dans ma fuite  
+ça ira mieux  
+je me suis dit dans ma fuite  
+sans moi à la maison  
 
-<< sans moi  
-à la maison >>  
-
-mais  
-tout s'est écroulé  
-
-sans moi  
-à la maison
-
-*2025*
-
-### sans mot
-
-ce qui nous a frappés  
-à moitié dans le monde  
-j'en suis le seul survivant  
-
-mes relations  
-mes convictions  
-mes émotions  
-
-m'écorchent dans tous mes sens  
-sur mille et un repères
+mais tout s'est écroulé  
+sans moi à la maison
 
 *2025*
 
@@ -383,14 +356,12 @@ toute la nuit
 
 sans penser  
 faire le vide  
-
 les amertumes du jour  
 les inquiétudes du soir  
 évadées dans un souffle  
 
 veiller sur l'oreiller  
 sans penser à rien  
-
 encore une fois  
 basculer dans le vide  
 
@@ -400,7 +371,6 @@ le jour porteur
 
 la vie  
 tranquille  
-
 les enfants  
 le mariage  
 le travail  
@@ -411,7 +381,6 @@ au travail
 dans le pays  
 
 il y en a des conflits !  
-
 à la maison  
 au travail  
 dans le pays
@@ -444,29 +413,24 @@ avant de fleurir
 ### slap !
 
 slap en pleine face !   
-
-à grands coups  
-de mensonges  
-et de demi-vérités    
+à grands coups de mensonges  
+et de semi-vérités    
 
 bouche bée  
 encore abasourdi  
 je cherche à comprendre  
 
-je repasse la scène  
-constamment  
-dans mon souvenir  
+je repasse dans mon souvenir  
+la scène constamment  
 
-l’incohérence  
-tranquillement  
+l’incohérence tranquillement  
 s’estompe  
 
 slap !  
 slap !  
 slap !  
 
-ça ira mieux  
-demain
+ça ira mieux demain
 
 *2025*
 
@@ -487,8 +451,9 @@ de sel immaculés
 
 garder la tête hors de l'eau  
 pour reprendre son souffle  
-pour ne pas sombrer  
+et ne pas sombrer  
 dans la turbulence  
+
 sous l'horizon  
 vacillant à la surface  
 entre le doute et la peur  
@@ -505,22 +470,21 @@ je n’ai personne en qui croire
 je fais semblant comme au théâtre  
 j’invente  
 
-je m’enfuis dans les rues  
 au-travers d’un songe  
-et je me retrouve au bout de mes limites  
+je me retrouve au bout de mes limites  
 étranglé de sombres présomptions  
 
-dans l’invivable, je fuis sans relâche  
+dans l’invivable  
+je fuis sans relâche  
 ma propre présence infecte  
+
 ma vie n’est qu’un long souvenir  
 compliqué  
 
 — mais voilà qu'on frappe à ma porte  
 
 on arrive au balcon  
-à cheval jusqu’à ma porte  
-on fait vibrer ma maison  
-
+ce qui ébranle ma maison  
 à l’entrée, le colporteur se présente  
 rempli de miel jusque dans les yeux  
 il offre d’abord sa présence  
@@ -531,7 +495,7 @@ et je me réjouis d’avoir fermé la porte
 avant que son pied n’atteigne l’intérieur  
 de la maison  
 
-à l’entrée : le colporteur  
+à l’entrée, le colporteur  
 une autre fois encore  
 avec sa présence toujours  
 avec du miel  
@@ -540,7 +504,7 @@ séduit
 je l’invite dans la maison  
 et son pied se pose à l’intérieur  
 
-et je sens venir son corps entier  
+je sens venir son corps entier  
 comme une structure qui entre  
 entre les yeux et le pied  
 
@@ -552,8 +516,7 @@ et je me réjouis
 
 ma maladie, c’est la mort  
 
-mon handicap  
-c’est de refuser d’y croire
+mon handicap, c’est de refuser d’y croire
 
 *2021*
 
@@ -561,23 +524,22 @@ c’est de refuser d’y croire
 
 ### debout
 
-tout le jour  
+tout les jours  
 sous le soleil  
 je me tiens debout  
 
 malgré tout  
 malgré moi  
-malgré la douleur
+et la douleur
 
 *2024*
 
 ### acceptance
 
-respirer calmement  
-pour absorber la douleur  
+respirer pour absorber  
+la douleur calmement  
 en toute confiance  
 sublimer l'angoisse  
-
 et soupirer jusqu'aux étoiles
 
 *2025*
@@ -589,10 +551,8 @@ la docteure m'a libéré
 la douleur vive  
 m'a révélé son nom  
 
-mieux la connaître  
-enfin  
+mieux la connaître enfin  
 me permet d’envisager  
-
 guérir à chaque pas
 
 *2026*
@@ -602,20 +562,16 @@ guérir à chaque pas
 marcher sur quinze années  
 la hanche disloquée  
 
-marcher encore  
-deux ans de plus  
+marcher encore deux ans de plus  
 malgré ma condition  
-
-la canne à la main  
-comme une offrande  
-la souffrance sublimée  
-dans la prière  
+la canne à la main comme une offrande  
+la souffrance sublimée dans la prière  
 
 jusqu'au dernier jour  
-la douleur aiguë de retour  
-dans mon effondrement  
+la douleur aiguë  
+de retour dans un effondrement  
 
-longtemps sur le sol  
+longtemps cloué sol  
 j'ai contemplé la fin
 
 *2026*
@@ -637,21 +593,22 @@ tout seul
 
 ### assis par terre
 
-assis par terre, dans un coin de la ville  
-il y avait un jeune homme barbu, très mal en point  
+assis par terre dans un coin de la ville  
+il y avait un jeune homme barb très mal en point  
 la tête enfouie dans la poussière de son manteau  
 
-quand j’ai placé ma pièce de monnaie dans sa tasse  
-il m’a dit : « Merci. »  
-mais j’avais plus envie que lui de dire merci  
+j’ai déposé une pièce dans sa tasse  
+il m’a dit merci  
+mais j’avais plus envie que lui de le dire  
 
-assis par terre, j’ai vu là un homme exténué  
+assis par terre  
+j’ai vu là un homme exténué  
 essayant de mettre en place des idées fourbues  
-comme moi-même, déjà  
+comme moi-même déjà  
 assis par terre dans mes ambitions  
 
 des racines depuis mon enfance  
-me donnent le désir de servir :  
+me donnent le désir de servir ---  
 un héritage laissé par mes parents  
 et la foule de mes ancêtres  
 
@@ -663,7 +620,6 @@ ce legs précieux m’a sauvé du fond de l’amertume
 
 depuis longtemps mort et disparu  
 je reviens aujourd'hui à la vie  
-
 avec ce sentiment d’urgence  
 et mes anciennes raisons de vivre  
 
@@ -673,38 +629,32 @@ depuis si longtemps mort et disparu
 
 ### coma
 
-mon frère se trouve dans le coma  
-depuis fort longtemps  
-
-qu’est-ce qui le fait tant dormir   
-ça fait si longtemps qu'il rêve   
-qu’est-ce qui fait qu'il est toujours   
-si profondément endormi    
-
+depuis fort longtemps dans le coma  
+mon frère ne s'arrête plus de dormir  
+ça fait si longtemps qu'il rêve  
+qu’est-ce qui fait qu'il est toujours  
+si profondément endormi  
 quelqu’un va-t-il le réveiller   
 
-il est arrivé quelque chose   
-quelque chose de grave   
+il est arrivé quelque chose de grave   
 un traumatisme transcendantal   
 un blocage total   
-pas normal   
-
 qu’est-ce que je peux faire pour le réveiller   
 
-prisonnier de son imagination débordante   
+prisonnier de son imagination   
 il s'est créé un monde parallèle   
 et le rêve l’a emporté complètement   
 
 il a perdu tout contact avec la réalité    
-ses sentiments, déconnectés   
-ses émotions, piégées là-bas   
-impossible de les rejoindre   
-
+ses sentiments déconnectés   
+ses émotions piégées là-bas   
+impossible de le rejoindre   
 mais comment faire pour le réveiller   
 
 il faut trouver le moyen d’entrer profondément   
 à travers un canal de l’autre monde   
-et parler, pour dire, avec autorité :   
+et parler pour lui dire avec autorité :   
+
 allez ! debout ! lève-toi, rêveur, participe !   
 le monde ici aussi en vaut la peine
 
@@ -712,20 +662,16 @@ le monde ici aussi en vaut la peine
 
 ### j'ose encore croire
 
-c’est quoi ton intention ?  
-parce que je ne comprends pas  
-
+je ne comprends pas ton intention  
 as-tu vraiment envie de dire  
 ce que tu dis ?  
 as-tu vraiment l’intention de faire  
 tout ce que tu fais ?  
 que cherches-tu ?  
 
-où l’as-tu placé  
-mon cœur ?  
-comment l’as-tu perdu ?  
-si loin  
-va-t-il me revenir un jour ?  
+où l’as-tu placé, mon cœur ?  
+comment l’as-tu perdu ? si loin  
+va-t-il nous revenir un jour ?  
 
 j’ose encore croire que oui
 
@@ -735,41 +681,30 @@ j’ose encore croire que oui
 
 debout sur une chaise berçante dans le monde  
 je crie ma joie de grandir à l’envers  
-
-dans la désillusion totale  
 parmi les dogmes qui s’effondrent  
-et les certitudes qui s’effritent  
-
-mes doutes me soulèvent  
-dans l’impossible réalité du temps  
+mes certitudes qui s’effritent  
+dans la désillusion totale  
 
 hésitant  
 ballottant  
 chambranlant  
 
-mais toujours debout
+mais toujours debout sur les ailes du doute  
+à travers l'impossible réalité du temps
 
 *2025*
 
 ### instabilité
 
 l'instabilité  
-
 grâce à elle  
 je reste là  
-à chercher appui  
-dans le ciel  
 
-à chercher  
-la source  
-pour apaiser  
+à chercher appui dans le ciel  
+à chercher la source pour apaiser  
 
-la fontaine  
-pour continuer  
-d'aimer  
-
-sans jamais cesser  
-de tituber vers elle
+la fontaine pour continuer d'aimer  
+sans jamais cesser de tituber vers elle
 
 *2025*
 
@@ -791,9 +726,9 @@ Nous vous avons donné en cadeaux notre dévouement, notre générosité, notre 
 
 Nous sommes femmes parmi les femmes, mères parmi les mères, témoins de vos vies et de vos morts — vous, nos enfants, malheureux dans ce monde étrange, devenus tels que nous ne l’avons jamais voulu.
 
-Ne nous accusez pas de vos malheurs, car si l’histoire avait été écrite de nos mains, au lieu de notre sang, il en aurait été tout autrement.
+Ne nous accusez pas de vos malheurs, car si l’histoire avait été écrite de nos mains (au lieu de notre sang), il en aurait été tout autrement.
 
-Sachez, ô hommes, que vous nous reviendrez assurément, puisque nous retournerons tous et toutes, un jour ou l’autre, d’où nous sommes venus.
+Sachez, ô hommes, que vous nous reviendrez assurément, puisque nous retournerons tous, un jour ou l’autre, d’où nous sommes venus.
 
 *2025*
 
@@ -917,7 +852,7 @@ Je revenais du travail le jour où j'ai pris la décision de partir en mission. 
 
 La distance entre l'arrêt d'autobus et l'immeuble où j'habitais sur De La Roche fait environ 140 mètres, mais je n'arrivais pas à m'y rendre. J'avais lancé ma canne au bout de mes bras quelques jours avant ce moment décisif.
 
-C'est à ce moment-là, paralysé par une douleur aiguë, que je me suis mis à prier mon Dieu : « Ô mon Père, laisse-moi partir en mission! J'ai marché pendant quinze sur une hanche disloquée à faire des niaiseries, sans but, sans directions; je peux bien prendre deux ans de ma vie à marcher pour toi. La douleur ne me dérange pas, pourvu que je puisse te servir. Je te dois bien ça. » Ayant reçu de l'Esprit la confirmation que je partirais, je me suis traîné jusqu'à la maison. J'avais obtenu l'assurance que je désirais. J'ai donné ce jour-là ma douleur en offrande à Dieu.
+C'est à ce moment-là, paralysé par une douleur aiguë, que je me suis mis à prier mon Dieu : « Ô mon Père, laisse-moi partir en mission! J'ai marché pendant quinze ans sur une hanche disloquée à faire des niaiseries, sans but, sans directions; je peux bien prendre deux ans de ma vie à marcher pour toi. La douleur ne me dérange pas, pourvu que je puisse te servir. Je te dois bien ça. » Ayant reçu de l'Esprit la confirmation que je partirais, je me suis traîné jusqu'à la maison. J'avais obtenu l'assurance que je désirais. J'ai donné ce jour-là ma douleur en offrande à Dieu.
 
 Quelques années plus tard, au centre d'entraînement des missionnaires de Provost aux États-Unis, mon président de branche m'a demandé pourquoi j'avais décidé de faire une mission. Au moment où j'allais dire que mon attachement à Jésus‑Christ me poussait à le servir, j'ai pensé à sa bonté envers moi; sachant que c'était la source de mon dévouement — puisqu'il m'a aimé le premier à travers les missionnaires qui m'ont enseigné, les membres de ma paroisse et le Saint-Esprit — et c'est ainsi que je lui ai répondu.
 
@@ -934,29 +869,27 @@ Le dernier jour de ma mission (au bout de deux ans) --- tous les missionnaires q
 ### dragon
 
 dans le ventre du dragon  
-piqués au vif  
 des images étranges nous nourrissent  
-
 la fournaise s'ouvre béante  
 et la chaleur nous consume  
 
 la souffrance nous envahit  
-au creux du dragon  
+dans le ventre du dragon  
 l'horreur nous sort par les naseaux
 
 *2026*
 
-### Serment
+### serment
 
-Immuables promesses scellées sur nos lèvres  
+immuables promesses scellées sur nos lèvres  
 
-Grâce au sang versé sur l’Idumée  
+grâce au sang versé sur l’idumée<sup>*</sup>  
 le sacrifice déposé sur l’autel  
 devient le Roc de notre foi  
 et dans le temple merveilleux  
 la force de l’alliance qui nous unit  
 
-Immuables promesses versées sur nos têtes  
+immuables promesses versées sur nos têtes  
 
 
 
@@ -966,7 +899,7 @@ Immuables promesses versées sur nos têtes
 
 ----
 
-<sup>* *Idumée : le monde*</sup>
+<sup>* *idumée : le monde*</sup>
 
 *2020*
 
@@ -974,10 +907,8 @@ Immuables promesses versées sur nos têtes
 
 j'ai rencontré sur mon chemin  
 un étrange sentiment  
-
 un lion penché sur sa proie  
-cherchant à remplir le vide  
-
+cherchant à remplir le vide ---  
 la mort de l'un  
 nourrissant la vie de l'autre  
 
