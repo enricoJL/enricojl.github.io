@@ -6,7 +6,7 @@ Axe de réflexion poétique construit à partir des catégories **douleur** (200
 et **new** (2026). Après épuration des poèmes déjà sélectionnés dans l'arc philosophique
 **« entre l'image et la mer »** (`poems/arc-philosophique-image.md`).
 
-**54 poèmes distincts** positionnés sur un axe à cinq stations.
+**48 poèmes distincts** positionnés sur un axe à cinq stations.
 
 ---
 
@@ -18,11 +18,11 @@ et **new** (2026). Après épuration des poèmes déjà sélectionnés dans l'ar
 
 | Station | Sens | Nombre |
 |---|---|---|
-| `[1-DESCENTE]` | On glisse, on tourne autour du bord, on tombe | **8** |
-| `[2-FOND]` | Immobilité, enlisement, le néant, le sans-issue | **12** |
-| `[3-BASCULE]` | Le pivot — le fond devient source, on consent | **9** |
-| `[4-REMONTEE]` | Debout, le lien retrouvé, la douleur portée | **13** |
-| `[5-AUTRE-CÔTÉ]` | Transmutation accomplie — la souffrance nourrit | **11** |
+| `[1-DESCENTE]` | On glisse, on tourne autour du bord, on tombe | **6** |
+| `[2-FOND]` | Immobilité, enlisement, le néant, le sans-issue | **13** |
+| `[3-BASCULE]` | Le pivot — le fond devient source, on consent | **8** |
+| `[4-REMONTEE]` | Debout, le lien retrouvé, la douleur portée | **12** |
+| `[5-AUTRE-CÔTÉ]` | Transmutation accomplie — la souffrance nourrit | **9** |
 
 **Forme du corpus : un sablier.** Le fond et la remontée sont les stations les plus
 peuplées. La sortie s'épaissit un peu (8 poèmes) grâce à l'épuration des doublons avec
@@ -48,24 +48,28 @@ de l'image, le paysage de la douleur devient plus lisible.
 | démolition | `[4-REMONTÉE]` | rupture des murs de l'image |
 | la mer | `[3-BASCULE]` | dissolution de l'œil / point de bascule image |
 | abyssal | `[2-FOND]` | téléologie de la ressemblance |
+| bulles-fragiles | `[1-DESCENTE]` | enfermement dans l'image |
+| véhicule prison | `[2-FOND]` | corps comme prison de l'image |
+| plongée | `[5-AUTRE-CÔTÉ]` | consentement et dissolution |
+| d'un univers à l'autre | `[5-AUTRE-CÔTÉ]` | propulsion par la beauté |
 
-**12 poèmes retirés.** Ils appartiennent davantage à la logique du mirage, de la prison
+**16 poèmes retirés.** Ils appartiennent davantage à la logique du mirage, de la prison
 de l'image et de la transparence qu'à celle de la douleur comme traversée autonome.
 
 ---
 
 ## La trajectoire, station par station
 
-### `[1-DESCENTE]` — le bord qui s'effrite (8)
+### `[1-DESCENTE]` — le bord qui s'effrite (6)
 On n'est pas encore tombé. On tourne autour, on glisse, on titube.
 **Spine :** `le gouffre` (le rebord nommé) → `y` (le seuil sans franchissement) →
 `funambule` (le fil au-dessus du vide) → `s'enliser` (la glissade silencieuse).
 
 > *cette plaie / ça pue tellement / je n'ai pas envie d'y entrer / mais j'en ai tant besoin* — `le gouffre`
 
-Autres : le-silence-des-pierres, bulles-fragiles, insouciance.
+Autres : le-silence-des-pierres, insouciance.
 
-### `[2-FOND]` — le néant habité (12)
+### `[2-FOND]` — le néant habité (13)
 Le centre. Immobilité, perte des repères, peine innommable, invisibilité.
 **Spine :** `le puits` (l'archétype du gouffre) → `la-mort-à-petit-feu` (l'extinction
 lente) → `disparu` (l'effacement) → `anonyme` (la peine qui ne se nomme pas) →
@@ -73,10 +77,10 @@ lente) → `disparu` (l'effacement) → `anonyme` (la peine qui ne se nomme pas)
 
 > *j'ai l'impression d'être mort / depuis longtemps déjà* — `la-mort-à-petit-feu`
 
-Autres : au-pied-d'un-arbre, à-l'agonie, prison, sans-appui, dégoût, inassouvi,
+Autres : au-pied-d'un-arbre, à-l'agonie, sans-appui, dégoût, inassouvi,
 fracture, sans-mot, passager.
 
-### `[3-BASCULE]` — le pivot (9)
+### `[3-BASCULE]` — le pivot (8)
 Le cœur battant de l'arc. Le fond se retourne en source.
 **Spine :** `dans-la-tempête` (la tempête comme bascule) → `chardons` (la piqûre qui
 réveille) → `slap` (la gifle qui rend lucide) → `assainir` (le nettoyage volontaire)
@@ -86,7 +90,7 @@ réveille) → `slap` (la gifle qui rend lucide) → `assainir` (le nettoyage vo
 
 Autres : le-colporteur, la-mort-mon-handicap, dans-la-nuit.
 
-### `[4-REMONTÉE]` — debout, et avec l'autre (13)
+### `[4-REMONTÉE]` — debout, et avec l'autre (12)
 La douleur est nommée mais ne renverse plus. Le mouvement est ascendant — et il
 passe presque toujours par **le lien** : l'autre, l'héritage, le service, le ciel.
 **Spine :** `debout` (le mot-geste) → `acceptance` (sublimer, soupirer jusqu'aux
@@ -98,7 +102,7 @@ sublimée — puis le corps qui revient) → `problème` (remonter à la source,
 Autres : assis-par-terre, je-reviens-à-la-vie, coma, intention, chambranlant,
 instabilité, femmes.
 
-### `[5-AUTRE-CÔTÉ]` — la souffrance qui nourrit (11)
+### `[5-AUTRE-CÔTÉ]` — la souffrance qui nourrit (9)
 La station de la transmutation. La douleur n'est plus subie ni même portée : elle est
 **transmutée en don, en floraison, en passage ouvert, en mort qui nourrit**.
 
@@ -116,14 +120,10 @@ Quatre voies de sortie :
 - `Ma douleur en offrande` — la douleur physique devenue offrande sacrée
 - `dragon` — *l'horreur nous sort par les naseaux* : expulsée à travers la bête, elle nourrit en sortant
 - `Serment` — *le sacrifice déposé sur l'autel / devient le Roc de notre foi* : le sang versé converti en alliance
-- `plongée` — *toutes mes craintes à l'envers / je me laisse tomber / jusqu'à la rive de ton sourire*
 
 **Voie 4 — Mort sacrifiée / cycle** (la mort de l'un nourrit la vie de l'autre) :
 - `bien étrange` — *la mort de l'un / nourrissant la vie de l'autre* : transmutation prédatrice, le sacrifice non consenti
 - `cycle de vie` — *le lion mange la chèvre / la chèvre mange le chou / … s'il n'y a pas de mort / il n'y a pas de vie* : la mort comme moteur cosmique du vivant
-
-**Voie 5 — Propulsion** (la beauté nous projette hors de soi) :
-- `d'un univers à l'autre` — la beauté comme propulsion hors des frontières de soi
 
 ---
 
@@ -151,9 +151,8 @@ L'arc est plus propre. Cinq voies de sortie se dessinent :
 
 - **Floraison** — la douleur devient beauté offerte (`la rose`, `élixir`).
 - **Passage / résurrection** — la perte devient porte ouverte (`fenêtre ouverte`, `résurrection`).
-- **Offrande / consentement** — la douleur devient don ou chute consentie (`offrande`, `dragon`, `Serment`, `plongée`).
+- **Offrande / consentement** — la douleur devient don ou chute consentie (`offrande`, `dragon`, `Serment`).
 - **Mort sacrifiée / cycle** — la mort de l'un nourrit la vie de l'autre (`bien étrange`, `cycle de vie`).
-- **Propulsion** — la beauté nous projette hors de soi (`d'un univers à l'autre`).
 
 Tu peux maintenant :
 

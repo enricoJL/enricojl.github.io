@@ -18,7 +18,6 @@ ARC = [
         "2025-08-09-funambule.md",
         "2024-11-02-senliser.md",
         "2020-08-20-le-silence-des-pierres.md",
-        "2025-03-25-bulles-fragiles.md",
         "2025-08-16-insouciance.md",
     ]),
     ("[2-FOND] — Le néant habité", [
@@ -29,7 +28,6 @@ ARC = [
         "2025-08-10-tragedie.md",
         "2013-07-20-au-pied-dun-arbre.md",
         "2020-06-24-a-lagonie.md",
-        "2021-02-27-prison.md",
         "2024-12-15-sans-appui.md",
         "2025-06-10-degout.md",
         "2025-07-17-inassouvi.md",
@@ -69,10 +67,8 @@ ARC = [
         "2026-06-16-offrande.md",
         "2026-06-20-dragon.md",
         "2020-05-11-serment.md",
-        "2026-03-04-plongee.md",
         "2018-10-28-etrange.md",
         "2018-12-22-cycle-de-vie.md",
-        "2021-03-11-dun-univers-a-lautre.md",
     ]),
 ]
 
