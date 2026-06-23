@@ -13,14 +13,12 @@ toute la nuit
 
 sans penser  
 faire le vide  
-
 les amertumes du jour  
 les inquiétudes du soir  
 évadées dans un souffle  
 
 veiller sur l'oreiller  
 sans penser à rien  
-
 encore une fois  
 basculer dans le vide  
 
@@ -30,7 +28,6 @@ le jour porteur
 
 la vie  
 tranquille  
-
 les enfants  
 le mariage  
 le travail  
@@ -41,7 +38,6 @@ au travail
 dans le pays  
 
 il y en a des conflits !  
-
 à la maison  
 au travail  
 dans le pays  

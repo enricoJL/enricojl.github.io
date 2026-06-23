@@ -8,16 +8,13 @@ published: true
 
 debout sur une chaise berçante dans le monde  
 je crie ma joie de grandir à l’envers  
-
-dans la désillusion totale  
 parmi les dogmes qui s’effondrent  
-et les certitudes qui s’effritent  
-
-mes doutes me soulèvent  
-dans l’impossible réalité du temps  
+mes certitudes qui s’effritent  
+dans la désillusion totale  
 
 hésitant  
 ballottant  
 chambranlant  
 
-mais toujours debout  
+mais toujours debout sur les ailes du doute  
+à travers l'impossible réalité du temps  
