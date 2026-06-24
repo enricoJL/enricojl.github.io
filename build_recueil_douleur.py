@@ -12,7 +12,7 @@ OUTPUT_PDF = os.path.join(os.path.dirname(__file__), "LEVESQUE_Enrico_la_travers
 
 # Arc structure: (section title, [exact filenames])
 ARC = [
-    ("[1-DESCENTE] — Le bord qui s'effrite", [
+    ("LA DESCENTE", [
         "2026-05-29-gouffre.md",
         "2026-05-28-y.md",
         "2025-08-09-funambule.md",
@@ -21,7 +21,7 @@ ARC = [
         "2026-06-23-tourbillon.md",
         "2025-08-16-insouciance.md",
     ]),
-    ("[2-FOND] — Le néant habité", [
+    ("LE FOND", [
         "2013-07-19-le-puits.md",
         "2019-03-03-la-mort-a-petit-feu.md",
         "2021-02-14-disparu.md",
@@ -36,7 +36,7 @@ ARC = [
         "2025-11-22-passager.md",
         "2025-03-27-dans-la-nuit.md",
     ]),
-    ("[3-BASCULE] — Le pivot", [
+    ("LE PIVOT", [
         "2024-12-15-dans-la-tempête.md",
         "2025-01-01-chardons.md",
         "2025-05-19-slap.md",
@@ -45,7 +45,7 @@ ARC = [
         "2021-01-26-le-colporteur.md",
         "2021-03-13-la-mort-mon-handicap.md",
     ]),
-    ("[4-REMONTÉE] — Debout, et avec l'autre", [
+    ("LA REMONTÉE", [
         "2024-03-24-debout.md",
         "2025-10-10-acceptance.md",
         "2026-02-07-guerison.md",
@@ -59,7 +59,7 @@ ARC = [
         "2025-03-29-instabilite.md",
         "2025-04-24-femmes.md",
     ]),
-    ("[5-AUTRE-CÔTÉ] — La souffrance qui nourrit", [
+    ("DE L'AUTRE CÔTÉ", [
         "2020-05-11-la-rose-et-le-jardinier.md",
         "2023-04-02-elixir.md",
         "2025-04-05-resurrection.md",

@@ -45,7 +45,7 @@ header-includes:
 
 > *Entrer dans le gouffre, et en ressortir de l'autre côté.*
 
-# [1-DESCENTE] — Le bord qui s'effrite
+# LA DESCENTE
 
 \newpage
 \vspace*{2cm}
@@ -183,7 +183,7 @@ dont j'étais souverain
 puis je suis reparti
 
 
-# [2-FOND] — Le néant habité
+# LE FOND
 
 \newpage
 \vspace*{2cm}
@@ -451,7 +451,7 @@ au travail
 dans le pays
 
 
-# [3-BASCULE] — Le pivot
+# LE PIVOT
 
 \newpage
 \vspace*{2cm}
@@ -587,7 +587,7 @@ ma maladie, c’est la mort
 mon handicap, c’est de refuser d’y croire
 
 
-# [4-REMONTÉE] — Debout, et avec l'autre
+# LA REMONTÉE
 
 \newpage
 \vspace*{2cm}
@@ -825,7 +825,7 @@ Ne nous accusez pas de vos malheurs, car si l’histoire avait été écrite de 
 Sachez, ô hommes, que vous nous reviendrez assurément, puisque nous retournerons tous, un jour ou l’autre, d’où nous sommes venus.
 
 
-# [5-AUTRE-CÔTÉ] — La souffrance qui nourrit
+# DE L'AUTRE CÔTÉ
 
 \newpage
 \vspace*{2cm}

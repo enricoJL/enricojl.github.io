@@ -8,7 +8,7 @@
 
 > *Entrer dans le gouffre, et en ressortir de l'autre côté.*
 
-## [1-DESCENTE] — Le bord qui s'effrite
+## LA DESCENTE
 
 ### le gouffre
 
@@ -132,7 +132,7 @@ puis je suis reparti
 
 *2025*
 
-## [2-FOND] — Le néant habité
+## LE FOND
 
 ### le puits
 
@@ -374,7 +374,7 @@ dans le pays
 
 *2025*
 
-## [3-BASCULE] — Le pivot
+## LE PIVOT
 
 ### dans la tempête
 
@@ -496,7 +496,7 @@ mon handicap, c’est de refuser d’y croire
 
 *2021*
 
-## [4-REMONTÉE] — Debout, et avec l'autre
+## LA REMONTÉE
 
 ### debout
 
@@ -710,7 +710,7 @@ Sachez, ô hommes, que vous nous reviendrez assurément, puisque nous retournero
 
 *2025*
 
-## [5-AUTRE-CÔTÉ] — La souffrance qui nourrit
+## DE L'AUTRE CÔTÉ
 
 ### la rose et le jardinier
 
