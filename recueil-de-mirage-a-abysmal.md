@@ -559,7 +559,7 @@ et qu'elle te demande
 ### blessure
 
 rien n'est plus blessant  
-qu'une vérité qui ne l'est plus  
+qu'une vérité qui ne l'est pas  
 
 quand la désillusion te surprend  
 la confiance violée  

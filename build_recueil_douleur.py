@@ -12,7 +12,7 @@ OUTPUT_PDF = os.path.join(os.path.dirname(__file__), "LEVESQUE_Enrico_la_travers
 
 # Arc structure: (section title, [exact filenames])
 ARC = [
-    ("LA DESCENTE", [
+    ("la descente", [
         "2026-05-29-gouffre.md",
         "2026-05-28-y.md",
         "2025-08-09-funambule.md",
@@ -21,7 +21,7 @@ ARC = [
         "2026-06-23-tourbillon.md",
         "2025-08-16-insouciance.md",
     ]),
-    ("LE FOND", [
+    ("le fond", [
         "2013-07-19-le-puits.md",
         "2019-03-03-la-mort-a-petit-feu.md",
         "2021-02-14-disparu.md",
@@ -36,7 +36,7 @@ ARC = [
         "2025-11-22-passager.md",
         "2025-03-27-dans-la-nuit.md",
     ]),
-    ("LE PIVOT", [
+    ("le pivot", [
         "2024-12-15-dans-la-tempête.md",
         "2025-01-01-chardons.md",
         "2025-05-19-slap.md",
@@ -45,7 +45,7 @@ ARC = [
         "2021-01-26-le-colporteur.md",
         "2021-03-13-la-mort-mon-handicap.md",
     ]),
-    ("LA REMONTÉE", [
+    ("la remontée", [
         "2024-03-24-debout.md",
         "2025-10-10-acceptance.md",
         "2026-02-07-guerison.md",
@@ -59,7 +59,7 @@ ARC = [
         "2025-03-29-instabilite.md",
         "2025-04-24-femmes.md",
     ]),
-    ("DE L'AUTRE CÔTÉ", [
+    ("de l'autre côté", [
         "2020-05-11-la-rose-et-le-jardinier.md",
         "2023-04-02-elixir.md",
         "2025-04-05-resurrection.md",
@@ -120,7 +120,12 @@ TITLE_PAGE = r"""
 
 """
 
-EPIGRAPH = """> *Entrer dans le gouffre, et en ressortir de l'autre côté.*
+EPIGRAPH = """```{=latex}
+\\vspace*{3cm}
+\\textit{entrer dans le gouffre \\\\pour en ressortir \\\\de l'autre côté}
+\\clearpage
+```
+
 """
 
 

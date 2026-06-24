@@ -6,9 +6,14 @@
 
 ---
 
-> *Entrer dans le gouffre, et en ressortir de l'autre côté.*
+```{=latex}
+\vspace*{3cm}
+\textit{entrer dans le gouffre \\pour en ressortir \\de l'autre côté}
+\clearpage
+```
 
-## LA DESCENTE
+
+## la descente
 
 ### le gouffre
 
@@ -132,7 +137,7 @@ puis je suis reparti
 
 *2025*
 
-## LE FOND
+## le fond
 
 ### le puits
 
@@ -374,7 +379,7 @@ dans le pays
 
 *2025*
 
-## LE PIVOT
+## le pivot
 
 ### dans la tempête
 
@@ -496,7 +501,7 @@ mon handicap, c’est de refuser d’y croire
 
 *2021*
 
-## LA REMONTÉE
+## la remontée
 
 ### debout
 
@@ -514,12 +519,9 @@ et la douleur
 
 respirer la douleur  
 pour l'absorber calmement  
-
 en toute confiance  
 sublimer l'angoisse  
-
-et soupirer  
-jusqu'aux étoiles
+et soupirer jusqu'aux étoiles
 
 *2025*
 
@@ -607,15 +609,13 @@ depuis si longtemps mort et disparu
 
 mon frère ne s'arrête plus de dormir  
 ça fait si longtemps qu'il rêve  
-
-qu’est-ce qui fait qu'il est toujours  
-dans le coma  
+qu’est-ce qu'il fait  
+toujours dans le coma  
 quelqu’un va-t-il le réveiller   
 
 il est arrivé quelque chose de grave   
 un traumatisme transcendantal   
 un blocage total   
-
 prisonnier de son imagination   
 il s'est créé un monde parallèle   
 et le rêve l’a emporté complètement   
@@ -624,13 +624,11 @@ il a perdu tout contact avec la réalité
 ses sentiments déconnectés   
 ses émotions piégées là-bas   
 impossible de le rejoindre   
-
 mais comment faire pour le réveiller   
 
 faut-il trouver le moyen d’entrer   
 à travers un canal de l’autre monde   
 et parler pour lui dire avec autorité :   
-
 allez ! debout ! lève-toi, rêveur, participe   
 le monde ici aussi en vaut la peine
 
@@ -642,15 +640,13 @@ je ne comprends pas ton intention
 
 as-tu vraiment envie de dire  
 ce que tu dis  
-
 as-tu vraiment l’intention de faire  
 tout ce que tu fais  
-
 que cherches-tu ?  
 
 où l’as-tu placé, mon cœur ?  
 comment l’as-tu perdu ? si loin  
-vas-tu me revenir un jour ?  
+va-t-il me revenir un jour ?  
 
 j’ose encore croire que oui
 
@@ -710,7 +706,7 @@ Sachez, ô hommes, que vous nous reviendrez assurément, puisque nous retournero
 
 *2025*
 
-## DE L'AUTRE CÔTÉ
+## de l'autre côté
 
 ### la rose et le jardinier
 
