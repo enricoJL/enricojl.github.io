@@ -14,8 +14,7 @@ nos amours en suspension
 nos relations écorchées  
 nos convictions ébranlées  
 
-à la dérive  
-sur mille et un repères  
+à la dérive sur mille et un repères  
 j'embarque pour le tourbillon  
 
 

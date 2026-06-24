@@ -21,6 +21,6 @@ servir autrui
 les mains tendues  
 pour apaiser le feu  
 
-mourir  
+et mourir  
 pour ressusciter un jour  
 de l'autre côté du monde  

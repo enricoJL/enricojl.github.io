@@ -6,12 +6,10 @@ categories: "douleur"
 published: true
 ---
 
-l'instabilité  
-grâce à elle  
+l'instabilité, grâce à elle  
 je reste là  
-
 à chercher appui dans le ciel  
-à chercher la source pour apaiser  
 
+à chercher la source  
 la fontaine pour continuer d'aimer  
 sans jamais cesser de tituber vers elle  

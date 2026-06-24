@@ -6,5 +6,4 @@ categories: "douleur"
 ---
 
 ma maladie, c’est la mort  
-
 mon handicap, c’est de refuser d’y croire  

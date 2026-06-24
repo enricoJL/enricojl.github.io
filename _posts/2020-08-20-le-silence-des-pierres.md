@@ -6,8 +6,7 @@ categories: "douleur"
 ---
 
 les pierres  
-fermes à travers les âges  
-impassibles  
+impassibles à travers les âges    
 absorbant le cri des plaintes  
 elles se taisent  
 depuis des millénaires  
@@ -16,14 +15,11 @@ et leur silence nous crie aux oreilles
 les pierres  
 essuyant le sang des massacres  
 témoins du chaos  
-elles crient en silence :  
+elles crient en silence  
 
 « Arrêtez ! Arrêtez ! »  
-
 nous suppliant constamment  
 depuis si longtemps  
 
-la Terre craquera  
-elle éclatera !  
-
+la Terre éclatera !  
 les rochers se fendent déjà  

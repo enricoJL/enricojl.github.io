@@ -6,9 +6,9 @@
 
 ---
 
-> *Entrer dans le gouffre, et en ressortir de l'autre côté.*
+> *entrer dans le gouffre, pour en ressortir de l'autre côté*
 
-## [1-DESCENTE] — Le bord qui s'effrite
+## LA DESCENTE
 
 ### le gouffre
 
@@ -141,7 +141,7 @@ puis je suis reparti
 
 *2025*
 
-## [2-FOND] — Le néant habité
+## LE FOND
 
 ### le puits
 
@@ -199,13 +199,9 @@ il a disparu
 
 ### anonyme
 
-<div style="text-align: right; font-style: italic;">
-  j'habite une tristesse<br/>
-  que je n'ai pas pris la peine de nommer<br/>
-  <br/>
-  <sup style="font-style: normal;">(Virginie Savard, Les deuils transparents)</sup>  
-</div>
-<br/>  
+> *j'habite une tristesse*  
+> *que je n'ai pas pris la peine de nommer*  
+> --- Virginie Savard, *Les deuils transparents*    
 
 cette tristesse  
 draine ma maison jusqu'à la mer  
@@ -387,7 +383,7 @@ dans le pays
 
 *2025*
 
-## [3-BASCULE] — Le pivot
+## LA BASCULE
 
 ### dans la tempête
 
@@ -520,7 +516,7 @@ mon handicap, c’est de refuser d’y croire
 
 *2021*
 
-## [4-REMONTÉE] — Debout, et avec l'autre
+## LA REMONTÉE
 
 ### debout
 
@@ -732,7 +728,7 @@ Sachez, ô hommes, que vous nous reviendrez assurément, puisque nous retournero
 
 *2025*
 
-## [5-AUTRE-CÔTÉ] — La souffrance qui nourrit
+## DE L'AUTRE CÔTÉ
 
 ### la rose et son jardinier
 
@@ -899,7 +895,7 @@ immuables promesses versées sur nos têtes
 
 ----
 
-<sup>* *idumée : le monde*</sup>
+*idumée* : le monde*
 
 *2020*
 

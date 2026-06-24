@@ -6,7 +6,7 @@ categories: "douleur"
 ---
 
 le jardinier a pris la rose  
-et l’a gardée longtemps près de lui  
+l’a gardée longtemps près de lui  
 très longtemps  
 avant de la laisser dehors  
 dans son jardin  
@@ -19,7 +19,7 @@ quand ses épines se tournaient vers elle
 tellement le froid lui faisait mal  
 tellement la nuit lui faisait peur  
 
-longtemps, vraiment  
+longtemps vraiment  
 très très longtemps  
 il lui a semblé, à la rose  
 le temps qu’elle est restée là  
@@ -27,15 +27,15 @@ sans son jardinier
 sans la chaleur du jour  
 sans la douceur de l’été  
 
-puis un jour, elle a fleuri  
-et des petits amours sont sortis d’elle  
-entre les ronces et les épines  
+puis un jour elle a fleuri  
+des petits amours sont sortis d’elle  
 des milliers de petites fleurs  
 des petits soleils parfumés  
 qu’on voudrait croquer  
 
-et le jardinier, fier de son œuvre  
-avec toute son admiration, lui a dit :  
+et le jardinier tout fier  
+avec toute son admiration  
+lui a dit :  
 
 « Vois comme tu es belle :  
-des milliers d’étoiles sont sorties de toi »
+des milliers d’étoiles sont sorties de toi. »

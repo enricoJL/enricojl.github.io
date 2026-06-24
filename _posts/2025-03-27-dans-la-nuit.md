@@ -26,8 +26,7 @@ la nuit réparatrice
 le matin révélateur  
 le jour porteur  
 
-la vie  
-tranquille  
+la vie tranquille  
 les enfants  
 le mariage  
 le travail  

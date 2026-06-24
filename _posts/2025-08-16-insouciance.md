@@ -6,22 +6,20 @@ categories: "douleur"
 published: true
 ---
 
-parti à la lisière du mensonge  
-parcourir les horizons  
-je suis revenu  
+parti à la lisière des horizons mensongers  
+j'en suis revenu  
 tout enroché de montagnes   
 
 << Tu as tant souffert ! >>  
-t'es-tu exclamée
+t'es-tu exclamée  
 
+sans pouvoir rien faire  
 ton angoisse m'étonnait  
-sans pouvoir rien y faire  
 sans savoir  
-sans même comprendre   
+sans comprendre   
 
 toi, surprise  
-comme emprisonnée  
-dans un pays étranger  
+comme emprisonnée dans un pays étranger  
 dont j'étais souverain  
 
 puis je suis reparti  

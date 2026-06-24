@@ -6,16 +6,16 @@ categories: "douleur"
 ---
 
 assis par terre dans un coin de la ville  
-il y avait un jeune homme barb très mal en point  
+il y avait un jeune homme barbu très mal en point  
 la tête enfouie dans la poussière de son manteau  
 
 j’ai déposé une pièce dans sa tasse  
 il m’a dit merci  
-mais j’avais plus envie que lui de le dire  
+mais j’avais plus envie que lui de dire merci  
 
 assis par terre  
 j’ai vu là un homme exténué  
-essayant de mettre en place des idées fourbues  
+essayant de mettre en place ses idées fourbues  
 comme moi-même déjà  
 assis par terre dans mes ambitions  
 
