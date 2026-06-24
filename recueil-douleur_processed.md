@@ -1,16 +1,56 @@
-# la traversée de la douleur
-
-*Poèmes choisis — 1992–2026*
-
-**Enrico Lévesque**
-
 ---
+title: "la traversée de la douleur"
+author: "Enrico Lévesque"
+date: ""
+lang: fr
+documentclass: book
+classoption:
+  - 12pt
+  - openright
+  - twoside
+geometry: "inner=4.5cm, outer=3.5cm, top=4cm, bottom=4cm"
+numbersections: false
+colorlinks: true
+linkcolor: black
+urlcolor: black
+header-includes:
+  - \usepackage{setspace}
+  - \setstretch{1.5}
+  - \usepackage{microtype}
+  - \usepackage{graphicx}
+  - \usepackage{ragged2e}
+  - \setlength{\parindent}{0pt}
+  - \setlength{\parskip}{1\baselineskip}
+  - \widowpenalty=10000
+  - \clubpenalty=10000
+  - \displaywidowpenalty=10000
+---
+
+
+\newgeometry{margin=3cm}
+\begin{titlepage}
+\centering
+\vspace*{4cm}
+{\fontsize{30}{40}\selectfont\bfseries la traversée de la douleur}\\[1.4cm]
+{\large\itshape Poèmes choisis — 1992–2026}\\[2.5cm]
+{\large Enrico Lévesque}
+\vfill
+\end{titlepage}
+\restoregeometry
+
+\setcounter{tocdepth}{1}
+\tableofcontents
+\cleardoublepage
+
 
 > *Entrer dans le gouffre, et en ressortir de l'autre côté.*
 
-## [1-DESCENTE] — Le bord qui s'effrite
+# [1-DESCENTE] — Le bord qui s'effrite
 
-### le gouffre
+\newpage
+\vspace*{2cm}
+
+## le gouffre
 
 je n'ai pas le courage d'y plonger  
 dans cette fosse lugubre  
@@ -24,9 +64,11 @@ mais je n'ose jamais m'attarder trop longtemps
 chaque jour laissé-là à pourrir  
 dans le gouffre de l'oubli
 
-*2026*
 
-### « y »
+\newpage
+\vspace*{2cm}
+
+## « y »
 
 y glisser  
 y revenir  
@@ -37,9 +79,11 @@ m'y installer
 
 mais c'est où ce « y » ?
 
-*2026*
 
-### funambule
+\newpage
+\vspace*{2cm}
+
+## funambule
 
 je marche sur un fil  
 au-dessus du vide  
@@ -54,9 +98,11 @@ je titube
 si je glisse  
 je vais me fracasser
 
-*2025*
 
-### s'enliser
+\newpage
+\vspace*{2cm}
+
+## s'enliser
 
 peser sur l'autre  
 et souffrir en silence  
@@ -70,9 +116,11 @@ submergée d’inquiétude
 et sombrer avec elle  
 sans pouvoir rien y faire
 
-*2024*
 
-### le silence des pierres
+\newpage
+\vspace*{2cm}
+
+## le silence des pierres
 
 les pierres  
 impassibles à travers les âges    
@@ -93,9 +141,11 @@ depuis si longtemps
 la Terre éclatera !  
 les rochers se fendent déjà
 
-*2020*
 
-### tourbillon
+\newpage
+\vspace*{2cm}
+
+## tourbillon
 
 ce qui nous a frappés  
 à moitié dans le monde  
@@ -108,9 +158,11 @@ nos convictions ébranlées
 à la dérive sur mille et un repères  
 j'embarque pour le tourbillon
 
-*2026*
 
-### insouciance
+\newpage
+\vspace*{2cm}
+
+## insouciance
 
 parti à la lisière des horizons mensongers  
 j'en suis revenu  
@@ -130,11 +182,13 @@ dont j'étais souverain
 
 puis je suis reparti
 
-*2025*
 
-## [2-FOND] — Le néant habité
+# [2-FOND] — Le néant habité
 
-### le puits
+\newpage
+\vspace*{2cm}
+
+## le puits
 
 à cet endroit  
 où je passe mon temps  
@@ -156,9 +210,11 @@ P.S.
 plus le puits est sombre et calme  
 plus son eau est fraîche et claire
 
-*2013*
 
-### la mort à petit feu
+\newpage
+\vspace*{2cm}
+
+## la mort à petit feu
 
 la mort à petit feu fait son nid  
 
@@ -175,9 +231,11 @@ elle se rendort
 et je dors à ses côtés  
 tranquille
 
-*2019*
 
-### disparu
+\newpage
+\vspace*{2cm}
+
+## disparu
 
 mon passé  
 je ne le retrouve plus  
@@ -186,9 +244,11 @@ je l'ai perdu
 trop longtemps dans mes poches  
 il a disparu
 
-*2021*
 
-### anonyme
+\newpage
+\vspace*{2cm}
+
+## anonyme
 
 <div style="text-align: right; font-style: italic;">
   j'habite une tristesse<br/>
@@ -208,9 +268,11 @@ seul au milieu du secret
 
 cette peine ne se nomme pas
 
-*2025*
 
-### tragédie
+\newpage
+\vspace*{2cm}
+
+## tragédie
 
 en boucle dans ma tête  
 la tragédie rejoue  
@@ -223,9 +285,11 @@ plus qu'un
 moi seul dans l'amphithéâtre  
 figé sur le granite
 
-*2025*
 
-### au pied d'un arbre
+\newpage
+\vspace*{2cm}
+
+## au pied d'un arbre
 
 au pied d'un arbre dans un jardin  
 un homme et mille ans de vie  
@@ -243,9 +307,11 @@ son âme s'est éclatée
 elle gît au pied d'un arbre  
 et mille ans de vie ornent ses pensées
 
-*2013*
 
-### à l'agonie
+\newpage
+\vspace*{2cm}
+
+## à l'agonie
 
 un jour j’écris  
 un jour je lis  
@@ -263,9 +329,11 @@ mais toujours
 
 l’agonie me suit
 
-*2020*
 
-### sans appui
+\newpage
+\vspace*{2cm}
+
+## sans appui
 
 chercher partout  
 la main tendue  
@@ -288,9 +356,11 @@ rien à trouver
 rien à percevoir  
 rien à s'accrocher
 
-*2024*
 
-### dégoût
+\newpage
+\vspace*{2cm}
+
+## dégoût
 
 les passants le frôlent du regard  
 son sac de couchage en déséquilibre  
@@ -301,16 +371,20 @@ le froid ne l'atteint plus
 les regards glissent sur lui  
 on ne le voit plus
 
-*2025*
 
-### inassouvi
+\newpage
+\vspace*{2cm}
+
+## inassouvi
 
 mes larmes sèchent d'être tristes  
 faute de n'avoir jamais su en trouver la source
 
-*2025*
 
-### fracture
+\newpage
+\vspace*{2cm}
+
+## fracture
 
 je suis resté là  
 à pleurer dans la douleur  
@@ -323,9 +397,11 @@ sans moi à la maison
 mais tout s'est écroulé  
 sans moi à la maison
 
-*2025*
 
-### passager
+\newpage
+\vspace*{2cm}
+
+## passager
 
 le long du tunnel  
 les dents serrés  
@@ -334,9 +410,11 @@ dans son livre clos
 
 il ne fait que passer
 
-*2025*
 
-### dans la nuit
+\newpage
+\vspace*{2cm}
+
+## dans la nuit
 
 attendre  
 sous les couvertures  
@@ -372,11 +450,13 @@ il y en a des conflits !
 au travail  
 dans le pays
 
-*2025*
 
-## [3-BASCULE] — Le pivot
+# [3-BASCULE] — Le pivot
 
-### dans la tempête
+\newpage
+\vspace*{2cm}
+
+## dans la tempête
 
 pendant longtemps malgré la peur  
 rester là sur la rive de l'autre  
@@ -386,18 +466,22 @@ de soi vers l'autre et de l'autre à soi
 dans la tempête au milieu des échanges  
 la lueur provient des deux rivages
 
-*2024*
 
-### chardons
+\newpage
+\vspace*{2cm}
+
+## chardons
 
 au travers des épines  
 dans la douleur écorchés  
 les chardons se retournent  
 avant de fleurir
 
-*2025*
 
-### slap !
+\newpage
+\vspace*{2cm}
+
+## slap !
 
 slap en pleine face !   
 à grands coups de mensonges  
@@ -416,9 +500,11 @@ slap !
 
 ça ira mieux demain
 
-*2025*
 
-### assainir
+\newpage
+\vspace*{2cm}
+
+## assainir
 
 immergés  
 laisser la saumure  
@@ -427,9 +513,11 @@ s'infiltrer jusqu'aux os
 amers en entier  
 de sel immaculés
 
-*2025*
 
-### fixation
+\newpage
+\vspace*{2cm}
+
+## fixation
 
 garder la tête hors de l'eau  
 pour reprendre son souffle  
@@ -441,9 +529,11 @@ entre le doute et la peur
 garder la tête hors de l'eau ---  
 ma seule fixation
 
-*2026*
 
-### le colporteur
+\newpage
+\vspace*{2cm}
+
+## le colporteur
 
 je vis dans une cage  
 je n’ai personne en qui croire  
@@ -487,18 +577,22 @@ entre les yeux et le pied
 
 et tu te réjouis
 
-*2021*
 
-### la mort, mon handicap
+\newpage
+\vspace*{2cm}
+
+## la mort, mon handicap
 
 ma maladie, c’est la mort  
 mon handicap, c’est de refuser d’y croire
 
-*2021*
 
-## [4-REMONTÉE] — Debout, et avec l'autre
+# [4-REMONTÉE] — Debout, et avec l'autre
 
-### debout
+\newpage
+\vspace*{2cm}
+
+## debout
 
 tout les jours  
 sous le soleil  
@@ -508,9 +602,11 @@ malgré tout
 malgré moi  
 et la douleur
 
-*2024*
 
-### acceptance
+\newpage
+\vspace*{2cm}
+
+## acceptance
 
 respirer la douleur  
 pour l'absorber calmement  
@@ -521,9 +617,11 @@ sublimer l'angoisse
 et soupirer  
 jusqu'aux étoiles
 
-*2025*
 
-### guérison
+\newpage
+\vspace*{2cm}
+
+## guérison
 
 en mettant le doigt dessus  
 la docteure m'a libéré   
@@ -534,9 +632,11 @@ mieux la connaître enfin
 me permet d’envisager  
 guérir à chaque pas
 
-*2026*
 
-### désir ardent
+\newpage
+\vspace*{2cm}
+
+## désir ardent
 
 marcher sur quinze années  
 la hanche disloquée  
@@ -552,9 +652,11 @@ dans mon effondrement
 longtemps cloué sol  
 j'ai contemplé la fin
 
-*2026*
 
-### problème
+\newpage
+\vspace*{2cm}
+
+## problème
 
 raconte-moi ton problème  
 ne laisse aucun détail  
@@ -566,9 +668,11 @@ ensemble, c'est promis
 je ne te laisserai pas tomber  
 tout seul
 
-*2026*
 
-### assis par terre
+\newpage
+\vspace*{2cm}
+
+## assis par terre
 
 assis par terre dans un coin de la ville  
 il y avait un jeune homme barbu très mal en point  
@@ -591,9 +695,11 @@ et la foule de mes ancêtres
 
 ce legs précieux m’a sauvé du fond de l’amertume
 
-*2021*
 
-### je reviens à la vie
+\newpage
+\vspace*{2cm}
+
+## je reviens à la vie
 
 depuis longtemps mort et disparu  
 je reviens aujourd'hui à la vie  
@@ -601,9 +707,11 @@ avec ce sentiment d’urgence
 et mes anciennes raisons de vivre  
 depuis si longtemps mort et disparu
 
-*2021*
 
-### coma
+\newpage
+\vspace*{2cm}
+
+## coma
 
 mon frère ne s'arrête plus de dormir  
 ça fait si longtemps qu'il rêve  
@@ -634,9 +742,11 @@ et parler pour lui dire avec autorité :
 allez ! debout ! lève-toi, rêveur, participe   
 le monde ici aussi en vaut la peine
 
-*2023*
 
-### j'ose encore croire
+\newpage
+\vspace*{2cm}
+
+## j'ose encore croire
 
 je ne comprends pas ton intention  
 
@@ -654,9 +764,11 @@ vas-tu me revenir un jour ?
 
 j’ose encore croire que oui
 
-*2024*
 
-### chambranlant
+\newpage
+\vspace*{2cm}
+
+## chambranlant
 
 debout sur une chaise berçante dans le monde  
 je crie ma joie de grandir à l’envers  
@@ -672,9 +784,11 @@ chambranlant
 mais toujours debout  
 à travers l'impossible réalité du temps
 
-*2025*
 
-### instabilité
+\newpage
+\vspace*{2cm}
+
+## instabilité
 
 l'instabilité, grâce à elle  
 je reste là  
@@ -684,9 +798,11 @@ je reste là
 la fontaine pour continuer d'aimer  
 sans jamais cesser de tituber vers elle
 
-*2025*
 
-### Femmes parmi les femmes
+\newpage
+\vspace*{2cm}
+
+## Femmes parmi les femmes
 
 Nous attendons patiemment à l’extérieur du mur érigé pour nous tenir à l’écart — femmes exilées, en marge d’une société dirigée par des hommes assoiffés de sang.
 
@@ -708,11 +824,13 @@ Ne nous accusez pas de vos malheurs, car si l’histoire avait été écrite de 
 
 Sachez, ô hommes, que vous nous reviendrez assurément, puisque nous retournerons tous, un jour ou l’autre, d’où nous sommes venus.
 
-*2025*
 
-## [5-AUTRE-CÔTÉ] — La souffrance qui nourrit
+# [5-AUTRE-CÔTÉ] — La souffrance qui nourrit
 
-### la rose et le jardinier
+\newpage
+\vspace*{2cm}
+
+## la rose et le jardinier
 
 le jardinier prit la rose  
 la garda longtemps près de lui  
@@ -745,9 +863,11 @@ avec toute son admiration, lui dit :
 « Vois comme tu es belle :  
 des milliers d’étoiles sont sorties de toi. »
 
-*2020*
 
-### élixir
+\newpage
+\vspace*{2cm}
+
+## élixir
 
 cinq femmes en exil  
 meurtries par les traditions des hommes —  
@@ -770,9 +890,11 @@ le temps d’une parole en danger
 ___
 *Lors d’une lecture publique, dix femmes ont récité des poèmes de cinq autrices en exil, autrefois emprisonnées dans leur pays d’origine pour avoir dénoncé les injustices faites aux femmes. Ces voix absentes, mais puissantes, nous ont traversé toute la soirée. Transmission silencieuse --- élixir de résistance et de beauté.*
 
-*2023*
 
-### résurrection
+\newpage
+\vspace*{2cm}
+
+## résurrection
 
 dans la douleur  
 la misère et les pleurs  
@@ -794,9 +916,11 @@ et mourir
 pour ressusciter un jour  
 de l'autre côté du monde
 
-*2025*
 
-### fenêtre ouverte
+\newpage
+\vspace*{2cm}
+
+## fenêtre ouverte
 
 je pense à lui  
 dans sa chambre  
@@ -813,9 +937,11 @@ je laisse la fenêtre ouverte
 afin qu’il puisse encore et encore  
 aller et venir
 
-*2025*
 
-### Ma douleur en offrande
+\newpage
+\vspace*{2cm}
+
+## Ma douleur en offrande
 
 Lorsque venait le temps d'aider quelqu'un financièrement dans ma jeunesse, je comparais toujours le montant que je m'apprêtais à donner au prix d'une caisse de bière. Je me disais que si j'acceptais de dépenser cet argent pour m'amuser, je pouvais aussi bien prendre un montant équivalent pour aider quelqu'un dans le besoin. J'appliquais ce principe pour justifier mon désir d'aider. 
 
@@ -835,9 +961,11 @@ Les difficultés et la douleur m'ont forcé à réutiliser la canne au bout d'un
 
 Le dernier jour de ma mission (au bout de deux ans) --- tous les missionnaires qui retournaient chez eux mangeaient ensemble à la maison de mission où le président et sa famille habitaient --- je suis sorti après souper pour aller chercher mes Écritures laissées dans la caravane. Quand je suis descendu du véhicule, un éclair de douleur m'a paralysé soudainement à la hanche, et je suis tombé par terre sur la pelouse devant la maison. Je suis resté étendu sur le sol pendant un long moment, le temps de réaliser que mon dernier jour de mission marquait la fin de ma bénédiction.
 
-*2026*
 
-### dragon
+\newpage
+\vspace*{2cm}
+
+## dragon
 
 dans le ventre du dragon  
 au milieu d'étranges sentiments  
@@ -848,9 +976,11 @@ la souffrance nous envahit
 au creux du dragon  
 l'horreur nous sort par les naseaux
 
-*2026*
 
-### serment
+\newpage
+\vspace*{2cm}
+
+## serment
 
 immuables promesses scellées sur nos lèvres  
 
@@ -872,9 +1002,11 @@ immuables promesses versées sur nos têtes
 
 <sup>* *idumée : le monde*</sup>
 
-*2020*
 
-### bien étrange
+\newpage
+\vspace*{2cm}
+
+## bien étrange
 
 j'ai rencontré sur mon chemin  
 un étrange sentiment  
@@ -888,9 +1020,11 @@ dans la douleur inévitable
 le sacrifice par le sang  
 fait jaillir la vie
 
-*2018*
 
-### cycle de vie
+\newpage
+\vspace*{2cm}
+
+## cycle de vie
 
 le lion mange la chèvre  
 la chèvre mange le chou  
@@ -900,8 +1034,10 @@ la terre mange le lion
 s'il n'y a pas de mort  
 il n'y a pas de vie
 
-*2018*
 
 ---
+
+\newpage
+\vspace*{2cm}
 
 *La traversée de la douleur — 48 poèmes*
