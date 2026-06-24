@@ -712,40 +712,37 @@ Sachez, ô hommes, que vous nous reviendrez assurément, puisque nous retournero
 
 ## [5-AUTRE-CÔTÉ] — La souffrance qui nourrit
 
-### la rose et son jardinier
+### la rose et le jardinier
 
-le jardinier a pris la rose  
-l’a gardée longtemps près de lui  
+
+le jardinier prit la rose  
+la garda longtemps près de lui  
 très longtemps  
 avant de la laisser dehors  
-dans son jardin  
+dans le jardin  
 
-il l’a arrosée  
-il l’a nourrie  
-et il l’a réchauffée la nuit  
+il l’arrosa  
+il la nourrit  
+il la réchauffa la nuit  
 quand elle pleurait à cause du froid  
 quand ses épines se tournaient vers elle  
-tellement le froid lui faisait mal  
 tellement la nuit lui faisait peur  
+tellement le froid lui faisait mal  
 
 longtemps vraiment  
 très très longtemps  
-il lui a semblé, à la rose  
-le temps qu’elle est restée là  
+il lui sembla à la rose  
+le temps qu’elle resta là  
 sans son jardinier  
 sans la chaleur du jour  
 sans la douceur de l’été  
 
 puis un jour elle a fleuri  
-des petits amours sont sortis d’elle  
-des milliers de petites fleurs  
-des petits soleils parfumés  
-qu’on voudrait croquer  
+des petites amours sorties d’elle par milliers  
+des petits soleils parfumés qu’on voudrait croquer  
 
-et le jardinier tout fier  
-avec toute son admiration  
-lui a dit :  
-
+et le jardinier, tout fier de son oeuvre  
+avec toute son admiration, lui dit :  
 « Vois comme tu es belle :  
 des milliers d’étoiles sont sorties de toi. »
 
