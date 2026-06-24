@@ -33,8 +33,7 @@ Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler
 | 12 | Passe-moi un film | 2020 | **Mise en scène** — soi comme personnage de son propre film |
 | 13 | De belles choses à dire | 2020-12 | **Clown** — la mascarade lucide avant la lucidité de la mascarade |
 | 14 | Mascarade | 2026-04 | **Lucidité** — je fais semblant sachant qui je suis vraiment |
-| 15 | Inquiétude | 2023-07 | **Choc** — la vérité blesse, le cœur chavire, la question est posée |
-| 16 | Blessure | 2023-03 | **Érosion** — la vérité qui n'est plus, bascule dans l'ultrasensibilité |
+| 16 | Inquiétude | 2023-07 | **Choc** — la vérité blesse, le cœur chavire, la question est posée |
 | 17 | Le cœur a ses raisons | 2021 | **Crypte** — le désir ardent sous la cathédrale d'intentions |
 | 18 | Le choc des titans | 2021 | **Pivot** — les images prennent toute la place entre toi et moi |
 | 19 | Dialogue | 2026-06-12 | **Aliénation** — le regard de l'autre qui déforme l'image de soi |
@@ -80,7 +79,7 @@ Le poète désire l'image de l'autre, non l'autre. La peur centrale : que la ré
 ### Phase II — Prison (2018–2021)
 *Poèmes 10 à 22*
 
-Le poète nomme le mécanisme. La première vision réciproque ouvre une brèche, mais le masque social se consolide (film, clown, mascarade) avant que la vérité ne blesse. Le choc des images ouvre une crise : inquiétude, blessure, puis le cœur souterrain qui persiste malgré tout. Le pivot théorique : nous ne rencontrons pas l'autre, nous rencontrons nos images de l'autre. L'ajout de « Dialogue » montre l'aliénation profonde : le sujet ne sait plus qui il est sous le regard d'autrui.
+Le poète nomme le mécanisme. La première vision réciproque ouvre une brèche, mais le masque social se consolide (film, clown, mascarade) avant que la vérité ne blesse. Le choc des images ouvre une crise : inquiétude, puis le cœur souterrain qui persiste malgré tout. Le pivot théorique : nous ne rencontrons pas l'autre, nous rencontrons nos images de l'autre. L'ajout de « Dialogue » montre l'aliénation profonde : le sujet ne sait plus qui il est sous le regard d'autrui.
 
 ### Phase III — Transparence (2023–2026)
 *Poèmes 23 à 44*

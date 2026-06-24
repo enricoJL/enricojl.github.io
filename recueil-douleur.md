@@ -423,6 +423,27 @@ slap !
 
 *2025*
 
+### blessure
+
+rien n’est plus blessant  
+qu’une vérité qui ne l’est pas  
+
+quand la désillusion te surprend  
+la confiance violée  
+tout s’éteint  
+
+ravage  
+mensonge  
+et désolation  
+
+le cynisme tranchant  
+tu bascules dans l’autre monde  
+à l’envers du décor  
+où tu demeures  
+ultrasensible à la vérité
+
+*2023*
+
 ### assainir
 
 immergés  
@@ -900,4 +921,4 @@ il n'y a pas de vie
 
 ---
 
-*La traversée de la douleur — 48 poèmes*
+*La traversée de la douleur — 49 poèmes*

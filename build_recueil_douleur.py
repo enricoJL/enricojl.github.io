@@ -40,6 +40,7 @@ ARC = [
         "2024-12-15-dans-la-tempête.md",
         "2025-01-01-chardons.md",
         "2025-05-19-slap.md",
+        "2023-03-15-blessure.md",
         "2025-08-30-assainir.md",
         "2026-02-28-fixation.md",
         "2021-01-26-le-colporteur.md",
