@@ -6,7 +6,7 @@ Axe de réflexion poétique construit à partir des catégories **douleur** (200
 et **new** (2026). Après épuration des poèmes déjà sélectionnés dans l'arc philosophique
 **« entre l'image et la mer »** (`poems/arc-philosophique-image.md`).
 
-**48 poèmes distincts** positionnés sur un axe à cinq stations.
+**47 poèmes distincts** positionnés sur un axe à cinq stations.
 
 ---
 
@@ -19,7 +19,7 @@ et **new** (2026). Après épuration des poèmes déjà sélectionnés dans l'ar
 | Station | Sens | Nombre |
 |---|---|---|
 | `[1-DESCENTE]` | On glisse, on tourne autour du bord, on tombe | **7** |
-| `[2-FOND]` | Immobilité, enlisement, le néant, le sans-issue | **12** |
+| `[2-FOND]` | Immobilité, enlisement, le néant, le sans-issue | **11** |
 | `[3-BASCULE]` | Le pivot — le fond devient source, on consent | **8** |
 | `[4-REMONTEE]` | Debout, le lien retrouvé, la douleur portée | **12** |
 | `[5-AUTRE-CÔTÉ]` | Transmutation accomplie — la souffrance nourrit | **9** |
@@ -41,7 +41,6 @@ de l'image, le paysage de la douleur devient plus lisible.
 | à-l'envers | `[1-DESCENTE]` | conflit décor/réalité dans l'arc image |
 | en chute libre | `[1-DESCENTE]` | vertige de l'image |
 | inquiétude | `[1-DESCENTE]` | choc des images dans l'arc image |
-| blessure | `[1-DESCENTE]` | érosion de l'image |
 | dialogue | `[2-FOND]` | aliénation par le regard de l'autre |
 | BANG ! | `[3-BASCULE]` | détonateur de l'arc image |
 | au-travers-du-dernier-mur | `[3-BASCULE]` | seuil de la transparence |
@@ -53,7 +52,7 @@ de l'image, le paysage de la douleur devient plus lisible.
 | plongée | `[5-AUTRE-CÔTÉ]` | consentement et dissolution |
 | d'un univers à l'autre | `[5-AUTRE-CÔTÉ]` | propulsion par la beauté |
 
-**16 poèmes retirés.** Ils appartiennent davantage à la logique du mirage, de la prison
+**15 poèmes retirés.** Ils appartiennent davantage à la logique du mirage, de la prison
 de l'image et de la transparence qu'à celle de la douleur comme traversée autonome.
 
 ---
@@ -78,13 +77,13 @@ lente) → `disparu` (l'effacement) → `anonyme` (la peine qui ne se nomme pas)
 
 > *j'ai l'impression d'être mort / depuis longtemps déjà* — `la-mort-à-petit-feu`
 
-Autres : au-pied-d'un-arbre, à-l'agonie, sans-appui, dégoût, inassouvi,
+Autres : au-pied-d'un-arbre, à-l'agonie, sans-appui, inassouvi,
 fracture, passager.
 
 ### `[3-BASCULE]` — le pivot (8)
 Le cœur battant de l'arc. Le fond se retourne en source.
-**Spine :** `dans-la-tempête` (la tempête comme bascule) → `chardons` (la piqûre qui
-réveille) → `slap` (la gifle qui rend lucide) → `assainir` (le nettoyage volontaire)
+**Spine :** `dans-la-tempête` (la tempête comme bascule) → `slap` (la gifle qui rend lucide) → 
+`blessure` (la vérité nue qui blesse) → `assainir` (le nettoyage volontaire)
 → `fixation` (le regard tourné, qui retourne).
 
 > *tout devient plus clair / après une gifle bien sentie* — `slap`
