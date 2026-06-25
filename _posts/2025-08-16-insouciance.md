@@ -6,19 +6,18 @@ categories: "douleur"
 published: true
 ---
 
-parti à la lisière des horizons mensongers  
+parti à la lisière du mensonge  
 j'en suis revenu  
 tout enroché de montagnes   
 
 << Tu as tant souffert ! >>  
 t'es-tu exclamée  
 
-sans pouvoir rien faire  
 ton angoisse m'étonnait  
 sans savoir  
 sans comprendre   
 
-toi, surprise  
+toi, si surprise  
 comme emprisonnée dans un pays étranger  
 dont j'étais souverain  
 

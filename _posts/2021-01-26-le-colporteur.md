@@ -10,7 +10,6 @@ je n’ai personne en qui croire
 je fais semblant comme au théâtre  
 j’invente la vérité  
 
-je me retrouve au bout des limites  
 étranglé de sombres présomptions  
 dans l’invivable  
 je fuis sans relâche  
@@ -23,7 +22,7 @@ compliqué
 — mais voilà qu'on frappe à ma porte  
 
 on arrive au balcon  
-à l’entrée, le colporteur se présente  
+à l’entrée le colporteur se présente  
 rempli de miel jusque dans les yeux  
 il offre d’abord sa présence  
 
@@ -33,10 +32,9 @@ et tu te réjouis d’avoir fermé la porte
 avant que son pied n’atteigne  
 l’intérieur de la maison  
 
-à l’entrée, le colporteur  
-une autre fois encore  
-avec sa présence toujours  
-et du miel  
+à l’entrée le colporteur  
+une fois encore  
+avec du miel  
 
 séduite  
 tu l’invites dans ta maison  

@@ -8,7 +8,7 @@
 
 ```{=latex}
 \vspace*{3cm}
-\textit{entrer dans le gouffre \\pour en ressortir \\de l'autre côté}
+\textit{entrer dans le gouffre, pour en ressortir de l'autre côté}
 \clearpage
 ```
 

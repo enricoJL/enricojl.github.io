@@ -8,8 +8,7 @@ published: true
 
 je marche sur un fil  
 au-dessus du vide  
-en équilibre  
-sur ma ligne de vie  
+en déséquilibre  
 
 j'hésite  
 un pas en avant  

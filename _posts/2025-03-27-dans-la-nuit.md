@@ -11,22 +11,14 @@ attendre
 sous les couvertures  
 toute la nuit  
 
-sans penser  
-faire le vide  
 les amertumes du jour  
 les inquiétudes du soir  
-évadées dans un souffle  
+évadées dans un soupir  
 
 veiller sur l'oreiller  
 sans penser à rien  
-encore une fois  
-basculer dans le vide  
+et basculer dans le vide  
 
-la nuit réparatrice  
-le matin révélateur  
-le jour porteur  
-
-la vie tranquille  
 les enfants  
 le mariage  
 le travail  

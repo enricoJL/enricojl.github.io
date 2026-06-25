@@ -11,11 +11,9 @@ la hanche disloquée
 
 marcher encore deux ans de plus  
 la canne à la main comme une offrande  
-la souffrance sublimée dans la prière  
 
 jusqu'au dernier jour  
-la douleur aiguë de retour  
-dans mon effondrement  
+de retour dans mon effondrement  
 
-longtemps cloué sol  
+longtemps cloué au sol  
 j'ai contemplé la fin  

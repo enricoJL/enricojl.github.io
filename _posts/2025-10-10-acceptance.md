@@ -6,8 +6,7 @@ categories: "douleur"
 published: true
 ---
 
-respirer la douleur  
-pour l'absorber calmement  
-en toute confiance  
-sublimer l'angoisse  
+respirer calmement  
+la douleur pour l'absorber   
+accepter qu'elle fasse mal  
 et soupirer jusqu'aux étoiles  

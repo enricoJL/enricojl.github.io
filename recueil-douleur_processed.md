@@ -45,7 +45,7 @@ header-includes:
 
 ```{=latex}
 \vspace*{3cm}
-\textit{entrer dans le gouffre \\pour en ressortir \\de l'autre côté}
+\textit{entrer dans le gouffre, pour en ressortir de l'autre côté}
 \clearpage
 ```
 
@@ -504,6 +504,29 @@ slap !
 slap !  
 
 ça ira mieux demain
+
+
+\newpage
+\vspace*{2cm}
+
+## blessure
+
+rien n’est plus blessant  
+qu’une vérité qui ne l’est pas  
+
+quand la désillusion te surprend  
+la confiance violée  
+tout s’éteint  
+
+ravage  
+mensonge  
+et désolation  
+
+le cynisme tranchant  
+tu bascules dans l’autre monde  
+à l’envers du décor  
+où tu demeures  
+ultrasensible à la vérité
 
 
 \newpage
@@ -1036,4 +1059,4 @@ il n'y a pas de vie
 \newpage
 \vspace*{2cm}
 
-*La traversée de la douleur — 48 poèmes*
+*La traversée de la douleur — 49 poèmes*

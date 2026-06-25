@@ -5,7 +5,8 @@ date: "2019-03-03"
 categories: "douleur"
 ---
 
-la mort à petit feu fait son nid  
+la mort à petit feu  
+fait son nid  
 
 quand elle se réveille  
 la nuit  
@@ -15,7 +16,8 @@ la douleur crie
 
 et puis  
 sans faire de bruit  
-elle se rendort  
+se rendort  
 
-et je dors à ses côtés  
-tranquille  
+et je dors tranquille  
+à ses côtés  
+  
