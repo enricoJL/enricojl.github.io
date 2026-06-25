@@ -30,7 +30,6 @@ ARC = [
         "2013-07-20-au-pied-dun-arbre.md",
         "2020-06-24-a-lagonie.md",
         "2024-12-15-sans-appui.md",
-        "2025-06-10-degout.md",
         "2025-07-17-inassouvi.md",
         "2025-08-16-fracture.md",
         "2025-11-22-passager.md",
@@ -38,7 +37,6 @@ ARC = [
     ]),
     ("le pivot", [
         "2024-12-15-dans-la-tempête.md",
-        "2025-01-01-chardons.md",
         "2025-05-19-slap.md",
         "2023-03-15-blessure.md",
         "2025-08-30-assainir.md",

@@ -18,16 +18,14 @@
 ### le gouffre
 
 je n'ai pas le courage d'y plonger  
-dans cette fosse lugubre  
-remplie de mystères  
 
-j'y lance quand même un regard de temps à autre  
-pour y percevoir des créatures étranges  
+mais j'y lance parfois un regard  
+pour y voir des créatures étranges  
 au fond qui grouillent dans la pénombre  
+sans jamais m'attarder trop longtemps  
 
-mais je n'ose jamais m'attarder trop longtemps  
-chaque jour laissé-là à pourrir  
-dans le gouffre de l'oubli
+chaque jour laissé-là  
+à pourrir dans le gouffre de l'oubli
 
 *2026*
 
@@ -40,7 +38,7 @@ y voir
 y plonger  
 m'y installer  
 
-mais c'est où ce « y » ?
+mais c'est quoi ce « y » ?
 
 *2026*
 
@@ -48,8 +46,7 @@ mais c'est où ce « y » ?
 
 je marche sur un fil  
 au-dessus du vide  
-en équilibre  
-sur ma ligne de vie  
+en déséquilibre  
 
 j'hésite  
 un pas en avant  
@@ -63,15 +60,15 @@ je vais me fracasser
 
 ### s'enliser
 
+submergé d’inquiétude  
 peser sur l'autre  
 et souffrir en silence  
+
 sentir le poids du marteau  
 cogner sur l’enclume  
 à répétition  
 
 voir l’autre s’enliser  
-sans issue  
-submergée d’inquiétude  
 et sombrer avec elle  
 sans pouvoir rien y faire
 
@@ -88,8 +85,9 @@ et leur silence nous crie aux oreilles
 
 les pierres  
 essuyant le sang des massacres  
-témoins du chaos  
-elles crient en silence  
+et témoins du chaos  
+elles s'écrient sans cesse  
+sans qu'on les entende  
 
 « Arrêtez ! Arrêtez ! »  
 nous suppliant constamment  
@@ -106,7 +104,6 @@ ce qui nous a frappés
 à moitié dans le monde  
 j'en suis seul survivant  
 
-nos amours en suspension  
 nos relations écorchées  
 nos convictions ébranlées  
 
@@ -117,19 +114,18 @@ j'embarque pour le tourbillon
 
 ### insouciance
 
-parti à la lisière des horizons mensongers  
+parti à la lisière du mensonge  
 j'en suis revenu  
 tout enroché de montagnes   
 
 << Tu as tant souffert ! >>  
 t'es-tu exclamée  
 
-sans pouvoir rien faire  
 ton angoisse m'étonnait  
 sans savoir  
 sans comprendre   
 
-toi, surprise  
+toi, si surprise  
 comme emprisonnée dans un pays étranger  
 dont j'étais souverain  
 
@@ -157,7 +153,7 @@ comme un puits
 
 ----
 
-P.S.  
+p.s.  
 plus le puits est sombre et calme  
 plus son eau est fraîche et claire
 
@@ -165,7 +161,8 @@ plus son eau est fraîche et claire
 
 ### la mort à petit feu
 
-la mort à petit feu fait son nid  
+la mort à petit feu  
+fait son nid  
 
 quand elle se réveille  
 la nuit  
@@ -175,10 +172,10 @@ la douleur crie
 
 et puis  
 sans faire de bruit  
-elle se rendort  
+se rendort  
 
-et je dors à ses côtés  
-tranquille
+et je dors tranquille  
+à ses côtés
 
 *2019*
 
@@ -204,6 +201,7 @@ il a disparu
 <br/>  
 
 cette tristesse  
+aussi loin que je me souvienne  
 draine ma maison jusqu'à la mer  
 
 chaque soir  
@@ -218,15 +216,16 @@ cette peine ne se nomme pas
 ### tragédie
 
 en boucle dans ma tête  
-la tragédie rejoue  
+la tragédie rejoue sans cesse  
 
 les personnages tombent  
 un à un  
 jusqu'à ce qu'il n'en reste  
 plus qu'un   
 
-moi seul dans l'amphithéâtre  
-figé sur le granite
+moi seul  
+figé sur le granite  
+dans l'amphithéâtre
 
 *2025*
 
@@ -295,19 +294,6 @@ rien à s'accrocher
 
 *2024*
 
-### dégoût
-
-les passants le frôlent du regard  
-son sac de couchage en déséquilibre  
-entre la gêne et le dégoût  
-
-depuis longtemps  
-le froid ne l'atteint plus  
-les regards glissent sur lui  
-on ne le voit plus
-
-*2025*
-
 ### inassouvi
 
 mes larmes sèchent d'être tristes  
@@ -317,9 +303,9 @@ faute de n'avoir jamais su en trouver la source
 
 ### fracture
 
-je suis resté là  
-à pleurer dans la douleur  
-l'incompréhension et la honte  
+je suis resté là à pleurer  
+pendant des heures  
+dans l'incompréhension et la honte  
 
 ça ira mieux  
 je me suis dit dans ma fuite  
@@ -332,10 +318,10 @@ sans moi à la maison
 
 ### passager
 
-le long du tunnel  
+tout au long du tunnel  
 les dents serrés  
 il se referme  
-dans son livre clos  
+dans un livre clos  
 
 il ne fait que passer
 
@@ -347,22 +333,14 @@ attendre
 sous les couvertures  
 toute la nuit  
 
-sans penser  
-faire le vide  
 les amertumes du jour  
 les inquiétudes du soir  
-évadées dans un souffle  
+évadées dans un soupir  
 
 veiller sur l'oreiller  
 sans penser à rien  
-encore une fois  
-basculer dans le vide  
+et basculer dans le vide  
 
-la nuit réparatrice  
-le matin révélateur  
-le jour porteur  
-
-la vie tranquille  
 les enfants  
 le mariage  
 le travail  
@@ -384,7 +362,7 @@ dans le pays
 ### dans la tempête
 
 pendant longtemps malgré la peur  
-rester là sur la rive de l'autre  
+rester là sur le rivage de l'autre  
 à espérer la lumière qui viendra un jour  
 
 de soi vers l'autre et de l'autre à soi  
@@ -392,15 +370,6 @@ dans la tempête au milieu des échanges
 la lueur provient des deux rivages
 
 *2024*
-
-### chardons
-
-au travers des épines  
-dans la douleur écorchés  
-les chardons se retournent  
-avant de fleurir
-
-*2025*
 
 ### slap !
 
@@ -411,9 +380,11 @@ et de semi-vérités
 bouche bée  
 encore abasourdi  
 je cherche à comprendre  
+
 je repasse dans mon souvenir  
 la scène constamment  
-l’incohérence tranquillement s’estompe  
+et l’incohérence tranquillement  
+s’estompe  
 
 slap !  
 slap !  
@@ -439,6 +410,7 @@ et désolation
 le cynisme tranchant  
 tu bascules dans l’autre monde  
 à l’envers du décor  
+
 où tu demeures  
 ultrasensible à la vérité
 
@@ -458,13 +430,11 @@ de sel immaculés
 ### fixation
 
 garder la tête hors de l'eau  
-pour reprendre son souffle  
-et ne pas sombrer dans la turbulence  
-
+ne pas sombrer dans la turbulence  
 sous l'horizon vacillant  
 entre le doute et la peur  
 
-garder la tête hors de l'eau ---  
+garder la tête hors de l'eau  
 ma seule fixation
 
 *2026*
@@ -476,7 +446,6 @@ je n’ai personne en qui croire
 je fais semblant comme au théâtre  
 j’invente la vérité  
 
-je me retrouve au bout des limites  
 étranglé de sombres présomptions  
 dans l’invivable  
 je fuis sans relâche  
@@ -489,7 +458,7 @@ compliqué
 — mais voilà qu'on frappe à ma porte  
 
 on arrive au balcon  
-à l’entrée, le colporteur se présente  
+à l’entrée le colporteur se présente  
 rempli de miel jusque dans les yeux  
 il offre d’abord sa présence  
 
@@ -499,10 +468,9 @@ et tu te réjouis d’avoir fermé la porte
 avant que son pied n’atteigne  
 l’intérieur de la maison  
 
-à l’entrée, le colporteur  
-une autre fois encore  
-avec sa présence toujours  
-et du miel  
+à l’entrée le colporteur  
+une fois encore  
+avec du miel  
 
 séduite  
 tu l’invites dans ta maison  
@@ -517,8 +485,10 @@ et tu te réjouis
 
 ### la mort, mon handicap
 
-ma maladie, c’est la mort  
-mon handicap, c’est de refuser d’y croire
+ma maladie c’est la mort  
+
+mon handicap  
+c’est de refuser d’y croire
 
 *2021*
 
@@ -526,22 +496,21 @@ mon handicap, c’est de refuser d’y croire
 
 ### debout
 
-tout les jours  
+tout le jour  
 sous le soleil  
 je me tiens debout  
 
 malgré tout  
 malgré moi  
-et la douleur
+malgré son absence
 
 *2024*
 
 ### acceptance
 
-respirer la douleur  
-pour l'absorber calmement  
-en toute confiance  
-sublimer l'angoisse  
+respirer calmement  
+la douleur pour l'absorber   
+accepter qu'elle fasse mal  
 et soupirer jusqu'aux étoiles
 
 *2025*
@@ -551,7 +520,7 @@ et soupirer jusqu'aux étoiles
 en mettant le doigt dessus  
 la docteure m'a libéré   
 
-la douleur vive m'a révélé son nom  
+la douleur m'a révélé son nom  
 
 mieux la connaître enfin  
 me permet d’envisager  
@@ -566,13 +535,11 @@ la hanche disloquée
 
 marcher encore deux ans de plus  
 la canne à la main comme une offrande  
-la souffrance sublimée dans la prière  
 
 jusqu'au dernier jour  
-la douleur aiguë de retour  
-dans mon effondrement  
+de retour dans mon effondrement  
 
-longtemps cloué sol  
+longtemps cloué au sol  
 j'ai contemplé la fin
 
 *2026*
@@ -581,11 +548,8 @@ j'ai contemplé la fin
 
 raconte-moi ton problème  
 ne laisse aucun détail  
+jusqu'aux racines  
 
-ensemble nous remonterons à la source  
-et nous découvrirons ses causes racines  
-  
-ensemble, c'est promis  
 je ne te laisserai pas tomber  
 tout seul
 
@@ -628,28 +592,28 @@ depuis si longtemps mort et disparu
 
 ### coma
 
-mon frère ne s'arrête plus de dormir  
-ça fait si longtemps qu'il rêve  
-qu’est-ce qu'il fait  
-toujours dans le coma  
-quelqu’un va-t-il le réveiller   
+mon frère est toujours dans le coma  
+il ne s'arrête plus de rêver  
 
-il est arrivé quelque chose de grave   
+il lui est arrivé quelque chose de grave   
 un traumatisme transcendantal   
 un blocage total   
-prisonnier de son imagination   
-il s'est créé un monde parallèle   
-et le rêve l’a emporté complètement   
 
-il a perdu tout contact avec la réalité    
+prisonnier de son imagination   
+il dort dans un monde parallèle   
+le rêve l’a emporté   
+
+on a perdu tout contact avec lui  
 ses sentiments déconnectés   
 ses émotions piégées là-bas   
 impossible de le rejoindre   
+
 mais comment faire pour le réveiller   
 
 faut-il trouver le moyen d’entrer   
-à travers un canal de l’autre monde   
-et parler pour lui dire avec autorité :   
+à travers un canal d'un autre monde   
+et lui dire avec autorité :   
+
 allez ! debout ! lève-toi, rêveur, participe   
 le monde ici aussi en vaut la peine
 
@@ -921,4 +885,4 @@ il n'y a pas de vie
 
 ---
 
-*La traversée de la douleur — 49 poèmes*
+*La traversée de la douleur — 47 poèmes*
