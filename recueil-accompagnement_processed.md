@@ -998,33 +998,9 @@ pour demander pardon
 et recommencer encore
 
 
-\newpage
-\vspace*{2cm}
-
-## Ma douleur en offrande
-
-Lorsque venait le temps d'aider quelqu'un financièrement dans ma jeunesse, je comparais toujours le montant que je m'apprêtais à donner au prix d'une caisse de bière. Je me disais que si j'acceptais de dépenser cet argent pour m'amuser, je pouvais aussi bien prendre un montant équivalent pour aider quelqu'un dans le besoin. J'appliquais ce principe pour justifier mon désir d'aider. 
-
-Je revenais du travail le jour où j'ai pris la décision de partir en mission. Les déplacements dans le métro de Montréal ont toujours été pour moi un défi à cause des longs corridors interminables. Les stations de métro sont construites pour accommoder les trains, pas les gens — surtout pas ceux qui, comme moi, ont du mal à marcher. Ce jour-là, quand je suis arrivé au coin de la rue De La Roche, après être descendu de l'autobus qui longe la rue Laurier, à peine avais-je franchi le coin que ma hanche s'est mise à me faire très mal, tellement que je devais m'appuyer sur les clôtures le long du trottoir entre Laurier et Saint-Joseph pour éviter de m'écrouler.
-
-La distance entre l'arrêt d'autobus et l'immeuble où j'habitais sur De La Roche fait environ 140 mètres, mais je n'arrivais pas à m'y rendre. J'avais lancé ma canne au bout de mes bras quelques jours avant ce moment décisif.
-
-C'est à ce moment-là, paralysé par la douleur aiguë, que je me suis mis à prier mon Dieu : « Ô mon Père, laisse-moi partir en mission! J'ai marché pendant quinze ans sur une hanche disloquée à faire des niaiseries, sans but, sans directions; je peux bien prendre deux ans de ma vie à marcher pour toi. La douleur ne me dérange pas. Je te dois bien ça. » Ayant reçu de l'Esprit la confirmation que je partirais, je me suis traîné jusqu'à la maison. J'ai donné ce jour-là ma douleur en offrande à Dieu.
-
-Plus tard, au centre d'entraînement des missionnaires de Provost aux États-Unis, mon président de branche m'a demandé pourquoi j'avais décidé de faire une mission. Au moment où j'allais dire que mon attachement à Jésus‑Christ me poussait à le servir, je me suis mis à penser plutôt à sa bonté envers moi; sachant que c'était la source de mon dévouement --- puisqu'il m'a aimé le premier --- j'ai répondu tout simplement que j'avais décidé de servir parce que le Christ m'aimait.
-
-Un peu plus tard, un médecin du centre m'auscultait pour clarifier ma condition de santé. Je me souviens de la surprise dans son regard lorsqu'il a mis le doigt sur ma tendinite aiguë. Il a exprimé son doute par rapport à ma capacité de faire du vélo. Je lui ai dit que je pouvais certainement; j'avais peur qu'on me renvoie à la maison à cause de mon handicap. Et pourtant, je ne mentais pas. J'ai fait du vélo chaque année depuis le premier printemps après l'accident que j'ai eu à l'âge de sept ans. Au contraire, le vélo m'a permis de garder une certaine mobilité.
-
-On m'a laissé partir en mission. Je me suis procuré un vélo. Je l'ai gardé plusieurs mois, jusqu'à ce que je trouve quelqu'un qui en avait plus besoin que moi.
-
-Les difficultés et la douleur m'ont forcé à réutiliser la canne au bout d'un an. À cette époque, lors d'une discussion avec un frère affligé par un type d'arthrite très rare et très douloureux, je me vantais que je pouvais marcher par la grâce de Dieu, sans trop de douleur, même avec ma hanche et mon handicap. Il m'a dit alors affectueusement : « *Wait until you come back home. It's not going to last forever.* »
-
-Le dernier jour de ma mission (au bout de deux ans) --- tous les missionnaires qui retournaient chez eux mangeaient ensemble à la maison de mission où le président et sa famille habitaient --- je suis sorti après souper pour aller chercher mes Écritures laissées dans la caravane. Quand je suis descendu du véhicule, un éclair de douleur m'a paralysé soudainement à la hanche, et je suis tombé par terre sur la pelouse devant la maison. Je suis resté étendu sur le sol pendant un long moment, le temps de réaliser que mon dernier jour de mission marquait la fin de ma bénédiction.
-
-
 ---
 
 \newpage
 \vspace*{2cm}
 
-*Le chemin de la présence — 40 poèmes*
+*Le chemin de la présence — 39 poèmes*
