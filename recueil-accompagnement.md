@@ -829,31 +829,6 @@ le déjeuner était déjà prêt
 
 ## VI. La réponse
 
-### ce qui nous arrive
-
-ce qui nous arrive  
-dans un premier temps  
-nous traverse instantanément  
-
-après coup, quand ça nous arrive  
-on y réfléchit  
-
-habituellement, ça nous prend par surprise  
-même si ça nous dérange, ça nous arrange  
-de penser qu’on y est pour rien  
-
-les choses qui nous arrivent  
-nous laissent parfois indifférents  
-mais en réalité, ça laisse des traces  
-inévitablement  
-
-car la structure de nos pensées  
-se métamorphose en silence  
-qu’on le veuille ou non  
-à mesure que les choses nous traversent
-
-*2013*
-
 ### métamorphose
 
 au centre de nous deux  
@@ -933,4 +908,4 @@ Le dernier jour de ma mission (au bout de deux ans) --- tous les missionnaires q
 
 ---
 
-*Le chemin de la présence — 41 poèmes*
+*Le chemin de la présence — 40 poèmes*

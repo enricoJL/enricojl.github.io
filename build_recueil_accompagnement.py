@@ -58,7 +58,6 @@ ARC = [
         "2024-09-29-a-table.md",
     ]),
     ("VI. La réponse", [
-        "2013-08-18-ce-qui-nous-arrive.md",
         "2020-05-29-metamorphose.md",
         "2023-05-15-mes-amours.md",
         "2021-03-08-ou-sont-mes-reves.md",
