@@ -1,14 +1,67 @@
 #!/usr/bin/env python3
-"""Assemble poetry collection into a print-ready PDF."""
+"""Assemble the image arc into a print-ready PDF."""
 
 import os
 import re
 import subprocess
 import sys
 
-SOURCE_MD  = os.path.join(os.path.dirname(__file__), "recueil-de-mirage-a-abysmal.md")
-OUTPUT_MD  = os.path.join(os.path.dirname(__file__), "_recueil.md")
+POSTS_DIR  = os.path.join(os.path.dirname(__file__), "_posts")
+OUTPUT_MD  = os.path.join(os.path.dirname(__file__), "recueil-image.md")
 OUTPUT_PDF = os.path.join(os.path.dirname(__file__), "LEVESQUE_Enrico_entre_l'image_et_la_mer.pdf")
+
+# Arc structure: (section title, [exact filenames])
+ARC = [
+    ("Phase I — Mirage", [
+        "1992-05-01-premier-baiser.md",
+        "2006-10-25-la-docilite-du-reve.md",
+        "2020-05-10-vertige.md",
+        "2013-07-20-a-lenvers-du-decor.md",
+        "2013-07-20-la-montagne-den-face.md",
+        "2013-07-20-en-chute-libre.md",
+        "2013-07-20-gravure.md",
+        "2013-07-20-si-fragile.md",
+        "2013-07-20-elle.md",
+    ]),
+    ("Phase II — Prison", [
+        "2018-02-27-ici-et-maintenant.md",
+        "2019-05-01-temple-fondements-babeurre.md",
+        "2020-05-11-passe-moi-un-film.md",
+        "2020-12-23-belles-choses-a-dire.md",
+        "2026-04-08-surprise.md",
+        "2026-04-20-mascarade.md",
+        "2023-07-04-inquietude.md",
+        "2026-06-07-le-coeur-a-ses-raisons.md",
+        "2021-04-02-le-choc-des-titans.md",
+        "2026-06-12-dialogue.md",
+        "2024-06-09-pointderencontre.md",
+        "2021-02-27-prison.md",
+        "2021-01-24-bang.md",
+    ]),
+    ("Phase III — Transparence", [
+        "2023-07-14-demolition.md",
+        "2023-01-02-au-travers-du-dernier-mur.md",
+        "2021-03-11-dun-univers-a-lautre.md",
+        "2020-06-12-inextricable-beaute.md",
+        "2023-01-13-beaute.md",
+        "2023-02-21-épitaphe.md",
+        "2024-06-04-entre-limage-et-la-mer.md",
+        "2024-12-08-cristal.md",
+        "2024-08-09-perception.md",
+        "2025-03-25-bulles-fragiles.md",
+        "2025-03-26-imagination.md",
+        "2025-03-26-restitution.md",
+        "2025-03-26-sans-image.md",
+        "2025-08-13-be-water.md",
+        "2026-01-18-sans-frontiere.md",
+        "2023-01-03-plongeon-dans-le-ciel.md",
+        "2013-07-20-je-marche-avec-lui.md",
+        "2025-08-27-semblable.md",
+        "2026-03-04-plongee.md",
+        "2026-06-13-la-mer.md",
+        "2026-05-30-abyssal.md",
+    ]),
+]
 
 LATEX_HEADER = r"""---
 title: "entre l'image et la mer"
@@ -58,70 +111,131 @@ TITLE_PAGE = r"""
 
 """
 
+EPIGRAPH = """```{=latex}
+\\vspace*{3cm}
+\\begin{quote}
+\\textit{Je marche à côté d'une joie} \\\\
+\\textit{D'une joie qui n'est pas à moi} \\\\
+--- Hector de Saint-Denys Garneau, \\textit{Accompagnement}
+\\end{quote}
+\\vspace*{1.5cm}
+\\begin{quote}
+\\textit{Toute vie véritable est rencontre. La relation au Tu est immédiate. Entre Je et Tu ne s'intercale aucun but, aucun savoir et aucune imagination.} \\\\
+--- Martin Buber, \\textit{Je et Tu}
+\\end{quote}
+\\clearpage
+```
+
+"""
+
+
+def parse_post(filepath):
+    """Return (title, date, content) from a Jekyll post."""
+    with open(filepath, encoding="utf-8") as fh:
+        raw = fh.read()
+
+    if raw.startswith("---"):
+        parts = raw.split("---", 2)
+        frontmatter = parts[1]
+        content = parts[2].strip()
+    else:
+        frontmatter = ""
+        content = raw.strip()
+
+    title_match = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', frontmatter, re.MULTILINE)
+    date_match  = re.search(r'^date:\s*["\']?(\d{4})["\']?', frontmatter, re.MULTILINE)
+
+    title = title_match.group(1).strip() if title_match else os.path.basename(filepath)
+    date  = date_match.group(1).strip() if date_match else ""
+
+    return title, date, content
+
+
+def assemble_markdown():
+    lines = []
+    lines.append("# entre l'image et la mer\n")
+    lines.append("\n*Poèmes choisis — 1992–2026*\n")
+    lines.append("\n**Enrico Lévesque**\n")
+    lines.append("\n---\n\n")
+    lines.append(EPIGRAPH)
+
+    poem_count = 0
+    for section_title, filenames in ARC:
+        lines.append(f"\n## {section_title}\n")
+        for fname in filenames:
+            fpath = os.path.join(POSTS_DIR, fname)
+            if not os.path.exists(fpath):
+                print(f"AVERTISSEMENT : fichier introuvable : {fname}", file=sys.stderr)
+                continue
+            title, date, content = parse_post(fpath)
+            lines.append(f"\n### {title}\n\n")
+            lines.append(content)
+            lines.append("\n")
+            if date:
+                lines.append(f"\n*{date}*\n")
+            poem_count += 1
+
+    lines.append(f"\n---\n\n*Entre l'image et la mer — {poem_count} poèmes*\n")
+    return "".join(lines), poem_count
+
 
 def process_content(text):
-    """Strip title block, extract epigraph, shift headings."""
+    """Strip title block and shift headings for PDF rendering."""
     lines = text.splitlines(keepends=True)
 
-    # Skip the opening title block: h1, subtitle, author, first ---
+    # Skip opening title block up to first ---
     i = 0
     while i < len(lines) and not lines[i].startswith("# "):
         i += 1
-    i += 1  # skip # Mirage
+    i += 1  # skip # title
 
-    # Skip everything up to and including the first ---
     while i < len(lines) and lines[i].strip() != "---":
         i += 1
     i += 1  # skip the ---
 
     rest = "".join(lines[i:])
 
-    # Shift heading levels: ## Phase → # (chapter), ### Poem → ## (section)
-    # Order matters: shift phases first, then poems
+    # Shift headings: ## Section → # (chapter), ### Poem → ## (section)
     rest = re.sub(r"^## ", "# ", rest, flags=re.MULTILINE)
     rest = re.sub(r"^### ", "## ", rest, flags=re.MULTILINE)
 
-    # Strip leading numbering from poem titles: ## 1. Titre → ## Titre
-    # (Désactivé — les numéros ont été retirés du recueil source)
-    # rest = re.sub(r"^(## )\d+\.\s+", r"\1", rest, flags=re.MULTILINE)
-
-    # Each poem starts on a new page with extra top space
+    # Each poem on a new page with top spacing
     rest = re.sub(r"^(## )", r"\\newpage\n\\vspace*{2cm}\n\n\1", rest, flags=re.MULTILINE)
 
-    # Remove standalone date/year lines like *1992* or *25 mars 2025*
-    rest = re.sub(r"^\*(?:\d{1,2}\s+\w+\s+)?\d{4}\*\n?", "", rest, flags=re.MULTILINE)
+    # Remove standalone year lines like *2013*
+    rest = re.sub(r"^\*\d{4}\*\n?", "", rest, flags=re.MULTILINE)
 
-    # Remove horizontal rules (désactivé — déjà retirées du recueil source)
-    # rest = re.sub(r"^---\n?", "", rest, flags=re.MULTILINE)
-
-    # Colophon on a new page with top spacing
-    rest = re.sub(r"(\*Mirage — \d+ poèmes)", r"\\newpage\n\\vspace*{2cm}\n\n\1", rest)
+    # Colophon on new page
+    rest = re.sub(
+        r"(\*Entre l'image et la mer)",
+        r"\\newpage\n\\vspace*{2cm}\n\n\1",
+        rest,
+    )
 
     return rest
 
 
 def main():
-    with open(SOURCE_MD, encoding="utf-8") as fh:
-        raw = fh.read()
-
-    body = process_content(raw)
-    full_md = LATEX_HEADER + TITLE_PAGE + body
+    source_md, count = assemble_markdown()
 
     with open(OUTPUT_MD, "w", encoding="utf-8") as fh:
+        fh.write(source_md)
+    print(f"Recueil assemblé : {OUTPUT_MD} ({count} poèmes)")
+
+    body = process_content(source_md)
+    full_md = LATEX_HEADER + TITLE_PAGE + body
+
+    tmp_md = OUTPUT_MD.replace(".md", "_processed.md")
+    with open(tmp_md, "w", encoding="utf-8") as fh:
         fh.write(full_md)
-    print(f"Assembled markdown written to {OUTPUT_MD}")
 
-    texlive_bin = "/usr/local/texlive/2026/bin/universal-darwin"
-    env = os.environ.copy()
-    env["PATH"] = texlive_bin + ":" + env.get("PATH", "")
-
-    cmd = ["pandoc", OUTPUT_MD, "--pdf-engine=xelatex", "-o", OUTPUT_PDF]
-    print("Running pandoc…")
-    result = subprocess.run(cmd, env=env, capture_output=True, text=True)
+    cmd = ["pandoc", tmp_md, "--pdf-engine=xelatex", "-o", OUTPUT_PDF]
+    print("Génération du PDF…")
+    result = subprocess.run(cmd, capture_output=True, text=True)
     if result.returncode != 0:
-        print("pandoc stderr:\n", result.stderr)
+        print("Erreur pandoc :\n", result.stderr)
         sys.exit(result.returncode)
-    print(f"PDF created: {OUTPUT_PDF}")
+    print(f"PDF créé : {OUTPUT_PDF}")
 
 
 if __name__ == "__main__":
