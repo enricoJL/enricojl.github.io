@@ -48,7 +48,7 @@ ARC = [
         "2024-03-24-debout.md",
         "2025-10-10-acceptance.md",
         "2026-02-07-guerison.md",
-        "2026-06-17-desir-ardent.md",
+        "2026-06-17-ardent-desir.md",
         "2026-06-20-probleme.md",
         "2021-02-04-assis-par-terre.md",
         "2021-03-05-je-reviens-a-la-vie.md",
