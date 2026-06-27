@@ -902,6 +902,23 @@ Le dernier jour de ma mission (au bout de deux ans) --- tous les missionnaires q
 
 *2026*
 
+### repartir
+
+repartir en mission rejoindre le monde  
+comme un escalier plus grand que soi  
+dont chaque marche est un visage  
+dans la conscience de l'autre  
+
+87 milles missionnaires à travers la planète  
+quelle force !  
+
+repartir pour faire partie d'un tout  
+la mission étant le véhicule  
+l'ascension du monde  
+la destinée
+
+*2026*
+
 ---
 
-*Le chemin de la présence — 40 poèmes*
+*Le chemin de la présence — 41 poèmes*

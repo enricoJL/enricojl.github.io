@@ -1019,9 +1019,28 @@ Les difficultés et la douleur m'ont forcé à réutiliser la canne au bout d'un
 Le dernier jour de ma mission (au bout de deux ans) --- tous les missionnaires qui retournaient chez eux mangeaient ensemble à la maison de mission où le président et sa famille habitaient --- je suis sorti après souper pour aller chercher mes Écritures laissées dans la caravane. Quand je suis descendu du véhicule, un éclair de douleur m'a paralysé soudainement à la hanche, et je suis tombé par terre sur la pelouse devant la maison. Je suis resté étendu sur le sol pendant un long moment, le temps de réaliser que mon dernier jour de mission marquait la fin de ma bénédiction.
 
 
+\newpage
+\vspace*{2cm}
+
+## repartir
+
+repartir en mission rejoindre le monde  
+comme un escalier plus grand que soi  
+dont chaque marche est un visage  
+dans la conscience de l'autre  
+
+87 milles missionnaires à travers la planète  
+quelle force !  
+
+repartir pour faire partie d'un tout  
+la mission étant le véhicule  
+l'ascension du monde  
+la destinée
+
+
 ---
 
 \newpage
 \vspace*{2cm}
 
-*Le chemin de la présence — 40 poèmes*
+*Le chemin de la présence — 41 poèmes*

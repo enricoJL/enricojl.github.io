@@ -63,6 +63,7 @@ ARC = [
         "2021-03-08-ou-sont-mes-reves.md",
         "2025-05-31-recommencer.md",
         "2026-06-16-offrande.md",
+        "2026-06-27-repartir.md",
     ]),
 ]
 
