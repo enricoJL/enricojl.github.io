@@ -913,6 +913,7 @@ dans la conscience de l'autre
 quelle force !  
 
 repartir pour faire partie d'un tout  
+l'oubli de soi comme vertu profonde  
 la mission étant le véhicule  
 l'ascension du monde  
 la destinée
