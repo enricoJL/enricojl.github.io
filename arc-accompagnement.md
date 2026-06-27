@@ -27,7 +27,7 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 - `dans-une-falaise`
 - `je-te-suivrai`
 - `dans-la-tempête`
-- `cahier`
+- `si-tu-passes` (*si tu passes par là* — l'invitation à entrer dans l'espace intérieur)
 
 ### II. La Descente dans la Nuit (L'Épreuve du Réel)
 *Je descends avec toi parce que je t'ai compris. Ce n'est plus seulement une épreuve partagée — c'est la conséquence directe de l'écoute : on entre dans l'abîme de l'autre parce qu'on a consenti à le voir.*
@@ -61,6 +61,7 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 - `decision`
 - `3-jours-de-jeune-dans-la-jungle-sur-lile-de-vancouver`
 - `loiseau-delicat`
+- `l'envol` (**Ajout**) — l'oisillon au MTC : *"Venu là pour apprendre à voler, il était temps de prendre aussi mon envol."* Le basculement en vocation.
 - `purification`
 - `résurrection`
 
@@ -74,14 +75,12 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 ### VI. La Réponse : La Métamorphose en Silence
 *La destination finale n'est pas un lieu, mais une disposition. On ne mène pas l'autre vers un rivage fixe, on lui apprend que la mer en a plusieurs. Le "tourbillon au centre de nous deux" devient le lieu de la création de mondes.*
 - `ce-qui-nous-arrive`
-- `de-passage`
-- `en-voyage`
 - `métamorphose`
 - `mes-amours` (Le cycle du désir)
-- `désir-ardent`
 - `ou-sont-mes-reves`
 - `recommencer` (Le cycle)
-- `offrande` (Prose)
+
+*Retirés → arc douleur :* `en-voyage` (transmutation par le mouvement, intérieure) ; `de-passage` (accumulation du bagage, remontée solitaire) ; `offrande` (acte solitaire vers le divin, Voie 3 — Offrande). `désir-ardent` reste en arc douleur [4-REMONTÉE].
 
 ---
 
@@ -93,7 +92,7 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 | `dans-une-falaise` | 2013-07-19 | *"Accepterais-tu de me suivre / dans une fissure d'Éden"* | forte |
 | `je-te-suivrai` | 2020-05-11 | *"Oui, je te suivrai / Je pars, et je suis prêt / Je viens car je t'aime, Seigneur"* | forte |
 | `dans-la-tempête` | 2024-12-15 | *"rester là sur la rive de l'autre / à espérer la lumière qui viendra un jour / la lueur provient des deux rivages"* | forte |
-| `cahier` | 2025-04-19 | *"je te garantis le repos / viens marcher entre les branches / reste ici / je te promets la paix"* | moyenne |
+| `si-tu-passes` | 2025-08-23 | *"si tu passes par là / dans mon cahier / tu trouveras / des perles au fond des mers"* | forte |
 
 ### ACCOMPAGNEMENT HUMAIN
 | Poème | Date | Vers clés | Force |
@@ -153,7 +152,6 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 | `ou-sont-mes-reves` | 2021-03-08 | *"Parce que je L’aime, j’ai accepté la métamorphose. J’ai décidé de disparaître."* | forte |
 | `recommencer` | 2025-05-31 | *"et recommencer encore"* | moyenne |
 | `désir-ardent` | 2026-06-17 | *"mon obstination refusant d'avoir mal / j'ai contemplé la fin"* | forte |
-| `offrande` | 2026-06-16 | *"J'ai donné ce jour-là ma douleur en offrande à Dieu."* | forte (prose) |
 
 ---
-*Dernière mise à jour : 2026-06-17*
+*Dernière mise à jour : 2026-06-26 — Ajout de L'envol (Section IV) ; retrait de en-voyage, de-passage, offrande vers arc douleur ; désir-ardent exclusif à arc douleur. Remplacement de cahier par si-tu-passes (Section I).*

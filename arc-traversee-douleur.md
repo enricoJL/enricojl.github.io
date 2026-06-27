@@ -6,7 +6,8 @@ Axe de réflexion poétique construit à partir des catégories **douleur** (200
 et **new** (2026). Après épuration des poèmes déjà sélectionnés dans l'arc philosophique
 **« entre l'image et la mer »** (`poems/arc-philosophique-image.md`).
 
-**47 poèmes distincts** positionnés sur un axe à cinq stations.
+**40 poèmes distincts** positionnés sur un axe à cinq stations.
+*(Mise à jour 2026-06-26 : 10 poèmes transférés exclusivement à l'arc accompagnement ; 3 nouveaux poèmes ajoutés : Confession (ex-Au-dessus des cimes), en-voyage, de-passage.)*
 
 ---
 
@@ -18,11 +19,11 @@ et **new** (2026). Après épuration des poèmes déjà sélectionnés dans l'ar
 
 | Station | Sens | Nombre |
 |---|---|---|
-| `[1-DESCENTE]` | On glisse, on tourne autour du bord, on tombe | **7** |
-| `[2-FOND]` | Immobilité, enlisement, le néant, le sans-issue | **11** |
+| `[1-DESCENTE]` | On glisse, on tourne autour du bord, on tombe | **6** |
+| `[2-FOND]` | Immobilité, enlisement, le néant, le sans-issue | **9** |
 | `[3-BASCULE]` | Le pivot — le fond devient source, on consent | **8** |
-| `[4-REMONTEE]` | Debout, le lien retrouvé, la douleur portée | **12** |
-| `[5-AUTRE-CÔTÉ]` | Transmutation accomplie — la souffrance nourrit | **9** |
+| `[4-REMONTEE]` | Debout, le lien retrouvé, la douleur portée | **10** |
+| `[5-AUTRE-CÔTÉ]` | Transmutation accomplie — la souffrance nourrit | **7** |
 
 **Forme du corpus : un sablier.** Le fond et la remontée sont les stations les plus
 peuplées. La sortie s'épaissit un peu (8 poèmes) grâce à l'épuration des doublons avec
@@ -59,17 +60,18 @@ de l'image et de la transparence qu'à celle de la douleur comme traversée auto
 
 ## La trajectoire, station par station
 
-### `[1-DESCENTE]` — le bord qui s'effrite (7)
+### `[1-DESCENTE]` — le bord qui s'effrite (6)
 On n'est pas encore tombé. On tourne autour, on glisse, on titube.
 **Spine :** `le gouffre` (le rebord nommé) → `y` (le seuil sans franchissement) →
-`funambule` (le fil au-dessus du vide) → `s'enliser` (la glissade silencieuse) →
-`tourbillon` (l'embarquement pour la dérive).
+`funambule` (le fil au-dessus du vide) → `tourbillon` (l'embarquement pour la dérive).
 
 > *cette plaie / ça pue tellement / je n'ai pas envie d'y entrer / mais j'en ai tant besoin* — `le gouffre`
 
 Autres : le-silence-des-pierres, insouciance.
 
-### `[2-FOND]` — le néant habité (12)
+*Retiré → accompagnement :* `s'enliser` (point de vue du témoin, pas du souffrant).
+
+### `[2-FOND]` — le néant habité (9)
 Le centre. Immobilité, perte des repères, peine innommable, invisibilité.
 **Spine :** `le puits` (l'archétype du gouffre) → `la-mort-à-petit-feu` (l'extinction
 lente) → `disparu` (l'effacement) → `anonyme` (la peine qui ne se nomme pas) →
@@ -77,30 +79,33 @@ lente) → `disparu` (l'effacement) → `anonyme` (la peine qui ne se nomme pas)
 
 > *j'ai l'impression d'être mort / depuis longtemps déjà* — `la-mort-à-petit-feu`
 
-Autres : au-pied-d'un-arbre, à-l'agonie, sans-appui, inassouvi,
-fracture, passager.
+Autres : au-pied-d'un-arbre, à-l'agonie, inassouvi, passager.
+
+*Retirés → accompagnement :* `sans-appui` (le cri du manque d'accompagnateur), `fracture` (regard du témoin absent).
 
 ### `[3-BASCULE]` — le pivot (8)
 Le cœur battant de l'arc. Le fond se retourne en source.
-**Spine :** `dans-la-tempête` (la tempête comme bascule) → `slap` (la gifle qui rend lucide) → 
+**Spine :** `Confession` (la vision divine → honte → premier acte de foi solitaire) → `slap` (la gifle qui rend lucide) →
 `blessure` (la vérité nue qui blesse) → `assainir` (le nettoyage volontaire)
 → `fixation` (le regard tourné, qui retourne).
 
-> *tout devient plus clair / après une gifle bien sentie* — `slap`
+> *Je décidai de me faire baptiser d'abord et de faire confiance à Jésus-Christ pour la suite. Ce fut mon premier acte de foi.* — `Confession`
 
 Autres : le-colporteur, la-mort-mon-handicap, dans-la-nuit.
+
+*Retiré → accompagnement :* `dans-la-tempête` (rester sur la rive de l'autre = geste relationnel, pas intérieur).
 
 ### `[4-REMONTÉE]` — debout, et avec l'autre (12)
 La douleur est nommée mais ne renverse plus. Le mouvement est ascendant — et il
 passe presque toujours par **le lien** : l'autre, l'héritage, le service, le ciel.
 **Spine :** `debout` (le mot-geste) → `acceptance` (sublimer, soupirer jusqu'aux
-étoiles) → `guérison` (nommer la douleur libère) → `désir ardent` (la douleur riée,
-sublimée — puis le corps qui revient) → `problème` (remonter à la source, ensemble).
+étoiles) → `désir ardent` (la douleur sublimée de l'intérieur) → `de-passage` (le bagage accumulé dans le mouvement des choses) → `problème` (remonter à la source, ensemble).
 
 > *ensemble nous remonterons à la source / et nous découvrirons ses causes racines* — `problème`
 
-Autres : assis-par-terre, je-reviens-à-la-vie, coma, intention, chambranlant,
-instabilité, femmes.
+Autres : assis-par-terre, je-reviens-à-la-vie, intention, chambranlant, instabilité.
+
+*Retirés → accompagnement :* `guérison` (la nomination par l'autre = acte relationnel), `coma` (l'urgence de réveiller l'autre), `femmes` (les mains tendues vers l'autre).
 
 ### `[5-AUTRE-CÔTÉ]` — la souffrance qui nourrit (9)
 La station de la transmutation. La douleur n'est plus subie ni même portée : elle est
@@ -109,12 +114,11 @@ La station de la transmutation. La douleur n'est plus subie ni même portée : e
 Quatre voies de sortie :
 
 **Voie 1 — Floraison** (la douleur devient beauté offerte) :
-- `la rose et son jardinier` — *des milliers d'étoiles sont sorties de toi*
 - `élixir` — la douleur collective transmutée en résistance et beauté
+- `en-voyage` — *comme un véhicule en mouvement / le paysage se métamorphose* : la traversée elle-même comme transmutation
 
-**Voie 2 — Passage / résurrection** (la perte devient porte ouverte) :
-- `résurrection` — *mourir / pour ressusciter un jour / de l'autre côté du monde*
-- `fenêtre ouverte` — le deuil transmuté en passage libre (*je laisse la fenêtre ouverte*)
+**Voie 2 — Passage** (la perte ouvre un espace nouveau) :
+*(Retirés → accompagnement : `la rose et son jardinier` — consolation reçue ; `résurrection` — mains tendues pour servir ; `fenêtre ouverte` — espace laissé pour l'autre)*
 
 **Voie 3 — Offrande / consentement** (la douleur devient don ou chute consentie) :
 - `Ma douleur en offrande` — la douleur physique devenue offrande sacrée
@@ -165,4 +169,4 @@ Dis-moi vers où.
 
 ---
 
-*Synthèse — 2026-06-20. Sources : catalogues A, B, C ; arc-philosophique-image.md.*
+*Synthèse — 2026-06-20. Mise à jour 2026-06-26 : 10 poèmes transférés exclusivement à l'arc accompagnement (senliser, fracture, sans-appui, coma, femmes, fenetre-ouverte, la-rose-et-le-jardinier, guerison, resurrection, dans-la-tempete) ; ajouts : Confession [3-BASCULE], de-passage [4-REMONTÉE], en-voyage [5-AUTRE-CÔTÉ]. Titre renommé : Au-dessus des cimes → Confession (2026-06-26).*

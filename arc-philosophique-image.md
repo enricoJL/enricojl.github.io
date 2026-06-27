@@ -8,7 +8,8 @@ Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler
 
 ---
 
-## Séquence complète — 43 poèmes, 34 ans
+## Séquence complète — 44 poèmes, 34 ans
+*(Mise à jour 2026-06-26 : ajout de `surprise` en Phase II.)*
 
 ### Phase I — Mirage 
 
@@ -32,7 +33,8 @@ Entre l'aveu (*j'embrassais mon mirage*) et la promesse (*jusqu'à te ressembler
 | 11 | Temple, fondements et babeurre | 2019 | **Théorie** — chacun au centre de son univers construit |
 | 12 | Passe-moi un film | 2020 | **Mise en scène** — soi comme personnage de son propre film |
 | 13 | De belles choses à dire | 2020-12 | **Clown** — la mascarade lucide avant la lucidité de la mascarade |
-| 14 | Mascarade | 2026-04 | **Lucidité** — je fais semblant sachant qui je suis vraiment |
+| 14 | Surprise | 2026-04-08 | **Confusion** — *"entre faire semblant et faire pour vrai / je ne fais pas la différence"* — la rechute dans l'image, l'incapacité à distinguer le réel du joué |
+| 15 | Mascarade | 2026-04 | **Lucidité** — je fais semblant sachant qui je suis vraiment |
 | 16 | Inquiétude | 2023-07 | **Choc** — la vérité blesse, le cœur chavire, la question est posée |
 | 17 | Le cœur a ses raisons | 2021 | **Crypte** — le désir ardent sous la cathédrale d'intentions |
 | 18 | Le choc des titans | 2021 | **Pivot** — les images prennent toute la place entre toi et moi |
