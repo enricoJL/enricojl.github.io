@@ -6,8 +6,7 @@ categories: "douleur"
 published: true
 ---
 
-je pense à lui  
-dans sa chambre  
+je pense à lui dans sa chambre  
 avec ses jouets  
 ses petits souliers...  
 
@@ -16,7 +15,7 @@ me parler doucement
 de sa voix claire  
 résiliente jusqu'à la mort  
 
-je laisse la fenêtre ouverte  
+et je laisse la fenêtre ouverte  
 à chaque nuit au clair de lune  
 afin qu’il puisse encore et encore  
 aller et venir  

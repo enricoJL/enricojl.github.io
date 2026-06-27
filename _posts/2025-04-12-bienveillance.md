@@ -5,25 +5,20 @@ date: "2025-04-12"
 categories: "relations"
 ---
 
-je te regarde  
-assise tranquille  
-au début de ta vie —  
+je te regarde assise tranquille  
+au début de ta vie  
 à observer  
 à douter  
 
-que s’est-il passé ?  
-tu as grandi  
-trop vite  
+que s’est-il passé ---  
+tu as grandi trop vite  
 
 vas-tu enfin déployer tes ailes ?  
 en comprends-tu assez pour t'envoler ?  
-
-dis-moi  
-as-tu assez confiance  
-en toi ?  
+dis-moi, as-tu assez confiance en toi ?  
 
 l'ai-je été suffisamment  
-bienveillant ?  
+bienveillant  
 
-l’es-tu assez pour toi  
-bienveillante ?
+l’es-tu assez toi-même  
+bienveillante  

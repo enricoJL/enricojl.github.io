@@ -8,12 +8,11 @@ categories: "amore"
 l'intimité  
 que je n'atteins pas toujours  
 que je ne vois pas  
-et que je n'entends même pas  
+que je n'entends même pas  
 
-c'est bien là pourtant  
+c'est bien là   
 dans le silence de nous deux  
-que l'intimité tout à coup  
-devient monde  
+qu'elle devient monde  
 
 et je le vois  
 ce monde immense qui se rapproche  
@@ -37,4 +36,4 @@ si infini...
 
 comment te garder près de moi dans mon cœur  
 dans mes os tous les jours à toutes les heures  
-comment te connaître profondément pour toujours ?  
+comment te connaître profondément pour toujours  

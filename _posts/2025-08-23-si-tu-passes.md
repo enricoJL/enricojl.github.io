@@ -7,12 +7,10 @@ published: true
 ---
 
 si tu passes par là  
-dans mon cahier  
 tu trouveras  
-
 des perles au fond des mers  
 des ruisseaux qui coulent  
-des fleurs qui éclosent  
+des fleurs  
 à tout moment dans l'année  
 des animaux sauvages  
 de toutes les sortes  

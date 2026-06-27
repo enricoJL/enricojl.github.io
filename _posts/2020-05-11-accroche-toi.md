@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "accroche-toi!"
+title: "accroche-toi"
 date: "2020-05-11"
 categories: "amore"
 ---
 
 accroche-toi  
 même si l'essoufflement nous gagne  
-même si le cœur nous échappe  
+même si la pensée nous échappe  
 même si notre espace se rétrécit  
 
 mes idées courent  
