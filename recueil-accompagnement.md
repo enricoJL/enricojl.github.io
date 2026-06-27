@@ -6,9 +6,15 @@
 
 ---
 
-> *Je marche à côté d'une joie*
-> *D'une joie qui n'est pas à moi*
-> — Hector de Saint-Denys Garneau, *Accompagnement*
+```{=latex}
+\vspace*{2cm}
+\begin{quote}
+\textit{Je marche à côté d'une joie} \\
+\textit{D'une joie qui n'est pas à moi} \\
+--- Hector de Saint-Denys Garneau, \textit{Accompagnement}
+\end{quote}
+\clearpage
+```
 
 
 ## I. L'appel
@@ -876,9 +882,7 @@ faire demi-tour
 baisser la tête  
 se mettre à genoux  
 
-et supplier  
-pour demander pardon  
-
+supplier pour demander pardon  
 et recommencer encore
 
 *2025*

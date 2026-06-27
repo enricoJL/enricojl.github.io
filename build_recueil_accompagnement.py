@@ -113,9 +113,15 @@ TITLE_PAGE = r"""
 
 """
 
-EPIGRAPH = """> *Je marche à côté d'une joie*
-> *D'une joie qui n'est pas à moi*
-> — Hector de Saint-Denys Garneau, *Accompagnement*
+EPIGRAPH = """```{=latex}
+\\vspace*{2cm}
+\\begin{quote}
+\\textit{Je marche à côté d'une joie} \\\\
+\\textit{D'une joie qui n'est pas à moi} \\\\
+--- Hector de Saint-Denys Garneau, \\textit{Accompagnement}
+\\end{quote}
+\\clearpage
+```
 
 """
 
