@@ -118,23 +118,33 @@ la lueur provient des deux rivages
 \newpage
 \vspace*{2cm}
 
-## dans ce cahier
+## si tu passes par là
 
-entaillées  
-dans la forêt de nos amours  
-ces pages  
-comme un escalier  
-jusqu’au centre de nous deux  
-dans la simplicité  
+si tu passes par là  
+dans mon cahier  
+tu trouveras  
 
-je te garantis le repos  
-viens marcher entre les branches  
-reste ici  
-je te promets la paix  
+des perles au fond des mers  
+des ruisseaux qui coulent  
+des fleurs qui éclosent  
+à tout moment dans l'année  
+des animaux sauvages  
+de toutes les sortes  
 
-comme un arbre dans un cahier  
-qui s’ouvre pour te rafraîchir  
-à l’ombre du temps
+des pensées  
+des sentiments  
+des soupirs excessifs  
+des feuillages expressifs  
+
+du jaune du bleu du rouge  
+un peu d'ombre par ci par là  
+
+orange soleil le soir  
+mauve éclatant le matin  
+vert sur toutes les pages  
+
+j'espère que tu ne te sentiras pas  
+trop perdu
 
 
 # II. La descente avec l'autre
