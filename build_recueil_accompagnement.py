@@ -12,17 +12,17 @@ OUTPUT_PDF = os.path.join(os.path.dirname(__file__), "LEVESQUE_Enrico_le_chemin_
 
 # Arc structure: (section title, [exact filenames])
 ARC = [
-    ("I. L'Appel et l'Engagement", [
+    ("I. L'appel", [
         "2013-07-19-dans-une-falaise.md",
         "2020-05-11-je-te-suivrai.md",
         "2024-12-15-dans-la-tempête.md",
         "2025-04-19-cahier.md",
     ]),
-    ("II. La Descente dans la Nuit", [
+    ("II. La descente avec l'autre", [
         "2023-06-04-coma.md",
         "2024-11-02-senliser.md",
         "2025-08-16-fracture.md",
-        "2013-07-20-si-fragile.md",
+        "2020-05-10-fragile.md",
         "2020-05-11-accroche-toi.md",
         "2025-03-25-solitudes.md",
         "2025-04-12-accompagnement.md",
@@ -32,7 +32,7 @@ ARC = [
         "2004-05-25-lintimite.md",
         "2025-03-22-givrés.md",
     ]),
-    ("III. La Main qui Relève", [
+    ("III. La consolation", [
         "2024-12-15-sans-appui.md",
         "2020-05-11-la-rose-et-le-jardinier.md",
         "2020-05-15-ma-lumiere.md",
@@ -41,28 +41,26 @@ ARC = [
         "2013-07-20-au-pied-dun-arbre.md",
         "2024-03-24-tombe.md",
     ]),
-    ("IV. La Transmutation", [
+    ("IV. La transmutation", [
         "2020-09-12-le-soleil-sest-leve.md",
         "2025-03-29-langage-des-racines.md",
         "2024-05-11-decision.md",
         "2014-10-05-3-jours-de-jeune-dans-la-jungle-sur-lile-de-vancouver.md",
         "2020-08-20-loiseau-delicat.md",
+        "2023-02-04-envol.md",
         "2025-04-13-purification.md",
         "2025-04-05-resurrection.md",
     ]),
-    ("V. L'Ouverture", [
+    ("V. L'inspiration", [
         "2023-03-04-tendre-vers-lautre.md",
         "2026-04-20-miracle.md",
         "2023-01-27-au-bon-moment.md",
         "2024-09-29-a-table.md",
     ]),
-    ("VI. La Métamorphose en Silence", [
+    ("VI. La réponse", [
         "2013-08-18-ce-qui-nous-arrive.md",
-        "2021-02-13-de-passage.md",
-        "2021-02-13-en-voyage.md",
         "2020-05-29-metamorphose.md",
         "2023-05-15-mes-amours.md",
-        "2026-06-17-desir-ardent.md",
         "2021-03-08-ou-sont-mes-reves.md",
         "2025-05-31-recommencer.md",
         "2026-06-16-offrande.md",

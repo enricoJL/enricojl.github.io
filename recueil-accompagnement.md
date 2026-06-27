@@ -11,7 +11,7 @@
 > — Hector de Saint-Denys Garneau, *Accompagnement*
 
 
-## I. L'Appel et l'Engagement
+## I. L'appel
 
 ### Dans une falaise
 
@@ -57,7 +57,7 @@ retentissent dans mes pensées
 ### dans la tempête
 
 pendant longtemps malgré la peur  
-rester là sur la rive de l'autre  
+rester là sur le rivage de l'autre  
 à espérer la lumière qui viendra un jour  
 
 de soi vers l'autre et de l'autre à soi  
@@ -86,49 +86,40 @@ qui s’ouvre pour te rafraîchir
 
 *2025*
 
-## II. La Descente dans la Nuit
+## II. La descente avec l'autre
 
 ### coma
 
-mon frère se trouve dans le coma  
-depuis fort longtemps  
+mon frère est toujours dans le coma  
+il ne s'arrête plus de rêver  
 
-qu’est-ce qui le fait tant dormir   
-ça fait si longtemps qu'il rêve   
-qu’est-ce qui fait qu'il est toujours   
-si profondément endormi    
-
-quelqu’un va-t-il le réveiller   
-
-il est arrivé quelque chose   
-quelque chose de grave   
+il lui est arrivé quelque chose de grave   
 un traumatisme transcendantal   
 un blocage total   
-pas normal   
 
-qu’est-ce que je peux faire pour le réveiller   
+prisonnier de son imagination   
+il dort dans un monde parallèle   
+le rêve l’a emporté   
 
-prisonnier de son imagination débordante   
-il s'est créé un monde parallèle   
-et le rêve l’a emporté complètement   
-
-il a perdu tout contact avec la réalité    
-ses sentiments, déconnectés   
-ses émotions, piégées là-bas   
-impossible de les rejoindre   
+on a perdu tout contact avec lui  
+ses sentiments déconnectés   
+ses émotions piégées là-bas   
+impossible de le rejoindre   
 
 mais comment faire pour le réveiller   
 
-il faut trouver le moyen d’entrer profondément   
-à travers un canal de l’autre monde   
-et parler, pour dire, avec autorité :   
-allez ! debout ! lève-toi, rêveur, participe !   
+faut-il trouver le moyen d’entrer   
+à travers un canal d'un autre monde   
+et lui dire avec autorité :   
+
+allez ! debout ! lève-toi, rêveur, participe   
 le monde ici aussi en vaut la peine
 
 *2023*
 
 ### s'enliser
 
+submergé d’inquiétude  
 peser sur l'autre  
 et souffrir en silence  
 
@@ -137,9 +128,6 @@ cogner sur l’enclume
 à répétition  
 
 voir l’autre s’enliser  
-sans issue  
-submergée d’inquiétude  
-
 et sombrer avec elle  
 sans pouvoir rien y faire
 
@@ -147,56 +135,57 @@ sans pouvoir rien y faire
 
 ### fracture
 
-je suis resté là  
-à pleurer  
-dans la douleur  
-l'incompréhension  
-et la honte  
+je suis resté là à pleurer  
+pendant des heures  
+dans l'incompréhension et la honte  
 
-<< ça ira mieux >>  
-je me suis dit  
-dans ma fuite  
+ça ira mieux  
+je me suis dit dans ma fuite  
+sans moi à la maison  
 
-<< sans moi  
-à la maison >>  
-
-mais  
-tout s'est écroulé  
-
-sans moi  
-à la maison
+mais tout s'est écroulé  
+sans moi à la maison
 
 *2025*
 
-### si fragile
+### fragile
 
-au milieu de nous deux  
-entre nos sourires discrets  
-soudain s’est levé le soleil  
-et toute la lumière avec lui  
+les esprits *fragiles*  
+les cœurs *fragiles*  
 
-rien entre nous qui nous sépare  
-autre que l’espace entre nous  
-rempli d’intimité  
+l'entendement *fragile*  
+la communication *fragile*  
+la communion *fragile*
 
-entre nous  
-ce lieu commun  
-ce château fort  
-qui nous isole du reste du monde  
+nos regards *fragiles*  
+nos paroles *fragiles*  
+nos mains *fragiles*
 
-et pourtant  
-un rien pourrait l’anéantir  
+nos sentiments *fragiles*  
+nos émotions *fragiles*  
+nos appétits *fragiles*
 
-il suffit d’un geste las  
-d’une parole irréfléchie  
-ou d’un regard trop flou  
-pour étendre la nuit  
-et faire mourir le soleil  
+la joie *fragile*  
+la peur *fragile*  
+l'espoir *fragile*  
 
-et le silence devient soudain  
-vide de rien
+par contre, l'engagement, lui  
+comme une fibre torsadée  
+avec des milliers d'autres fibres  
+ajoutées de jour en jour ---  
 
-*2013*
+notre engagement  
+*fragile* aussi en son temps  
+mais fort de ces temps-là
+
+où ton sourire *fragile*  
+venu se blottir  
+dans mon cœur *fragile*  
+y trouva le bonheur  
+
+*infaillible*
+
+*2020*
 
 ### accroche-toi!
 
@@ -295,46 +284,43 @@ bienveillante ?
 
 ### Femmes parmi les femmes
 
-Nous attendrons patiemment, à l’extérieur du mur érigé pour nous tenir à l’écart — femmes exilées, en marge d’une société dirigée par des hommes assoiffés de sang.
+Nous attendons patiemment à l’extérieur du mur érigé pour nous tenir à l’écart — femmes exilées, en marge d’une société dirigée par des hommes assoiffés de sang.
 
-Nous avons subi des sévices multiples, écouté les plaintes, essuyé les abus. Nous avons rêvé d’un autre monde, couchées dans nos chambres, ou debout dehors, avec nos enfants près de nous, jouant avec eux pour alléger la souffrance, espérant qu’un jour meilleur viendrait, avant qu’il ne soit trop tard, avant la fin du monde.
+Nous avons subi des sévices multiples, écouté les plaintes, essuyé les abus. Nous avons rêvé d’un autre monde, couchées dans nos chambres, ou dehors, avec nos enfants près de nous, jouant avec eux pour alléger la souffrance, espérant qu’un jour meilleur viendrait, avant qu’il ne soit trop tard... avant la fin du monde.
 
-Nous avons veillé sur nos parents, pansé les blessures, consolé les malheureux. Nous avons pleuré nos peines et dormi avec le mal à nos côtés, dans l’angoisse des prochaines attaques, à surveiller... à aimer malgré tout... jusqu’à nous attendrir.
+Nous avons veillé sur nos parents, et nos amis, pansé les blessures, consolé les malheureux. Nous avons pleuré nos peines et dormi avec le mal à nos côtés, dans l’angoisse des prochaines attaques, à surveiller... à aimer malgré tout... jusqu’à nous attendrir.
 
-Nous avons gravé notre histoire sur les tablettes de nos cœurs et aimé l'homme jusqu’à le laisser entrer dans nos ventres, jusqu’à le faire jaillir de nos reins. Nous avons offert nos corps pour enfanter l’humanité, et nous espérons pour elle toutes les belles attentions dont nos mères nous ont témoignées.
+Nous avons gravé notre histoire sur les tablettes de nos cœurs et aimé les hommes jusqu’à les laisser entrer dans nos ventres, jusqu’à les faire jaillir de nos reins. Nous avons offert nos corps pour enfanter l’humanité, et nous espérons pour elle toutes nos belles attentions.
 
-Notre histoire est celle de notre résistance, de notre espérance, de nos rêves et de nos mains tendues. Nous avons nourri, embrassé, chéri nos enfants. Nous les avons regardés jouer dans les prairies, escalader les montagnes, et redescendre vers les villes. Nous les avons observés, corrigés, et nous espérons pour eux le meilleur de nos vies, le meilleur de nos pensées, le meilleur de nos rêves.
+Notre histoire est celle de notre résistance, de notre espérance, de nos rêves et de nos mains tendues. Nous avons nourri, embrassé et chéri nos enfants. Nous les avons regardés jouer dans les prairies, gravir les montagnes, et redescendre vers les villes. Nous les avons observés, corrigés, et nous espérons pour eux le meilleur de nos vies, le meilleur de nos pensées, le meilleur de nos rêves.
 
-L’humanité que nous avons enfantée nous a été enlevée. Le mensonge, la cupidité et l’avarice nous l'a volée. Mais nous gardons espoir qu’elle nous reviendra un jour, même dans la souffrance, le malheur ou la mort.
+L’humanité que nous avons enfantée nous a été enlevée. Le mensonge, la cupidité et l’avarice nous l'ont volée; mais nous gardons espoir qu’elle nous reviendra un jour --- dans le malheur, la souffrance ou la mort.
 
-Nous vous avons donné en cadeaux notre dévouement, notre générosité, notre tendresse — à vous, nos enfants — et nous vous avons observés grandir. Nous vous avons portés en notre sein... et nous continuerions jusqu’à nous laisser mourir de fatigue et d’épuisement, s’il le fallait.
+Nous vous avons donné notre dévouement, notre générosité, notre tendresse — à vous, nos enfants — et nous vous avons observés grandir. Nous vous avons portés en notre sein... et nous continuerions jusqu’à nous laisser mourir de fatigue et d’épuisement, s’il le fallait.
 
-Nous sommes femmes parmi les femmes, mères parmi les mères, témoins de vos vies et de vos morts — vous, nos enfants, malheureux dans ce monde étrange, devenus tels que nous ne l’avons jamais voulu.
+Nous sommes femmes parmi les femmes, mères parmi les mères, témoins de votre vie et de votre mort — vous, nos enfants, malheureux dans ce monde étrange, devenus tels que nous ne l’avons jamais voulu.
 
-Ne nous accusez pas de vos malheurs, car si l’histoire avait été écrite de nos mains, au lieu de notre sang, il en aurait été tout autrement.
+Ne nous accusez pas de vos malheurs, car si l’histoire avait été écrite de nos mains (au lieu de notre sang), il en aurait été tout autrement.
 
-Sachez, ô hommes, que vous nous reviendrez assurément, puisque nous retournerons tous et toutes, un jour ou l’autre, d’où nous sommes venus.
+Sachez, ô hommes, que vous nous reviendrez assurément, puisque nous retournerons tous, un jour ou l’autre, d’où nous sommes venus.
 
 *2025*
 
 ### fenêtre ouverte
 
-dans sa chambre  
 je pense à lui  
+dans sa chambre  
 avec ses jouets  
 ses petits souliers...  
 
 je l'entends encore  
 me parler doucement  
 de sa voix claire  
-résiliante jusqu'à la mort  
+résiliente jusqu'à la mort  
 
 je laisse la fenêtre ouverte  
-à chaque nuit  
-au clair de lune  
-
-afin qu’il puisse  
-encore et encore  
+à chaque nuit au clair de lune  
+afin qu’il puisse encore et encore  
 aller et venir
 
 *2025*
@@ -397,7 +383,7 @@ le temps s’endort dans un éclat blanc
 
 *2025*
 
-## III. La Main qui Relève
+## III. La consolation
 
 ### sans appui
 
@@ -424,42 +410,38 @@ rien à s'accrocher
 
 *2024*
 
-### la rose et son jardinier
+### la rose et le jardinier
 
-le jardinier a pris la rose  
-et l’a gardée longtemps près de lui  
+le jardinier prit la rose  
+la garda longtemps près de lui  
 très longtemps  
 avant de la laisser dehors  
-dans son jardin  
+dans le jardin  
 
-il l’a arrosée  
-il l’a nourrie  
-et il l’a réchauffée la nuit  
+il l’arrosa  
+il la nourrit  
+il la réchauffa la nuit  
 quand elle pleurait à cause du froid  
 quand ses épines se tournaient vers elle  
-tellement le froid lui faisait mal  
 tellement la nuit lui faisait peur  
+tellement le froid lui faisait mal  
 
-longtemps, vraiment  
+longtemps vraiment  
 très très longtemps  
-il lui a semblé, à la rose  
-le temps qu’elle est restée là  
+il lui sembla à la rose  
+le temps qu’elle resta là  
 sans son jardinier  
 sans la chaleur du jour  
 sans la douceur de l’été  
 
-puis un jour, elle a fleuri  
-et des petits amours sont sortis d’elle  
-entre les ronces et les épines  
-des milliers de petites fleurs  
-des petits soleils parfumés  
-qu’on voudrait croquer  
+puis un jour elle a fleuri  
+des petites amours sorties d’elle par milliers  
+des petits soleils parfumés qu’on voudrait croquer  
 
-et le jardinier, fier de son œuvre  
-avec toute son admiration, lui a dit :  
-
+et le jardinier, tout fier de son oeuvre  
+avec toute son admiration, lui dit :  
 « Vois comme tu es belle :  
-des milliers d’étoiles sont sorties de toi »
+des milliers d’étoiles sont sorties de toi. »
 
 *2020*
 
@@ -516,35 +498,32 @@ mon cœur alors veut exploser jusqu’au soir !
 
 en mettant le doigt dessus  
 la docteure m'a libéré   
-la douleur vive  
-m'a révélé son nom  
 
-mieux la connaître  
-enfin  
+la douleur m'a révélé son nom  
+
+mieux la connaître enfin  
 me permet d’envisager  
-
 guérir à chaque pas
 
 *2026*
 
-### Au pied d'un arbre
+### au pied d'un arbre
 
-Au pied d'un arbre, dans un jardin  
-Un homme, et mille ans de vie  
+au pied d'un arbre dans un jardin  
+un homme et mille ans de vie  
 
-Des larmes coulent à flots sur son visage  
-Ses yeux, bien enfoncés dans une terre invisible  
-Il voit plus clair, de tout son cœur  
+des larmes coulent à flots sur son visage  
+ses yeux bien enfoncés dans une terre invisible  
+il voit plus clair de tout son cœur  
 
-Une puissance s'est déposée sur ses épaules  
-Il porte des peines qu'il ne connaissait pas  
-Des souffrances qu'il ne pensait pas lui appartenir  
+une puissance s'est déposée sur ses épaules  
+il porte des peines qu'il ne connaissait pas  
+des souffrances qu'il ne savait pas lui appartenir  
 
-Rendu au bout tout à fait du voyage  
-Son âme s'est éclatée  
-
-Elle gît au pied d'un arbre  
-Et mille ans de vie ornent ses pensées
+rendu au bout tout à fait du voyage  
+son âme s'est éclatée  
+elle gît au pied d'un arbre  
+et mille ans de vie ornent ses pensées
 
 *2013*
 
@@ -569,7 +548,7 @@ ton œuvre
 
 *2024*
 
-## IV. La Transmutation
+## IV. La transmutation
 
 ### Le soleil s'est levé
 
@@ -694,6 +673,35 @@ c’est le bonheur qui fait son nid
 
 *2020*
 
+### L'envol
+
+Le dernier soir de mon entraînement missionnaire<sup>*</sup>, un petit oiseau jaillit soudain d’un buisson devant moi, très jeune et complètement désorienté.
+
+Dans son envolée titubante, obstrué par le toit qui couvrait l’allée bondée de passants dans laquelle il s’était engouffré, à tâtons sous le ciel, il cherchait une issue, un refuge pour fuir la confusion.
+
+Téméraire, il se dirigeait dangereusement vers le bâtiment où je me trouvais.
+
+J’étais en train d’ouvrir la porte du pavillon et j'attendais mes compagnons. L’apercevant venir vers moi, je levai instinctivement le pied pour lui barrer le passage, laissant la porte se refermer lentement derrière moi.
+
+À bout de souffle, il s’affaissa sur le dessus de mon soulier. Je le regardai, surpris. Il me fixa, l’air affolé.
+
+Je lui demandai : « Mais qu’est-ce que tu fais là ? »  
+
+Il resta-là un moment, immobile, à me regarder avec ses grands yeux noirs...
+
+Puis il s’envola, toujours vacillant dans les airs.
+
+--- « *This is the weirdest thing I’ve ever seen!* », s’exclama quelqu’un derrière moi.
+
+Venu là pour apprendre à voler, oisillon insolite moi-même, il était temps de prendre aussi mon envol.
+
+
+
+__  
+<sup>* Au *Missionary Training Center* (Provost, Utah, USA) </sup>
+
+*2023*
+
 ### purification
 
 laisse-la venir  
@@ -732,13 +740,13 @@ servir autrui
 les mains tendues  
 pour apaiser le feu  
 
-mourir  
+et mourir  
 pour ressusciter un jour  
 de l'autre côté du monde
 
 *2025*
 
-## V. L'Ouverture
+## V. L'inspiration
 
 ### tendre vers l'autre
 
@@ -819,7 +827,7 @@ le déjeuner était déjà prêt
 
 *2024*
 
-## VI. La Métamorphose en Silence
+## VI. La réponse
 
 ### ce qui nous arrive
 
@@ -846,31 +854,6 @@ qu’on le veuille ou non
 
 *2013*
 
-### de passage
-
-à l’intérieur de mes pensées  
-j’accumule tout un bagage  
-laissé là par le mouvement des choses  
-dans leur voyage en passant chez moi
-
-*2021*
-
-### en voyage
-
-les pensées dans le monde  
-provoquent le mouvement des choses  
-
-mais même si les choses passent  
-les pensées restent  
-bien ancrées  
-
-comme un véhicule en mouvement  
-dans lequel on se réfugie  
-alors que tout autour  
-le paysage se métamorphose
-
-*2021*
-
 ### métamorphose
 
 au centre de nous deux  
@@ -892,33 +875,6 @@ auprès de mes amours
 mes désirs m'y ramènent toujours
 
 *2023*
-
-### désir ardent
-
-marcher malgré tout  
-quinze années de souffrance  
-pour des niaiseries  
-que tu m'as laissé faire  
-
-j'ai désiré marcher pour toi  
-pendant deux ans de plus  
-malgré ma condition  
-
-j'ai repris la canne à la main  
-comme une offrande à Dieu  
-je riais de ma souffrance  
-sublimée dans ma prière  
-mon obstination refusant d'avoir mal  
-
-jusqu'au dernier jour  
-en un éclair  
-où la douleur aiguë m'a frappé de nouveau  
-
-dans un effondrement soudain  
-sur le sol  
-j'ai contemplé la fin
-
-*2026*
 
 ### Où sont mes rêves ?
 
@@ -955,26 +911,26 @@ et recommencer encore
 
 ### Ma douleur en offrande
 
-Dans ma jeunesse, lorsque venait le temps d'aider quelqu'un financièrement, je comparais toujours le montant que je m'apprêtais à donner au prix d'une caisse de bière. Je me disais que si j'acceptais de dépenser cet argent pour m'amuser, je pouvais aussi bien prendre un montant équivalent pour aider quelqu'un dans le besoin. J'appliquais ce principe pour justifier mon désir d'aider. 
+Lorsque venait le temps d'aider quelqu'un financièrement dans ma jeunesse, je comparais toujours le montant que je m'apprêtais à donner au prix d'une caisse de bière. Je me disais que si j'acceptais de dépenser cet argent pour m'amuser, je pouvais aussi bien prendre un montant équivalent pour aider quelqu'un dans le besoin. J'appliquais ce principe pour justifier mon désir d'aider. 
 
 Je revenais du travail le jour où j'ai pris la décision de partir en mission. Les déplacements dans le métro de Montréal ont toujours été pour moi un défi à cause des longs corridors interminables. Les stations de métro sont construites pour accommoder les trains, pas les gens — surtout pas ceux qui, comme moi, ont du mal à marcher. Ce jour-là, quand je suis arrivé au coin de la rue De La Roche, après être descendu de l'autobus qui longe la rue Laurier, à peine avais-je franchi le coin que ma hanche s'est mise à me faire très mal, tellement que je devais m'appuyer sur les clôtures le long du trottoir entre Laurier et Saint-Joseph pour éviter de m'écrouler.
 
 La distance entre l'arrêt d'autobus et l'immeuble où j'habitais sur De La Roche fait environ 140 mètres, mais je n'arrivais pas à m'y rendre. J'avais lancé ma canne au bout de mes bras quelques jours avant ce moment décisif.
 
-C'est à ce moment-là, paralysé par une douleur aiguë, que je me suis mis à prier mon Dieu : « Ô mon Père, laisse-moi partir en mission! J'ai marché pendant quinze sur une hanche disloquée à faire des niaiseries, sans but, sans directions; je peux bien prendre deux ans de ma vie à marcher pour toi. La douleur ne me dérange pas, pourvu que je puisse te servir. Je te dois bien ça. » Ayant reçu de l'Esprit la confirmation que je partirais, je me suis traîné jusqu'à la maison. J'avais obtenu l'assurance que je désirais. J'ai donné ce jour-là ma douleur en offrande à Dieu.
+C'est à ce moment-là, paralysé par la douleur aiguë, que je me suis mis à prier mon Dieu : « Ô mon Père, laisse-moi partir en mission! J'ai marché pendant quinze ans sur une hanche disloquée à faire des niaiseries, sans but, sans directions; je peux bien prendre deux ans de ma vie à marcher pour toi. La douleur ne me dérange pas. Je te dois bien ça. » Ayant reçu de l'Esprit la confirmation que je partirais, je me suis traîné jusqu'à la maison. J'ai donné ce jour-là ma douleur en offrande à Dieu.
 
-Quelques années plus tard, au centre d'entraînement des missionnaires de Provost aux États-Unis, mon président de branche m'a demandé pourquoi j'avais décidé de faire une mission. Au moment où j'allais dire que mon attachement à Jésus‑Christ me poussait à le servir, j'ai pensé à sa bonté envers moi; sachant que c'était la source de mon dévouement — puisqu'il m'a aimé le premier à travers les missionnaires qui m'ont enseigné, les membres de ma paroisse et le Saint-Esprit — et c'est ainsi que je lui ai répondu.
+Plus tard, au centre d'entraînement des missionnaires de Provost aux États-Unis, mon président de branche m'a demandé pourquoi j'avais décidé de faire une mission. Au moment où j'allais dire que mon attachement à Jésus‑Christ me poussait à le servir, je me suis mis à penser plutôt à sa bonté envers moi; sachant que c'était la source de mon dévouement --- puisqu'il m'a aimé le premier --- j'ai répondu tout simplement que j'avais décidé de servir parce que le Christ m'aimait.
 
-Un peu plus tard, un médecin du centre m'auscultait pour clarifier ma condition de santé. Je me souviens de la surprise dans son regard lorsqu'il a mis le doigt sur ma tendinite aiguë. Il a exprimé son doute par rapport à ma capacité de faire du vélo. Je lui ai dit que je pouvais certainement. J'avais peur qu'on me renvoie à la maison à cause de mon handicap; mon regard devait avoir l'expression de quelqu'un qu'on met au défi. Et pourtant, je ne mentais pas. J'ai fait du vélo chaque année depuis le premier printemps après l'accident que j'ai eu à l'âge de sept ans. Au contraire, le vélo m'a permis d'avoir plus de mobilité.
+Un peu plus tard, un médecin du centre m'auscultait pour clarifier ma condition de santé. Je me souviens de la surprise dans son regard lorsqu'il a mis le doigt sur ma tendinite aiguë. Il a exprimé son doute par rapport à ma capacité de faire du vélo. Je lui ai dit que je pouvais certainement; j'avais peur qu'on me renvoie à la maison à cause de mon handicap. Et pourtant, je ne mentais pas. J'ai fait du vélo chaque année depuis le premier printemps après l'accident que j'ai eu à l'âge de sept ans. Au contraire, le vélo m'a permis de garder une certaine mobilité.
 
-On m'a laissé partir au champ de mission avec la directive de toujours me permettre d'utiliser une voiture. Je me suis procuré un vélo dès les premiers quartiers où j'ai servi; je l'ai gardé plusieurs mois, jusqu'à ce que je trouve quelqu'un qui en avait plus besoin que moi.
+On m'a laissé partir en mission. Je me suis procuré un vélo. Je l'ai gardé plusieurs mois, jusqu'à ce que je trouve quelqu'un qui en avait plus besoin que moi.
 
-Les difficultés et la douleur m'ont forcé à réutiliser la canne au bout d'un an. À cette époque, lors d'une discussion avec un frère affligé par un type d'arthrite très rare et très douloureux, je me vantais que je pouvais marcher en mission par la grâce de Dieu, sans trop de douleur, même avec ma hanche et mon handicap. Il m'a dit alors affectueusement : « *Wait until you come back home. It's not going to last forever.* »
+Les difficultés et la douleur m'ont forcé à réutiliser la canne au bout d'un an. À cette époque, lors d'une discussion avec un frère affligé par un type d'arthrite très rare et très douloureux, je me vantais que je pouvais marcher par la grâce de Dieu, sans trop de douleur, même avec ma hanche et mon handicap. Il m'a dit alors affectueusement : « *Wait until you come back home. It's not going to last forever.* »
 
-Le dernier jour de ma mission (au bout de deux ans) --- tous les missionnaires qui retournaient chez eux étaient invités à manger à la maison de mission où le président et sa famille habitaient --- je suis sorti après souper pour aller chercher mes Écritures laissées dans la caravane. Quand je suis descendu du véhicule, un éclair de douleur m'a paralysé soudainement à la hanche, et je suis tombé par terre sur la pelouse devant la maison. Je suis resté étendu sur le sol pendant un long moment, le temps de réaliser que mon dernier jour de mission marquait la fin de ma bénédiction.
+Le dernier jour de ma mission (au bout de deux ans) --- tous les missionnaires qui retournaient chez eux mangeaient ensemble à la maison de mission où le président et sa famille habitaient --- je suis sorti après souper pour aller chercher mes Écritures laissées dans la caravane. Quand je suis descendu du véhicule, un éclair de douleur m'a paralysé soudainement à la hanche, et je suis tombé par terre sur la pelouse devant la maison. Je suis resté étendu sur le sol pendant un long moment, le temps de réaliser que mon dernier jour de mission marquait la fin de ma bénédiction.
 
 *2026*
 
 ---
 
-*Le chemin de la présence — 43 poèmes*
+*Le chemin de la présence — 41 poèmes*
