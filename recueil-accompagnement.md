@@ -19,41 +19,41 @@
 
 ## I. L'appel
 
-### Dans une falaise
+### dans une falaise
 
-Accepterais-tu de me suivre  
+accepterais-tu de me suivre  
 dans une fissure d'Éden  
 entourée de rosiers sauvages  
 
-Si je marchais dans une clarté mauve  
+si je marchais dans une clarté mauve  
 vers des éclipses encore vierges  
 dans un ruisseau clair et dense  
 
-Si je t'appelais par une brise dérobée  
+si je t'appelais par une brise dérobée  
 au creux enrobé d'un doux parfum  
 frais comme du sel indigène  
 
-Accepterais-tu de me suivre  
+accepterais-tu de me suivre  
 où que j'aille dans ce jardin  
 sur des chantiers abrupts  
 
 comme une falaise enracinée sur un terrain vague  
-qui tombe au détour cursif vers l'amour
+qui tombe au détour cursif à l'amour
 
 *2013*
 
-### Je te suivrai
+### je te suivrai
 
-Oui, je te suivrai  
-Je pars, et je suis prêt  
-Je viens car je t'aime, Seigneur  
+oui, je te suivrai  
+je pars, et je suis prêt  
+je viens car je t'aime, Seigneur  
 et tu vis dans mon cœur :  
 tout mon sang coule pour toi  
 
 Seigneur, mon Dieu  
 j'ai hâte à chaque matin  
 d'accueillir ta lumière  
-En ouvrant ma fenêtre  
+en ouvrant ma fenêtre  
 ta lumière vient dans ma chambre  
 et des chants glorieux  
 retentissent dans mes pensées
@@ -75,12 +75,10 @@ la lueur provient des deux rivages
 ### si tu passes par là
 
 si tu passes par là  
-dans mon cahier  
 tu trouveras  
-
 des perles au fond des mers  
 des ruisseaux qui coulent  
-des fleurs qui éclosent  
+des fleurs  
 à tout moment dans l'année  
 des animaux sauvages  
 de toutes les sortes  
@@ -106,24 +104,23 @@ trop perdu
 
 ### coma
 
-mon frère est toujours dans le coma  
+mon frère est dans le coma  
 il ne s'arrête plus de rêver  
-
-il lui est arrivé quelque chose de grave   
+quelque chose de grave est arrivée  
 un traumatisme transcendantal   
 un blocage total   
 
 prisonnier de son imagination   
 il dort dans un monde parallèle   
-le rêve l’a emporté   
+le rêve l’a emporté complètement   
 
 on a perdu tout contact avec lui  
 ses sentiments déconnectés   
 ses émotions piégées là-bas   
 impossible de le rejoindre   
 
-mais comment faire pour le réveiller   
-
+mais comment faire pour le réveiller ?  
+ 
 faut-il trouver le moyen d’entrer   
 à travers un canal d'un autre monde   
 et lui dire avec autorité :   
@@ -186,14 +183,13 @@ la peur *fragile*
 l'espoir *fragile*  
 
 par contre, l'engagement, lui  
-comme une fibre torsadée  
-avec des milliers d'autres fibres  
-ajoutées de jour en jour ---  
+se renforce de jour en jour  
+fibre après fibre  
+en une corde torsadée  
 
 notre engagement  
 *fragile* aussi en son temps  
-mais fort de ces temps-là
-
+mais fort de ces temps-là  
 où ton sourire *fragile*  
 venu se blottir  
 dans mon cœur *fragile*  
@@ -203,11 +199,11 @@ y trouva le bonheur
 
 *2020*
 
-### accroche-toi!
+### accroche-toi
 
 accroche-toi  
 même si l'essoufflement nous gagne  
-même si le cœur nous échappe  
+même si la pensée nous échappe  
 même si notre espace se rétrécit  
 
 mes idées courent  
@@ -224,31 +220,30 @@ j'y reviens toujours
 
 *2020*
 
-### solitudes partagées
+### solitudes
 
 deux grandes solitudes  
 assises l'une à côté de l'autre  
+le silence aux aguets  
 
 face au jour qui s'efface  
 leurs regards se fondent  
-dans un horizon partagé ---  
-le silence aux aguets  
-main dans la main  
+dans un horizon partagé  
 
+main dans la main  
 elles traversent le temps  
 comme des ombres furtives  
-sur le fil de l’attente ---  
-angoisses retenues  
-entre leurs doigts crispés  
+sur le fil de l’attente 
 
+entre leurs doigts crispés  
 elles sentent sous la peau  
 les battements sourds  
-d’un amour qui se tait ---  
+d’un amour qui se tait  
 mais ne s’éteint jamais
 
 *2025*
 
-### accompagnement
+### confidences
 
 dans la fatigue du soir  
 sur le sentier des amours  
@@ -258,63 +253,52 @@ elle me couvre de confidences
 pour résister à la nuit  
 qui vient toujours  
 
---- prendras-tu encore ma main  
-pour traverser la pénombre ?  
-
-mon cœur  
-dans ta main  
-pour toujours  
-
---- bien sûr  
-je t’accompagne  
-jusqu’à l'aube
+prendras-tu encore ma main  
+pour traverser la pénombre  
+mon cœur placé dans ta main  
+je t’accompagne jusqu’à l'aube
 
 *2025*
 
 ### bienveillance
 
-je te regarde  
-assise tranquille  
-au début de ta vie —  
+je te regarde assise tranquille  
+au début de ta vie  
 à observer  
 à douter  
 
-que s’est-il passé ?  
-tu as grandi  
-trop vite  
+que s’est-il passé ---  
+tu as grandi trop vite  
 
 vas-tu enfin déployer tes ailes ?  
 en comprends-tu assez pour t'envoler ?  
-
-dis-moi  
-as-tu assez confiance  
-en toi ?  
+dis-moi, as-tu assez confiance en toi ?  
 
 l'ai-je été suffisamment  
-bienveillant ?  
+bienveillant  
 
-l’es-tu assez pour toi  
-bienveillante ?
+l’es-tu assez toi-même  
+bienveillante
 
 *2025*
 
-### Femmes parmi les femmes
+### Femmes parmi femmes
 
-Nous attendons patiemment à l’extérieur du mur érigé pour nous tenir à l’écart — femmes exilées, en marge d’une société dirigée par des hommes assoiffés de sang.
+Nous attendons à l’extérieur des murs érigés pour nous tenir à l’écart — femmes exilées, en marge d’une société dirigée par des hommes assoiffés de sang.
 
-Nous avons subi des sévices multiples, écouté les plaintes, essuyé les abus. Nous avons rêvé d’un autre monde, couchées dans nos chambres, ou dehors, avec nos enfants près de nous, jouant avec eux pour alléger la souffrance, espérant qu’un jour meilleur viendrait, avant qu’il ne soit trop tard... avant la fin du monde.
+Nous avons subi des sévices multiples, écoutant les plaintes, essuyant les abus. Nous rêvons d’un autre monde, couchées dans nos chambres, ou dehors avec nos enfants, jouant avec eux pour alléger la souffrance, espérant qu’un jour meilleur viendra, avant qu’il ne soit trop tard... avant la fin du monde.
 
-Nous avons veillé sur nos parents, et nos amis, pansé les blessures, consolé les malheureux. Nous avons pleuré nos peines et dormi avec le mal à nos côtés, dans l’angoisse des prochaines attaques, à surveiller... à aimer malgré tout... jusqu’à nous attendrir.
+Nous veillons sur nos parents, et nos amis, pansant les blessures, consolant les malheureux. Nous pleurons nos peines et dormons avec le mal à nos côtés, dans l’angoisse des prochaines attaques, à surveiller... à aimer malgré tout... jusqu’à nous attendrir.
 
-Nous avons gravé notre histoire sur les tablettes de nos cœurs et aimé les hommes jusqu’à les laisser entrer dans nos ventres, jusqu’à les faire jaillir de nos reins. Nous avons offert nos corps pour enfanter l’humanité, et nous espérons pour elle toutes nos belles attentions.
+Nous avons gravé notre histoire sur les tablettes de nos cœurs et avons aimé les hommes jusqu’à les faire jaillir de nos reins. Nous avons offert nos corps pour enfanter l’humanité.
 
-Notre histoire est celle de notre résistance, de notre espérance, de nos rêves et de nos mains tendues. Nous avons nourri, embrassé et chéri nos enfants. Nous les avons regardés jouer dans les prairies, gravir les montagnes, et redescendre vers les villes. Nous les avons observés, corrigés, et nous espérons pour eux le meilleur de nos vies, le meilleur de nos pensées, le meilleur de nos rêves.
+Notre histoire est celle de notre résistance, de notre espérance, de nos rêves et de nos mains tendues. Nous nourrissons, embrassons et chérissons nos enfants. Nous les regardons jouer dans les prairies, gravir les montagnes, et redescendre vers les villes. Nous les observons, les corrigeons, et nous espérons pour eux le meilleur de nos vies, le meilleur de nos pensées, le meilleur de nos rêves.
 
 L’humanité que nous avons enfantée nous a été enlevée. Le mensonge, la cupidité et l’avarice nous l'ont volée; mais nous gardons espoir qu’elle nous reviendra un jour --- dans le malheur, la souffrance ou la mort.
 
-Nous vous avons donné notre dévouement, notre générosité, notre tendresse — à vous, nos enfants — et nous vous avons observés grandir. Nous vous avons portés en notre sein... et nous continuerions jusqu’à nous laisser mourir de fatigue et d’épuisement, s’il le fallait.
+Nous vous avons donné notre dévouement, notre générosité, notre tendresse — à vous, les hommes — et nous vous avons observés grandir. Nous vous avons portés en notre sein... et nous continuerions jusqu’à nous laisser mourir de fatigue et d’épuisement, s’il le fallait.
 
-Nous sommes femmes parmi les femmes, mères parmi les mères, témoins de votre vie et de votre mort — vous, nos enfants, malheureux dans ce monde étrange, devenus tels que nous ne l’avons jamais voulu.
+Nous sommes femmes parmi femmes, mères parmi mères, témoins de vos vies et de vos morts — vous, nos enfants, malheureux dans ce monde étrange, devenus tels que nous ne l’avons jamais voulu.
 
 Ne nous accusez pas de vos malheurs, car si l’histoire avait été écrite de nos mains (au lieu de notre sang), il en aurait été tout autrement.
 
@@ -324,8 +308,7 @@ Sachez, ô hommes, que vous nous reviendrez assurément, puisque nous retournero
 
 ### fenêtre ouverte
 
-je pense à lui  
-dans sa chambre  
+je pense à lui dans sa chambre  
 avec ses jouets  
 ses petits souliers...  
 
@@ -334,7 +317,7 @@ me parler doucement
 de sa voix claire  
 résiliente jusqu'à la mort  
 
-je laisse la fenêtre ouverte  
+et je laisse la fenêtre ouverte  
 à chaque nuit au clair de lune  
 afin qu’il puisse encore et encore  
 aller et venir
@@ -346,12 +329,11 @@ aller et venir
 l'intimité  
 que je n'atteins pas toujours  
 que je ne vois pas  
-et que je n'entends même pas  
+que je n'entends même pas  
 
-c'est bien là pourtant  
+c'est bien là   
 dans le silence de nous deux  
-que l'intimité tout à coup  
-devient monde  
+qu'elle devient monde  
 
 et je le vois  
 ce monde immense qui se rapproche  
@@ -375,7 +357,7 @@ si infini...
 
 comment te garder près de moi dans mon cœur  
 dans mes os tous les jours à toutes les heures  
-comment te connaître profondément pour toujours ?
+comment te connaître profondément pour toujours
 
 *2004*
 
@@ -437,7 +419,7 @@ dans le jardin
 il l’arrosa  
 il la nourrit  
 il la réchauffa la nuit  
-quand elle pleurait à cause du froid  
+quand elle pleurait à cause du temps  
 quand ses épines se tournaient vers elle  
 tellement la nuit lui faisait peur  
 tellement le froid lui faisait mal  
@@ -454,56 +436,56 @@ puis un jour elle a fleuri
 des petites amours sorties d’elle par milliers  
 des petits soleils parfumés qu’on voudrait croquer  
 
-et le jardinier, tout fier de son oeuvre  
+et le jardinier, tout fier de son œuvre  
 avec toute son admiration, lui dit :  
-« Vois comme tu es belle :  
-des milliers d’étoiles sont sorties de toi. »
+
+vois comme tu es belle  
+des milliers d’étoiles sont sorties de toi
 
 *2020*
 
-### Ma lumière
+### Marche avec moi
 
-Un soir, j’ai traîné dehors jusqu’au crépuscule, puis je suis rentré chez nous pour me réchauffer. J’avais dans la tête encore les échos des rues quand je suis rentré — et j’ai oublié de te saluer, mon ami.
+Un soir, j’ai traîné dehors jusqu’au crépuscule. J’avais dans la tête encore les échos des rues quand je suis rentrée — et j’ai oublié de te saluer, mon ami.
 
-Je me suis couché le regard ancré dans un désert aride, et j’ai dormi le pied perdu dans le vide. Au matin de bonne heure, j’ai eu envie de te dire bonjour, mais j’ai vite oublié.
+Je me suis couchée le regard ancré dans un désert aride, et j’ai dormi le pied perdu dans le vide. Au matin de bonne heure, j’ai eu envie de te dire bonjour, mais j’ai vite oublié.
 
 J’ai crié à l’aide avant de tomber.
 
-Je suis resté dans la nuit depuis ce jour.
+Je suis restée dans la nuit depuis ce jour.
 
-Pardonne-moi, mon ami. À présent que je suis aveugle, tu es là tout près, et je vois plus clair grâce à toi. Sans jamais t’arrêter, tu m’as guéri, et je ne fais que commencer à percevoir et à apprécier le bien que tu me fais.
+Pardonne-moi, mon ami. À présent que je suis aveugle, tu es là tout près, et je vois plus clair grâce à toi. Sans jamais t’arrêter, tu m’as guérie, et je ne fais que commencer à percevoir et à apprécier le bien que tu me fais.
 
-Pardonne-moi, mon ami ! Je suis béni d’être plus dépendant — sinon, jamais je n’aurais pu t’aimer comme tu le mérites.
+Pardonne-moi, mon ami ! Je suis bénie d’être plus dépendante — sinon, jamais je n’aurais pu t’aimer.
 
-Ce pain que je ne vois pas me nourrit, et je me sens si bien. Cette eau que je peux boire me rafraîchit jusqu’au cœur. Je sens mon sang qui reprend vie, et mes idées qui s’éclaircissent enfin — comme un miracle !
+Ce pain que je ne vois pas me nourrit, et je me sens si bien. Cette eau que je peux boire me rafraîchit. Je sens mon sang qui reprend vie, et mes idées qui s’éclaircissent enfin — comme un miracle !
 
-Chaque matin, tu prends mon bras et descends avec moi au bas de la rivière, où le soleil se lève. Et sur ma peau, la chaleur du matin me fait du bien. La lumière agit sur mon cœur, et je n’ai plus l’impression de marcher, ni de vivre dans la noirceur. Merci beaucoup.
+Chaque matin, tu prends mon bras et descends avec moi à la rivière, où le soleil se lève. Et sur ma peau, la chaleur du matin me fait du bien. La lumière agit sur mon cœur, et je n’ai plus l’impression de marcher, ni de vivre dans la noirceur. Merci beaucoup.
 
-Pardonne-moi ce jour où j’ai laissé de côté ton affection. Malheureusement, dans tes bras, j’ai continué longtemps de m’inquiéter. Pardonne-moi tous les jours d’oubli qui ont suivi. Comme une avalanche détruit les maisons, j’ai laissé la nôtre ensevelie sous d’épaisses neiges. Oh, pardonne-moi !
+Pardonne-moi ce jour où j’ai oublié ton affection. Dans tes bras, j’ai continué longtemps de m’inquiéter. Pardonne-moi tous les jours de psychose qui ont suivi. Comme une avalanche détruit tout sur son passage, j’ai laissé notre maison ensevelie sous d’épaisses neiges. Oh, pardonne-moi !
 
-Aujourd'hui que je dépends de toi complètement, sans te voir, ton visage me manque, et ta main m’est si chère.
+Aujourd'hui, je dépends de toi complètement; sans te voir, ton visage me manque, et ta main m’est si chère.
 
-Marche encore avec moi jusqu’au matin. Nous pourrions aller le long de cette rivière et prendre un bain. C’est au lever du jour qu’on sent vraiment l’influence du soleil sur la peau — qui vient dans le sang réchauffer le cœur.
+Marche encore avec moi jusqu’au matin. Nous pourrions retourner à la rivière et prendre un bain. C’est au lever du jour qu’on sent vraiment l’influence du soleil sur la peau — qui vient dans le sang réchauffer le cœur.
 
-Marche encore avec moi jusqu’au matin. J’aime tellement me promener avec toi. Ta compagnie, pour moi, est comme mille rayons de ce soleil. Je n’ai jamais oublié la chaleur de ta présence à mes côtés, parce que tu ne m’as jamais quitté.
+Marche encore avec moi jusqu’au matin. J’aime tellement me promener avec toi. Ta compagnie, pour moi, est comme mille rayons de soleil. Je n’ai jamais oublié la chaleur de ta présence à mes côtés, parce que tu ne m’as jamais quitté.
 
-Reste encore avec moi, ensemble, tous les deux, en espérant y demeurer pour toujours.
+Reste encore avec moi, tous les deux, ensemble, en espérant y demeurer pour toujours.
 
 *2020*
 
 ### lumière du matin
 
-dès les premières lueurs du matin  
+dès le matin  
+je vois l’homme que je suis devenu  
+et je supplie !  
+
 comme un enfant  
 égaré dans sa douleur  
 le visage caché dans ses mains  
 
-quand je vois l’homme que je suis devenu  
-le visage perdu  
-je supplie !  
-
 et mon Père qui vit  
-rempli de miséricorde  
+plein de miséricorde  
 remplit mon âme  
 
 mon cœur alors veut exploser jusqu’au soir !
@@ -609,7 +591,8 @@ avec candeur
 et sacrifier ma vie  
 au service des autres  
 
-comme une mère ---  
+--- comme une mère ---  
+
 sans colère  
 sans jamais céder  
 
@@ -624,43 +607,43 @@ en m’abreuvant continuellement
 
 ### Trois jours de jeûne sur l'Île de Vancouver
 
-J’ai raconté à mes filles, dernièrement, un événement malheureux que j’ai vécu enfant, lorsque j’ai pleuré dans mon garde-robe après mon premier jour à l’école secondaire. Ce jour-là, on m’avait bousculé dans les corridors, et j’étais tombé dans les escaliers après avoir été légèrement accroché. En rentrant chez moi, j’ai lancé mon sac par terre et crié à ma mère que c’était une école de fous, que je ne voulais plus jamais y retourner. Je me suis assis au fond de mon garde-robe et j’ai pleuré. Puis, à haute voix, j’ai demandé : pourquoi suis-je handicapé ? Pourquoi moi ? Pourquoi ne suis-je pas resté mort après l’accident ?
+Je racontai à mes filles un événement malheureux que j'avais vécu enfant, lorsque je pleurai dans mon garde-robe après mon premier jour à l'école secondaire. Ce jour-là, on m'avait bousculé et j'étais tombé dans les escaliers. En rentrant chez moi, je lançai mon sac par terre et criai à ma mère que c'était une école de fous, que je ne voulais plus jamais y retourner. Je m'assis au fond de mon garde-robe et pleurai. Puis, à haute voix, je demandai : pourquoi suis-je handicapé ? pourquoi moi ? pourquoi ne suis-je pas resté mort après l'accident ?
 
---- J’ai été frappé par une voiture à l’âge de 7 ans et j’ai miraculeusement survécu. Cependant, je suis resté sévèrement handicapé en raison d’une parésie aux quatre membres. J’avais beaucoup de mal à marcher et à rester stable sur mes deux pieds. Au secondaire, les autres élèves ne faisaient pas attention à moi lorsqu’ils se précipitaient dans les corridors et les escaliers. ---
+Je fus frappé par une voiture à l'âge de 7 ans et je survécus miraculeusement. Cependant, je restai sévèrement handicapé en raison d'une parésie aux quatre membres. J'avais beaucoup de mal à marcher et à rester stable sur mes deux pieds. Au secondaire, les autres élèves ne faisaient pas attention à moi lorsqu'ils se précipitaient dans les corridors et les escaliers.
 
-Assis dans mon garde-robe, en pleurnichant sur mon sort, une pensée m’est venue : si je n’étais pas mort lors de l’accident, c’était parce que j’avais une mission à accomplir sur cette Terre. Peut-être un ange invisible m’avait-il soufflé cette idée pour me consoler. Je me suis accroché à cette conviction et suis aussitôt monté à l’étage pour annoncer à ma mère que je savais pourquoi j’avais survécu : j’avais une mission à accomplir.
+Assis dans mon garde-robe, en pleurnichant sur mon sort, une pensée me vint : si je n'étais pas mort lors de l'accident, ce devait être parce que j'avais une mission à accomplir sur cette Terre. Peut-être un ange invisible m'avait-il soufflé cette idée pour me consoler. Je m'accrochai à cette conviction et montai aussitôt à l'étage pour annoncer à ma mère que je savais pourquoi j'avais survécu : j'avais une mission à accomplir.
 
-Quelques années plus tard, jeune adulte en voyage dans l’Ouest canadien, j’ai entrepris un jeûne de trois jours dans la forêt avec cinq autres jeunes. Nous nous trouvions dans la jungle, quelque part à l’ouest de l’île de Vancouver. Après une longue marche pour atteindre un site près d’une rivière, nous avons partagé un repas le vendredi soir avant de commencer notre jeûne. Chacun avait choisi un endroit isolé où passer les nuits de vendredi, samedi et dimanche. Nous devions nous retrouver le lundi matin pour rompre le jeûne et partager nos expériences.
+Quelques années plus tard, jeune adulte en voyage dans l'Ouest canadien, j'entrepris un jeûne de trois jours dans la forêt avec cinq autres jeunes. Nous nous trouvions dans la jungle, quelque part à l'ouest de l'île de Vancouver. Après une longue marche pour atteindre un site près d'une rivière, nous partageâmes un repas le vendredi soir avant de commencer notre jeûne. Chacun avait choisi un endroit isolé où passer les nuits de vendredi, samedi et dimanche. Nous devions nous retrouver le lundi matin pour rompre le jeûne et partager nos expériences.
 
-Après avoir failli me perdre dans la végétation dense de la montagne, j’ai opté pour un coin paisible au bord de la rivière, où j’ai installé une toile sur un billot de bois, au-dessus d’un lit naturel de gravier fin. L’Amérindien qui nous avait invités à ce jeûne expliquait que, selon leur tradition, les jeûnes servaient à recevoir des visions et des réponses à leurs prières. Je venais d’apprendre l’histoire de la Première Vision de Joseph Smith et, moi aussi, je voulais voir Dieu. C’était ma motivation pour ce jeûne.
+Après avoir failli me perdre dans la végétation dense de la montagne, j'optai pour un coin paisible au bord de la rivière, où j'installai une toile sur un billot de bois, au-dessus d'un lit naturel de gravier fin. L'Amérindien qui nous avait invités à ce jeûne expliquait que, selon leur tradition, les jeûnes servaient à recevoir des visions et des réponses à leurs prières. Je venais d'apprendre l'histoire de la Première Vision de Joseph Smith et, moi aussi, je voulais voir Dieu. C'était ma motivation pour ce jeûne.
 
-Le samedi s’est bien passé. Le matin, je me suis baigné dans la rivière et j’en ai bu une gorgée. L’eau venait d’un glacier : elle était claire et rafraîchissante. Mon campement était installé dans un canyon étroit, creusé par la crue printanière. À quelques centimètres de mon lit de graviers, l’eau coulait doucement. En observant les roches polies par l’érosion, j’ai pensé que, tout comme la rivière parvenait à se frayer un chemin, je pouvais moi aussi apaiser mon esprit en méditant au soleil. Alors, j’ai ressenti une sensation étrange : un frisson agréable remontant le long de mon dos, comme si un courant d’eau passait à travers moi. Mes pensées se sont apaisées, et pour la première fois de ma vie, j’ai goûté au silence intérieur. C’est à ce moment qu’un papillon est venu se poser sur mon bras, ce qui m’a empli de joie.
+Le samedi se passa bien. Le matin, je me baignai dans la rivière et j'en bus une gorgée. L'eau venait d'un glacier : elle était claire et rafraîchissante. Mon campement était installé dans un canyon étroit, creusé par la crue printanière. À quelques centimètres de mon lit de graviers, l'eau coulait doucement. En observant les roches polies par l'érosion, je pensai que, tout comme la rivière parvenait à se frayer un chemin, je pouvais moi aussi apaiser mon esprit en méditant au soleil. Alors, je ressentis une sensation étrange : un frisson agréable remontant le long de mon dos, comme si un courant d'eau passait à travers moi. Mes pensées s'apaisèrent, et pour la première fois de ma vie, je goûtai au silence intérieur. C'est à ce moment qu'un papillon vint se poser sur mon bras, ce qui m'emplit de joie.
 
-Plus tard, en explorant les environs, j’ai découvert un grand bassin où la rivière s’élargissait. J’y ai aperçu une biche et son faon en train de boire. Ce spectacle paisible m’a profondément touché.
+Plus tard, en explorant les environs, je découvris un grand bassin où la rivière s'élargissait. J'y aperçus une biche et son faon en train de boire. Ce spectacle paisible me toucha profondément.
 
-Le dimanche matin, l’Amérindien est venu me voir pour s’assurer que tout allait bien. Il m’a appris que deux participants avaient abandonné la veille, ne supportant plus la faim. Il ne restait plus que moi et une jeune femme, installée au sommet de la falaise d’en face. Lui-même ne jeûnait pas afin de veiller sur nous. Il m’a offert un demi-pamplemousse, disant que je devais manger un peu.
+Le dimanche matin, l'Amérindien vint me voir pour s'assurer que tout allait bien. Il m'apprit que deux participants avaient abandonné la veille, ne supportant plus la faim. Il ne restait plus que moi et une jeune femme, installée au sommet de la falaise d'en face. Lui-même ne jeûnait pas afin de veiller sur nous. Il m'offrit un demi-pamplemousse, disant que je devais manger un peu.
 
-Dans l’après-midi, j’ai été pris de violentes douleurs au ventre. Allongé sur mon lit de fortune, sous la pluie, je me suis laissé envahir par des pensées confuses et angoissantes. Je suppliais Dieu de me répondre. Je me rappelais ma conviction d’avoir une mission à accomplir, mais laquelle ? J’étais persuadé d’être destiné à quelque chose de grand, de significatif.
+Dans l'après-midi, je fus pris de violentes douleurs au ventre. Allongé sur mon lit de fortune, sous la pluie, je me laissai envahir par des pensées confuses et angoissantes. Je suppliais Dieu de me répondre. Je me rappelais ma conviction d'avoir une mission à accomplir, mais laquelle ? J'étais persuadé d'être destiné à quelque chose de grand, de significatif.
 
-C’est alors que, dans un dernier élan de désespoir, j’ai posé la question : « Mais quelle est ma mission ? »
+C'est alors que, dans un dernier élan de désespoir, je posai la question : « Mais quelle est ma mission ? »
 
-Aussitôt après, j’ai tourné la tête vers le sommet de la falaise et j’ai revu la biche et son faon. Une paix soudaine m’a envahi. Toutes mes angoisses se sont dissipées en un instant. Et j’ai compris.
+Aussitôt après, je tournai la tête vers le sommet de la falaise et je revis la biche et son faon. Une paix soudaine m'envahit. Toutes mes angoisses se dissipèrent en un instant. Et je compris.
 
-Était-ce une voix, une pensée ou une révélation divine ? Peu importe. L’idée était claire, indiscutable : ma mission était d’être heureux, de trouver une épouse, de la rendre heureuse, de rendre mes enfants heureux, et d’apporter du bonheur autour de moi. C’était ainsi que je pouvais changer le monde : en répandant le bonheur, une personne à la fois. Je comprenais que le bonheur était une force, capable d’illuminer le monde, cercle après cercle.
+Était-ce une voix, une pensée ou une révélation divine ? Peu importe. L'idée était claire, indiscutable : ma mission était d'être heureux, de trouver une épouse, de la rendre heureuse, de rendre mes enfants heureux, et d'apporter du bonheur autour de moi. C'était ainsi que je pouvais changer le monde : en répandant le bonheur, une personne à la fois. Je comprenais que le bonheur était une force, capable d'illuminer le monde, cercle après cercle.
 
-Après cette expérience, je me suis endormi, en paix. Le lendemain matin, il pleuvait encore un peu, mais j’étais bien protégé sous ma toile. L’Amérindien est revenu tôt avec une préparation salée de gruau froid, m’expliquant qu’il était important de rompre mon jeûne ainsi. Puis, il m’a invité à rejoindre les autres pour le déjeuner.
+Après cette expérience, je m'endormis, en paix. Le lendemain matin, il pleuvait encore un peu, mais j'étais bien protégé sous ma toile. L'Amérindien revint tôt avec une préparation salée de gruau froid, m'expliquant qu'il était important de rompre mon jeûne ainsi. Puis, il m'invita à rejoindre les autres pour le déjeuner.
 
-Lors de notre dernière réunion, nous avons partagé nos expériences, comme le veut la tradition amérindienne. J’ai raconté mon histoire et conclu que le but de la vie était d’être heureux. L’Amérindien a alors déclaré qu’il savait que je disais la vérité. Il avait entendu de nombreux témoignages et sentait que mes paroles étaient sincères. Cela m’a touché, même si je n’ai jamais pensé qu'on pouvait douter de mon expérience.
+Lors de notre dernière réunion, nous partageâmes nos expériences, comme le veut la tradition amérindienne. Je racontai mon histoire et conclus que le but de la vie était d'être heureux. L'Amérindien déclara alors qu'il savait que je disais la vérité. Il avait entendu de nombreux témoignages et sentait que mes paroles étaient sincères. Cela me toucha, même si je ne pensai jamais qu'on pouvait douter de mon expérience.
 
-Un an plus tard, j’ai rejoint l’Église de Jésus-Christ des Saints des Derniers Jours, convaincu que cette Église était dirigée par un prophète de Dieu, et que Jésus-Christ pouvait m'enseigner à vivre heureux.
+Un an plus tard, je rejoignis l'Église de Jésus-Christ des Saints des Derniers Jours, convaincu que cette Église était dirigée par un prophète de Dieu, et que Jésus-Christ pouvait m'enseigner à vivre heureux.
 
-Mes filles avaient 4 et 5 ans lorsque je leur ai raconté cette histoire. Je leur ai expliqué que ma mission était de rendre leur mère et elles heureuses. Elles ont adoré cette histoire.
+Mes filles avaient 4 et 5 ans lorsque je leur racontai cette histoire. Je leur expliquai que ma mission était de rendre leur mère et elles heureuses. Elles adorèrent cette histoire.
 
-Un matin, ma plus jeune insistait pour jouer à mon ordinateur, malgré mes refus répétés. J’étais en train de remplir le lave-vaisselle et, à bout, j’ai fini par crier un « NON ! » retentissant. Elle s’est enfuie en pleurant.
+Un matin, ma plus jeune insistait pour jouer à mon ordinateur, malgré mes refus répétés. J'étais en train de remplir le lave-vaisselle et, à bout, je finis par crier un « NON ! » retentissant. Elle s'enfuit en pleurant.
 
-Pris de remords, je suis allé m’asseoir dans le salon. C’est alors que ma fille aînée m’a interpellé : elle n’aimait pas que je fasse pleurer sa sœur. Puis, elle m’a rappelé que j’étais en train d’échouer ma mission. J’ai reconnu qu’elle avait raison. Je suis allé demander pardon à ma fille. Elle est aussitôt venue dans mes bras.
+Pris de remords, j'allai m'asseoir dans le salon. C'est alors que ma fille aînée m'interpella : elle n'aimait pas que je fasse pleurer sa sœur. Puis, elle me rappela que j'étais en train d'échouer ma mission. Je reconnus qu'elle avait raison. J'allai demander pardon à ma fille. Elle vint aussitôt dans mes bras.
 
-Je suis heureux de voir que mes filles écoutent vraiment mes histoires. Et qu’elles les utilisent pour m’aider, moi aussi, à remplir ma mission.
+Je suis heureux de voir que mes filles écoutent vraiment mes histoires. Et qu'elles les utilisent pour m'aider, moi aussi, à remplir ma mission.
 
 *2014*
 

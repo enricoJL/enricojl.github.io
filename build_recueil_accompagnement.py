@@ -25,7 +25,7 @@ ARC = [
         "2020-05-10-fragile.md",
         "2020-05-11-accroche-toi.md",
         "2025-03-25-solitudes.md",
-        "2025-04-12-accompagnement.md",
+        "2025-04-12-confidences.md",
         "2025-04-12-bienveillance.md",
         "2025-04-24-femmes.md",
         "2025-06-10-fenetre-ouverte.md",
@@ -35,7 +35,7 @@ ARC = [
     ("III. La consolation", [
         "2024-12-15-sans-appui.md",
         "2020-05-11-la-rose-et-le-jardinier.md",
-        "2020-05-15-ma-lumiere.md",
+        "2020-05-15-marche-avec-moi.md",
         "2021-01-24-lumiere-du-matin.md",
         "2026-02-07-guerison.md",
         "2013-07-20-au-pied-dun-arbre.md",
