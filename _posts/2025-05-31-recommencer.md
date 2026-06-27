@@ -11,7 +11,5 @@ faire demi-tour
 baisser la tête  
 se mettre à genoux  
 
-et supplier  
-pour demander pardon  
-
+supplier pour demander pardon  
 et recommencer encore  
