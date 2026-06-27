@@ -550,21 +550,21 @@ ton œuvre
 
 ## IV. La transmutation
 
-### Le soleil s'est levé
+### le soleil s'est levé
 
-Ce matin, comme la première fois  
+ce matin, comme la première fois  
 en paix, je rentre dans le repos  
-Mes espérances enfin trouvent la voie promise :  
+mes espérances enfin trouvent la voie promise  
 la clémence est venue recouvrir mes esprits  
 
-Le bon Seigneur a pris mon cœur entre ses mains  
+le bon Seigneur a pris mon cœur entre ses mains  
 l’a élevé sur le dos d’un ange  
 et mon âme, mon être en entier, demeure  
 transformé, renouvelé — des pieds à la tête  
 
-Des fruits en pensées s’ouvrent dans mes souvenirs  
-Satisfaite d’avoir servi, mon âme est nourrie  
-Dans le ciel, libre, au-delà des nuages blancs  
+des fruits en pensées s’ouvrent dans mes souvenirs  
+satisfaite d’avoir servi, mon âme est nourrie  
+dans le ciel, libre, au-delà des nuages blancs  
 le soleil, l’espoir et la paix me réveillent
 
 *2020*
@@ -819,7 +819,6 @@ tous les vivres
 
 et puis  
 le désert s’est étendu sur la table  
-
 et je me suis endormi  
 
 à mon réveil  
