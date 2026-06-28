@@ -9,14 +9,9 @@
 ```{=latex}
 \vspace*{3cm}
 \begin{quote}
-\textit{Je marche à côté d'une joie} \\
-\textit{D'une joie qui n'est pas à moi} \\
---- Hector de Saint-Denys Garneau, \textit{Accompagnement}
-\end{quote}
-\vspace*{1.5cm}
-\begin{quote}
-\textit{Toute vie véritable est rencontre. La relation au Tu est immédiate. Entre Je et Tu ne s'intercale aucun but, aucun savoir et aucune imagination.} \\
---- Martin Buber, \textit{Je et Tu}
+\textit{Le monde ne se passe pas d'être découvert.} \\
+\textit{Le monde ne se passe pas d'être vu, d'être pensé.} \\
+--- Hector de Saint-Denys Garneau, \textit{Journal}
 \end{quote}
 \clearpage
 ```

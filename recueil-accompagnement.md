@@ -7,7 +7,7 @@
 ---
 
 ```{=latex}
-\vspace*{2cm}
+\vspace*{3cm}
 \begin{quote}
 \textit{Je marche à côté d'une joie} \\
 \textit{D'une joie qui n'est pas à moi} \\
