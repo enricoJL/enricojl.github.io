@@ -74,13 +74,15 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 
 ### VI. La Réponse : La Métamorphose en Silence
 *La destination finale n'est pas un lieu, mais une disposition. On ne mène pas l'autre vers un rivage fixe, on lui apprend que la mer en a plusieurs. Le "tourbillon au centre de nous deux" devient le lieu de la création de mondes.*
+- `de-passage` (Le bagage accumulé — on porte le chemin parcouru ensemble)
+- `en-voyage` (Le paysage qui se métamorphose — la traversée elle-même comme transformation)
 - `ce-qui-nous-arrive`
 - `métamorphose`
 - `mes-amours` (Le cycle du désir)
 - `ou-sont-mes-reves`
 - `recommencer` (Le cycle)
 
-*Retirés → arc douleur :* `en-voyage` (transmutation par le mouvement, intérieure) ; `de-passage` (accumulation du bagage, remontée solitaire) ; `offrande` (acte solitaire vers le divin, Voie 3 — Offrande). `désir-ardent` reste en arc douleur [4-REMONTÉE].
+*Retiré → arc douleur :* `offrande` (acte solitaire vers le divin, Voie 3 — Offrande). `désir-ardent` reste en arc douleur [4-REMONTÉE]. `en-voyage` et `de-passage` réintégrés exclusivement ici (Section VI) — 2026-06-28.
 
 ---
 
@@ -154,4 +156,4 @@ Cette séquence est conçue comme un cheminement, partant de l'appel pour finir 
 | `désir-ardent` | 2026-06-17 | *"mon obstination refusant d'avoir mal / j'ai contemplé la fin"* | forte |
 
 ---
-*Dernière mise à jour : 2026-06-26 — Ajout de L'envol (Section IV) ; retrait de en-voyage, de-passage, offrande vers arc douleur ; désir-ardent exclusif à arc douleur. Remplacement de cahier par si-tu-passes (Section I).*
+*Dernière mise à jour : 2026-06-28 — en-voyage et de-passage réintégrés exclusivement en Section VI. offrande et désir-ardent exclusifs à arc douleur.*

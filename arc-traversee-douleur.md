@@ -99,13 +99,13 @@ Autres : le-colporteur, la-mort-mon-handicap, dans-la-nuit.
 La douleur est nommée mais ne renverse plus. Le mouvement est ascendant — et il
 passe presque toujours par **le lien** : l'autre, l'héritage, le service, le ciel.
 **Spine :** `debout` (le mot-geste) → `acceptance` (sublimer, soupirer jusqu'aux
-étoiles) → `désir ardent` (la douleur sublimée de l'intérieur) → `de-passage` (le bagage accumulé dans le mouvement des choses) → `problème` (remonter à la source, ensemble).
+étoiles) → `désir ardent` (la douleur sublimée de l'intérieur) → `problème` (remonter à la source, ensemble).
 
 > *ensemble nous remonterons à la source / et nous découvrirons ses causes racines* — `problème`
 
 Autres : assis-par-terre, je-reviens-à-la-vie, intention, chambranlant, instabilité.
 
-*Retirés → accompagnement :* `guérison` (la nomination par l'autre = acte relationnel), `coma` (l'urgence de réveiller l'autre), `femmes` (les mains tendues vers l'autre).
+*Retirés → accompagnement :* `guérison` (la nomination par l'autre = acte relationnel), `coma` (l'urgence de réveiller l'autre), `femmes` (les mains tendues vers l'autre), `de-passage` (accumulation du bagage dans le mouvement des choses — transmutation par le chemin, pas par la douleur seule).
 
 ### `[5-AUTRE-CÔTÉ]` — la souffrance qui nourrit (9)
 La station de la transmutation. La douleur n'est plus subie ni même portée : elle est
@@ -115,7 +115,8 @@ Quatre voies de sortie :
 
 **Voie 1 — Floraison** (la douleur devient beauté offerte) :
 - `élixir` — la douleur collective transmutée en résistance et beauté
-- `en-voyage` — *comme un véhicule en mouvement / le paysage se métamorphose* : la traversée elle-même comme transmutation
+
+*(Retiré → accompagnement : `en-voyage` — le paysage qui se métamorphose pendant le voyage = transmutation par le mouvement, geste relationnel vers l'autre.)*
 
 **Voie 2 — Passage** (la perte ouvre un espace nouveau) :
 *(Retirés → accompagnement : `la rose et son jardinier` — consolation reçue ; `résurrection` — mains tendues pour servir ; `fenêtre ouverte` — espace laissé pour l'autre)*
@@ -169,4 +170,4 @@ Dis-moi vers où.
 
 ---
 
-*Synthèse — 2026-06-20. Mise à jour 2026-06-26 : 10 poèmes transférés exclusivement à l'arc accompagnement (senliser, fracture, sans-appui, coma, femmes, fenetre-ouverte, la-rose-et-le-jardinier, guerison, resurrection, dans-la-tempete) ; ajouts : Confession [3-BASCULE], de-passage [4-REMONTÉE], en-voyage [5-AUTRE-CÔTÉ]. Titre renommé : Au-dessus des cimes → Confession (2026-06-26).*
+*Synthèse — 2026-06-20. Mise à jour 2026-06-26 : 10 poèmes transférés exclusivement à l'arc accompagnement (senliser, fracture, sans-appui, coma, femmes, fenetre-ouverte, la-rose-et-le-jardinier, guerison, resurrection, dans-la-tempete) ; ajout : Confession [3-BASCULE]. Titre renommé : Au-dessus des cimes → Confession (2026-06-26). Mise à jour 2026-06-28 : de-passage et en-voyage transférés exclusivement à l'arc accompagnement.*
