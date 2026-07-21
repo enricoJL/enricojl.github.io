@@ -2,7 +2,7 @@
 layout: post
 title: "en reconstruction"
 date: "2026-07-19"
-categories: "annonce"
+categories: "new"
 published: true
 ---
 
