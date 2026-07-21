@@ -2,7 +2,7 @@
 # Site settings
 title: pour la beauté du monde
 description: >
-  poèmes et proses
+  réflexions sur la beauté du monde, la poésie et la prose, par Enrico Lévesque
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://enricojl.github.io" # the base hostname & protocol for your site
