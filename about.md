@@ -8,12 +8,15 @@ permalink: /apropos/
 	<img src="{{site.baseurl}}/assets/transparent.png" width="40%">
 </center>
 
-<!--Acceptons, si vous le voulez bien, que je sois un poète mais qui n'écrit que des parcelles de poésie de temps à autre formant une tapisserie de bribes éparpillées dans le temps.-->
+Architecte informatique de profession, j'habite l'espace entre la structure et l'essence. Poète de l'ombre depuis plus de trente ans.
 
+Le jour, je cartographie des processus et des systèmes. Le soir, je traverse des structures poétiques. Les deux gestes n'en font qu'un : rendre visible ce qui ne l'est pas.
 
-J'aime ressentir le monde à travers le prisme de mes émotions. Je suis fasciné par le cœur humain et j'utilise mes propres sentiments comme une lunette d'observation sur le monde.
+La poésie remplit ma vie depuis ma jeunesse. J'aime ressentir le monde à travers le prisme de mes émotions. Je suis fasciné par le cœur humain et j'utilise mes propres sentiments comme une lunette d'observation sur le monde.
 
-Dans les cahiers de mon laboratoire expérimental, je tente de capturer mes observations en utilisant des mots, des images et des concepts qui se fracassent, se combinent ou s'enchevêtrent. J'explore les différentes émotions, les pensées et les sentiments qui m'habitent et je les démêle et les arrange du mieux que je peux de manière à ce que ce soit beau.
+Dans le cahier de mon laboratoire expérimental, je tente de capturer mes observations en utilisant des images et des concepts qui se fracassent, se combinent ou s'enchevêtrent. J'explore les différentes émotions, les pensées et les sentiments qui m'habitent et je les démêle et les arrange du mieux que je peux.
+
+Près de deux cents poèmes forment une oeuvre personnelle, profonde et éclectique. Mes recueils sont en préparation pour publication.
 
 <br/>
 <br/>
