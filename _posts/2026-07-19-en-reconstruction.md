@@ -2,9 +2,7 @@
 layout: post
 title: "en reconstruction"
 date: "2026-07-19"
-categories: 
-    - "new"
-    - "blog"
+categories: new blog
 published: true
 ---
 
