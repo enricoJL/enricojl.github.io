@@ -3,8 +3,8 @@
 - slug: blog
   name: articles
 
-- slug: new
-  name: nouveautés
+- slug: news
+  name: annonces
 
 - slug: identity
   name: identité
