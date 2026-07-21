@@ -1,22 +1,8 @@
 
 
-- slug: amore
-  name: amour
-
-- slug: douleur
-  name: douleur
-
-- slug: spirit
-  name: spiritualité
-
-- slug: relations
-  name: relations
-
-- slug: identite
-  name: identité
-
-- slug: resilience
-  name: résilience
+- slug: blog
+  name: articles
 
 - slug: new
   name: nouveau 
+
