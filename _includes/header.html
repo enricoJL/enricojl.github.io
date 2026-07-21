@@ -1,0 +1,49 @@
+<header class="header">
+    <div class="navigation">
+        <a href="/" class="logo">{{ site.title }}</a>
+
+        <ul class="menu">
+            <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">recueil</a></li>
+            <li class="menu__entry"><a href="{{ '/recherche/' | prepend: site.baseurl }}">rechercher</a></li>
+            <li class="menu__entry"><a href="{{ '/apropos' | prepend: site.baseurl }}">à propos</a></li>
+            <li class="menu__entry"><a target="_blank" href="https://enricojl.github.io/bomt/">The Book of My Testimony</a></li>
+        </ul>
+        <ul class="categories">
+        	{% for category in site.data.categories %}
+            <li class="categories__item"><a href="{{ '/categories/' | append: category.slug | prepend: site.baseurl }}">{{ category.name }}</a></li>
+        	{% endfor %}
+    	</ul>
+    </div>
+
+    <ul class="social-links">
+        {% if site.author.github %}
+            <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-github"></i>
+            </a>
+        {% endif %}
+
+        {% if site.author.twitter %}
+            <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-twitter"></i>
+            </a>
+        {% endif %}
+
+        {% if site.author.facebook %}
+            <a href="https://facebook.com/{{ site.author.facebook }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-facebook"></i>
+            </a>
+        {% endif %}
+
+        {% if site.author.instagram %}
+            <a href="https://instagram.com/{{ site.author.instagram }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-instagram"></i>
+            </a>
+        {% endif %}
+
+        {% if site.author.linkedin %}
+            <a href="https://linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-linkedin"></i>
+            </a>
+        {% endif %}
+    </ul>
+</header>

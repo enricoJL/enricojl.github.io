@@ -1,0 +1,114 @@
+---
+layout: page
+hide_title: true
+title: rechercher
+permalink: /recherche/
+---
+
+<h1 class="page-title">
+    <div class="page-title__text">rechercher</div>
+</h1>
+
+<div class="search-container">
+  <input
+    type="text"
+    id="search-input"
+    placeholder="mots clés…"
+    autofocus
+    autocomplete="off"
+  />
+  <p id="search-status" class="search-status"></p>
+  <ul id="search-results" class="list-posts"></ul>
+</div>
+
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script>
+(function() {
+  var searchInput = document.getElementById('search-input');
+  var searchResults = document.getElementById('search-results');
+  var searchStatus = document.getElementById('search-status');
+  var index, documents;
+
+  function stripAccents(str) {
+    return str ? str.normalize('NFD').replace(/[̀-ͯ]/g, '') : '';
+  }
+
+  fetch('{{ "/search.json" | prepend: site.baseurl }}')
+    .then(function(res) { return res.json(); })
+    .then(function(data) {
+      documents = data;
+
+      index = lunr(function() {
+        this.ref('id');
+        this.field('title', { boost: 10 });
+        this.field('content');
+        this.pipeline.remove(lunr.stemmer);
+        documents.forEach(function(doc) {
+          this.add({ id: doc.id, title: stripAccents(doc.title), content: stripAccents(doc.content) });
+        }, this);
+      });
+      if (searchInput.value.trim()) runSearch(searchInput.value);
+    });
+
+  searchInput.addEventListener('input', function() {
+    runSearch(this.value);
+  });
+
+  function runSearch(query) {
+    query = stripAccents(query.trim());
+    searchResults.innerHTML = '';
+    searchStatus.textContent = '';
+    if (!query || !index) return;
+
+    var results = index.search(query + '*');
+    if (results.length === 0) {
+      searchStatus.textContent = 'Aucun poème trouvé.';
+      return;
+    }
+    searchStatus.textContent = results.length + ' poème' + (results.length > 1 ? 's' : '') + ' trouvé' + (results.length > 1 ? 's' : '') + '.';
+
+    results.forEach(function(result) {
+      var doc = documents.find(function(d) { return d.id == result.ref; });
+      if (!doc) return;
+      var li = document.createElement('li');
+      li.className = 'post-teaser';
+      li.innerHTML =
+        '<a href="' + doc.url + '">' +
+          '<span class="post-teaser__title">' + doc.title + '</span>' +
+          '<span class="post-teaser__date">' + doc.date + '</span>' +
+        '</a>';
+      searchResults.appendChild(li);
+    });
+  }
+
+  var params = new URLSearchParams(window.location.search);
+  if (params.get('q')) {
+    searchInput.value = params.get('q');
+  }
+})();
+</script>
+
+<style>
+.search-container {
+  margin: 0 auto;
+  padding: 0 20px;
+}
+#search-input {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 18px;
+  border: 1px solid #828282;
+  background: #F5F5F5;
+  color: #333333;
+  outline: none;
+  box-sizing: border-box;
+}
+#search-input:focus {
+  border-color: #333333;
+}
+.search-status {
+  font-size: 14px;
+  color: #828282;
+  margin: 12px 0 8px;
+}
+</style>

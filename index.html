@@ -1,0 +1,37 @@
+---
+layout: page
+title: recueil
+hide_title: true
+sitemap:
+  priority: 0.9
+---
+
+{% assign poem_count = 0 %}
+{% for post in site.posts %}
+    {% if post.published != false %}
+        {% assign poem_count = poem_count | plus: 1 %}
+    {% endif %}
+{% endfor %}
+
+<h1 class="page-title">
+    <div class="page-title__text">{{ page.title }}</div>
+    <div class="page-title__subtitle">{{ poem_count }} poèmes et proses</div>
+</h1>
+
+<!--<center>
+	<img src="{{site.baseurl}}/assets/transparent.png" width="40%">
+</center>-->
+
+<ul class="list-posts">
+    {% for post in site.posts %}
+    	{% assign date_english = post.date | date: "%d %B %Y" %}
+		  {% include date-french.html %}
+        <li class="post-teaser">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <span class="post-teaser__title">{{ post.title }}</span>
+                <!--<span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>-->
+                <span class="post-teaser__date">{{ date_french }}</span>
+            </a>
+        </li>
+    {% endfor %}
+</ul>

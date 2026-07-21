@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% include post/title.html %}
+
+
+<div class="content">
+    {{ content }}
+</div>
+
+
+{% include post/about.html %}
+
+<div class="about">
+  {% if page.previous %}
+    <a href="{{ page.previous.url }}" class="post-nav prev"><span class="fa fa-angle-left"></span> {{ page.previous.title }}</a>
+  {% endif %}
+  |
+  {% if page.next %}
+    <a href="{{ page.next.url }}" class="post-nav next">{{ page.next.title }} <span class="fa fa-angle-right"></span></a>
+  {% endif %}
+</div>
+
+{% include externals/disqus.html %}
