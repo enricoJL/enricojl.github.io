@@ -1,8 +1,8 @@
 
 # Site settings
-title: ce que je perçois
+title: ce que je vois
 description: >
-  cahier d'un poète en quête de sens et de beauté
+  cahier d'un poète en quête d'émerveillement et de sens
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://enricojl.github.io" # the base hostname & protocol for your site
