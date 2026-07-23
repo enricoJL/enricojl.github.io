@@ -16,6 +16,12 @@ Recueil de poésie — 53 poèmes
 
 Trois mouvements : **l'épreuve intérieure**, **la douleur du monde**, **l'accompagnement**.
 
+## à partir d'ici
+
+Recueil de poésie — 44 poèmes
+
+Cinq mouvements : **tomber**, **le fond**, **la bascule**, **la remontée**, **la relève par l'autre**. Plus direct, plus viscéral.
+
 ## autres manuscrits en chantier
 
 **la traversée de la douleur** — quatre mouvements : la descente, le fond, le pivot, la remontée.
