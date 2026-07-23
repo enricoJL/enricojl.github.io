@@ -16,11 +16,6 @@ Recueil de poésie — 44 poèmes
 
 Cinq mouvements : **tomber**, **le fond**, **la bascule**, **la remontée**, **la relève par l'autre**. Plus direct, plus viscéral.
 
-## autres manuscrits en chantier
-
-**la traversée de la douleur** — quatre mouvements : la descente, le fond, le pivot, la remontée.
-
-**le chemin de la présence** — six parties sur l'accompagnement et la consolation.
 
 ---
 
