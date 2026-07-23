@@ -70,6 +70,9 @@ strong {
 
 .header {
     overflow: hidden;
+    padding-bottom: 30px;
+    border-bottom: 1px solid darken($dorian, 10%);
+    margin-bottom: 20px;
 }
 
 .navigation {
