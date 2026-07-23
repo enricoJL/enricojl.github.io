@@ -19,7 +19,7 @@ Inscrivez-vous à l'infolettre pour recevoir les nouveaux billets et être infor
 >
   <label for="bd-email">Votre courriel</label>
   <input type="email" name="email" id="bd-email" placeholder="votre@courriel.com" required />
-  <input type="submit" value="S'inscrire" />
+  <input type="submit" value="s'inscrire" />
   <p class="newsletter-form__attribution">
     <a href="https://buttondown.com/refer/enricojl" target="_blank">Propulsé par Buttondown.</a>
   </p>
