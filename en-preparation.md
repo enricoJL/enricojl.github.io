@@ -19,4 +19,4 @@ Cinq mouvements : **tomber**, **le fond**, **la bascule**, **la remontée**, **l
 
 ---
 
-*Ces recueils puisent dans un même corpus de près de deux cents poèmes écrits entre 1992 et 2026. Chaque manuscrit propose un arc différent, une traversée distincte.*
+*Ces recueils puisent dans un corpus de près de deux cents poèmes écrits entre 1992 et 2026. Chaque manuscrit propose un arc différent, une traversée distincte.*
