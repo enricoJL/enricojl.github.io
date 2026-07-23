@@ -444,12 +444,47 @@ strong {
 }
 
 
-/* =Post page */
-.about {
+/* =Page layout (like home) */
+.page-heading {
+    font-weight: 700;
+    font-size: 70px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.page-content {
+    max-width: 600px;
+    margin: 0 auto 100px auto;
+}
+
+.page-content p {
+    font-size: 20px;
+    line-height: 32px;
+    margin-bottom: 1.2em;
+}
+
+.page-content h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 2em;
+    margin-bottom: 0.6em;
+}
+
+.page-content h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.page-content hr {
+    border: none;
+    border-top: 1px solid darken($dorian, 10%);
+    margin: 2em 0;
+}
+
+.page-content em {
     color: $cloudy;
-    margin-top: 70px;
-    text-align: center;
-    line-height: 24px;
 }
 
 .about__devider {
