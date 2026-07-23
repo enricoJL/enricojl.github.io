@@ -1,6 +1,6 @@
 /* =Base */
 body {
-    font-family: 'Inconsolata', ;
+    font-family: 'Crimson Text', Georgia, serif;
     color: $iron;
     background-color: $dorian;
 }
@@ -77,6 +77,7 @@ strong {
 }
 
 .logo {
+    font-family: 'Inconsolata', monospace;
     font-size: 50px;
     font-weight: 700;
     color: $iron;
@@ -84,6 +85,7 @@ strong {
 }
 
 .menu {
+    font-family: 'Inconsolata', monospace;
     color: $cloudy;
     font-size: 18px;
     margin:0px;
@@ -125,11 +127,13 @@ strong {
 }
 
 .page-title__text {
+    font-family: 'Inconsolata', monospace;
     font-weight: 700;
     font-size: 70px;
 }
 
 .page-title__subtitle {
+    font-family: 'Inconsolata', monospace;
     font-weight: 400;
     font-size: 22px;
     color: $cloudy;
@@ -140,10 +144,12 @@ strong {
 }
 
 .post-title__text {
+    font-family: 'Inconsolata', monospace;
     font-size: 40px;
 }
 
 .post-title__subtitle {
+    font-family: 'Inconsolata', monospace;
     font-size: 20px;
 }
 
@@ -160,6 +166,7 @@ strong {
 }
 
 .post-teaser__title {
+    font-family: 'Inconsolata', monospace;
     font-size: 22px;
     color: $iron;
 }
@@ -297,12 +304,14 @@ strong {
 }
 
 .home-title {
+    font-family: 'Inconsolata', monospace;
     font-weight: 700;
     font-size: 50px;
     margin-bottom: 10px;
 }
 
 .home-subtitle {
+    font-family: 'Inconsolata', monospace;
     font-weight: 400;
     font-size: 22px;
     color: $cloudy;
@@ -336,6 +345,7 @@ strong {
 }
 
 .home-latest h2 {
+    font-family: 'Inconsolata', monospace;
     font-size: 18px;
     color: $cloudy;
     margin-bottom: 20px;
@@ -380,6 +390,7 @@ strong {
 }
 
 .home-newsletter h2 {
+    font-family: 'Inconsolata', monospace;
     font-size: 22px;
     margin-bottom: 10px;
 }
@@ -454,6 +465,7 @@ strong {
 
 /* =Page layout (like home) */
 .page-heading {
+    font-family: 'Inconsolata', monospace;
     font-weight: 700;
     font-size: 50px;
     margin-top: 80px;
@@ -473,6 +485,7 @@ strong {
 }
 
 .page-content h2 {
+    font-family: 'Inconsolata', monospace;
     font-size: 24px;
     font-weight: 700;
     margin-top: 2em;
@@ -480,6 +493,7 @@ strong {
 }
 
 .page-content h3 {
+    font-family: 'Inconsolata', monospace;
     font-size: 20px;
     font-weight: 700;
     margin-top: 1.5em;
