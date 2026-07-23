@@ -10,12 +10,6 @@ Recueil de poésie — 44 poèmes et proses, ~84 pages
 
 Trois mouvements : **Mirage**, **Prison**, **Transparence**.
 
-## la traversée du cœur
-
-Recueil de poésie — 53 poèmes
-
-Trois mouvements : **l'épreuve intérieure**, **la douleur du monde**, **l'accompagnement**.
-
 ## à partir d'ici
 
 Recueil de poésie — 44 poèmes
