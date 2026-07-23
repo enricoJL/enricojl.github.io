@@ -8,7 +8,7 @@ permalink: /en-preparation/
 
 Recueil de poésie — 44 poèmes et proses, ~84 pages
 
-Trois mouvements : **Mirage**, **Prison**, **Transparence**.
+Trois mouvements : **mirage**, **prison**, **transparence**.
 
 ## à partir d'ici
 
