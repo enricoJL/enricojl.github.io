@@ -6,23 +6,19 @@ permalink: /en-preparation/
 
 ## entre l'image et la mer
 
-*Recueil de poésie — 44 poèmes et proses, ~84 pages*
+Recueil de poésie — 44 poèmes et proses, ~84 pages
 
 Trois mouvements : **Mirage**, **Prison**, **Transparence**.
 
 Soumis au Groupe Ville-Marie Littérature / L'Hexagone et aux Éditions du Noroît.
 
----
-
 ## la traversée du cœur
 
-*Recueil de poésie — 53 poèmes*
+Recueil de poésie — 53 poèmes
 
 Trois mouvements : **l'épreuve intérieure**, **la douleur du monde**, **l'accompagnement**.
 
 Soumis aux Éditions Mémoire d'Encrier (octobre 2025).
-
----
 
 ## autres manuscrits en chantier
 
