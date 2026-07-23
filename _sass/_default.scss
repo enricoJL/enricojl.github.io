@@ -474,10 +474,13 @@ strong {
     margin-top: 80px;
     margin-bottom: 40px;
     text-align: center;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .page-content {
-    max-width: 600px;
+    max-width: 800px;
     margin: 0 auto 100px auto;
 }
 
