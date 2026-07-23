@@ -14,7 +14,8 @@ Près de deux cents poèmes forment une œuvre personnelle, profonde et éclecti
 
 Ce site est le journal de bord de ce parcours — un cahier ouvert sur l'acte de créer, les doutes, les découvertes, et le chemin vers la publication.
 
-<br/>
-<br/>
+<div class="home-intro__image">
+    <img src="{{ site.baseurl }}/assets/transparent.png" alt="Enrico Lévesque">
+</div>
 
 <h3 style="text-align: center;">Enrico Lévesque</h3>
