@@ -12,22 +12,22 @@
             {% include header.html %}
 
             {{ content }}
-        </div>        
-        
-        <footer class="site-footer">
-            <div class="newsletter-banner">
-                <p><strong>ce que je perçois</strong> — cahier d'un poète en quête de sens et de beauté</p>
-                <form
-                    action="https://buttondown.com/api/emails/embed-subscribe/enricojl"
-                    method="post"
-                    class="newsletter-inline"
-                >
-                    <input type="email" name="email" placeholder="votre courriel" required />
-                    <input type="submit" value="S'inscrire" />
-                </form>
-            </div>
-            <p class="site-footer__copy">&copy; {{ 'now' | date: "%Y" }} {{ site.author.fullname }}</p>
-        </footer>
+
+            <footer class="site-footer">
+                <div class="newsletter-banner">
+                    <p><strong>ce que je perçois</strong> — cahier d'un poète en quête de sens et de beauté</p>
+                    <form
+                        action="https://buttondown.com/api/emails/embed-subscribe/enricojl"
+                        method="post"
+                        class="newsletter-inline"
+                    >
+                        <input type="email" name="email" placeholder="votre courriel" required />
+                        <input type="submit" value="S'inscrire" />
+                    </form>
+                </div>
+                <p class="site-footer__copy">&copy; {{ 'now' | date: "%Y" }} {{ site.author.fullname }}</p>
+            </footer>
+        </div>
 	
         {% include externals/scripting.html %}
         {% include externals/google_analytics.html %}
