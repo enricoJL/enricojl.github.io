@@ -16,7 +16,9 @@ La poésie remplit ma vie depuis ma jeunesse. J'aime ressentir le monde à trave
 
 Dans le cahier de mon laboratoire expérimental, je tente de capturer mes observations en utilisant des images et des concepts qui se fracassent, se combinent ou s'enchevêtrent. J'explore les différentes émotions, les pensées et les sentiments qui m'habitent et je les démêle et les arrange du mieux que je peux.
 
-Près de deux cents poèmes forment une oeuvre personnelle, profonde et éclectique. Mes recueils sont en préparation pour publication.
+Près de deux cents poèmes forment une œuvre personnelle, profonde et éclectique. Mes recueils sont en préparation pour publication.
+
+Ce site est le journal de bord de ce parcours — un cahier ouvert sur l'acte de créer, les doutes, les découvertes, et le chemin vers la publication.
 
 <br/>
 <br/>

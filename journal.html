@@ -1,0 +1,37 @@
+---
+layout: page
+title: journal
+permalink: /journal/
+---
+
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+{% for year in posts_by_year %}
+<h2 class="year-heading">{{ year.name }}</h2>
+<ul class="list-posts">
+    {% for post in year.items %}
+        {% assign date_english = post.date | date: "%d %B %Y" %}
+        {% include date-french.html %}
+        <li class="post-teaser">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <span class="post-teaser__title">{{ post.title }}</span>
+                <span class="post-teaser__date">{{ date_french }}</span>
+            </a>
+            {% if post.categories %}
+            <span class="post-teaser__categories">
+                {% for category in post.categories %}
+                    {% assign cat_data = site.data.categories | where: "slug", category | first %}
+                    {% if cat_data %}
+                    <a href="{{ '/categories/' | append: category | prepend: site.baseurl }}" class="category-tag">{{ cat_data.name }}</a>
+                    {% endif %}
+                {% endfor %}
+            </span>
+            {% endif %}
+        </li>
+    {% endfor %}
+</ul>
+{% endfor %}
+
+{% if site.posts.size == 0 %}
+<p class="empty-message">Le cahier est encore vide. Le premier billet s'en vient.</p>
+{% endif %}

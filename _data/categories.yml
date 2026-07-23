@@ -1,11 +1,14 @@
+- slug: carnet-de-creation
+  name: carnet de création
 
+- slug: le-parcours
+  name: le parcours
 
-- slug: blog
-  name: articles
+- slug: lectures-et-influences
+  name: lectures & influences
 
-- slug: news
-  name: annonces
+- slug: douleur-et-corps
+  name: douleur & corps
 
-- slug: identity
-  name: identité
-  
+- slug: nouvelles
+  name: nouvelles

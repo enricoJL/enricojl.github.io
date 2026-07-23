@@ -1,8 +1,8 @@
 
 # Site settings
-title: pour la beauté du monde
+title: ce que je perçois
 description: >
-  réflexions sur la beauté du monde, la poésie et la prose, par Enrico Lévesque
+  cahier d'un poète en quête de sens et de beauté
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://enricojl.github.io" # the base hostname & protocol for your site
@@ -13,6 +13,7 @@ author:
   facebook: enrico.levesque.5
   instagram: enricojlevesque
   linkedin: enrico-lévesque-66977a13
+  email: enrico.levesque@gmail.com
 
 #  twitter: electrik_frog
 # disqus: your_disqus_forum_shortname

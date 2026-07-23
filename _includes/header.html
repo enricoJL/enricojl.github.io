@@ -3,29 +3,14 @@
         <a href="/" class="logo">{{ site.title }}</a>
 
         <ul class="menu">
-            <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">accueil</a></li>
-            <li class="menu__entry"><a href="{{ '/apropos' | prepend: site.baseurl }}">à propos</a></li>            <li class="menu__entry"><a href="{{ '/recherche/' | prepend: site.baseurl }}">rechercher</a></li>
+            <li class="menu__entry"><a href="{{ '/journal' | prepend: site.baseurl }}">journal</a></li>
+            <li class="menu__entry"><a href="{{ '/en-preparation' | prepend: site.baseurl }}">en préparation</a></li>
+            <li class="menu__entry"><a href="{{ '/apropos' | prepend: site.baseurl }}">à propos</a></li>
+            <li class="menu__entry menu__entry--highlight"><a href="{{ '/infolettre' | prepend: site.baseurl }}">infolettre</a></li>
         </ul>
-        <ul class="categories">
-        	{% for category in site.data.categories %}
-            <li class="categories__item"><a href="{{ '/categories/' | append: category.slug | prepend: site.baseurl }}">{{ category.name }}</a></li>
-        	{% endfor %}
-    	</ul>
     </div>
 
     <ul class="social-links">
-        {% if site.author.github %}
-            <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
-                <i class="fa fa-github"></i>
-            </a>
-        {% endif %}
-
-        {% if site.author.twitter %}
-            <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
-                <i class="fa fa-twitter"></i>
-            </a>
-        {% endif %}
-
         {% if site.author.facebook %}
             <a href="https://facebook.com/{{ site.author.facebook }}" class="social-links__entry" target="_blank">
                 <i class="fa fa-facebook"></i>

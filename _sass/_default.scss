@@ -178,48 +178,269 @@ strong {
     text-align: center;
 }
 
-/* =Explore */
-.explore {
-    text-align: center;
+/* =Newsletter form */
+.newsletter-form {
+    margin: 2em 0;
+}
+
+.newsletter-form label {
+    display: block;
+    font-size: 16px;
     color: $cloudy;
-    margin-top: 140px;
+    margin-bottom: 8px;
 }
 
-.explore__devider {
+.newsletter-form input[type="email"] {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px 14px;
     font-size: 18px;
-    letter-spacing: 8.18px;
+    border: 1px solid $cloudy;
+    background: #fff;
+    color: $iron;
+    box-sizing: border-box;
+    margin-bottom: 10px;
 }
 
-.explore__label {
-    font-size: 14px;
-    margin-top: 15px;
+.newsletter-form input[type="email"]:focus {
+    border-color: $iron;
+    outline: none;
 }
 
-.categories {
-    list-style-type: none;
-    margin-top: 15px;
-    padding: 0px;
-}
-
-.categories__item {
-    display: inline-block;
+.newsletter-form input[type="submit"] {
+    padding: 10px 24px;
+    font-size: 16px;
     font-weight: 700;
-    font-size: 18px;
+    background: $iron;
+    color: #fff;
+    border: none;
+    cursor: pointer;
 }
 
-.categories__item a {
+.newsletter-form input[type="submit"]:hover {
+    background: lighten($iron, 15%);
+}
+
+.newsletter-form__attribution {
+    font-size: 13px;
+    color: $cloudy;
+    margin-top: 12px;
+}
+
+.newsletter-form__attribution a {
+    font-weight: 400;
+}
+
+/* =Footer & newsletter banner */
+.site-footer {
+    margin-top: 100px;
+    padding-top: 40px;
+    border-top: 1px solid darken($dorian, 10%);
+    text-align: center;
+}
+
+.newsletter-banner {
+    margin-bottom: 30px;
+}
+
+.newsletter-banner p {
+    font-size: 16px;
+    color: $cloudy;
+    margin-bottom: 12px;
+}
+
+.newsletter-inline {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.newsletter-inline input[type="email"] {
+    padding: 8px 12px;
+    font-size: 16px;
+    border: 1px solid $cloudy;
+    background: #fff;
+    color: $iron;
+    min-width: 220px;
+}
+
+.newsletter-inline input[type="email"]:focus {
+    border-color: $iron;
+    outline: none;
+}
+
+.newsletter-inline input[type="submit"] {
+    padding: 8px 18px;
+    font-size: 14px;
+    font-weight: 700;
+    background: $iron;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.newsletter-inline input[type="submit"]:hover {
+    background: lighten($iron, 15%);
+}
+
+.site-footer__copy {
+    font-size: 14px;
+    color: $cloudy;
+}
+
+/* =Home page */
+.home-intro {
+    margin-top: 80px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.home-title {
+    font-weight: 700;
+    font-size: 70px;
+    margin-bottom: 10px;
+}
+
+.home-subtitle {
+    font-weight: 400;
+    font-size: 22px;
+    color: $cloudy;
+    margin-bottom: 40px;
+}
+
+.home-intro__text {
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.home-intro__text p {
+    font-size: 20px;
+    line-height: 32px;
+    margin-bottom: 1.2em;
+}
+
+.home-latest {
+    margin-bottom: 60px;
+}
+
+.home-latest h2 {
+    font-size: 18px;
+    color: $cloudy;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+.home-latest__post h3 {
+    font-size: 24px;
+    margin-bottom: 6px;
+}
+
+.home-latest__post h3 a {
     color: $iron;
 }
 
-.categories__item:after {
-    content: "/";
-    margin-left: 6px;
+.home-latest__date {
+    font-size: 16px;
     color: $cloudy;
+    display: block;
+    margin-bottom: 12px;
 }
 
-.categories__item:last-child:after {
-    content: "";
-    margin-left: 0px;
+.home-latest__excerpt {
+    font-size: 18px;
+    line-height: 28px;
+    color: $iron;
+    margin-bottom: 12px;
+}
+
+.home-latest__link {
+    font-size: 16px;
+}
+
+.home-journal-link {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.home-newsletter {
+    text-align: center;
+    padding: 40px 0;
+    border-top: 1px solid darken($dorian, 10%);
+}
+
+.home-newsletter h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.home-newsletter p {
+    font-size: 18px;
+    color: $cloudy;
+    margin-bottom: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 24px;
+    font-size: 16px;
+    font-weight: 700;
+    color: $iron;
+    border: 2px solid $iron;
+    text-decoration: none;
+}
+
+.button:hover {
+    background: $iron;
+    color: #fff;
+}
+
+.button--highlight {
+    background: $iron;
+    color: #fff;
+}
+
+.button--highlight:hover {
+    background: lighten($iron, 15%);
+    border-color: lighten($iron, 15%);
+}
+
+/* =Menu highlight */
+.menu__entry--highlight a {
+    font-weight: 700;
+}
+
+/* =Journal */
+.year-heading {
+    font-size: 22px;
+    color: $cloudy;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.post-teaser__categories {
+    display: block;
+    margin-top: 4px;
+}
+
+.category-tag {
+    font-size: 13px;
+    font-weight: 400;
+    color: $cloudy;
+    margin-right: 10px;
+}
+
+.category-tag:hover {
+    color: $iron;
+}
+
+.empty-message {
+    font-size: 20px;
+    color: $cloudy;
+    text-align: center;
+    font-style: italic;
 }
 
 

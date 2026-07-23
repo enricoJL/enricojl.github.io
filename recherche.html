@@ -21,6 +21,8 @@ permalink: /recherche/
   <ul id="search-results" class="list-posts"></ul>
 </div>
 
+<p style="text-align:center; margin-top: 2em;"><a href="{{ '/journal' | prepend: site.baseurl }}">← retour au journal</a></p>
+
 <script src="https://unpkg.com/lunr/lunr.js"></script>
 <script>
 (function() {
@@ -65,7 +67,7 @@ permalink: /recherche/
       searchStatus.textContent = 'Aucun poème trouvé.';
       return;
     }
-    searchStatus.textContent = results.length + ' poème' + (results.length > 1 ? 's' : '') + ' trouvé' + (results.length > 1 ? 's' : '') + '.';
+    searchStatus.textContent = results.length + ' billet' + (results.length > 1 ? 's' : '') + ' trouvé' + (results.length > 1 ? 's' : '') + '.';
 
     results.forEach(function(result) {
       var doc = documents.find(function(d) { return d.id == result.ref; });

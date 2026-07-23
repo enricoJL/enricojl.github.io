@@ -6,32 +6,44 @@ sitemap:
   priority: 0.9
 ---
 
-{% assign poem_count = 0 %}
-{% for post in site.posts %}
-    {% if post.published != false %}
-        {% assign poem_count = poem_count | plus: 1 %}
-    {% endif %}
-{% endfor %}
+<div class="home-intro">
+  <h1 class="home-title">{{ site.title }}</h1>
+  <p class="home-subtitle">{{ site.description }}</p>
 
-<h1 class="page-title">
-    <div class="page-title__text">{{ page.title }}</div>
-    <div class="page-title__subtitle">{{ poem_count }} articles</div>
-</h1>
+  <div class="home-intro__text">
+    <p>Je m'appelle Enrico Lévesque. J'écris de la poésie depuis plus de trente ans. Ce site est un cahier ouvert : j'y raconte mon parcours de poète en chemin vers la publication.</p>
 
-<!--<center>
-	<img src="{{site.baseurl}}/assets/transparent.png" width="40%">
-</center>-->
+    <p>Ici, vous ne trouverez pas de poèmes — ils sont dans les recueils en préparation. Ces pages traitent de l'acte de créer, les doutes, les refus, les découvertes, les petites victoires. Ce que je perçois du monde dans ma recherche de sens et de vérité.</p>
 
-<ul class="list-posts">
-    {% for post in site.posts %}
-    	{% assign date_english = post.date | date: "%d %B %Y" %}
-		  {% include date-french.html %}
-        <li class="post-teaser">
-            <a href="{{ post.url | prepend: site.baseurl }}">
-                <span class="post-teaser__title">{{ post.title }}</span>
-                <!--<span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>-->
-                <span class="post-teaser__date">{{ date_french }}</span>
-            </a>
-        </li>
-    {% endfor %}
-</ul>
+    <p>Si vous aimez ce que vous lisez, inscrivez-vous à l'infolettre. Vous serez les premiers à savoir quand les livres sortiront.</p>
+  </div>
+</div>
+
+<div class="home-latest">
+  <h2>dernier billet</h2>
+  {% assign latest = site.posts | where: "published", "true" | first %}
+  {% if latest %}
+    {% assign date_english = latest.date | date: "%d %B %Y" %}
+    {% include date-french.html %}
+    <article class="home-latest__post">
+      <h3><a href="{{ latest.url | prepend: site.baseurl }}">{{ latest.title }}</a></h3>
+      <span class="home-latest__date">{{ date_french }}</span>
+      <div class="home-latest__excerpt">
+        {{ latest.excerpt | strip_html | truncatewords: 50 }}
+      </div>
+      <a href="{{ latest.url | prepend: site.baseurl }}" class="home-latest__link">lire la suite →</a>
+    </article>
+  {% else %}
+    <p class="empty-message">Le cahier est encore vide. Le premier billet s'en vient.</p>
+  {% endif %}
+</div>
+
+<div class="home-journal-link">
+  <a href="{{ '/journal' | prepend: site.baseurl }}" class="button">parcourir le journal</a>
+</div>
+
+<div class="home-newsletter">
+  <h2>rester en contact</h2>
+  <p>Recevez les nouveaux billets et soyez informé de la sortie des recueils.</p>
+  <a href="{{ '/infolettre' | prepend: site.baseurl }}" class="button button--highlight">s'inscrire à l'infolettre</a>
+</div>
