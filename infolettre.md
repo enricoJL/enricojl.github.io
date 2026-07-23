@@ -4,7 +4,7 @@ title: infolettre
 permalink: /infolettre/
 ---
 
-## restez en contact
+## Rester en contact
 
 Ce cahier est un journal de bord. J'y raconte mon parcours de poète en chemin vers la publication — les découvertes, les doutes, les petites victoires.
 
