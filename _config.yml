@@ -1,8 +1,8 @@
 
 # Site settings
-title: ce que je vois
+title: Enrico J. Lévesque
 description: >
-  cahier d'un poète en quête de sens et d'émerveillement
+  entre la structure des systèmes et la vulnérabilité du vers
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://enricojl.github.io" # the base hostname & protocol for your site
