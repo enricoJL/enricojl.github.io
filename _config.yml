@@ -2,7 +2,7 @@
 # Site settings
 title: Enrico J. Lévesque
 description: >
-  entre la structure des systèmes et la vulnérabilité du vers
+  entre la structure et la vulnérabilité du vers
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://enricojl.github.io" # the base hostname & protocol for your site
