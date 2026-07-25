@@ -386,6 +386,23 @@ strong {
     margin-bottom: 60px;
 }
 
+.publications-intro {
+    font-size: 18px;
+    font-style: italic;
+    color: $cloudy;
+    margin-bottom: 40px;
+}
+
+.post-teaser--creation {
+    margin-bottom: 20px;
+}
+
+.post-teaser--creation .post-teaser__title {
+    font-family: 'Crimson Text', Georgia, serif;
+    font-style: italic;
+    font-size: 24px;
+}
+
 .home-newsletter {
     text-align: center;
     padding: 40px 0;
