@@ -4,8 +4,8 @@ title: Enrico J. Lévesque
 description: >
   entre la structure et la vulnérabilité du vers
 
+url: "https://enricojlevesque.ca" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://enricojl.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Enrico J. Lévesque
