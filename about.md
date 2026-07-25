@@ -10,7 +10,7 @@ Le jour, je cartographie des processus et des systèmes. Le soir, je traverse de
 
 La poésie remplit ma vie depuis ma jeunesse. J'aime ressentir le monde à travers le prisme de mes émotions. Je suis fasciné par le cœur humain et j'utilise mes propres sentiments comme une lunette d'observation sur le monde.
 
-Près de deux cents poèmes forment une œuvre personnelle, profonde et éclectique. Mes recueils sont en préparation.
+À l'heure actuelle, près de deux cents poèmes forment une œuvre personnelle, profonde et éclectique. 
 
-Ce site est le journal de bord de ce parcours — un cahier ouvert sur l'acte de créer, les doutes, les découvertes, et le chemin vers la publication.
+Ce site est le journal de bord de mon parcours — un cahier ouvert sur l'acte de créer, les doutes, les découvertes, et le chemin vers la publication.
 
