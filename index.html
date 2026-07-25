@@ -31,9 +31,20 @@ sitemap:
   <a href="{{ '/infolettre' | prepend: site.baseurl }}" class="button button--highlight">s'inscrire à l'infolettre</a>
 </div>  -->
 
+{% assign creation_cats = site.data.categories | where: "kind", "creation" %}
+{% assign creation_slugs = creation_cats | map: "slug" %}
+{% assign published_posts = site.posts | where: "published", "true" %}
+
 <div class="home-latest">
   <h2>dernier billet</h2>
-  {% assign latest = site.posts | where: "published", "true" | first %}
+  {% assign latest = nil %}
+  {% for post in published_posts %}
+    {% assign is_creation = false %}
+    {% for category in post.categories %}
+      {% if creation_slugs contains category %}{% assign is_creation = true %}{% endif %}
+    {% endfor %}
+    {% unless is_creation %}{% assign latest = post %}{% break %}{% endunless %}
+  {% endfor %}
   {% if latest %}
     {% assign date_english = latest.date | date: "%d %B %Y" %}
     {% include date-french.html %}
@@ -47,6 +58,32 @@ sitemap:
     </article>
   {% else %}
     <p class="empty-message">Le cahier est encore vide. Le premier billet s'en vient.</p>
+  {% endif %}
+</div>
+
+<div class="home-latest">
+  <h2>dernière publication</h2>
+  {% assign latest_pub = nil %}
+  {% for post in published_posts %}
+    {% assign is_creation = false %}
+    {% for category in post.categories %}
+      {% if creation_slugs contains category %}{% assign is_creation = true %}{% endif %}
+    {% endfor %}
+    {% if is_creation %}{% assign latest_pub = post %}{% break %}{% endif %}
+  {% endfor %}
+  {% if latest_pub %}
+    {% assign date_english = latest_pub.date | date: "%d %B %Y" %}
+    {% include date-french.html %}
+    <article class="home-latest__post">
+      <h3><a href="{{ latest_pub.url | prepend: site.baseurl }}">{{ latest_pub.title }}</a></h3>
+      <span class="home-latest__date">{{ date_french }}</span>
+      <div class="home-latest__excerpt">
+        {{ latest_pub.excerpt | strip_html | truncatewords: 50 }}
+      </div>
+      <a href="{{ latest_pub.url | prepend: site.baseurl }}" class="home-latest__link">lire la suite →</a>
+    </article>
+  {% else %}
+    <p class="empty-message">Les premiers poèmes et récits s'en viennent.</p>
   {% endif %}
 </div>
 
