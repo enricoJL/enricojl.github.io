@@ -6,7 +6,7 @@ permalink: /infolettre/
 
 ## Rester en contact
 
-Ce cahier est un journal de bord. J'y raconte mon parcours de poète en chemin vers la publication — les découvertes, les doutes, les petites victoires.
+Ce cahier est un journal de bord. J'y raconte mon parcours de poète en chemin vers la publication.
 
 Inscrivez-vous à l'infolettre pour recevoir les nouveaux billets et être informé de la sortie des recueils.
 
@@ -27,4 +27,4 @@ Inscrivez-vous à l'infolettre pour recevoir les nouveaux billets et être infor
 
 ---
 
-*Pas de spam. Jamais. Vos courriels ne seront jamais partagés.*
+*Vos courriels ne seront jamais partagés.*
