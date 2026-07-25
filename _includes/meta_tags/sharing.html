@@ -1,4 +1,4 @@
-{% if page.title %} {% assign title = page.title ~ ' - ' ~ page.subtitle %} {% else %} {% assign title = site.title %} {% endif %}
+{% if page.title and page.hide_title != true %}{% assign title = page.title | append: ' » ' | append: site.title %}{% else %}{% assign title = site.title | append: ' — ' | append: site.description | strip %}{% endif %}
 {% if page.description %} {% assign description = page.description %} {% else %} {% assign description = site.description %} {% endif %}
 {% if page.keywords %} {% assign keywords = page.keywords %} {% else %} {% assign keywords = site.keywords %} {% endif %}
 {% if page.cover %} {% assign cover = page.cover %} {% else %} {% assign cover = site.cover %} {% endif %}
