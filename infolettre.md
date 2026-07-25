@@ -23,6 +23,5 @@ Inscrivez-vous à l'infolettre pour recevoir les nouveaux billets et être infor
   </p>
 </form>
  -->
----
 
 <p style="text-align: center;"><em>Vos courriels ne seront jamais partagés.</em></p>
