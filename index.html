@@ -23,6 +23,12 @@ sitemap:
   </div>
 </div>
 
+<div class="home-newsletter">
+  <h2>Rester en contact</h2>
+  <p>Recevez les nouveaux billets et soyez informé de la sortie des recueils.</p>
+  <a href="{{ '/infolettre' | prepend: site.baseurl }}" class="button button--highlight">s'inscrire à l'infolettre</a>
+</div> 
+
 <div class="home-latest">
   <h2>dernier billet</h2>
   {% assign latest = site.posts | where: "published", "true" | first %}
@@ -46,8 +52,4 @@ sitemap:
   <a href="{{ '/journal' | prepend: site.baseurl }}" class="button">parcourir le journal</a>
 </div>
 
-<div class="home-newsletter">
-  <h2>Rester en contact</h2>
-  <p>Recevez les nouveaux billets et soyez informé de la sortie des recueils.</p>
-  <a href="{{ '/infolettre' | prepend: site.baseurl }}" class="button button--highlight">s'inscrire à l'infolettre</a>
-</div>
+
