@@ -11,7 +11,7 @@ Inscrivez-vous à l'infolettre pour recevoir les nouveaux billets et être infor
 <!-- Formulaire Buttondown -->
 
 <form
-  action="https://buttondown.com/api/emails/embed-subscribe/enricojl"
+  action="https://buttondown.com/api/emails/embed-subscribe/enricojlevesque"
   method="post"
   class="newsletter-form"
 >
@@ -19,7 +19,7 @@ Inscrivez-vous à l'infolettre pour recevoir les nouveaux billets et être infor
   <input type="email" name="email" id="bd-email" placeholder="votre@courriel.com" required />
   <input type="submit" value="s'inscrire" />
   <p class="newsletter-form__attribution">
-    <a href="https://buttondown.com/refer/enricojl" target="_blank">Propulsé par Buttondown.</a>
+    <a href="https://buttondown.com/refer/enricojlevesque" target="_blank">Propulsé par Buttondown.</a>
   </p>
 </form>
 
