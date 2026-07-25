@@ -2,7 +2,7 @@
 # Site settings
 title: Enrico J. Lévesque
 description: >
-  entre la structure et la vulnérabilité du vers
+  entre la structure et la vulnérabilité
 
 url: "https://enricojlevesque.ca" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
