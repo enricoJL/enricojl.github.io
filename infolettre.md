@@ -9,7 +9,7 @@ Ce cahier est un journal de bord. J'y raconte mon parcours de poète en chemin v
 Inscrivez-vous à l'infolettre pour recevoir les nouveaux billets et être informé de la sortie des recueils.
 
 <!-- Formulaire Buttondown -->
-
+<!-- 
 <form
   action="https://buttondown.com/api/emails/embed-subscribe/enricojlevesque"
   method="post"
@@ -22,7 +22,7 @@ Inscrivez-vous à l'infolettre pour recevoir les nouveaux billets et être infor
     <a href="https://buttondown.com/refer/enricojlevesque" target="_blank">Propulsé par Buttondown.</a>
   </p>
 </form>
-
+ -->
 ---
 
-*Vos courriels ne seront jamais partagés.*
+<p style="text-align: center;"><em>Vos courriels ne seront jamais partagés.</em></p>
