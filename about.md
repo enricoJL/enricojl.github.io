@@ -4,7 +4,11 @@ title: à propos
 permalink: /apropos/
 ---
 
-Architecte informatique de profession, j'habite l'espace entre la structure et l'essence. Poète de l'ombre depuis plus de trente ans.
+<div class="home-intro__image">
+    <img src="{{ site.baseurl }}/assets/transparent.png" alt="Enrico Lévesque">
+</div> 
+  
+Je m'appelle Enrico J. Lévesque. Je suis architecte informatique de profession, j'habite l'espace entre la structure et l'essence. Poète de l'ombre depuis plus de trente ans.
 
 Le jour, je cartographie des processus et des systèmes. Le soir, je traverse des structures poétiques. Les deux gestes n'en font qu'un : rendre visible ce qui ne l'est pas.
 
