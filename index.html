@@ -35,7 +35,7 @@ sitemap:
 {% assign creation_slugs = creation_cats | map: "slug" %}
 {% assign published_posts = site.posts | where: "published", "true" %}
 
-<div class="home-latest">
+<div class="page-content">
   <h2>dernier billet</h2>
   {% assign latest = nil %}
   {% for post in published_posts %}
@@ -61,7 +61,7 @@ sitemap:
   {% endif %}
 </div>
 
-<div class="home-latest">
+<div class="page-content">
   <h2>dernière publication</h2>
   {% assign latest_pub = nil %}
   {% for post in published_posts %}
