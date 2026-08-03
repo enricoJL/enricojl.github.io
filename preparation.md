@@ -18,4 +18,4 @@ Recueil de poésie — 44 poèmes
 
 Cinq mouvements : **tomber**, **le fond**, **la bascule**, **la remontée**, **la relève par l'autre**. Plus direct, plus viscéral.
 
-
+*En préparation*
