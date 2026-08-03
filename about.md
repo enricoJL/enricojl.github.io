@@ -16,5 +16,4 @@ La poésie remplit ma vie depuis ma jeunesse. J'aime ressentir le monde à trave
 
 À l'heure actuelle, près de deux cents poèmes et autres récits forment une œuvre personnelle, profonde et éclectique. 
 
-Ce site est le journal de bord de mon parcours — un cahier ouvert sur l'acte de créer, les doutes, les découvertes, et le chemin vers la publication.
 
