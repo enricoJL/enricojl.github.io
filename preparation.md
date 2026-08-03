@@ -10,6 +10,8 @@ Recueil de poésie — 44 poèmes et proses, ~84 pages
 
 Trois mouvements : **mirage**, **prison**, **transparence**.
 
+Manuscrit transmis — *en attente d'un retour positif*.
+
 ## à partir d'ici
 
 Recueil de poésie — 44 poèmes
