@@ -6,7 +6,7 @@ categories: carnet
 published: true
 ---
 
-Je tiens la liste suivante depuis novembre. Quinze chutes en neuf mois, plus deux rattrapées de justesse sur l'îlot. En réalité, les quasi-chutes sont beaucoup plus nombreuses, mais je ne les ai pas notées.
+Je tiens la liste suivante depuis novembre. Quinze chutes en neuf mois, plus deux rattrapées de justesse sur l'îlot. En réalité, les quasi-chutes sont beaucoup plus nombreuses, mais je ne les note pas vraiment.
 
 ### 2025
 - **11 novembre** — Le soir, à la borne électrique, en branchant la voiture.
