@@ -1,27 +1,27 @@
-- slug: carnet-de-creation
-  name: carnet de création
+- slug: carnet
+  name: carnet
   kind: reflexion
 
 - slug: le-parcours
   name: le parcours
   kind: reflexion
 
-- slug: lectures-et-influences
-  name: lectures & influences
+- slug: lectures
+  name: lectures
   kind: reflexion
 
-- slug: douleur-et-corps
-  name: douleur & corps
+- slug: douleur
+  name: douleur
   kind: reflexion
 
 - slug: nouvelles
   name: nouvelles
   kind: reflexion
 
-- slug: poemes
+- slug: poems
   name: poèmes
   kind: creation
 
-- slug: recits
+- slug: stories
   name: récits
   kind: creation
