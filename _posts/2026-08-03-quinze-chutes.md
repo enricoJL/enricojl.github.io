@@ -39,11 +39,9 @@ Je constate qu'il y a un rapprochement entre les chutes, surtout celles où je m
 
 Je ne sais pas toujours dans quel sens va le lien. Est-ce que je tombe parce que je doute, ou est-ce que je doute parce que je tombe ? Les deux arrivent ensemble. C'est tout ce que je peux affirmer. La fatigue aussi y contribue.
 
-Ma foi ne m'a jamais permis de guérir complètement de mon handicap, mais j'ai pu faire beaucoup malgré tout.
+Ma foi ne m'a jamais permis de guérir complètement de mon handicap, mais j'ai pu faire beaucoup malgré tout. Sans amertume, je ne cherche plus à guérir. Je peux encore servir, avec la chaise roulante ou les béquilles.
 
-Sans amertume, je ne cherche plus à guérir. Je peux encore servir, avec la chaise roulante ou les béquilles.
-
-Un thérapeute m'a demandé ce que j'avais appris de mon congédiement récent : le premier après plus de vingt ans de pratique. J'ai appris certaines choses. Mais j'ai appris beaucoup plus au centre de réadaptation. J'ai accepté la chaise roulante. J'utilise la marchette à l'intérieur de l'appartement. Je fais attention à mon énergie et à la gestion de ma douleur. Ça va mieux.
+Un thérapeute m'a demandé ce que j'avais appris de mon congédiement récent. J'ai appris certaines choses. Mais j'ai appris beaucoup plus au centre de réadaptation. J'ai accepté la chaise roulante. J'utilise la marchette à l'intérieur. Je fais attention à mon énergie et à la gestion de ma douleur. Ça va mieux.
 
 Voilà où les deux versants se rejoignent. Je ne peux pas plus prévenir les chutes que les remises en question. Je peux préparer le corps à les encaisser : je fais mes étirements, mes exercices de renforcement. Le matin du 9 juillet, malgré la veille, j'avais moins mal qu'auparavant. Les exercices, la glace, l'oreiller sous les genoux : aucun de ces gestes n'a évité la chute, mais ces précautions ont changé ce qu'elle m'a coûté.
 
