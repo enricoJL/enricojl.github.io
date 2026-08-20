@@ -27,3 +27,11 @@ Témoignages et commentaires sur le Livre de Mormon (en anglais)
 Deux parties : Premier et du deuxième livres de Néphi
 
 *En cours de rédaction*
+
+## Nous nous sommes rencontrés dans une salle d'attente
+
+Pièce de théâtre — deux personnages, environ une heure vingt minutes 
+
+Trois actes : la rencontre, l'attente, la révélation
+
+*En cours de rédaction*
