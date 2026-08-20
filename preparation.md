@@ -24,7 +24,7 @@ Cinq mouvements : **tomber**, **le fond**, **la bascule**, **la remontée**, **l
 
 Témoignages et commentaires sur le Livre de Mormon (en anglais)
 
-Deux parties : Premier et du deuxième livres de Néphi
+Deux parties : Premier et deuxième livres de Néphi
 
 *En cours de rédaction*
 
