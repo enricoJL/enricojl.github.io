@@ -22,7 +22,7 @@ Cinq mouvements : **tomber**, **le fond**, **la bascule**, **la remontée**, **l
 
 ## The Book of My Testimony
 
-Témoignages et commentaires sur le Livre de Mormon (en anglais)
+Témoignages spirituels et commentaires sur le Livre de Mormon (en anglais)
 
 Deux parties : Premier et deuxième livres de Néphi
 
