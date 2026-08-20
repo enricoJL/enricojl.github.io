@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/enrico/GDrive/Écrits/enricojl.io status)",
+      "Bash(git -C /Users/enrico/GDrive/Écrits/enricojl.io log --oneline -5)",
+      "Bash(git -C /Users/enrico/GDrive/Écrits/enricojl.io log --oneline origin/master -5)"
+    ]
+  }
+}
