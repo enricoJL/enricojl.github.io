@@ -30,7 +30,7 @@ Deux parties : Premier et deuxième livres de Néphi
 
 ## Nous nous sommes rencontrés dans une salle d'attente
 
-Pièce de théâtre — deux personnages, environ une heure vingt minutes 
+Pièce de théâtre — deux personnages, ~1h 20m
 
 Trois actes : la rencontre, l'attente, la révélation
 
