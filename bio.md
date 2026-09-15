@@ -40,7 +40,7 @@ Ces trois arcs sont en fait le même, vu de trois fenêtres : quelque chose se
 
 Autour des recueils gravitent le journal en huit tomes (1994-2026), les récits pour ses enfants, le théâtre comique, les épîtres à Annie (son épouse), et les anciens recueils retrouvés — dont un scan de jeunesse au titre révélateur : *Debout sur une chaise bergante dans le monde*. Sa filiation avouée : Saint-Denys Garneau — *« Le monde ne se passe pas de l'art »* — Saint-Exupéry, l'écrivain-aviateur, et Martin Buber, le philosophe de la rencontre.
 
-L'objectif central, inchangé : **réussir enfin à se faire publier.** Non par vanité — son poème « tout le monde est poète » désacralise le statut — mais parce qu'une parole travaillée pendant trente ans cherche ses lecteurs.
+L'objectif central : **réussir enfin à se faire publier.** Non par vanité — son poème « tout le monde est poète » désacralise le statut — mais parce qu'une parole travaillée pendant trente ans cherche ses lecteurs.
 
 ## IV. L'architecte — la structure au service des gens
 
