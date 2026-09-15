@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bio
+title: biographie
 permalink: /bio/
 ---
 
@@ -33,7 +33,7 @@ La foi et la poésie se sont même affrontées : après son baptême, il détr
 Il écrit son premier poème en 1988, dans une cabine du stationnement de l'aéroport Mirabel, en réfléchissant aux interactions entre l'homme, la machine et le système social. Un autre poème de 1992 débute une réflexion profonde sur l'image, « premier baiser » — *« j'embrassais mon mirage »*. Trente-quatre ans plus tard, un peu plus de 200 poèmes forment une matière que ses recueils architecturent, chacun selon un arc différent :
 
 - **entre l'image et la mer** — Mirage, Prison, Transparence : du désir de l'image de l'autre à la présence nue, *« jusqu'à te ressembler »*.
-- **la traversée de la douleur** — descente, bascule, remontée : le gouffre traversé jusqu'à ce que la souffrance nourrisse.
+- **à partir d'ici** — descente, bascule, remontée : le gouffre traversé jusqu'à ce que la souffrance nourrisse.
 - **le chemin de la présence** — la descente avec l'autre, la consolation, l'inspiration, la réponse : l'accompagné qui devient accompagnateur.
 
 Ces trois arcs sont en fait le même, vu de trois fenêtres : quelque chose se défait (l'image, le moi, la surface), on touche un fond, et ce fond devient source. Sa poétique tient en deux phrases de sa propre main : *« J'aime ressentir le monde à travers le prisme de mes émotions. Je suis fasciné par le cœur humain et j'utilise mes propres sentiments comme une lunette d'observation sur le monde. »*
@@ -57,24 +57,6 @@ Il pense en **arcs et en mouvements**. Ses recueils, ses discours, son plan de v
 Il pense aussi en **leçons**. Ses notes de thérapie transforment chaque événement — même les plus durs — en apprentissage daté et formulé. Cette discipline de transmutation est peut-être son geste mental le plus constant : rien n'est perdu, tout est converti. *« pourtant je sais bien que ce sont mes difficultés et ma douleur qui ont fait de moi ce que je suis »*, écrit-il dans un discours sur la paix.
 
 Autodidacte et pragmatique, il apprend en faisant et vérifie tout au concret. Émotif de nature, il a fait de sa sensibilité un instrument plutôt qu'un fardeau. Anticonformiste avec un vieux fond de résistance à l'autorité — il le nomme lui-même dans ses faiblesses — mais un anticonformisme qui construit au lieu de démolir.
-
-## VI. Forces, faiblesses, limites
-
-Ses forces, dans ses propres mots : organisation, vision, mémoire, logique, communication, esthétique, modélisation, générosité, synthèse, analyse, écriture, imagination, créativité, empathie, patience. Ses faiblesses, tout aussi lucides : émotif, problème avec l'autorité, anti-conformiste, impatience et irritabilité quand il est fatigué — *« donc surtout après 17h »* — et les menaces qu'il surveille : le déni, le désir d'abandonner, la peur, le découragement.
-
-Ses besoins actuels tracent l'équilibre qu'il cherche : de la liberté (*« pas d'être seul, juste avoir un peu de lousse »*), du repos et des soins pour son corps, la satisfaction de ses proches, la présence à ses enfants, l'efficacité dans ses appels à l'Église, la tranquillité, les conversations intelligentes — et écrire. Le zèle reste sa tentation permanente : l'homme qui est sorti de l'hôpital trop tôt pour ne pas manquer un dimanche doit encore aujourd'hui se rappeler que ses limites font partie du plan.
-
-## VII. Aspirations et objectifs de vie
-
-Le plan de vie tient en cinq valeurs — santé, social, spirituel, famille, profession-écriture — et quelques ambitions précises qui reviennent partout dans ses notes :
-
-- **Publier** : les recueils d'abord, puis *The Book of My Testimony*, et peut-être un jour le récit de son combat contre la SAAQ.
-- **La famille** : chérir Annie, élever Ella, Clara et Raphaël vers la vérité et la sagesse, et *« sauver mes ancêtres »* par l'œuvre du temple — il est le seul de sa famille dans l'Église.
-- **L'entreprise** : créer une entreprise familiale et travailler selon ses capacités, en gardant des forces pour la maison et pour l'Église.
-- **La mission de retraite** : servir de nouveau à plein temps, une fois ou plusieurs.
-- **Protéger les enfants** : réaliser la vision reçue concernant la protection des enfants et l'utilisation correcte et morale des médias de l'information.
-
-Et au bout de tout, l'aspiration qui contient les autres, formulée dès 2008 : marcher dans la lumière *« jusqu'à recevoir une plénitude du jour parfait »*.
 
 ## Coda — les tensions qui le tiennent
 
