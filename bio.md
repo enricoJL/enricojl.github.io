@@ -4,7 +4,7 @@ title: biographie
 permalink: /bio/
 ---
 
-*Portrait reconstruit à l'aide de l'intelligence artificielle à partir des écrits d'Enrico J. Lévesque : discours, poèmes, recueils et leurs arcs, notes de thérapie, mission personnelle, plan de vie, bénédiction patriarcale, CV, manifesto, lettres et récits.*
+*Portrait reconstruit à l'aide de l'intelligence artificielle à partir de mes écrits : discours, poèmes, recueils et leurs arcs, notes de thérapie, mission personnelle, plan de vie, bénédiction patriarcale, CV, manifesto, lettres et récits.*
 
 ## Ouverture
 
