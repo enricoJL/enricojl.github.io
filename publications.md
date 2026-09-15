@@ -31,5 +31,5 @@ permalink: /publications/
 {% endfor %}
 
 {% unless has_creations %}
-<p class="empty-message">Poèmes et proses à venir.</p>
+<p class="empty-message">À venir.</p>
 {% endunless %}
