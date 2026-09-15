@@ -1,6 +1,6 @@
 ---
 layout: page
-title: préparation
+title: en préparation
 permalink: /preparation/
 ---
 

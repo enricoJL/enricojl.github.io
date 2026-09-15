@@ -1,10 +1,10 @@
 ---
 layout: page
-title: publications
+title: auto-publications
 permalink: /publications/
 ---
 
-<p class="publications-intro">Des poèmes et des récits à lire librement.</p>
+<p class="publications-intro">Poèmes et proses à lire librement.</p>
 
 {% assign creation_cats = site.data.categories | where: "kind", "creation" %}
 {% assign has_creations = false %}
@@ -31,5 +31,5 @@ permalink: /publications/
 {% endfor %}
 
 {% unless has_creations %}
-<p class="empty-message">Les premiers poèmes et récits s'en viennent.</p>
+<p class="empty-message">Poèmes et proses à venir.</p>
 {% endunless %}
