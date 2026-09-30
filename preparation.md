@@ -16,7 +16,7 @@ Manuscrit transmis — *en attente d'un retour positif*.
 
 Recueil de poésie — 44 poèmes
 
-Quatre mouvements : **le fond**, **la bascule**, **la remontée**, **la relève**. 
+Trois mouvements : **le fond**, **la bascule**, **la remontée**. 
 
 *En préparation*
 
