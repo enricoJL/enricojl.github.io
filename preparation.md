@@ -1,6 +1,6 @@
 ---
 layout: page
-title: en préparation
+title: préparation
 permalink: /preparation/
 ---
 
@@ -16,7 +16,7 @@ Manuscrit transmis — *en attente d'un retour positif*.
 
 Recueil de poésie — 44 poèmes
 
-Cinq mouvements : **tomber**, **le fond**, **la bascule**, **la remontée**, **la relève par l'autre**. Plus direct, plus viscéral.
+Quatre mouvements : **le fond**, **la bascule**, **la remontée**, **la relève**. 
 
 *En préparation*
 
