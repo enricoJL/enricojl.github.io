@@ -1,7 +1,7 @@
 ---
 layout: page
-title: auto-publications
-permalink: /publications/
+title: en vrac
+permalink: /vrac/
 ---
 
 <p class="publications-intro">Poèmes et proses à lire librement.</p>
