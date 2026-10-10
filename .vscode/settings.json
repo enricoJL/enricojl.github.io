@@ -5,5 +5,5 @@
         "**/*.rpymc": true,
         "**/cache/": true
     },
-    "editor.fontSize": 10
+    "editor.fontSize": 12
 }
