@@ -6,8 +6,6 @@ permalink: /bio/
 
 *Portrait reconstruit à l'aide de l'intelligence artificielle à partir de discours, poèmes, notes, récits, lettres et autres textes.*
 
-## Ouverture
-
 Enrico J. Lévesque est un homme construit sur une tension féconde : le jour, il cartographie des structures ; le soir, il traverse des gouffres en poésie. Sa propre formule reste la plus juste : *« Informaticien de profession, Enrico J. Lévesque habite l'espace entre la structure et l'essence. Poète de l'ombre depuis plus de trente ans. »* Mais sous cette formule, un arc plus profond se révèle : un survivant qui a transformé chaque descente en traversée, et chaque traversée en offrande.
 
 ## I. Le fait fondateur — son accident et sa mission
