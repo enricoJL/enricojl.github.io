@@ -2,7 +2,7 @@
 tags:
   - "#poésie"
 layout: post
-title: sur les bancs d'école
+title: sur les bancs
 date: 2026-10-10
 categories: poems
 published: true
