@@ -6,7 +6,7 @@ categories: carnet
 published: true
 ---
 
-Je tiens la liste suivante depuis l'an derniner. Vingt-et-une chutes en un an. En réalité, les quasi-chutes sont beaucoup plus nombreuses, mais je ne les compte pas vraiment.
+Je tiens la liste suivante depuis l'annnée dernière. Vingt-et-une chutes en un an. En réalité, les quasi-chutes sont beaucoup plus nombreuses, mais je ne les compte pas vraiment.
 
 ## 2025
 
