@@ -3,20 +3,20 @@ layout: page
 title: accueil
 hide_title: true
 sitemap:
-  priority: 0.9
+priority: 0.9
 ---
 
 <div class="home-intro">
   <h1 class="page-heading">{{ site.description | strip }}</h1>
 
-  <div class="home-intro__image">
-      <img src="{{ site.baseurl }}/assets/transparent.png" alt="Enrico Lévesque">
-  </div> 
 
   <div class="home-intro__text">
-    <p>Ce site est un cahier ouvert : j'y raconte mon parcours de poète et mes réflexions sur l'acte de créer — les doutes qui l'accompagnent, les défis, les découvertes, les petites victoires. J'y partage aussi ce que je perçois du monde dans ma recherche de sens et de vérité, ainsi que certains poèmes.</p>  
+    <p>Ce site est un cahier ouvert : j'y raconte mon parcours de poète et mes réflexions sur l'acte de créer — les
+      doutes qui l'accompagnent, les défis, les découvertes, les petites victoires. J'y partage aussi ce que je perçois
+      du monde dans ma recherche de sens et de vérité, ainsi que certains poèmes.</p>
 
-    <p>Si vous aimez ce que vous lisez, inscrivez-vous à l'infolettre. Vous serez les premiers à savoir quand les livres sortiront.</p>
+    <p>Si vous aimez ce que vous lisez, inscrivez-vous à l'infolettre. Vous serez les premiers à savoir quand les livres
+      sortiront.</p>
   </div>
 </div>
 
@@ -35,25 +35,25 @@ sitemap:
   <h2>dernier billet</h2>
   {% assign latest = nil %}
   {% for post in published_posts %}
-    {% assign is_creation = false %}
-    {% for category in post.categories %}
-      {% if creation_slugs contains category %}{% assign is_creation = true %}{% endif %}
-    {% endfor %}
-    {% unless is_creation %}{% assign latest = post %}{% break %}{% endunless %}
+  {% assign is_creation = false %}
+  {% for category in post.categories %}
+  {% if creation_slugs contains category %}{% assign is_creation = true %}{% endif %}
+  {% endfor %}
+  {% unless is_creation %}{% assign latest = post %}{% break %}{% endunless %}
   {% endfor %}
   {% if latest %}
-    {% assign date_english = latest.date | date: "%d %B %Y" %}
-    {% include date-french.html %}
-    <article class="home-latest__post">
-      <h3><a href="{{ latest.url | prepend: site.baseurl }}">{{ latest.title }}</a></h3>
-      <span class="home-latest__date">{{ date_french }}</span>
-      <div class="home-latest__excerpt">
-        {{ latest.excerpt | strip_html | truncatewords: 50 }}
-      </div>
-      <a href="{{ latest.url | prepend: site.baseurl }}" class="home-latest__link">lire la suite →</a>
-    </article>
+  {% assign date_english = latest.date | date: "%d %B %Y" %}
+  {% include date-french.html %}
+  <article class="home-latest__post">
+    <h3><a href="{{ latest.url | prepend: site.baseurl }}">{{ latest.title }}</a></h3>
+    <span class="home-latest__date">{{ date_french }}</span>
+    <div class="home-latest__excerpt">
+      {{ latest.excerpt | strip_html | truncatewords: 50 }}
+    </div>
+    <a href="{{ latest.url | prepend: site.baseurl }}" class="home-latest__link">lire la suite →</a>
+  </article>
   {% else %}
-    <p class="empty-message">Le cahier est encore vide. Le premier billet s'en vient.</p>
+  <p class="empty-message">Le cahier est encore vide. Le premier billet s'en vient.</p>
   {% endif %}
 </div>
 
@@ -61,30 +61,28 @@ sitemap:
   <h2>dernière publication</h2>
   {% assign latest_pub = nil %}
   {% for post in published_posts %}
-    {% assign is_creation = false %}
-    {% for category in post.categories %}
-      {% if creation_slugs contains category %}{% assign is_creation = true %}{% endif %}
-    {% endfor %}
-    {% if is_creation %}{% assign latest_pub = post %}{% break %}{% endif %}
+  {% assign is_creation = false %}
+  {% for category in post.categories %}
+  {% if creation_slugs contains category %}{% assign is_creation = true %}{% endif %}
+  {% endfor %}
+  {% if is_creation %}{% assign latest_pub = post %}{% break %}{% endif %}
   {% endfor %}
   {% if latest_pub %}
-    {% assign date_english = latest_pub.date | date: "%d %B %Y" %}
-    {% include date-french.html %}
-    <article class="home-latest__post">
-      <h3><a href="{{ latest_pub.url | prepend: site.baseurl }}">{{ latest_pub.title }}</a></h3>
-      <span class="home-latest__date">{{ date_french }}</span>
-      <div class="home-latest__excerpt">
-        {{ latest_pub.excerpt | strip_html | truncatewords: 50 }}
-      </div>
-      <a href="{{ latest_pub.url | prepend: site.baseurl }}" class="home-latest__link">lire la suite →</a>
-    </article>
+  {% assign date_english = latest_pub.date | date: "%d %B %Y" %}
+  {% include date-french.html %}
+  <article class="home-latest__post">
+    <h3><a href="{{ latest_pub.url | prepend: site.baseurl }}">{{ latest_pub.title }}</a></h3>
+    <span class="home-latest__date">{{ date_french }}</span>
+    <div class="home-latest__excerpt">
+      {{ latest_pub.excerpt | strip_html | truncatewords: 50 }}
+    </div>
+    <a href="{{ latest_pub.url | prepend: site.baseurl }}" class="home-latest__link">lire la suite →</a>
+  </article>
   {% else %}
-    <p class="empty-message">Les premiers poèmes et récits s'en viennent.</p>
+  <p class="empty-message">Les premiers poèmes et récits s'en viennent.</p>
   {% endif %}
 </div>
 
 <div class="home-journal-link">
   <a href="{{ '/journal' | prepend: site.baseurl }}" class="button">parcourir le journal</a>
 </div>
-
-
