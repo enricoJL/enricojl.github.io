@@ -6,7 +6,7 @@ categories: "carnet"
 published: true
 ---
 
-En suivant le programme suggéré par Julia Cameron dans son livre « Libérez votre créativité », j'ai écrit cette lettre à moi-même pour m'auto-encourager à continuer d'écrire. Je la partage ici pour qu'elle serve autrui.
+*En suivant le programme suggéré par Julia Cameron dans son livre « Libérez votre créativité », j'ai écrit cette lettre à moi-même pour m'auto-encourager à continuer d'écrire. Je la partage ici pour qu'elle serve autrui.*
 
 Cher Enrico, 
 
