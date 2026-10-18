@@ -3,7 +3,7 @@ layout: post
 title: "Auto-encouragement"
 date: "2025-02-02"
 categories: "carnet"
-published: false
+published: true
 ---
 
 En suivant le programme suggéré par Julia Cameron dans son livre « Libérez votre créativité », j'ai écrit cette lettre à moi-même pour m'auto-encourager à continuer d'écrire. Je la partage ici pour qu'elle serve autrui.
