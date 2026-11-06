@@ -5,11 +5,7 @@ layout: post
 title: Conscience et croissance
 date: 2026-10-18
 categories: carnet
-published: false
-related:
-  - "[[2025-03-26]]"
-  - "[[2025-03-30]]"
-  - "[[2026-10-18]]"
+published: true
 ---
 
 > Et la vérité, c’est la connaissance des choses telles qu’elles sont, telles qu’elles étaient et telles qu’elles sont à venir ([Doctrine et Alliances 93 : 24](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=fra&id=p24#p23))
