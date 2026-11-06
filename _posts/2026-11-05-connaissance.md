@@ -2,7 +2,7 @@
 tags:
   - journal
 layout: post
-title: Conscience et croissance
+title: Connaissance et croissance
 date: 2026-11-05
 categories: carnet
 published: true
