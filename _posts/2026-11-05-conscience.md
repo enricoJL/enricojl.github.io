@@ -10,6 +10,7 @@ published: true
 
 
 > Et la vérité, c’est la connaissance des choses telles qu’elles sont, telles qu’elles étaient et telles qu’elles sont à venir 
+
 [Doctrine et Alliances 93 : 24](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=fra&id=p24#p23)
 
 Peut-on imaginer la vérité : les choses qui se sont passées, les choses qui se passent présentement et les choses qui vont se passer dans le futur ? C'est peut-être à cause de la volatilité de l'imagination des hommes que certains se sont exclamés : « Qu'est-ce que la vérité ? » 
