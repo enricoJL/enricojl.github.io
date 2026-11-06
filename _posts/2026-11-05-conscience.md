@@ -9,13 +9,12 @@ published: true
 ---
 
 
-> Et la vérité, c’est la connaissance des choses telles qu’elles sont, telles qu’elles étaient et telles qu’elles sont à venir ([Doctrine et Alliances 93 : 24](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=fra&id=p24#p23))
+> Et la vérité, c’est la connaissance des choses telles qu’elles sont, telles qu’elles étaient et telles qu’elles sont à venir 
+[Doctrine et Alliances 93 : 24](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/93?lang=fra&id=p24#p23)
 
 Peut-on imaginer la vérité : les choses qui se sont passées, les choses qui se passent présentement et les choses qui vont se passer dans le futur ? C'est peut-être à cause de la volatilité de l'imagination des hommes que certains se sont exclamés : « Qu'est-ce que la vérité ? » 
 
 L'acte de s'exprimer brise les illusions, mais peut aussi contribuer à les créer. Quand quelqu'un s'exprime en tant que politicien, il cherche à transformer son image, à influencer, voire contrôler l'opinion des autres ; quand l'amoureux parle doucement, il cherche à paraître agréable, à séduire, à se rapprocher ; quand un parent communique, il veut rassurer, encourager, reprendre, corriger ; quand un poète s'exclame, il revendique, il explore, il crée la beauté, bouleverse les conventions, stimule l'intellect, suscite la volupté. Quand j'écris, j'essaie d'être vrai. J'essaie d'être intéressant. J'essaie de rendre les choses belles. J'essaie de comprendre le monde qui m'entoure et d'approfondir ma conscience.
-
-~~La communication nous permet d'entrer en contact avec l'autre. L'écriture, ce sont des tas de symboles attachés ensemble. Ils n'ont pas besoin d'être parfaits pour véhiculer leur sens : il suffit que les lettres soient assez bien tracées pour qu'on les reconnaisse, et les mots apparaissent au lecteur. Les conventions du langage aident à saisir l'intention de l'émetteur : l'alphabet, la ponctuation, les règles d'orthographe... Merveilleux !~~
 
 Ça fait longtemps que j'écris régulièrement, depuis que j'ai 16 ans. Quand j'étais dans ma guérite au stationnement de l'aéroport de Mirabel, j'ai écrit un poème sur la machine, le système sociétaire qui nous rend automates — mon premier cri du cœur. C'était très difficile pour moi d'exprimer mes sentiments. J'ai donc décidé à l'époque de continuer d'écrire des poèmes pour développer ma sensibilité. Je gardais tout en dedans. Par mes histoires et mes poèmes, j'ai pu extérioriser mes émotions et commencer à en prendre conscience. 
 
