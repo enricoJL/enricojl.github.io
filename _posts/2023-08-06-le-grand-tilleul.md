@@ -23,7 +23,6 @@ et sa générosité
 
 comme Dieu  
 
-
 <div>
-    <img src="{{ site.baseurl }}/assets/figures/tilleul.jpg" alt="le grand tilleul">
-</div> 
+    <img src="{{ site.baseurl }}/assets/figures/tilleul.jpg" alt="le grand tilleul" style="width: 50%; height: auto;">
+</div>
