@@ -1,6 +1,4 @@
 ---
-tags:
-  - resilience
 layout: post
 title: relecture
 date: 2026-01-07

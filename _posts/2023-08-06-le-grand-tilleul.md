@@ -1,6 +1,4 @@
 ---
-tags:
-  - contemplation
 layout: post
 title: le grand tilleul
 date: 2023-08-06
