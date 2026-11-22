@@ -9,7 +9,7 @@ published: true
 
 Parfois, je suis découragé, hésitant et craintif. D'autres fois, j'ai l'impression de pouvoir accomplir toutes choses. Je me demande à quel point je suis dépendant de mon entourage, à quel point mon environnement détermine mes capacités et ma performance. 
 
-Je ne sais pas trop dans quelle boîte on pourrait me catégoriser. Je ne suis certainement pas normal. Encore là, ça dépend avec qui je suis. J'ai mes faiblesses, de grandes faiblesses, mais je sais bien réussir quand je suis entouré de gens qui m'encouragent et qui m'appuient. Par contre, je suis paralysé et je peux même être dysfonctionnel quand je ne bénéficie pas de la confiance des autres. Je me sens très vulnérable. 
+Je ne sais pas trop dans quelle boîte on pourrait me catégoriser. Je ne suis certainement pas normal. Encore là, ça dépend avec qui je suis. J'ai mes faiblesses, même de grandes faiblesses, mais je sais bien réussir quand je suis entouré de gens qui m'encouragent et qui m'appuient. Par contre, je fige et je peux même être dysfonctionnel quand je ne bénéficie pas de la confiance des autres. Je me sens très vulnérable. 
 
 Quand j'en ai parlé avec mon épouse, elle s'est mise à chanter la chanson de Bleu Jeans Bleu : « Je suis vulnérable comme un bébé chat dans un parking de centre-achat. » Effectivement ! Je me sens naïf et vulnérable comme un bébé parfois. 
 
@@ -31,7 +31,7 @@ Malheureusement, les principes qui favorisent la sécurité psychologique ne fai
 
 Mon patron a quitté l'entreprise. Le nouveau n'aimait pas mon style de direction. Il m'a reproché d'être trop gentil avec mes employés et de manquer d'agressivité envers les autres gestionnaires. Je n'étais pas au bon niveau de gestion selon lui. Il m'a demandé de changer l'attitude de mon équipe pour une meilleure collaboration. J'avais plutôt l'impression que notre attitude était exemplaire, sans être parfaite.
 
-J'ai essuyé plusieurs reproches plus ou moins justifiés pendant quelques mois, jusqu'à ce que mon nouveau patron convainque les ressources humaines de me congédier. On m'a remercié lors de ma rencontre d'évaluation semi-annuelle et, l'heure d'après, je quittais avec mes affaires, sans même pouvoir dire au revoir à mon équipe, ni à mes collègues. 
+J'ai essuyé plusieurs reproches non justifiés pendant quelques mois, jusqu'à ce que mon nouveau patron convainque les ressources humaines de me congédier. On m'a remercié lors de ma rencontre d'évaluation semi-annuelle et, l'heure d'après, je quittais avec mes affaires, sans même pouvoir dire au revoir à mon équipe, ni à mes collègues. 
 
 Quand on règne par la peur et les menaces, on sème la nervosité, le stress et l'angoisse. Difficile de réussir dans des conditions semblables. On m'a fait comprendre que les personnes qui ne fonctionnent pas bien dans des conditions difficiles ne sont pas compétentes. Je suis pourtant persuadé que nous avons la responsabilité en tant qu'employeurs de fournir un environnement sain pour nos employés, même chose pour nos enfants, à la maison, à l'école ou ailleurs. Quand on se met à compter les erreurs pour évaluer un individu, le message fondamental que l'on transmet reste oppressif et contre-productif.
 
