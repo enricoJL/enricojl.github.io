@@ -22,3 +22,8 @@ sa vitalité
 et sa générosité  
 
 comme Dieu  
+
+
+<div>
+    <img src="{{ site.baseurl }}/assets/figures/tilleul.jpg" alt="le grand tilleul">
+</div> 
